@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q264]]
+
+[[Question:MC]]
+Isomura apuntó que Pekín no tenía por qué ser la favorita , porque tanto Osaka como las demás [ tienen ] proyectos importantes y [ son ] grandes ciudades .
+[[Question:MC:SingleAnswer]]
+El verbo [ tienen ] pasa ANTES que el verbo [ son ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q384]]
+
+[[Question:MC]]
+Pero nada de esto pasará hasta que comprendamos que nuestras redes - - telefónicas , informáticas , narcóticas - - [ son ] sólo derivaciones inciertas de aquellas que el hombre [ usaba ] para vivir cuando el mar era uno y daba para todos .
+[[Question:MC:SingleAnswer]]
+El verbo [ son ] pasa ANTES que el verbo [ usaba ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q275]]
+
+[[Question:MC]]
+El alcalde de Osaka fundamentó sus opciones en el gran plan de reurbanización que se [ culminará ] en el año 2007 , las modernas infraestructuras de telecomunicaciones , la protección del medio ambiente , la seguridad y lo atractivo del proyecto , cuyas instalaciones ya están en buena parte construidas y que tendrán su centro neurálgico en tres islas .
+A la principal , Maishima , se la [ denominará ] la Isla Olímpica .
+[[Question:MC:SingleAnswer]]
+El verbo [ culminará ] pasa ANTES que el verbo [ denominará ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q149]]
+
+[[Question:MC]]
+Las estadísticas conocidas ayer [ muestran ] también un crecimiento del 3,8% de los gastos de los hogares en Febrero , el primer incremento desde hace siete meses .
+El índice de precios al consumo japonés [ registró ] en Febrero una caída del 0,1% en comparación con enero .
+[[Question:MC:SingleAnswer]]
+El verbo [ muestran ] pasa DESPUÉS del verbo [ registró ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q154]]
+
+[[Question:MC]]
+Aunque el sistema electoral le ha [ dado ] al Partido Quebequés mayoría absoluta en la cámara provincial ( 75 escaños sobre 125 ) , si lo del Lunes hubiese sido un referendo sobre la independencia lo habría perdido , pues no llega a la mayoría exigida para dar el paso .
+Pero es que , además , la formación de Bouchard [ está ] en retroceso y consiguió 25.000 votos menos que el federalista Partido Liberal .
+[[Question:MC:SingleAnswer]]
+El verbo [ dado ] pasa DESPUÉS del verbo [ está ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q70]]
+
+[[Question:MC]]
+El juez interpreta que Microsoft ha [ violado ] las leyes antimonopolio y se [ espera ] que dicte una resolución en breve .
+[[Question:MC:SingleAnswer]]
+El verbo [ violado ] pasa ANTES que el verbo [ espera ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q274]]
+
+[[Question:MC]]
+El alcalde de Osaka fundamentó sus opciones en el gran plan de reurbanización que se [ culminará ] en el año 2007 , las modernas infraestructuras de telecomunicaciones , la protección del medio ambiente , la seguridad y lo atractivo del proyecto , cuyas instalaciones ya están en buena parte construidas y que [ tendrán ] su centro neurálgico en tres islas .
+[[Question:MC:SingleAnswer]]
+El verbo [ culminará ] pasa SIMULTÁNEAMENTE con el verbo [ tendrán ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q558]]
+
+[[Question:MC]]
+" Me [ siento ] completamente libre de escoger mi futuro , eso es otra historia " , dice .
+El internacional yugoslavo quiso despedirse [ agradeciendo ] el apoyo de todos , afición , técnicos , jugadores e incluso de los rivales .
+[[Question:MC:SingleAnswer]]
+El verbo [ siento ] pasa DESPUÉS del verbo [ agradeciendo ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q544]]
+
+[[Question:MC]]
+Djordjevic reconoció además que se siente un azulgrana más - - " aquí he puesto mis raíces , he comprado una casa , he [ vivido ] el club , los colores , y me siento un culé más " - - después de estas tres temporadas , pero [ añadió ] que ese sentimiento no tiene por qué influir en su decisión .
+[[Question:MC:SingleAnswer]]
+El verbo [ vivido ] pasa ANTES que el verbo [ añadió ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q620]]
+
+[[Question:MC]]
+" No me tenía que explicar nada . Simplemente no cuadro en su proyecto del Barça . Está claro que no son cosas agradables ni por su parte ni por la mía " , [ señaló ] el exjugador barcelonista sobre la conversación con el entrenador .
+" La aportación de Sasha ha sido muy positiva , pero [ creo ] que se ha cumplido el ciclo previsto cuando fichó " , indicó , por su parte , García Reneses para explicar la decisión de no hacerle ninguna oferta de renovación .
+[[Question:MC:SingleAnswer]]
+El verbo [ señaló ] pasa ANTES que el verbo [ creo ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+

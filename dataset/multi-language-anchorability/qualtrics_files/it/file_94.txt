@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q89]]
+
+[[Question:MC]]
+Secondo Biondo , " nessuna delle due offerte è in grado di [offrire] garanzie per una seria privatizzazione della Ilva Laminati Piani .
+[[Question:MC:SingleAnswer]]
+Il verbo [ offrire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1514]]
+
+[[Question:MC]]
+Sempre ieri , intanto , il Consiglio di amministrazione della cassa ha approvato il bilancio semestrale , che vede crescere la raccolta complessiva a circa 6.322 milioni di euro , mentre quella indiretta [fa] annotare una crescita pari ad oltre l' 11% .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2119]]
+
+[[Question:MC]]
+Nel 1830 un imam islamico , Shamil , [proclamò] un imanato : uno stato islamico che oppose una resistenza unica ai Russi prima di capitolare .
+[[Question:MC:SingleAnswer]]
+Il verbo [ proclamò ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1052]]
+
+[[Question:MC]]
+Alle molte nazioni iscritte ieri si è aggiunta anche la Russia e dunque nell' elenco dei migliori [manca] solo la squadra " A " tedesca , assente anche in Polonia visti i deludenti risultati di questa stagione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ manca ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2152]]
+
+[[Question:MC]]
+« Quasi tutti gli attuali dirigenti ceceni sono nati durante la deportazione : questo [può] spiegare la rabbia che si vive in cecenia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ può ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1590]]
+
+[[Question:MC]]
+Una donna di nome Hadizhat Gataeva , protagonista e filo conduttore di tutti e tre i documentari , ha salvato molti bambini delle rovine di Grozny , e si [prende] cura di loro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ prende ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q950]]
+
+[[Question:MC]]
+C' [è] bisogno che la comunità internazionale ritrovi la sua unità per combattere al meglio il terrorismo internazionale , senza dimenticare che non c' è solo l' opzione militare ma la politica , il dialogo e la ragione » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2083]]
+
+[[Question:MC]]
+Ci [permette] di addentrarci nella complessità della situazione del Caucaso .
+[[Question:MC:SingleAnswer]]
+Il verbo [ permette ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1237]]
+
+[[Question:MC]]
+Giovanni Stenico ( progettista e direttore dei lavori ) e Andrea Dalla Torre ( l' altro progettista ) hanno [fatto] il pieno di elogi che , però , il presidente Rossi ha invitato a condividere pubblicamente con l' intera « squadra » : la Schiavina Srl ( edilizia ) , la Falegnameria Bellotti , Bosetti Snc ( termoidraulici ) , Elettrosea Snc ( impiantistica ) , Nadalinflor ( floricoltura ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fatto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q60]]
+
+[[Question:MC]]
+L' acquirente di Ast - si [legge] in una nota dell' Iri - si è impegnato alla continuità produttiva dell' intero gruppo Ast e al mantenimento dei livelli occupazionali .
+[[Question:MC:SingleAnswer]]
+Il verbo [ legge ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q246]]
+
+[[Question:MC]]
+Stesso incremento non risulta invece sulle presenze che [aumentano] solamente dello 0,9% ( non sono ancora disponibili i dati disaggregati per italiani e stranieri ) a dimostrazione che i turisti tendono a ridurre il numero di giornate di vacanza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aumentano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1138]]
+
+[[Question:MC]]
+Chiedono , in attesa della realizzazione di un parco fluviale dell' Adige collegato al biotopo ( come previsto da una delibera del Consiglio comunale del 2001 ) , di [istituire] una fascia di verde di tutela lungo l' argine destro del fiume , in modo da scongiurare qualsiasi possibilità di edificazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ istituire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q802]]
+
+[[Question:MC]]
+Come ampiamente anticipato dalla stampa spagnola , il premier Jose' Luis Rodriguez Zapatero ha annunciato oggi che verranno avviate trattative con i separatisti dell' Eta - - " Vi annuncio che il governo avviera' negoziati con l' Eta " , ha dichiarato il leader socialista in una conferenza stampa a Madrid - - " La democrazia non paghera' nessun prezzo politico per la pace " " , ha aggiunto il premier , replicando indirettamente alle critiche dell' opposizione , contraria a qualunque dialogo con l' organizzazione terroristica - Per questa ragione , ha quindi spiegato , il dialogo verra' avviato " " conservando il principio che le questioni politiche si [devono] risolvere con i rappresentanti del popolo " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ devono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q835]]
+
+[[Question:MC]]
+Come Trentino , vorrei [avere] i migliori servizi dai migliori professionisti sanitari , a disposizione 24 ore su 24 ; questi Servizi li vorrei disponibili , sia per le urgenze che per gli interventi programmabili , nei tempi da me ritenuti adeguati ; vorrei la massima disponibilità d' animo e di tempo di tutti gli operatori sanitari ; il cibo e la sistemazione logistica dovrebbero essere non solo di mio gradimento ma consentirmi anche di poter scegliere tra varie opzioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q596]]
+
+[[Question:MC]]
+C' era la possibilità di utilizzare solo l' unità ricca di staminali , ma è stato deciso di trapiantarle entrambe , sia l' unità più ricca di cellule « non manipolate » , sia l' altra più povera , ma dopo averla congelata e trasferita alla « Cell Factory » di Milano , per [amplificare] il numero delle sue cellule .
+[[Question:MC:SingleAnswer]]
+Il verbo [ amplificare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1494]]
+
+[[Question:MC]]
+I tre imputati erano stati [sorpresi] nel settembre scorso all' uscita di un negozio di liquori dopo avere trafugato 27 bottiglie di vino , 6 casse di birra ed una cassa di liquori .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sorpresi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1524]]
+
+[[Question:MC]]
+L' andamento degli impieghi nei primi sei mesi del 2004 è stato sopra la media , ed evidenzia una crescita del 12,73% in confronto al risultato [ottenuto] nel primo semestre 2003 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ottenuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q906]]
+
+[[Question:MC]]
+Non è pensabile che il lavoro del Direttore Generale venga valutato solo in prossimità della scadenza del mandato ; la Politica dovrebbe avere un costante ritorno di quanto avviene nella Azienda Sanitaria sia da parte di chi ne produce i Servizi che da parte di chi ne [fruisce] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fruisce ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1941]]
+
+[[Question:MC]]
+Vorrei [confermare] i 15 gol , sarebbe un grande successo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ confermare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1201]]
+
+[[Question:MC]]
+Anche il risultato sportivo è stato buono , con 2 squadre a 42 punti e ben 3 a seguire con 41 , con Maria Silva Boccardi che ha fatto tesoro della precedente gara a squadre , dove è [stata] partner di Costantino Rocca .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

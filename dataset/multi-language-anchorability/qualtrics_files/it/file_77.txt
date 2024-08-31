@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q70]]
+
+[[Question:MC]]
+La vendita dell' Ast , ha continuato Gnutti , [è] la dimostrazione di questa serietà e con gli stessi criteri - ha concluso - si procederà ora alla cessione dell' Ilp .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1504]]
+
+[[Question:MC]]
+Nella riunione del consiglio d' amministrazione della Fondazione che si è tenuta ieri non si è arrivati ad una intesa per cui tutto è rinviato a martedì prossimo quando sarà necessario « tirare le fila del discorso » come ha [spiegato] il presidente della Fondazione , Gerhard Brandstätter , lui stesso candidato di punta per la successione di Amonn .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spiegato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q927]]
+
+[[Question:MC]]
+E' questo un processo ancora incompiuto , con aspetti sia generali che locali ( ruolo degli ospedali , integrazione tra di loro e con il territorio , rappresentatività dei lavoratori , verifica dell' operato della Direzione Generale solo per [citarne] alcuni ) ancora in attesa di una soluzione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ citarne ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1160]]
+
+[[Question:MC]]
+« A nome del comitato - insiste - chiedo che anche le nostre domande vengano quantomeno [esaminate] , auspicando per altro un esito favorevole » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ esaminate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q517]]
+
+[[Question:MC]]
+Il secondo livello , [scrive] Veneziani , è « costituto da un clan di giornalisti che scrivono divisi ma colpiscono uniti , elogiando le pellicole politicamente corrette , colmano di elogi chiunque sia in odore di disprezzare Bush , Berlusconi , Croff e le bandane e viceversa pisciano lacrime di commozione per tutti gli amarcord del sessantotto , anni settanta , Radio Alice » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scrive ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q575]]
+
+[[Question:MC]]
+La situazione deve essere sorvegliata da vicino : [sussistono] infatti tutti gli elementi per lo scoppio di una pandemia influenzale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sussistono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1603]]
+
+[[Question:MC]]
+Tutte le dolorose vicende [narrate] in questo bellissimo documentario sono sostenute dalla musica della giovane compositrice finlandese Sanna Salmenkallio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ narrate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1975]]
+
+[[Question:MC]]
+L' ombrello di Mediobanca si [allarga] per riportare su rotte più sicure un altro gruppo industrial-finanziario italiano , quello di Gianni Varasi che fa capo alla Santavaleria .
+[[Question:MC:SingleAnswer]]
+Il verbo [ allarga ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q988]]
+
+[[Question:MC]]
+Di « questione culturale » e di « appello alla famiglia » ha [parlato] invece Nicola Ferrante , segretario della Cisl , secondo il quale « qui vengono presi di mira i bambini , che sono il nostro futuro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ parlato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2035]]
+
+[[Question:MC]]
+Il gioco è quello che attraversa " Minoranzèro " il festival [sottolineato] dalle parole " Breviario europeo sugli altri oltre il confine " che si svolgerà da domani , mercoledì 8 , all' 11 settembre a Pergine .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sottolineato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q141]]
+
+[[Question:MC]]
+L' information security , stando a recenti indagini di alcuni analisti americani , è la priorità numero uno per i Cio e il 75,00% delle aziende Usa [soffre] ogni anno di perdite consistenti di dati : questo il terreno d' azione in cui Emc vuole mettere a frutto l' acquisizione di Rsa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ soffre ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q586]]
+
+[[Question:MC]]
+La speranza , avveratasi , era che le staminali geneticamente sane avrebbero [prodotto] globuli rossi sani anche nel fratello .
+[[Question:MC:SingleAnswer]]
+Il verbo [ prodotto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1246]]
+
+[[Question:MC]]
+« La velocità di esecuzione - conferma Rossi - non ha inciso sulla qualità , perché il direttore lavori è [stato] un riferimento costante in cantiere per le aziende » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1308]]
+
+[[Question:MC]]
+« La condanna di questi atti efferati e la mobilitazione di tutti contro questo terrorismo cieco e brutale che cancella ogni limite ed annulla i tabù più consolidati - prosegue Bezzi - [devono] accompagnarsi con concrete iniziative di solidarietà verso gli abitanti della sfortunata città dell' Ossezia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ devono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q550]]
+
+[[Question:MC]]
+L' anziana madre , che vive a Spoleto , nei giorni scorsi era venuta a casa sua , a Piedicolle , per assistere ed [aiutare] quella figlia che le dava tante preoccupazioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aiutare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1171]]
+
+[[Question:MC]]
+« Riteniamo opportuno - scrivono i richiedenti nella richiesta di variante al Prg inviata al sindaco Pacher - che tutta l' area verde posta a nord di Vela ( Laghetti ) , per il suo elevato e originale valore paesaggistico e ambientale , debba essere [trasformata] in un parco , un polo della natura , per tutta la città » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trasformata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1976]]
+
+[[Question:MC]]
+L' ombrello di Mediobanca si allarga per [riportare] su rotte più sicure un altro gruppo industrial-finanziario italiano , quello di Gianni Varasi che fa capo alla Santavaleria .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riportare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1204]]
+
+[[Question:MC]]
+Il risultato [è] quello che è stato presentato ieri mattina : la ristrutturazione e l' ampliamento della Scuola Materna privata equiparata « P. Pedrotti » di Trento , la più vecchia del capoluogo , completata in cento giorni con un investimento complessivo di 2,3 milioni di euro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2103]]
+
+[[Question:MC]]
+Nella lingua parlata [è] emblematica una forma particolare del noi inclusivo ( noi con voi ) e noi esclusivo ( noi senza di voi ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q82]]
+
+[[Question:MC]]
+" Entro metà gennaio l' advisor dovrebbe indicare le comparazioni [effettuate] e poi l' Iri deciderà " , ha precisato ieri Salvatore Biondo , segretario nazionale della Fm Cisl al termine di un incontro con i vertici di Via Veneto per fare il punto sulla privatizzazione dell' ultimo troncone di siderurgia di Stato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ effettuate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

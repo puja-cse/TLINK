@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1179]]
+
+[[Question:MC]]
+« [Pensiamo] - concludono - che la protezione di questa area sia di grande interesse per tutti gli attuali abitanti del Trentino e per le generazioni future » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Pensiamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1901]]
+
+[[Question:MC]]
+Non tanto per me quanto per la squadra che è competitiva e può [aspirare] ad un campionato di vertice .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aspirare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1345]]
+
+[[Question:MC]]
+Attualmente - [prosegue] il comunicato - sono dodici le società del settore televisivo in cui la Profit detiene una partecipazione e partecipa alla conduzione commerciale e operativa : dall' emittente nazionale Rete Mia a Telecampione ( dedicata all' informazione economico-finanziaria ) , dall' area teletext e multimediale con Miatel alla Vta e all' Acomedia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ prosegue ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q571]]
+
+[[Question:MC]]
+Il bimbo è stato infettato dallo stesso ceppo del virus che l' inverno scorso ha [ucciso] nel Paese 19 persone .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ucciso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1784]]
+
+[[Question:MC]]
+TRENTO - Un set di grande equilibrio , più nulla da [fare] nel secondo : Davide Volpe ( nella foto ) ha messo addosso un po' di brividi a Markus Innerebner , ma è stato poi l' altoatesino a qualificarsi per gli ottavi dell' open del Ct Trento , imitato in ciò da Patrick Prader e David Complojer .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q703]]
+
+[[Question:MC]]
+L' università Sedes Sapientiae [sta] invece per assegnare le prime lauree ( due le facoltà : scienza della formazione e scienza economiche ) e sta lavorando all' ipotesi di aprire un corso di psicologia che dovrebbe coinvolgere il docente di origini trentine Erminio Gius .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1769]]
+
+[[Question:MC]]
+MOSCA - La televisione russa Ntv ha [trasmesso] ieri sera un video di circa un minuto e mezzo girato dal commando filoceceno all' interno della palestra della scuola sequestrata .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trasmesso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q780]]
+
+[[Question:MC]]
+Marco Cacucci , 23 anni , nato a Milano ma da anni a Trento senza fissa dimora , [è] una vecchia conoscenza di polizia e carabinieri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1987]]
+
+[[Question:MC]]
+E Mediobanca avrebbe già individuato anche il pilota cui affidare il compito del rilancio : in pole position c' è Giorgio Cefis , destinato ad assumere la carica di amministratore delegato e di presidente della Santavaleria mentre Varasi lascerebbe ogni incarico operativo pur [mantenendo] il ruolo di principale azionista .
+[[Question:MC:SingleAnswer]]
+Il verbo [ mantenendo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2187]]
+
+[[Question:MC]]
+« Ad un certo punto i Ceceni si sono ricordati di [essere] mussulmani .
+[[Question:MC:SingleAnswer]]
+Il verbo [ essere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1760]]
+
+[[Question:MC]]
+In teoria , nessuna norma [impone] un ultimatum per il loro deposito , ma i capigruppo hanno siglato questa sorta di « accordo tra gentiluomini » per dare modo agli uffici di compiere una veloce fase di istruttoria delle eventuali nuove domande inserite negli emendamenti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ impone ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1071]]
+
+[[Question:MC]]
+Pacher non dimentica la sua infanzia : « [Avevo] tre anni - dice - e ricordo ancora i profumi : non solo gli odori della cucina , ma anche quelli delle piante e dei fiori .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Avevo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q999]]
+
+[[Question:MC]]
+E dunque invitiamo tutti i genitori a [portare] alla manifestazione i propri figli , perché Trento diventi città non solo alpina , ma della pace e della solidarietà » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ portare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q490]]
+
+[[Question:MC]]
+Ricordando la « vile e spietata aggressione di Beslan » , il cardinale Michele Giordano rivolge questo auspicio agli studenti napoletani , [sostiene] che « alla violenza delle guerre , del terrorismo , dell' intolleranza va contrapposta , cominciando proprio dai giovani , una cultura di segno opposto » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sostiene ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q534]]
+
+[[Question:MC]]
+Un improvviso raptus - come hanno accertato i carabinieri di Todi - che l' hanno trovata in stato confusionale ed [arrestata] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ arrestata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1370]]
+
+[[Question:MC]]
+L' adeguamento [deliberato] nel giugno scorso , dopo l' intesa raggiunta con sindacati , tiene conto dell' indice d' inflazione reale dal settembre 2000 all' agosto 2004 pari al 10% , e del costo di produzione del trasporto extraurbano che si è incrementato del 12% , passando da 4.811 lire a 5.410 lire ( 2,79 euro ) al chilometro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deliberato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q78]]
+
+[[Question:MC]]
+Per la privatizzazione di Taranto però , secondo il parere dei sindacati , i tempi potrebbero essere [destinati] ad allungarsi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ destinati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q200]]
+
+[[Question:MC]]
+Mentre [continuano] ad arrivare gli aiuti italiani .
+[[Question:MC:SingleAnswer]]
+Il verbo [ continuano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1047]]
+
+[[Question:MC]]
+I trampolini della Val di Fiemme gli hanno sempre portato fortuna e soprattutto l' hanno [incoronato] per due volte campione del mondo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ incoronato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2198]]
+
+[[Question:MC]]
+Oltre alle considerazioni storiche c' [è] da guardare all' economia : in Cecenia c' è il petrolio russo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

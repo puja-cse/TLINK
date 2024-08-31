@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q294]]
+
+[[Question:MC]]
+Girava su una Nissan Primera bianca , nella zona di Ponte Arche , [facendo] strane manovre e issando sul tetto dell' auto il lampeggiante delle forze dell' ordine .
+[[Question:MC:SingleAnswer]]
+Il verbo [ facendo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1774]]
+
+[[Question:MC]]
+La videocamera si muove molto , ma [è] chiaro che i sequestratori cercavano di filmare il loro dispositivo esplosivo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q135]]
+
+[[Question:MC]]
+Per crescere il business [occorre] creare nuovo valore per il lungo termine e integrare la componente di sicurezza alla nostra offerta di storage e data management risponde completamente a questo obiettivo " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ occorre ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q304]]
+
+[[Question:MC]]
+D. G. del 1963 , che si è [fratturato] una gamba ed è stato ricoverato all' ospedale di Cavalese .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fratturato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q463]]
+
+[[Question:MC]]
+« Più volte il Papa ha ricordato che lo statuto dell' Onu fornisce tutti i mezzi per [affrontare] congiuntamente i pericoli che mettono in crisi la stabilità e la sicurezza internazionali .
+[[Question:MC:SingleAnswer]]
+Il verbo [ affrontare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q823]]
+
+[[Question:MC]]
+In più Giorello [coltiva] una grande passione per il teatro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ coltiva ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1187]]
+
+[[Question:MC]]
+Formula : 18 buche stbl : si è svolto sabato 4 settembre il recupero della gara " European Green Pass Tour 2004 " , il cui circuito [prevede] ora per i vincitori una finale nazionale ed eventualmente una finalissima internazionale : Renato Tessadri , Giancarlo Agostini , Guido Valcanover e Alessandro Lubian saranno ospiti presso il Brianza Golf Club , mentre Bruno Bensa e Paolo Decaminada giocheranno al Modena Golf Club .
+[[Question:MC:SingleAnswer]]
+Il verbo [ prevede ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2147]]
+
+[[Question:MC]]
+In totale le vittime [furono] 1.600.000 di cui almeno 600.000 ceceni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ furono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1476]]
+
+[[Question:MC]]
+" Con tale iniziativa " si legge in una nota " si è [inteso] avviare un' azione di coordinamento e integrazione adottando uno strumento più agile per la realizzazione di tutte le possibili iniziative future in un mercato in continua evoluzione " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ inteso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q476]]
+
+[[Question:MC]]
+Martino [rifiuta] l' idea che sia in atto uno scontro di civiltà : « E' in atto uno scontro all' interno di ogni civiltà , fra chi è sul versante del diritto , del dialogo , della convivenza e della giustizia e chi è integralista , dovunque esso sia , perchè di integralismo non c' è solo quello islamico » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rifiuta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1801]]
+
+[[Question:MC]]
+Il 5 luglio è [prevista] la seduta comune per procedere all' elezione di un Giudice della Corte Costituzionale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ prevista ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2116]]
+
+[[Question:MC]]
+Ma agli inizi del 1800 la situazione degenerò in guerra allorché la Russia [tentò] di espandersi verso l' oceano Indiano .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tentò ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q333]]
+
+[[Question:MC]]
+Dove [deve] crescere maggiormente la sua squadra ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ deve ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q108]]
+
+[[Question:MC]]
+I protagonisti dell' annuncio di ieri l' altro [sono] Emc , uno dei principali fornitori di soluzioni di storage e di information management , e Rsa Security , uno degli attori più noti nel panorama della sicurezza dei dati .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1852]]
+
+[[Question:MC]]
+Gianni Dorigatti , segretario provinciale della Fabi ( 2.700 iscritti in provincia di Trento su un totale di 4.000 bancari ) che aderirà allo sciopero , spiega che « non si può accettare la posizione dell' Abi che intende lavorare per una netta scissione fra parte economica inconsistente e una parte normativa peraltro mai [discussa] » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ discussa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1374]]
+
+[[Question:MC]]
+L' adeguamento deliberato nel giugno scorso , dopo l' intesa raggiunta con sindacati , tiene conto dell' indice d' inflazione reale dal settembre 2000 all' agosto 2004 pari al 10% , e del costo di produzione del trasporto extraurbano che si è incrementato del 12% , [passando] da 4.811 lire a 5.410 lire ( 2,79 euro ) al chilometro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ passando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2199]]
+
+[[Question:MC]]
+Oltre alle considerazioni storiche c' è da [guardare] all' economia : in Cecenia c' è il petrolio russo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ guardare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2027]]
+
+[[Question:MC]]
+I pellegrini , [informa] una nota degli organizzatori , sono complessivamente 544 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ informa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1867]]
+
+[[Question:MC]]
+E in serata le fiamme sono tornate a minacciare alcuni stabilimenti industriali , in particolare la fabbrica metallurgica Arinox : i vigili del fuoco hanno [lottato] per ore per allontanare le numerose bombole di idrogeno presenti nello stabilimento .
+[[Question:MC:SingleAnswer]]
+Il verbo [ lottato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1449]]
+
+[[Question:MC]]
+Si possono comunque consolare i biancocelesti [guardando] la statistica : negli ultimi due anni a vincere il campionato è stata proprio la squadra che all' esordio aveva affrontato il Salorno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ guardando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

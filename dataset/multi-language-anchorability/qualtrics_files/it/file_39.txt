@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q793]]
+
+[[Question:MC]]
+Come ampiamente anticipato dalla stampa spagnola , il premier Jose' Luis Rodriguez Zapatero ha [annunciato] oggi che verranno avviate trattative con i separatisti dell' Eta - - " Vi annuncio che il governo avviera' negoziati con l' Eta " , ha dichiarato il leader socialista in una conferenza stampa a Madrid - - " La democrazia non paghera' nessun prezzo politico per la pace " " , ha aggiunto il premier , replicando indirettamente alle critiche dell' opposizione , contraria a qualunque dialogo con l' organizzazione terroristica - Per questa ragione , ha quindi spiegato , il dialogo verra' avviato " " conservando il principio che le questioni politiche si devono risolvere con i rappresentanti del popolo " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ annunciato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1027]]
+
+[[Question:MC]]
+Del gruppo fanno parte la Bepi Koelliker Automobili Importazioni , nata nel 1979 per [commercializzare] autovetture Mitsubishi in Italia e la Chrysler Jeep Italia Importazioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ commercializzare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q190]]
+
+[[Question:MC]]
+Si tratta di punti d' oro soprattutto per le assenze che entrambe [accusavano] : Mulchande , Fantelli , Nicolodi , Valentini i rossoneri di Memmo , Malcangio Corradini e Contini i biancorossi di Melone .
+[[Question:MC:SingleAnswer]]
+Il verbo [ accusavano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1887]]
+
+[[Question:MC]]
+Altri 19 li aveva [infilati] nel triennio precedente per un totale che dice di 36 reti in nemmeno cento gare d' Eccellenza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ infilati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1002]]
+
+[[Question:MC]]
+Necessità , quella di « portare in bambini in piazza » , che è stata [sottolineata] anche da Walter Alotti ( segreteria Uil ) , « perché capiscano quello che sta accadendo e perché vengano riaffermati i valori della vita e della fiducia nelle nuove generazioni » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sottolineata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1479]]
+
+[[Question:MC]]
+Il sacro Lingam di Amarnath , il fallo di ghiaccio della divinità indù Shiva , [potrebbe] non essere di natura divina .
+[[Question:MC:SingleAnswer]]
+Il verbo [ potrebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q574]]
+
+[[Question:MC]]
+La situazione deve essere [sorvegliata] da vicino : sussistono infatti tutti gli elementi per lo scoppio di una pandemia influenzale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sorvegliata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q130]]
+
+[[Question:MC]]
+Non averle a disposizione avrebbe rappresentato per Emc un severo svantaggio , [averle] significa poterle non condividere con altri concorrenti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ averle ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1787]]
+
+[[Question:MC]]
+TRENTO - Un set di grande equilibrio , più nulla da fare nel secondo : Davide Volpe ( nella foto ) ha messo addosso un po' di brividi a Markus Innerebner , ma è stato poi l' altoatesino a [qualificarsi] per gli ottavi dell' open del Ct Trento , imitato in ciò da Patrick Prader e David Complojer .
+[[Question:MC:SingleAnswer]]
+Il verbo [ qualificarsi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1054]]
+
+[[Question:MC]]
+Domani invece gli organizzatori serviranno il piatto forte : alle 21 il primo salto di gara e solo i migliori 30 [accederanno] poi alla finalissima delle ore 22 , con l' assegnazione dei punti di Coppa del Mondo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ accederanno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q716]]
+
+[[Question:MC]]
+A quanto pare , il niet arrivato dagli ambienti bolzanini , restii ad avere una persona non bilingue in un ruolo così delicato , ha fatto [saltare] l' operazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ saltare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1344]]
+
+[[Question:MC]]
+La Profit accentrerà nella struttura immobiliare della Bravo Productions ( che ha sede a Milano e [ha] una superficie utile di circa 7500 metri quadri ) diverse attività operative .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ha ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1235]]
+
+[[Question:MC]]
+« Noi avevamo qui anche fino a 9 persone - [spiega] uno degli imprenditori - ma il calendario è stato stilato con grande professionalità » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spiega ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1624]]
+
+[[Question:MC]]
+I nuovi lavori [acquisiti] nel 92 sul mercato tradizionale ammontano a 222 miliardi , ai quali si aggiungono 115 miliardi relativi all' acquisizione dalle Ferrovie dello Stato di una importante commessa relativa all' alta velocità .
+[[Question:MC:SingleAnswer]]
+Il verbo [ acquisiti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1464]]
+
+[[Question:MC]]
+Il conto economico consolidato del primo semestre 2004 [registra] un margine d' intermediazione di 4.866 milioni ( + 2,1% ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ registra ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2176]]
+
+[[Question:MC]]
+Ma si [trova] in Ossezia , appunto e in una zona contesa dopo la fine dello stalinismo e delle deportazioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trova ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q819]]
+
+[[Question:MC]]
+Lunedì sera ( durante il sesto incontro previsto da un programma versatile che ha visto , tra gli altri , Amelia Rudolph , Franco Rella , Shen Wei e Bud Blumenthal ) Giulio Giorello ha [presentato] " Le metamorfosi di Ulisse " , un viaggio dentro il mito e le sue trasformazioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ presentato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q800]]
+
+[[Question:MC]]
+Come ampiamente anticipato dalla stampa spagnola , il premier Jose' Luis Rodriguez Zapatero ha annunciato oggi che verranno avviate trattative con i separatisti dell' Eta - - " Vi annuncio che il governo avviera' negoziati con l' Eta " , ha dichiarato il leader socialista in una conferenza stampa a Madrid - - " La democrazia non paghera' nessun prezzo politico per la pace " " , ha aggiunto il premier , replicando indirettamente alle critiche dell' opposizione , contraria a qualunque dialogo con l' organizzazione terroristica - Per questa ragione , ha quindi spiegato , il dialogo verra' [avviato] " " conservando il principio che le questioni politiche si devono risolvere con i rappresentanti del popolo " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avviato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1213]]
+
+[[Question:MC]]
+« L' esperienza di questi lavori - spiega il presidente della Scuola Alessandro Rossi , esperto in appalti pubblici - è un segnale importante : [è] la dimostrazione che quando pubblico e privato vogliono collaborare possono realizzare interventi significativi ed in tempi estremamente rapidi » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1320]]
+
+[[Question:MC]]
+Perchè , quindi - si chiede il presidente del Consiglio provinciale - non dare vita ad un progetto organico di aiuti - « Il Trentino per Beslan » - che [metta] assieme e coordini tutte le iniziative di solidarietà già avviate e quelle programmate , puntando in via prioritaria ad assicurare ai bambini e alle bambine che hanno vissuto quella spaventosa esperienza tutti i supporti , materiali e non , necessari per aiutarli a superare il terribile shock subito in quei drammatici giorni ? » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ metta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

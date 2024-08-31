@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q143]]
+
+[[Question:MC]]
+Aíto comentó que le ha [ costado ] mucho dar este paso - - " son decisiones muy difíciles y no soy insensible como muchos se creen " - - y mostró su deseo de cerrar cuanto antes la renovación de Roger Esteller , uno de los jugadores con los que el club negocia un nuevo contrato , junto al estadounidense Derrick Alston .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [costado] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q111]]
+
+[[Question:MC]]
+" Su respaldo en estos últimos meses ha sido muy importante para [ superar ] el problema que vive mi país " , admitió , para añadir que se marcha sin ningún rencor contra el técnico por su decisión .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [superar] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q309]]
+
+[[Question:MC]]
+Los azulgranas se enfrentarán en las semifinales de la competición al rival más duro que podía [ tocarles ] de los tres que quedaban en el bombo .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [tocarles] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q130]]
+
+[[Question:MC]]
+" La aportación de Sasha ha sido muy positiva , pero [ creo ] que se ha cumplido el ciclo previsto cuando fichó " , indicó , por su parte , García Reneses para explicar la decisión de no hacerle ninguna oferta de renovación .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [creo] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q138]]
+
+[[Question:MC]]
+El preparador barcelonista calificó la decisión como " un salto al vacío " al no tener cerrada la operación del escolta francés Antoine Rigaudeau , su probable sustituto , pero [ indicó ] que este riesgo era necesario para no perjudicar a Sasha a la hora de negociar nuevas ofertas .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [indicó] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q333]]
+
+[[Question:MC]]
+" Aquellos que no cumplan esta normativa serán juzgados e incluso podrían [ sufrir ] un castigo penal " , según la regulación aprobada por el primer ministro Zhu Rongji , que entrará en vigor el primero de diciembre .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [sufrir] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q55]]
+
+[[Question:MC]]
+Esta línea la [ suscriben ] las nueve provincias anglófonas , pero la rechaza Ottawa .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [suscriben] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q295]]
+
+[[Question:MC]]
+El Gobierno de Portugal decidió abrir una cuenta de ahorro con 50 euros ( 8.319 pesetas ) a los bebés nacidos el 1 de enero del 2002 , según [ anunció ] el lunes , 31 de diciembre , el ministro de Economía portugués , Guilherme d'Oliveira Martins .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [anunció] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q408]]
+
+[[Question:MC]]
+El grupo [ pide ] en su alegato final un plazo de un año para su eventual segregación .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [pide] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q127]]
+
+[[Question:MC]]
+" No me tenía que explicar nada . Simplemente no cuadro en su proyecto del Barça . Está claro que no [ son ] cosas agradables ni por su parte ni por la mía " , señaló el exjugador barcelonista sobre la conversación con el entrenador .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [son] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q390]]
+
+[[Question:MC]]
+Yushiro Yagi , presidente del Comité Olímpico Japonés ( JOC ) , aclaró que pese a que su país ya ha sido escenario de Juegos Olímpicos confía en que ese aprendizaje les sirva para albergar otros con garantías y [ añadió ] que " la candidatura de Osaka es muy sólida y dispone de todo lo necesario " .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [añadió] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q126]]
+
+[[Question:MC]]
+" No me tenía que explicar nada . Simplemente no cuadro en su proyecto del Barça . [ Está ] claro que no son cosas agradables ni por su parte ni por la mía " , señaló el exjugador barcelonista sobre la conversación con el entrenador .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [Está] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q258]]
+
+[[Question:MC]]
+En el centro , el problema de aparcamiento se pretende [ solucionar ] con el plan de movilidad en marcha .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [solucionar] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q339]]
+
+[[Question:MC]]
+Desde el día uno de diciembre , los supervisores regionales tendrán derecho a [ ordenar ] la clausura de las instalaciones que no cumplan las normas , e incluso el " cierre inmediato " si las circunstancias son de " gran inseguridad " para los trabajadores .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [ordenar] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q129]]
+
+[[Question:MC]]
+" La aportación de Sasha ha [ sido ] muy positiva , pero creo que se ha cumplido el ciclo previsto cuando fichó " , indicó , por su parte , García Reneses para explicar la decisión de no hacerle ninguna oferta de renovación .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [sido] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q61]]
+
+[[Question:MC]]
+La cerrazón del poder federal puede generar un incremento del descontento nacionalista en Quebec , pero difícilmente llegará a crear dentro de esta legislatura las condiciones ganadoras para que [ haya ] un referendo sobre la independencia con garantías de éxito .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [haya] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q208]]
+
+[[Question:MC]]
+Por desgracia , el mar ya no es libre , y su riqueza se agota o cae en manos de los depredadores : que más da que [ lleven ] traje y corbata o chilaba y turbante .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [lleven] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q181]]
+
+[[Question:MC]]
+Pero el asombro es inevitable cuando se observa la pasividad de los gobiernos españoles ante la necesidad de [ reducir ] unas flotas de pesca sobredimensionadas , con exceso de potencia , exceso de años y condiciones de seguridad bajo mínimos .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [reducir] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q411]]
+
+[[Question:MC]]
+Microsoft contraatacó ayer en su alegato final contra la propuesta del Gobierno de EEUU de dividir la compañía en dos y [ aseguró ] que la petición es " vaga , ambigua y deficiente " .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [aseguró] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q191]]
+
+[[Question:MC]]
+Rasgarse ahora las vestiduras por la firmeza negociadora de nuestro vecino del sur , dejando caer en la opinión pública una cifra de afectados claramente hinchada , al objeto de responsabilizar a Marruecos del daño social , constituye una muestra de la peor política posible : culpar a los otros por lo que debimos haber hecho y no tuvimos la voluntad , ni la inteligencia , ni el coraje , de [ acometer ] .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [acometer] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+

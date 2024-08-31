@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q2047]]
+
+[[Question:MC]]
+« Questa iniziativa vuole essere una sorta di " breviario " - spiega l' ideatore , Renato Morelli a cui è affidata la direzione artistica del festival - in questo caso focalizzato sull' Arco alpino e sulla nuova Europa per interrogarsi sugli altri , sui diversi , sui confini che rompono e si [spostano] , sulle minoranze anche lontano che diventano presenze vicine e quotidiane » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spostano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1497]]
+
+[[Question:MC]]
+I legali intendono ora [ricorrere] in appello .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricorrere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1410]]
+
+[[Question:MC]]
+A suo avviso « bisogna costringere Putin ad adottare le nostre politiche occidentali nei confronti del terrorismo : quando c' [è] una presa di ostaggi o un pericolo terroristico , si tenta innanzitutto di salvare gli ostaggi , di isolare i terroristi e non di dar loro il potere di uccidere » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1653]]
+
+[[Question:MC]]
+La Corte Suprema degli Usa ha [bocciato] le scelte del presidente Bush sui tribunali militari speciali per i detenuti di Guantanamo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ bocciato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q496]]
+
+[[Question:MC]]
+Inoltre il presidente Cossiga osserva : « Registro con vera gioia la " conversione " del Card . Martino ad una posizione più moderata nei confronto degli Usa e di Israele e più ferma nei confronti dell' estremismo islamico , come cattolico mi vergogno che il vescovo caldeo di Baghdad [faccia] parte della gerarchia cattolica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ faccia ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1337]]
+
+[[Question:MC]]
+Nei giorni scorsi , infatti , la Gerolimich del gruppo Cameli ha [definito] la cessione degli studio alla Profit , società che fa capo a Raimondo Lagostena .
+[[Question:MC:SingleAnswer]]
+Il verbo [ definito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1279]]
+
+[[Question:MC]]
+La medesima tristezza che ha [accolto] i trentini al loro arrivo a Suzdal , nella regione di Vladimir .
+[[Question:MC:SingleAnswer]]
+Il verbo [ accolto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1571]]
+
+[[Question:MC]]
+Io so cos' è la guerra » [dice] uno dei bambini dell' Accademia militare di Kronstadt che fa da sfondo al primo dei tre episodi del film : « Nostalgia » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dice ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q94]]
+
+[[Question:MC]]
+L' incertezza su Taranto sembra intanto [condizionare] in qualche modo la cessione della Ise , la società di produzione elettrica dell' Ilva il cui maggior asset sarebbe proprio quello della nuova centrale collegata agli stabilimenti di Taranto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ condizionare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1648]]
+
+[[Question:MC]]
+Per l' occasione , l' Apt Lagorai mette a disposizione , gratuitamente , il servizio " Ecobus del Lagorai " con partenza alle 8.30 da Roncegno ( [fermate] a Borgo , Strigno e Bieno ) e rientro dal rifugio alle 15.30 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fermate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q506]]
+
+[[Question:MC]]
+Alla Mostra « ho [visto] all' opera l' associazione clandestina e internazionale Cosa Nostra » , scrive il consigliere Rai Marcello Veneziani su un quotidiano nazionale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ visto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q79]]
+
+[[Question:MC]]
+Per la privatizzazione di Taranto però , secondo il parere dei sindacati , i tempi potrebbero essere destinati ad [allungarsi] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ allungarsi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q924]]
+
+[[Question:MC]]
+La politica deve quindi dare direttive precise e vigilare sulla loro applicazione , cercando i correttivi a quelle disfunzioni che dieci anni di Aziendalizzazione della Sanità [possono] avere evidenziato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ possono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q237]]
+
+[[Question:MC]]
+L' obiettivo è quello di " [sviluppare] iniziative di comune interesse ed a favorire concretamente la collaborazione tra ITC - Irst e le aziende aderenti all' Associazione " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sviluppare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q851]]
+
+[[Question:MC]]
+Vorrei poter [decidere] di quali Collaboratori circondarmi , quali apparecchiature acquistare , quale quota di lavoro portare avanti e quale tralasciare , quando andare in ferie e quali corsi di aggiornamento seguire .
+[[Question:MC:SingleAnswer]]
+Il verbo [ decidere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1477]]
+
+[[Question:MC]]
+" Con tale iniziativa " si legge in una nota " si è inteso [avviare] un' azione di coordinamento e integrazione adottando uno strumento più agile per la realizzazione di tutte le possibili iniziative future in un mercato in continua evoluzione " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avviare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1600]]
+
+[[Question:MC]]
+Alcune delle famiglie sfollate vivono in vecchie fattorie semidistrutte e tentano una qualche forma di vita [allevando] capre , pregando , sperando .
+[[Question:MC:SingleAnswer]]
+Il verbo [ allevando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q912]]
+
+[[Question:MC]]
+Quanto poi ai collaboratori del Direttore Generale , è ovvio che vanno rifiutate posizioni aprioristiche di chi ritiene che solo fuori dal Trentino si possano [trovare] Dirigenti di un certo spessore professionale ; allo stesso modo va rigettata l' ipotesi della promozione della " trentinità " in quanto tale come giudizio di merito .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trovare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1136]]
+
+[[Question:MC]]
+nan [Chiedono] , in attesa della realizzazione di un parco fluviale dell' Adige collegato al biotopo ( come previsto da una delibera del Consiglio comunale del 2001 ) , di istituire una fascia di verde di tutela lungo l' argine destro del fiume , in modo da scongiurare qualsiasi possibilità di edificazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Chiedono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1416]]
+
+[[Question:MC]]
+MILANO - Si [chiamerà] Gruppo Gs la nuova azienda che nascerà dalla fusione di Sme e Gs nella controllante Schemaventuno , la società partecipata dai gruppi Del Vecchio , Edizione ( Benetton ) e Movenpick che ha rilevato la ex finanziaria alimentare dell' Iri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ chiamerà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

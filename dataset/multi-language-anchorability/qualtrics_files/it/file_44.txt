@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1905]]
+
+[[Question:MC]]
+Diciamo che possiamo puntare al podio se solo [sappiamo] mantenere la concentazione e condizione giusta .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sappiamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1908]]
+
+[[Question:MC]]
+Com' [è] giocarci a fianco ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q960]]
+
+[[Question:MC]]
+Hanno [compiuto] nuovi passi in avanti tre procedure d' infrazione aperte dalla Commissione europea contro l' Italia in materia di appalti pubblici , di impianti portuali per la raccolta dei rifiuti prodotti dalle navi e di trasporto ferroviario delle merci .
+[[Question:MC:SingleAnswer]]
+Il verbo [ compiuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1853]]
+
+[[Question:MC]]
+Sessanta dipendenti della più grande raffineria petrolifera dell' Iraq sono stati [rapiti] a nord di Baghdad .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rapiti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q761]]
+
+[[Question:MC]]
+Il secondo quando Maria Minà ha tentato di [togliere] l' arma dalla mani del marito .
+[[Question:MC:SingleAnswer]]
+Il verbo [ togliere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1951]]
+
+[[Question:MC]]
+Mi [dà] la carica e mi fa giocare meglio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q274]]
+
+[[Question:MC]]
+E' vero che una rondine non fa primavera , ma il punto ottenuto con pieno merito sul campo dell' Alense dimostra che la determinazione e l' impegno sono [tornati] a livelli rassicuranti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tornati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q129]]
+
+[[Question:MC]]
+Non averle a disposizione avrebbe [rappresentato] per Emc un severo svantaggio , averle significa poterle non condividere con altri concorrenti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rappresentato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1644]]
+
+[[Question:MC]]
+E' prevista anche un' escursione nei boschi della zona per [raccogliere] esemplari di specie botaniche che verranno poi classificate e conservate .
+[[Question:MC:SingleAnswer]]
+Il verbo [ raccogliere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q527]]
+
+[[Question:MC]]
+« Ai vertici di Cosa nostra - prosegue - c' [è] la casta sacerdotale composta da registi , sceneggiatori , attori impegnati , autori » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1552]]
+
+[[Question:MC]]
+In difesa di Giovanardi si sono schierati Maurizio Ronconi dell' Udc ( « ha difeso una legge dello Stato , non ha [fatto] altro che il suo dovere » ) e il forzista Giro , che però ha definisce « infelici » i toni del manifesto incriminato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fatto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q67]]
+
+[[Question:MC]]
+Il ministro dell' Industria Vito Gnutti ha espresso soddisfazione per la definitiva conclusione della vendita , sottolineando come " quando le cose sono ben fatte e soprattutto sono [impostate] seriamente anche i nostri partners europei lo riconoscono " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ impostate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q682]]
+
+[[Question:MC]]
+Costruire il futuro del paese è strategico e lo [confermano] anche due degli interventi generosamente sostenuti dall' amministrazione provinciale : il centro di istruzione per l' occupazione El Buen Pastor e l' istituto di educazione tecnologica di Manchay che , come l' Università Sedes Sapientiae , sono progetti gestiti direttamente dalla Provincia con contributi complessivi , spalmati nel triennio 2003 - 2005 , di 530mila euro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ confermano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q33]]
+
+[[Question:MC]]
+Come quei totem delle preghiere tibetane che vengono continuamente girati , oppure come in una lanterna magica dai tanti clic [scorre] sotto gli occhi della spettatore l' intreccio di tre vicende distinte e percepite come tali da chi le vede .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scorre ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q30]]
+
+[[Question:MC]]
+Kylie Walters e Asier Zabaleta sono una coppia impegnata a [soddisfare] impeti focosi e scoppi di gelosi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ soddisfare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1673]]
+
+[[Question:MC]]
+« Dev' essere [stato] veramente terribile trovarsi in mezzo » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q116]]
+
+[[Question:MC]]
+Il valore complessivo dell' operazione , che sarà completata entro la fine del 2006 , è di 2,1 miliardi di dollari , in virtù dei 28 dollari in contanti che la prima verserà per ogni azione della seconda - Joe Tucci , Ceo di Emc , ha commentato l' operazione nella conference call di rito sottolineando un concetto su tutti : " Emc si trasforma da società che opera dove le informazioni [vivono] a società in cui le informazioni vivranno in modo sicuro " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vivono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1800]]
+
+[[Question:MC]]
+Nella sua lettera , il capo dello Stato sottolinea l' esigenza di convergenze in grado di " [superare] le demarcazioni tra maggioranza e opposizione " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ superare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2089]]
+
+[[Question:MC]]
+Quando nel 1500 arrivò l' islam trovò un terreno pagano » , [spiega] Bensi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spiega ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1089]]
+
+[[Question:MC]]
+Da tempo la Wellcome , che aveva [ritenuto] insufficiente l' offerta della Glaxo , era freneticamente a caccia di un " cavaliere bianco " che potesse rilanciare sul prezzo della Glaxo e aveva consigliato i propri azionisti ad attendere un' alternativa più attraente .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ritenuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

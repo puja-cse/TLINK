@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q235]]
+
+[[Question:MC]]
+Sentence: « Quanto accaduto a Beslan - ha [ affermato ] Pacher - costituisce il superamento di una soglia inimmaginabile , ed è importante che tutta la città , senza divisioni né appartenenze , sia in piazza per ribadire valori che uniscono tutti , nel nome di una civiltà che si [ ritrova ] e di principi attorno a cui si costruisce l' idea di cittadinanza » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ affermato ] accade PRIMA del verbo [ ritrova ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3525]]
+
+[[Question:MC]]
+Sentence: I " Voli d' Estate " entrano nel vivo con le qualificazioni , che decreteranno i migliori 50 atleti che domani si [ contenderanno ] i punti della quarta tappa del FIS Summer Grand Prix , [ proposta ] dal Comitato Nordik Ski Fiemme .
+[[Question:MC:SingleAnswer]]
+Il verbo [ contenderanno ] accade PRIMA del verbo [ proposta ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1424]]
+
+[[Question:MC]]
+Sentence 1: « Stalin , da buon georgiano , aveva un astio particolare per quelli che dal suo punto di vista erano solo dei rozzi montanari - racconta Bensi - la deportazione in Siberia fu organizzata a [ partire ] dal 1944 .
+Sentence 2: Per il trasporto [ usarono ] carri merci dove finivano uomini donne e bambini , molti morirono già durante il viaggio » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ partire ] accade PRIMA del verbo [ usarono ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q147]]
+
+[[Question:MC]]
+Sentence: Il finale riserva una sorpresa che ingloba tutti , che [ sorprende ] la platea per la sua teatralità e , in qualche modo , si [ ricollega ] a delle immagine abbastanza comuni raccolte durante l' infanzia di tutti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sorprende ] accade PRIMA del verbo [ ricollega ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2122]]
+
+[[Question:MC]]
+Sentence 1: Quanto poi ai collaboratori del Direttore Generale , è ovvio che vanno rifiutate posizioni aprioristiche di chi ritiene che solo fuori dal Trentino si possano trovare Dirigenti di un certo spessore professionale ; allo stesso modo [ va ] rigettata l' ipotesi della promozione della " trentinità " in quanto tale come giudizio di merito .
+Sentence 2: Ancora una volta è l' impianto politico - legislativo che fa sì che il Direttore Generale si circondi di collaboratori di fiducia ed [ è ] quindi conseguente che la scelta avvenga secondo determinati criteri .
+[[Question:MC:SingleAnswer]]
+La relazione tra [ va ] e [ è ] è VAGA (i.e., nessuna delle precedenti).
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q962]]
+
+[[Question:MC]]
+Sentence: E quali testimoni della buona [ riuscita ] di alcuni di questi progetti , sono [ arrivati ] a Trento due importanti religiosi , accompagnati da monsignor Luigi Bressan : Lino Panizza , vescovo di Carabayllo , che invita le autorità ad intervenire all' ormai prossima inaugurazione del centro El Buen Pastor ( 180 alunni , tra i quali anche alcune ragazze iscritte al corso di falegnameria ) , e Adriano Tomasi , vescovo ausiliario di Lima , che annuncia il completamento ( forse già a marzo ) dei primi edifici dell' istituto di Manchay destinato a far studiare almeno un migliaio di allievi distribuiti in corsi da sei mesi fino a tre anni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riuscita ] accade SIMULTANEAMENTE con il verbo [ arrivati ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1285]]
+
+[[Question:MC]]
+Sentence: Oggi [ toccherà ] ad Andreas Seppi , n. 6 , il bolzanino reduce dal successo di New York contro il n. 12 Atp Schüttler , che [ sfida ] un altro argentino , Edgardo Massa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ toccherà ] accade SIMULTANEAMENTE con il verbo [ sfida ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1413]]
+
+[[Question:MC]]
+Sentence 1: « Stalin , da buon georgiano , aveva un astio particolare per quelli che dal suo punto di vista [ erano ] solo dei rozzi montanari - racconta Bensi - la deportazione in Siberia fu organizzata a partire dal 1944 .
+Sentence 2: Per il trasporto usarono carri merci dove [ finivano ] uomini donne e bambini , molti morirono già durante il viaggio » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ erano ] accade PRIMA del verbo [ finivano ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q755]]
+
+[[Question:MC]]
+Sentence 1: La tradizionale , straordinaria sensibilità dei trentini ha avuto modo di esprimersi già nelle prime ore dopo la tragedia , con l' avvio di iniziative capaci di esprimere lo sgomento e l' orrore per i fatti di Beslan : ma ora a mio avviso è [ giunto ] il momento di organizzare e dare sistematicità ai diffusi sentimenti dei trentini che vogliono dare una testimonianza tangibile della loro vicinanza a quella sventurata popolazione .
+Sentence 2: Perchè , quindi - si chiede il presidente del Consiglio provinciale - non dare vita ad un progetto organico di aiuti - « Il Trentino per Beslan » - che metta assieme e coordini tutte le iniziative di solidarietà già avviate e quelle [ programmate ] , puntando in via prioritaria ad assicurare ai bambini e alle bambine che hanno vissuto quella spaventosa esperienza tutti i supporti , materiali e non , necessari per aiutarli a superare il terribile shock subito in quei drammatici giorni ? » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ giunto ] accade PRIMA del verbo [ programmate ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1514]]
+
+[[Question:MC]]
+Sentence 1: Bilancio sul quale il cda [ esprime ] un giudizio complessivamente positivo , in considerazione della grave crisi che ha investito il settore delle costruzioni .
+Sentence 2: I risultati della produzione in Italia hanno [ raggiunto ] 201 miliardi , con un aumento del 17,00% rispetto al 91 che riguarda soprattutto il comparto delle grandi opere .
+[[Question:MC:SingleAnswer]]
+Il verbo [ esprime ] accade DOPO il verbo [ raggiunto ].
+[[Choices]]
+Sì
+NO
+NON SO
+

@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1585]]
+
+[[Question:MC]]
+« Con fierezza , con fierezza » grida l' addestratore , ma i ragazzi hanno sonno , sono stanchi ; enormi sbadigli si spalancano sulla loro vita malinconica di ordine e [disciplina] forzati .
+[[Question:MC:SingleAnswer]]
+Il verbo [ disciplina ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1394]]
+
+[[Question:MC]]
+Glucksmann disegna degli scenari apocalittici : « Quando si è capaci di [sparare] sui bambini si è capaci di mandare un aereo contro una centrale nucleare e in questo caso la nube non si fermerà alle frontiere della Russia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sparare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q641]]
+
+[[Question:MC]]
+Nello schianto sono rimaste ferite anche tre colleghe di lavoro della giovane lombarda : in rianimazione all' ospedale di Trento è ricoverata Laura Patrizia Uboldi , 26 anni di Carisolo , la giovane che era alla guida della Peugeot 206 uscita di strada ; Nadia Bonapace , 18enne di Roncone , si [trova] nel reparto di chirurgia ; Arianna Vettori , 17enne di Rovereto era stata portata per controlli al Pronto Soccorso di Tione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trova ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1405]]
+
+[[Question:MC]]
+Bisogna negoziare con gli indipendentisti moderati ceceni che sconfessano le reazioni tipo la presa di ostaggi a Beslan » , in modo da [stoppare] « un cancro generalizzato che si sta estendendo a tutta la Russia » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stoppare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q545]]
+
+[[Question:MC]]
+nan [Era] in cura , le venivano somministrati anche dei farmaci , ma apparentemente senza risultati .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Era ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1569]]
+
+[[Question:MC]]
+Io [so] cos' è la guerra » dice uno dei bambini dell' Accademia militare di Kronstadt che fa da sfondo al primo dei tre episodi del film : « Nostalgia » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ so ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q371]]
+
+[[Question:MC]]
+Ci [sono] tre misure .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1439]]
+
+[[Question:MC]]
+L' operazione , [sottolinea] il comunicato del gruppo , rientra in un ampio programma di riorganizzazione e semplificazione della catena societaria mirato ad avvicinare la società alle holding di controllo , così da garantire una maggior flessibilità operativa e finanziaria .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sottolinea ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2069]]
+
+[[Question:MC]]
+In Caucaso è probabile una nuova Yugoslavia e l' unica soluzione , a questo punto , [è] l' intervento dell' Onu .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1549]]
+
+[[Question:MC]]
+Ai radicali che hanno deciso di adire le vie legali , Giovanardi ha replicato : « Sono allibito perché chi ogni giorno insulta i sentimenti e le convinzioni dei cattolici del nostro paese definendoli oscurantisti e talebani ora vuole intimidire un partito e un parlamentare che esprime una sua opinione che non [coincide] con quelle radicali » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ coincide ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q458]]
+
+[[Question:MC]]
+Il cardinale [sottolinea] il ruolo che deve avere l' Onu .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sottolinea ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1529]]
+
+[[Question:MC]]
+Il comitato promotore ( di cui [fanno] parte anche esponenti laici e Ds ) farà il punto domani sui numeri e annuncerà i « referendum days » , una mobilitazione generale per accelerare la raccolta delle firme nei prossimi due fine settimana .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fanno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1074]]
+
+[[Question:MC]]
+E [ricordo] la calda presenza delle persone » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricordo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1223]]
+
+[[Question:MC]]
+La quadratura del cerchio è stata [ottenuta] grazie alla disponibilità , praticamente in tempo reale , dei fondi pubblici ( ed anche all' aiuto della Cassa Rurale di Aldeno e Cadine ) : « Abbiamo potuto così mantenere un rapporto fiduciario con le imprese che avevano la garanzia di venire pagate in tempi proporzionali alla velocità di esecuzione » aggiunge Rossi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ottenuta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q21]]
+
+[[Question:MC]]
+Il titolo del pezzo , " Escucha mi cantar " , viene direttamante da una canzone messa in chiusura della colonna sonora mentre la struttura della piéce è un continuo vorticare di tre stanze uguali tra loro , ma nel cui interno si [svolgono] delle storie con protagonisti diversi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ svolgono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1143]]
+
+[[Question:MC]]
+In commissione urbanistica , però , queste domande non ci sono [passate] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ passate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1406]]
+
+[[Question:MC]]
+Bisogna negoziare con gli indipendentisti moderati ceceni che sconfessano le reazioni tipo la presa di ostaggi a Beslan » , in modo da stoppare « un cancro generalizzato che si sta [estendendo] a tutta la Russia » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ estendendo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q23]]
+
+[[Question:MC]]
+É come [guardare] una giostra e ad ogni spicchio di passaggio si vedono alcuni fotogrammi di vita trascorsi a riempire sprazzi di solitudine o incontri d' alcova .
+[[Question:MC:SingleAnswer]]
+Il verbo [ guardare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q562]]
+
+[[Question:MC]]
+BUENOS AIRES - Una scossa di terremoto di magnitudo 6,5 sulla scala Richter ha colpito ieri una vastissima regione centrale dell' Argentina , [causando] il decesso di un' anziana , qualche bambino ferito , panico generalizzato e moderati danni materiali .
+[[Question:MC:SingleAnswer]]
+Il verbo [ causando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2026]]
+
+[[Question:MC]]
+Partirà domani mercoledì 8 settembre alle 15.40 dalla stazione ferroviaria di Trento , e alle 15.56 da quella di Rovereto , il 71 / o pellegrinaggio diocesano a Lourdes , [organizzato] da Ospitalità tridentina .
+[[Question:MC:SingleAnswer]]
+Il verbo [ organizzato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

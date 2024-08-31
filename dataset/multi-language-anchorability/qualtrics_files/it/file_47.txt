@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1885]]
+
+[[Question:MC]]
+Eppure lui è uno che [parla] tanto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ parla ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1004]]
+
+[[Question:MC]]
+Necessità , quella di « portare in bambini in piazza » , che è stata sottolineata anche da Walter Alotti ( segreteria Uil ) , « perché capiscano quello che sta [accadendo] e perché vengano riaffermati i valori della vita e della fiducia nelle nuove generazioni » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ accadendo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q501]]
+
+[[Question:MC]]
+Ora - prosegue Cossiga - [vorrebbero] apparire quali perseguitati mentre invece sono dei commercianti di alcol e , quindi , esercitano una attività in contrasto con i dettami del Corano » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vorrebbero ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q974]]
+
+[[Question:MC]]
+« Quanto accaduto a Beslan - ha affermato Pacher - [costituisce] il superamento di una soglia inimmaginabile , ed è importante che tutta la città , senza divisioni né appartenenze , sia in piazza per ribadire valori che uniscono tutti , nel nome di una civiltà che si ritrova e di principi attorno a cui si costruisce l' idea di cittadinanza » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ costituisce ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2135]]
+
+[[Question:MC]]
+Durante la seconda guerra mondiale , quando Hitler fece irruzione in Russia , i Ceceni sperarono nella fine del regime stalinista e [appoggiarono] l' irruzione dei nazisti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ appoggiarono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q996]]
+
+[[Question:MC]]
+Bisogna ricominciare a [riconsiderare] - ha concluso Ferrante - il valore dei bambini per la società .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riconsiderare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q568]]
+
+[[Question:MC]]
+Alcuni edifici sono stati [evacuati] , fra cui il tribunale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ evacuati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q117]]
+
+[[Question:MC]]
+Il valore complessivo dell' operazione , che sarà completata entro la fine del 2006 , è di 2,1 miliardi di dollari , in virtù dei 28 dollari in contanti che la prima verserà per ogni azione della seconda - Joe Tucci , Ceo di Emc , ha commentato l' operazione nella conference call di rito sottolineando un concetto su tutti : " Emc si trasforma da società che opera dove le informazioni vivono a società in cui le informazioni [vivranno] in modo sicuro " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vivranno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q771]]
+
+[[Question:MC]]
+Si è fatto conoscere come « ladro maldestro » : lo scorso marzo si è [ribaltato] in bicicletta mentre stava scappando con un paio di cassette piene di monetine trafugate da una lavanderia , poi era stato sorpreso all' interno di un tombino con l' intenzione di intrufolarsi nel magazzino di una tabaccheria , infine lo scorso venerdì era stato denunciato perché trovato in possesso di un timbrino trafugato ad un medico , con cui falsificava le ricette .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ribaltato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1783]]
+
+[[Question:MC]]
+É stato [attivato] anche un corso per ragazze dai 9 ai 15 anni ( dalle ore 18.30 alle 19.30 ) , nonchè stage di perfezionamento mensili negli stili baladi - sharqi - saidi - ritmica musicale - coreografia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ attivato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q726]]
+
+[[Question:MC]]
+In attesa di arrivare al 2006 , Dorigatti , assieme agli altri segretari regionali non rieletti , [dovrebbe] uscire dal direttivo nazionale per far posto ai nuovi leader .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovrebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q609]]
+
+[[Question:MC]]
+COSENZA - Polizia e Guardia di Finanza hanno [inferto] un duro colpo alla cosca Muto di Cetraro , il « re del pesce » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ inferto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q769]]
+
+[[Question:MC]]
+Si è [fatto] conoscere come « ladro maldestro » : lo scorso marzo si è ribaltato in bicicletta mentre stava scappando con un paio di cassette piene di monetine trafugate da una lavanderia , poi era stato sorpreso all' interno di un tombino con l' intenzione di intrufolarsi nel magazzino di una tabaccheria , infine lo scorso venerdì era stato denunciato perché trovato in possesso di un timbrino trafugato ad un medico , con cui falsificava le ricette .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fatto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q75]]
+
+[[Question:MC]]
+" Questa è una giornata importante per l' Iri - ha sottolineato Michele Tedeschi , presidente di via Veneto - Stiamo [privatizzando] nella massima trasparenza e tenendo contro degli interessi di Iri , imprese e dipendenti " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ privatizzando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1088]]
+
+[[Question:MC]]
+Due proposte , pare avanzate dalla britannica Zeneca e dalla svizzera Roche , sono infatti [svanite] come neve al sole nelle ultime ore .
+[[Question:MC:SingleAnswer]]
+Il verbo [ svanite ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q629]]
+
+[[Question:MC]]
+Nell' appartamento in cui è [avvenuto] l' omicidio c' era anche una connazionale della vittima , che con lei avrebbe dovuto far ritorno in Ucraina .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avvenuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q532]]
+
+[[Question:MC]]
+Un improvviso raptus - come hanno [accertato] i carabinieri di Todi - che l' hanno trovata in stato confusionale ed arrestata .
+[[Question:MC:SingleAnswer]]
+Il verbo [ accertato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1178]]
+
+[[Question:MC]]
+« All' interno di questa fascia di rispetto - qui è il passaggio più importante - non dovranno essere esercitate attività produttive incompatibili con i vicini biotopi e nemmeno realizzate costruzioni o infrastrutture non direttamente [collegate] con i biotopi e l' agricoltura » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ collegate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q497]]
+
+[[Question:MC]]
+I caldei - [spiega] Cossiga - sono stati sempre fieri sostenitori di Saddam Hussein e ne hanno ricevuto in cambio la protezione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spiega ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q987]]
+
+[[Question:MC]]
+Sull' « esigenza per l' intera cittadinanza di rappresentare l' orrore e lo smarrimento per una tragedia immane , e di dare una risposta forte alla cultura della guerra e ad una politica militarizzata che non porta da nessuna parte » , ha messo invece l' accento Ruggero Purin , segretario provinciale della Cgil : « Al di là del cordoglio e dell' ovvia solidarietà per le vittime - ha insistito Purin - questa manifestazione deve essere anche occasione di rilancio di una solidarietà trasversale e della politica come strumento per [superare] i conflitti » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ superare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

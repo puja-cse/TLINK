@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q360]]
+
+[[Question:MC]]
+Rasgarse ahora las vestiduras por la firmeza negociadora de nuestro vecino del sur , dejando [ caer ] en la opinión pública una cifra de afectados claramente hinchada , al objeto de responsabilizar a Marruecos del daño social , [ constituye ] una muestra de la peor política posible : culpar a los otros por lo que debimos haber hecho y no tuvimos la voluntad , ni la inteligencia , ni el coraje , de acometer .
+[[Question:MC:SingleAnswer]]
+El verbo [ caer ] pasa ANTES que el verbo [ constituye ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q251]]
+
+[[Question:MC]]
+La candidatura de la ciudad japonesa de Osaka para albergar los Juegos Olímpicos 2008 confía en sus posibilidades para ser la elegida por el COI en julio del próximo año , pero [ valora ] al resto de las finalistas : Pekín , París , Toronto ( Canadá ) y Estambul ( Turquía ) .
+Takafumi Isomura , alcalde de Osaka y presidente del Comité de la Candidatura ( OBC ) , explicó hoy en Sydney que Pekín puede tener la ventaja de que China nunca ha acogido unos Juegos pero que no deben compararse culturalmente ambos países porque cada uno se ha [ desarrollado ] por su lado .
+[[Question:MC:SingleAnswer]]
+El verbo [ valora ] pasa DESPUÉS del verbo [ desarrollado ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q390]]
+
+[[Question:MC]]
+El Gobierno de Portugal [ decidió ] abrir una cuenta de ahorro con 50 euros ( 8.319 pesetas ) a los bebés nacidos el 1 de enero del 2002 , según [ anunció ] el lunes , 31 de diciembre , el ministro de Economía portugués , Guilherme d'Oliveira Martins .
+[[Question:MC:SingleAnswer]]
+El verbo [ decidió ] pasa ANTES que el verbo [ anunció ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q343]]
+
+[[Question:MC]]
+Pero el asombro es inevitable cuando se [ observa ] la pasividad de los gobiernos españoles ante la necesidad de reducir unas flotas de pesca sobredimensionadas , con exceso de potencia , exceso de años y condiciones de seguridad bajo mínimos .
+[ Rasgarse ] ahora las vestiduras por la firmeza negociadora de nuestro vecino del sur , dejando caer en la opinión pública una cifra de afectados claramente hinchada , al objeto de responsabilizar a Marruecos del daño social , constituye una muestra de la peor política posible : culpar a los otros por lo que debimos haber hecho y no tuvimos la voluntad , ni la inteligencia , ni el coraje , de acometer .
+[[Question:MC:SingleAnswer]]
+El verbo [ observa ] pasa SIMULTÁNEAMENTE con el verbo [ Rasgarse ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q706]]
+
+[[Question:MC]]
+Aíto comentó que le ha costado mucho [ dar ] este paso - - " son decisiones muy difíciles y no soy insensible como muchos se creen " - - y mostró su deseo de cerrar cuanto antes la renovación de Roger Esteller , uno de los jugadores con los que el club negocia un nuevo contrato , junto al estadounidense Derrick Alston .
+" Creo que hemos [ hecho ] una oferta competitiva , que está dentro del nivel del mercado " , aseguró ayer el gerente del club , Antonio Maceiras , sobre la negociación con Esteller , el capitán del equipo .
+[[Question:MC:SingleAnswer]]
+El verbo [ dar ] pasa DESPUÉS del verbo [ hecho ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q604]]
+
+[[Question:MC]]
+" Creo que se equivocan , pero es una opinión personal " , [ señaló ] Djordjevic , desmintiendo que haya tenido ningún problema con García Reneses , con quien se [ reunió ] ayer durante media hora .
+[[Question:MC:SingleAnswer]]
+El verbo [ señaló ] pasa ANTES que el verbo [ reunió ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q337]]
+
+[[Question:MC]]
+Pero el asombro [ es ] inevitable cuando se observa la pasividad de los gobiernos españoles ante la necesidad de reducir unas flotas de pesca sobredimensionadas , con exceso de potencia , exceso de años y condiciones de seguridad bajo mínimos .
+[ Rasgarse ] ahora las vestiduras por la firmeza negociadora de nuestro vecino del sur , dejando caer en la opinión pública una cifra de afectados claramente hinchada , al objeto de responsabilizar a Marruecos del daño social , constituye una muestra de la peor política posible : culpar a los otros por lo que debimos haber hecho y no tuvimos la voluntad , ni la inteligencia , ni el coraje , de acometer .
+[[Question:MC:SingleAnswer]]
+El verbo [ es ] pasa ANTES que el verbo [ Rasgarse ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q68]]
+
+[[Question:MC]]
+El juez [ interpreta ] que Microsoft ha [ violado ] las leyes antimonopolio y se espera que dicte una resolución en breve .
+[[Question:MC:SingleAnswer]]
+El verbo [ interpreta ] pasa ANTES que el verbo [ violado ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q362]]
+
+[[Question:MC]]
+Rasgarse ahora las vestiduras por la firmeza negociadora de nuestro vecino del sur , dejando [ caer ] en la opinión pública una cifra de afectados claramente hinchada , al objeto de responsabilizar a Marruecos del daño social , constituye una muestra de la peor política posible : culpar a los otros por lo que debimos haber [ hecho ] y no tuvimos la voluntad , ni la inteligencia , ni el coraje , de acometer .
+[[Question:MC:SingleAnswer]]
+La relación entre [ caer ] y [ hecho ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q111]]
+
+[[Question:MC]]
+De los 3,27 millones de parados , un total de 1,15 millones se han [ visto ] obligados a abandonar involuntariamente su trabajo .
+El Gobierno [ prevé ] que los próximos meses sean malos en materia de empleo , ya que espera que se incorporen al mercado laboral los nuevos licenciados en las universidades debido a que el año escolar acaba de terminar .
+[[Question:MC:SingleAnswer]]
+La relación entre [ visto ] y [ prevé ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+

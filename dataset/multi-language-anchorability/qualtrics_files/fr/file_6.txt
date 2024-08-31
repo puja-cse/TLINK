@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q35]]
+
+[[Question:MC]]
+Aux Pays - Bas , l'hypothèse de législatives anticipées à l'automne semblait [tenir] la corde hier , au lendemain de la démission du gouvernement du Premier ministre travailliste Wim Kok .
+[[Question:MC:SingleAnswer]]
+Le verbe [ tenir ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q6]]
+
+[[Question:MC]]
+Hans - Joachim Klein , le complice présumé du terroriste Carlos dans la prise d'otages de l'OPEP en 1975 à Vienne , devait être d' extrader hier soir vers l'Allemagne , a [annoncé] le Parquet de Francfort .
+[[Question:MC:SingleAnswer]]
+Le verbe [ annoncé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q5]]
+
+[[Question:MC]]
+Hans - Joachim Klein , le complice présumé du terroriste Carlos dans la prise d'otages de l'OPEP en 1975 à Vienne , devait être d' [extrader] hier soir vers l'Allemagne , a annoncé le Parquet de Francfort .
+[[Question:MC:SingleAnswer]]
+Le verbe [ extrader ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q178]]
+
+[[Question:MC]]
+Le texte prévoit des réductions d'impôts pour un montant de 791,9 milliards de dollars sur 10 ans , pour [redistribuer] aux Américains une partie des excédents budgétaires , qui pourraient atteindre 3.000 milliards d' ici à dix ans .
+[[Question:MC:SingleAnswer]]
+Le verbe [ redistribuer ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q26]]
+
+[[Question:MC]]
+Quant au chef du Sinn Fein , il a [estimé] que sans transfert des pouvoirs d' ici le 30 juin , l' accord du Vendredi Saint serait « caduc » .
+[[Question:MC:SingleAnswer]]
+Le verbe [ estimé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q180]]
+
+[[Question:MC]]
+Le texte prévoit des réductions d'impôts pour un montant de 791,9 milliards de dollars sur 10 ans , pour redistribuer aux Américains une partie des excédents budgétaires , qui pourraient [atteindre] 3.000 milliards d' ici à dix ans .
+[[Question:MC:SingleAnswer]]
+Le verbe [ atteindre ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q258]]
+
+[[Question:MC]]
+Seul baume à son cœur , une partie des vêtements ne paraissait pas trop touchée : « Il va [falloir] les mettre en lieu sûr .
+[[Question:MC:SingleAnswer]]
+Le verbe [ falloir ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q208]]
+
+[[Question:MC]]
+Lionel Jospin a cependant [traité] le sujet sensible de l'insécurité hier soir au meeting de Tours .
+[[Question:MC:SingleAnswer]]
+Le verbe [ traité ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q30]]
+
+[[Question:MC]]
+Toutefois , il [doit] trouver l'homme qui prendra sous sa coupe l'économie et les finances du pays , dossier délicat qui a officiellement causé la perte d'Evgueni Primakov .
+[[Question:MC:SingleAnswer]]
+Le verbe [ doit ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q98]]
+
+[[Question:MC]]
+Satisfaction leur a été [donnée] .
+[[Question:MC:SingleAnswer]]
+Le verbe [ donnée ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q19]]
+
+[[Question:MC]]
+Tony Blair , le Premier ministre britannique a achevé hier deux jours de négociations avec les dirigeants d'Irlande du Nord , sans [réussir] à surmonter le blocage persistant sur la formation de l'exécutif .
+[[Question:MC:SingleAnswer]]
+Le verbe [ réussir ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q238]]
+
+[[Question:MC]]
+Le bâtiment , qui appartient à la Ville de Belfort , venait de faire l'objet de travaux de rénovation confirme André Kaufmann , adjoint au maire , sur place hier : « La toiture a été complétement refaite à la fin de l'année dernière , ainsi que la façade extérieure et les systèmes de sécurité » , [souligne] - t - il , estimant le coût de ces travaux à environ 100.000 € .
+[[Question:MC:SingleAnswer]]
+Le verbe [ souligne ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q236]]
+
+[[Question:MC]]
+Le bâtiment , qui appartient à la Ville de Belfort , venait de faire l'objet de travaux de rénovation [confirme] André Kaufmann , adjoint au maire , sur place hier : « La toiture a été complétement refaite à la fin de l'année dernière , ainsi que la façade extérieure et les systèmes de sécurité » , souligne - t - il , estimant le coût de ces travaux à environ 100.000 € .
+[[Question:MC:SingleAnswer]]
+Le verbe [ confirme ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q231]]
+
+[[Question:MC]]
+Environ 100 m2 , sur environ 300 m2 de locaux , ont été [détruits] par les flammes .
+[[Question:MC:SingleAnswer]]
+Le verbe [ détruits ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q187]]
+
+[[Question:MC]]
+En fin de réunion , les différents délégués ont décidé de [réunir] leurs collègues dans les établissements pour s ' opposer à la mise en place des chartes Allègre - Royal , « qui organisent la destruction du service public d'enseignement » .
+[[Question:MC:SingleAnswer]]
+Le verbe [ réunir ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q90]]
+
+[[Question:MC]]
+« Mais il ne s ' est [livré] à aucune caresse intime .
+[[Question:MC:SingleAnswer]]
+Le verbe [ livré ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q54]]
+
+[[Question:MC]]
+Les faits qui lui sont [reprochés] ont eu lieu le 27 mai 1998 , dans les bois à proximité du fort Dorsner .
+[[Question:MC:SingleAnswer]]
+Le verbe [ reprochés ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q22]]
+
+[[Question:MC]]
+L'UUP [continue] d' exiger un désarmement de l'IRA avant la formation du gouvernement .
+[[Question:MC:SingleAnswer]]
+Le verbe [ continue ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q196]]
+
+[[Question:MC]]
+De leur côté , les New York Knicks , tombeurs au premier tour de Miami , numéro un à l'est , sont allés s ' [imposer] 100 à 92 à Atlanta , grâce à 34 points d'Allen Houston et 31 de Latrell Sprewell .
+[[Question:MC:SingleAnswer]]
+Le verbe [ imposer ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q10]]
+
+[[Question:MC]]
+Un haut dirigeant séparatiste kurde , Semdim Sakik , reconnu coupable de la mort de 283 personnes dans 191 attentats perpétrés par le PKK et accusé de séparatisme , a été [condamné] à mort hier par un tribunal turc .
+[[Question:MC:SingleAnswer]]
+Le verbe [ condamné ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+

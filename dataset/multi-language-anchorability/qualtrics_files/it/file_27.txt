@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q528]]
+
+[[Question:MC]]
+PERUGIA - Era [venuta] da pochi giorni da Spoleto a Piedicolle , una frazione del comune di Collazzone ( Perugia ) , per assistere la figlia che da qualche anno aveva addirittura lasciato il lavoro perchè affetta da crisi di depressione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ venuta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q249]]
+
+[[Question:MC]]
+Stesso incremento non risulta invece sulle presenze che aumentano solamente dello 0,9% ( non sono ancora disponibili i dati disaggregati per italiani e stranieri ) a dimostrazione che i turisti tendono a [ridurre] il numero di giornate di vacanza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ridurre ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2060]]
+
+[[Question:MC]]
+Fil rouge di questo festival sarà la musica che attraversa i confini antichi e nuovi con " Polifonie di minoranze " , che [prevede] quattro concerti per incontrare tradizioni polivocali arcaiche come quelle della Sardegna , dei monti Aurunci , dell' Istria veneta e della cultura zingara Sinti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ prevede ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q542]]
+
+[[Question:MC]]
+R.S. lavorava in banca , ma aveva [dovuto] lasciare questo impiego per le sempre più gravi crisi depressive delle quali soffriva .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1215]]
+
+[[Question:MC]]
+« L' esperienza di questi lavori - spiega il presidente della Scuola Alessandro Rossi , esperto in appalti pubblici - è un segnale importante : è la dimostrazione che quando pubblico e privato vogliono [collaborare] possono realizzare interventi significativi ed in tempi estremamente rapidi » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ collaborare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q639]]
+
+[[Question:MC]]
+Nello schianto sono rimaste ferite anche tre colleghe di lavoro della giovane lombarda : in rianimazione all' ospedale di Trento è [ricoverata] Laura Patrizia Uboldi , 26 anni di Carisolo , la giovane che era alla guida della Peugeot 206 uscita di strada ; Nadia Bonapace , 18enne di Roncone , si trova nel reparto di chirurgia ; Arianna Vettori , 17enne di Rovereto era stata portata per controlli al Pronto Soccorso di Tione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricoverata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q195]]
+
+[[Question:MC]]
+In tema di assenze pesanti qualcosa lamenta pure la Benacense che nel big - match di Ponte Arche ha dovuto rinunciare a due stoccatori come Delnegro e Cosa risultando piuttosto [spuntata] al cospetto del reparto arretrato tradizionalmente più forte del torneo , quello del Comano Fiavè .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spuntata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1977]]
+
+[[Question:MC]]
+L' ombrello di Mediobanca si allarga per riportare su rotte più sicure un altro gruppo industrial-finanziario italiano , quello di Gianni Varasi che [fa] capo alla Santavaleria .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q277]]
+
+[[Question:MC]]
+In 100 secondi ha rispolverato il suo fiuto [firmando] il 1 ° gol assoluto del campionato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ firmando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q335]]
+
+[[Question:MC]]
+« Sicuramente [abbiamo] qualche problemino che dovremo cercare di risolvere al più presto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ abbiamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1310]]
+
+[[Question:MC]]
+La tradizionale , straordinaria sensibilità dei trentini ha [avuto] modo di esprimersi già nelle prime ore dopo la tragedia , con l' avvio di iniziative capaci di esprimere lo sgomento e l' orrore per i fatti di Beslan : ma ora a mio avviso è giunto il momento di organizzare e dare sistematicità ai diffusi sentimenti dei trentini che vogliono dare una testimonianza tangibile della loro vicinanza a quella sventurata popolazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q403]]
+
+[[Question:MC]]
+Non sono mai stati [guardati] , perché fuori moda » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ guardati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q817]]
+
+[[Question:MC]]
+A Rovereto è stato invitato da " Oriente Occidente " in collaborazione con il " Festivaletteratura " di Mantova per la serie di incontri centrati sul tema dei « Linguaggi » , una nuova sezione inaugurata quest' anno al Festival per permettere di dialogare con i protagonisti di differenti discipline , sempre [mantenendo] fissa l' attenzione sul dialogo tra i mondi dell' Oriente e quelli dell' Occidente .
+[[Question:MC:SingleAnswer]]
+Il verbo [ mantenendo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1818]]
+
+[[Question:MC]]
+Una decisione dolorosa , che , pur nella consapevolezza « di arrecare disagi con le astensione dal lavoro » , è [ritenuta] dai sindacati necessaria .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ritenuta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1286]]
+
+[[Question:MC]]
+Al cimitero di Suzdal , dove sono sepolti molti soldati italiani , il Coro Monte Peller ha eseguito due canzoni : il « Testamento del Capitano » è stata [dedicata] ai lontani caduti in terra di Russia ; quella del « Signore delle Cime » , invece , è stata innalzato alla memoria dei bambini dell' Ossezia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dedicata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1932]]
+
+[[Question:MC]]
+In quanto ai rigori [è] giusto che li batta lui che è uno specialista , a me piace segnare su azione e mi va benissimo così .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q427]]
+
+[[Question:MC]]
+Dopo un periodo di calo , anche gli l' Invicta ( 68 euro ) [sembra] fare nuovamente capolino fra gli scaffali , mentre , dopo aver dominato gli anni Novanta , il diario - agenda Smemoranda ( 12 euro ) sembra essere entrato in un periodo di stanca , tanto che in una libreria lo abbiamo trovato in vendita con il 20% di sconto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sembra ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1640]]
+
+[[Question:MC]]
+TRENTO - Una giornata in famiglia sul monte Lefre per [imparare] a costruire un vero erbario è in programma venerdì 10 settembre .
+[[Question:MC:SingleAnswer]]
+Il verbo [ imparare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1399]]
+
+[[Question:MC]]
+Ci sono molti caucasici sparpagliati per la grande Russia e in grado di [dirottare] un aereo » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dirottare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1954]]
+
+[[Question:MC]]
+Non [scriverlo] , ma sai quante volte ho segnato dopo una serata in discoteca con questi ritmi ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ scriverlo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

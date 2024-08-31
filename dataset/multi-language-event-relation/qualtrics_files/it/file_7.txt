@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q3265]]
+
+[[Question:MC]]
+Sentence: " Questa è una giornata importante per l' Iri - ha sottolineato Michele Tedeschi , presidente di via Veneto - Stiamo [ privatizzando ] nella massima trasparenza e [ tenendo ] contro degli interessi di Iri , imprese e dipendenti " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ privatizzando ] accade DOPO il verbo [ tenendo ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2643]]
+
+[[Question:MC]]
+Sentence: « Più volte il Papa ha [ ricordato ] che lo statuto dell' Onu [ fornisce ] tutti i mezzi per affrontare congiuntamente i pericoli che mettono in crisi la stabilità e la sicurezza internazionali .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricordato ] accade PRIMA del verbo [ fornisce ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1048]]
+
+[[Question:MC]]
+Sentence 1: Ha infatti [ collaborato ] con Luca Ronconi alla messa in scena di " Infinities " , una " drammaturgia di idee " ispirata dall' opera del matematico John Barrow .
+Sentence 2: Non è il primo caso : quaranta anni prima , per la messa in scena della " Vita di Galileo " di Brecht , era [ diventato ] celebre il binomio Geymonat - Strehler .
+[[Question:MC:SingleAnswer]]
+La relazione tra [ collaborato ] e [ diventato ] è VAGA (i.e., nessuna delle precedenti).
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q71]]
+
+[[Question:MC]]
+Sentence 1: Il titolo del pezzo , " Escucha mi cantar " , viene direttamante da una canzone [ messa ] in chiusura della colonna sonora mentre la struttura della piéce è un continuo vorticare di tre stanze uguali tra loro , ma nel cui interno si svolgono delle storie con protagonisti diversi .
+Sentence 2: É come guardare una giostra e ad ogni spicchio di passaggio si [ vedono ] alcuni fotogrammi di vita trascorsi a riempire sprazzi di solitudine o incontri d' alcova .
+[[Question:MC:SingleAnswer]]
+Il verbo [ messa ] accade DOPO il verbo [ vedono ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q447]]
+
+[[Question:MC]]
+Sentence: Il gioco è quello che [ attraversa ] " Minoranzèro " il festival [ sottolineato ] dalle parole " Breviario europeo sugli altri oltre il confine " che si svolgerà da domani , mercoledì 8 , all' 11 settembre a Pergine .
+[[Question:MC:SingleAnswer]]
+Il verbo [ attraversa ] accade PRIMA del verbo [ sottolineato ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2364]]
+
+[[Question:MC]]
+Sentence: I genitori di Stacy e Nathalie , le due bambine trovate [ uccise ] ieri , hanno [ deciso ] di celebrare funerali separati .
+[[Question:MC:SingleAnswer]]
+Il verbo [ uccise ] accade PRIMA del verbo [ deciso ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3865]]
+
+[[Question:MC]]
+Sentence: " Le minusvalenze di 13,8 miliardi - [ spiega ] la nota - conseguenti all' allineamento dei valori mobiliari ai corsi di fine anno , sono state interamente [ portate ] a conto economico " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spiega ] accade SIMULTANEAMENTE con il verbo [ portate ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2105]]
+
+[[Question:MC]]
+Sentence 1: Non è pensabile che il lavoro del Direttore Generale venga valutato solo in prossimità della scadenza del mandato ; la Politica dovrebbe avere un costante ritorno di quanto avviene nella Azienda Sanitaria sia da parte di chi ne produce i Servizi che da parte di chi ne [ fruisce ] .
+Sentence 2: Quanto poi ai collaboratori del Direttore Generale , è ovvio che vanno rifiutate posizioni aprioristiche di chi [ ritiene ] che solo fuori dal Trentino si possano trovare Dirigenti di un certo spessore professionale ; allo stesso modo va rigettata l' ipotesi della promozione della " trentinità " in quanto tale come giudizio di merito .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fruisce ] accade SIMULTANEAMENTE con il verbo [ ritiene ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3013]]
+
+[[Question:MC]]
+Sentence 1: Mi [ dà ] la carica e mi fa giocare meglio .
+Sentence 2: Non scriverlo , ma sai quante volte ho [ segnato ] dopo una serata in discoteca con questi ritmi ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ dà ] accade PRIMA del verbo [ segnato ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2224]]
+
+[[Question:MC]]
+Sentence 1: Sono stabili ma sempre gravi le condizioni di Susanna Franzoni , la 19enne di Varese [ ricoverata ] al neurochirurgico di Bolzano per i traumi riportati nell' incidente avvenuto domenica all' alba a Pinzolo , quado un' auto è carambolata contro un muro nel centro del paese .
+Sentence 2: Nello schianto sono [ rimaste ] ferite anche tre colleghe di lavoro della giovane lombarda : in rianimazione all' ospedale di Trento è ricoverata Laura Patrizia Uboldi , 26 anni di Carisolo , la giovane che era alla guida della Peugeot 206 uscita di strada ; Nadia Bonapace , 18enne di Roncone , si trova nel reparto di chirurgia ; Arianna Vettori , 17enne di Rovereto era stata portata per controlli al Pronto Soccorso di Tione .
+[[Question:MC:SingleAnswer]]
+La relazione tra [ ricoverata ] e [ rimaste ] è VAGA (i.e., nessuna delle precedenti).
+[[Choices]]
+Sì
+NO
+NON SO
+

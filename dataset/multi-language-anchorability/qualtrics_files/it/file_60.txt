@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q752]]
+
+[[Question:MC]]
+I fotogrammi della serata di sangue vissuta nella palazzina di Montecalvoli di Santa Maria a Monte , dove i due coniugi abitavano da soli , sono stati [ricostruiti] dagli investigatori con dovizia di particolari , anche se per saperne di più bisognerà attendere l' esame autoptico sul corpo della donna e la perizia balistica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricostruiti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q301]]
+
+[[Question:MC]]
+Scendeva dal passo del Manghen in motocicletta , è caduto in curva e si è [scontrato] con un' auto guidata da una dona di Borgo Valsugana .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scontrato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q39]]
+
+[[Question:MC]]
+Il finale [riserva] una sorpresa che ingloba tutti , che sorprende la platea per la sua teatralità e , in qualche modo , si ricollega a delle immagine abbastanza comuni raccolte durante l' infanzia di tutti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riserva ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1210]]
+
+[[Question:MC]]
+« É un caso più unico che raro » osserva il primo cittadino , Alberto Pacher , che quell' asilo lo conosce bene per averlo [frequentato] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ frequentato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q430]]
+
+[[Question:MC]]
+Dopo un periodo di calo , anche gli l' Invicta ( 68 euro ) sembra fare nuovamente capolino fra gli scaffali , mentre , dopo aver dominato gli anni Novanta , il diario - agenda Smemoranda ( 12 euro ) [sembra] essere entrato in un periodo di stanca , tanto che in una libreria lo abbiamo trovato in vendita con il 20% di sconto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sembra ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q142]]
+
+[[Question:MC]]
+L' information security , stando a recenti indagini di alcuni analisti americani , è la priorità numero uno per i Cio e il 75,00% delle aziende Usa soffre ogni anno di perdite consistenti di dati : questo il terreno d' azione in cui Emc [vuole] mettere a frutto l' acquisizione di Rsa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vuole ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q502]]
+
+[[Question:MC]]
+Ora - prosegue Cossiga - vorrebbero [apparire] quali perseguitati mentre invece sono dei commercianti di alcol e , quindi , esercitano una attività in contrasto con i dettami del Corano » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ apparire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1057]]
+
+[[Question:MC]]
+Difficile fare pronostici , sono in molti ad [ambire] ad un successo a Predazzo , in primis i norvegesi che stanno migliorando di gara in gara e che domenica hanno vinto la competizione a squadre .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ambire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q772]]
+
+[[Question:MC]]
+Si è fatto conoscere come « ladro maldestro » : lo scorso marzo si è ribaltato in bicicletta mentre stava [scappando] con un paio di cassette piene di monetine trafugate da una lavanderia , poi era stato sorpreso all' interno di un tombino con l' intenzione di intrufolarsi nel magazzino di una tabaccheria , infine lo scorso venerdì era stato denunciato perché trovato in possesso di un timbrino trafugato ad un medico , con cui falsificava le ricette .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scappando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q638]]
+
+[[Question:MC]]
+Nello schianto sono [rimaste] ferite anche tre colleghe di lavoro della giovane lombarda : in rianimazione all' ospedale di Trento è ricoverata Laura Patrizia Uboldi , 26 anni di Carisolo , la giovane che era alla guida della Peugeot 206 uscita di strada ; Nadia Bonapace , 18enne di Roncone , si trova nel reparto di chirurgia ; Arianna Vettori , 17enne di Rovereto era stata portata per controlli al Pronto Soccorso di Tione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rimaste ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q37]]
+
+[[Question:MC]]
+Ma per la velocità del vorticare del palco , [sembra] che nel racconto si sovrappongono i tempi e le emozioni rappresentate .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sembra ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1045]]
+
+[[Question:MC]]
+E proprio Malysz [guarda] a Predazzo con estrema fiducia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ guarda ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q866]]
+
+[[Question:MC]]
+Qualcuno può realmente credere che tutto quanto sopra esposto [sia] realizzabile o meno a seconda delle caratteristiche e delle propensioni del Direttore Generale ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ sia ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1144]]
+
+[[Question:MC]]
+Che fine hanno [fatto] ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ fatto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1898]]
+
+[[Question:MC]]
+Sono partito bene come già l' anno scorso ( anche allora segnò alla prima giornata contro il Natz , ndr ) e spero di [continuare] così .
+[[Question:MC:SingleAnswer]]
+Il verbo [ continuare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q472]]
+
+[[Question:MC]]
+Ma io credo che sarebbe necessario [andare] al di là del perimetro dei membri permanenti e a rotazione del Consiglio di sicurezza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ andare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q154]]
+
+[[Question:MC]]
+Chiuso il primo trimestre fiscale 2006 in crescita rispetto allo stesso periodo dell' anno precedente sia alla voce ricavi ( saliti del 14,00% a 2,55 miliardi di dollari ) sia sul piano degli utili netti ( arrivati a 272,5 milioni con un incremento del 50,00% ) , Emc ha già confermato anche le modalità con le quali verranno assorbiti gli asset di Rsa : quest' ultima opererà infatti come Information Security Division della casa madre e avrà l' head quarter a Bedford , nel Massachuttes , sede storica della società , mentre l' attuale presidente e Ceodi Rsa , Art Coviello , [assumerà] la carica di executive vice president di Emc e presidente della nuova divisione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ assumerà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q191]]
+
+[[Question:MC]]
+In tema di assenze pesanti qualcosa [lamenta] pure la Benacense che nel big - match di Ponte Arche ha dovuto rinunciare a due stoccatori come Delnegro e Cosa risultando piuttosto spuntata al cospetto del reparto arretrato tradizionalmente più forte del torneo , quello del Comano Fiavè .
+[[Question:MC:SingleAnswer]]
+Il verbo [ lamenta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q38]]
+
+[[Question:MC]]
+Ma per la velocità del vorticare del palco , sembra che nel racconto si [sovrappongono] i tempi e le emozioni rappresentate .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sovrappongono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q755]]
+
+[[Question:MC]]
+I fotogrammi della serata di sangue vissuta nella palazzina di Montecalvoli di Santa Maria a Monte , dove i due coniugi abitavano da soli , sono stati ricostruiti dagli investigatori con dovizia di particolari , anche se per saperne di più bisognerà [attendere] l' esame autoptico sul corpo della donna e la perizia balistica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ attendere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q289]]
+
+[[Question:MC]]
+Mikako Kotani , medallista olímpica y componente de la Ejecutiva del OBC , natural de Tokio pero cuya madre [ es ] de Osaka , [ ensalzó ] la amabilidad del pueblo de esta ciudad , que " adora el deporte " y tiene " un gran deseo de amistad " , al margen de " mucha energía a disposición de los Juegos " .
+[[Question:MC:SingleAnswer]]
+La relación entre [ es ] y [ ensalzó ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q531]]
+
+[[Question:MC]]
+Djordjevic reconoció además que se siente un azulgrana más - - " aquí he [ puesto ] mis raíces , he comprado una casa , he [ vivido ] el club , los colores , y me siento un culé más " - - después de estas tres temporadas , pero añadió que ese sentimiento no tiene por qué influir en su decisión .
+[[Question:MC:SingleAnswer]]
+El verbo [ puesto ] pasa DESPUÉS del verbo [ vivido ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q520]]
+
+[[Question:MC]]
+Djordjevic [ reconoció ] además que se siente un azulgrana más - - " aquí he puesto mis raíces , he comprado una casa , he vivido el club , los colores , y me siento un culé más " - - después de estas tres temporadas , pero añadió que ese sentimiento no tiene por qué influir en su decisión .
+" Me siento completamente libre de escoger mi futuro , eso [ es ] otra historia " , dice .
+[[Question:MC:SingleAnswer]]
+El verbo [ reconoció ] pasa ANTES que el verbo [ es ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q685]]
+
+[[Question:MC]]
+Aíto [ comentó ] que le ha costado mucho dar este paso - - " son decisiones muy difíciles y no soy insensible como muchos se [ creen ] " - - y mostró su deseo de cerrar cuanto antes la renovación de Roger Esteller , uno de los jugadores con los que el club negocia un nuevo contrato , junto al estadounidense Derrick Alston .
+[[Question:MC:SingleAnswer]]
+El verbo [ comentó ] pasa DESPUÉS del verbo [ creen ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q107]]
+
+[[Question:MC]]
+Japón , considerado tradicionalmente como un país con una tasa de paro insignificante , contaba a finales de Febrero con 3,27 millones de demandantes de empleo , lo que [ supone ] 180.000 personas más que en enero .
+Una de las razones de este aumento del paro [ son ] los planes de reestructuración llevados a cabo por algunas de las grandes empresas japonesas .
+[[Question:MC:SingleAnswer]]
+El verbo [ supone ] pasa ANTES que el verbo [ son ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q220]]
+
+[[Question:MC]]
+El concejal [ insistió ] en que las inversiones en todos los proyectos dependerán de que " los vecinos opten a adquirir plazas con una concesión de 50 años " .
+Se [ confía ] en que los ciudadanos evalúen las ventajas de " no tener que dar vueltas hasta encontrar un sitio libre " .
+[[Question:MC:SingleAnswer]]
+El verbo [ insistió ] pasa ANTES que el verbo [ confía ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q59]]
+
+[[Question:MC]]
+" Cuando un requerimiento judicial es tan ambiguo que desafía toda comprensión , éste [ es ] nulo e inaplicable " , [ dice ] el documento de Microsoft presentado al juez .
+[[Question:MC:SingleAnswer]]
+El verbo [ es ] pasa ANTES que el verbo [ dice ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q412]]
+
+[[Question:MC]]
+La oficina regional también [ inspeccionará ] las instalaciones de la mina , sus equipos , aparatos , herramientas y seguros de accidente de los trabajadores , que deberán cumplir las leyes nacionales .
+Con esta normativa , el Gobierno intenta reducir las más de 4.000 muertes que cada año se producen en los yacimientos de carbón del país , la mayoría de los cuales operan sin las mínimas medidas de seguridad , debido sobre todo a los malos resultados del sector , y algunos incluso [ son ] ilegales .
+[[Question:MC:SingleAnswer]]
+El verbo [ inspeccionará ] pasa ANTES que el verbo [ son ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q369]]
+
+[[Question:MC]]
+Rasgarse ahora las vestiduras por la firmeza negociadora de nuestro vecino del sur , dejando caer en la opinión pública una cifra de afectados claramente hinchada , al objeto de responsabilizar a Marruecos del daño social , constituye una muestra de la peor política posible : culpar a los otros por lo que debimos haber [ hecho ] y no tuvimos la voluntad , ni la inteligencia , ni el coraje , de acometer .
+La lógica de los pescadores [ es ] irrefutable .
+[[Question:MC:SingleAnswer]]
+El verbo [ hecho ] pasa DESPUÉS del verbo [ es ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q333]]
+
+[[Question:MC]]
+Yushiro Yagi , presidente del Comité Olímpico Japonés ( JOC ) , aclaró que pese a que su país ya ha sido escenario de Juegos Olímpicos confía en que ese aprendizaje les sirva para albergar otros con garantías y añadió que " la candidatura de Osaka [ es ] muy sólida y [ dispone ] de todo lo necesario " .
+[[Question:MC:SingleAnswer]]
+El verbo [ es ] pasa DESPUÉS del verbo [ dispone ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+

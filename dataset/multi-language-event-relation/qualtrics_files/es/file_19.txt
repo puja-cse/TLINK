@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q453]]
+
+[[Question:MC]]
+El base considera que el Barça se [ equivoca ] con su marcha , pero [ dice ] que se despide sin rencor .
+[[Question:MC:SingleAnswer]]
+El verbo [ equivoca ] pasa SIMULTÁNEAMENTE con el verbo [ dice ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q571]]
+
+[[Question:MC]]
+El internacional yugoslavo quiso despedirse [ agradeciendo ] el apoyo de todos , afición , técnicos , jugadores e incluso de los rivales .
+" Su respaldo en estos últimos meses ha sido muy importante para superar el problema que [ vive ] mi país " , admitió , para añadir que se marcha sin ningún rencor contra el técnico por su decisión .
+[[Question:MC:SingleAnswer]]
+El verbo [ agradeciendo ] pasa ANTES que el verbo [ vive ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q439]]
+
+[[Question:MC]]
+La falta de inversión en equipos de seguridad se une a la actitud de los directivos , que [ obligan ] a los obreros a trabajar hasta 12 ó 14 horas diarias por salarios de miseria y [ ocultan ] a las autoridades los accidentes que se producen .
+[[Question:MC:SingleAnswer]]
+La relación entre [ obligan ] y [ ocultan ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q20]]
+
+[[Question:MC]]
+Las afirmaciones de Musa , a quien cita hoy , lunes , la prensa local , [ coinciden ] con la presencia estos días en Egipto de una delegación de especialistas de las Naciones Unidas para tratar con las autoridades de este país sobre las posibilidades de eliminar esos artefactos en el territorio egipcio .
+" La ayuda que nos han enviado la comunidad internacional y los países involucrados en la guerra de Al Alamin , en el Desierto Occidental , ( Gran Bretaña , Alemania e Italia ) es muy limitada " , [ dijo ] Musa .
+[[Question:MC:SingleAnswer]]
+El verbo [ coinciden ] pasa ANTES que el verbo [ dijo ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q736]]
+
+[[Question:MC]]
+" Creo que hemos [ hecho ] una oferta competitiva , que [ está ] dentro del nivel del mercado " , aseguró ayer el gerente del club , Antonio Maceiras , sobre la negociación con Esteller , el capitán del equipo .
+[[Question:MC:SingleAnswer]]
+El verbo [ hecho ] pasa ANTES que el verbo [ está ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q668]]
+
+[[Question:MC]]
+El preparador barcelonista calificó la decisión como " un salto al vacío " al no tener cerrada la operación del escolta francés Antoine Rigaudeau , su probable sustituto , pero [ indicó ] que este riesgo era necesario para no perjudicar a Sasha a la hora de negociar nuevas ofertas .
+Aíto [ comentó ] que le ha costado mucho dar este paso - - " son decisiones muy difíciles y no soy insensible como muchos se creen " - - y mostró su deseo de cerrar cuanto antes la renovación de Roger Esteller , uno de los jugadores con los que el club negocia un nuevo contrato , junto al estadounidense Derrick Alston .
+[[Question:MC:SingleAnswer]]
+El verbo [ indicó ] pasa ANTES que el verbo [ comentó ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q626]]
+
+[[Question:MC]]
+" La aportación de Sasha ha [ sido ] muy positiva , pero creo que se ha [ cumplido ] el ciclo previsto cuando fichó " , indicó , por su parte , García Reneses para explicar la decisión de no hacerle ninguna oferta de renovación .
+[[Question:MC:SingleAnswer]]
+El verbo [ sido ] pasa SIMULTÁNEAMENTE con el verbo [ cumplido ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q129]]
+
+[[Question:MC]]
+El Gobierno prevé que los próximos meses sean malos en materia de empleo , ya que [ espera ] que se incorporen al mercado laboral los nuevos licenciados en las universidades debido a que el año escolar acaba de terminar .
+El paro en Japón afecta en mayor medida a los hombres , que han superado la barrera del 5% [ situándose ] en Febrero en el 5,1% .
+[[Question:MC:SingleAnswer]]
+El verbo [ espera ] pasa ANTES que el verbo [ situándose ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q440]]
+
+[[Question:MC]]
+La falta de inversión en equipos de seguridad se une a la actitud de los directivos , que [ obligan ] a los obreros a trabajar hasta 12 ó 14 horas diarias por salarios de miseria y ocultan a las autoridades los accidentes que se [ producen ] .
+[[Question:MC:SingleAnswer]]
+El verbo [ obligan ] pasa ANTES que el verbo [ producen ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q113]]
+
+[[Question:MC]]
+De los 3,27 millones de parados , un total de 1,15 millones se han [ visto ] obligados a abandonar involuntariamente su trabajo .
+El Gobierno prevé que los próximos meses sean malos en materia de empleo , ya que espera que se incorporen al mercado laboral los nuevos licenciados en las universidades debido a que el año escolar [ acaba ] de terminar .
+[[Question:MC:SingleAnswer]]
+El verbo [ visto ] pasa SIMULTÁNEAMENTE con el verbo [ acaba ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+

@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q598]]
+
+[[Question:MC]]
+A Milano l' unità di sangue è stata scongelata il 28 luglio e sono state [selezionate] le staminali che sono state messe in coltura in camera sterile per 15 giorni , moltiplicandone il numero di 60 volte .
+[[Question:MC:SingleAnswer]]
+Il verbo [ selezionate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1321]]
+
+[[Question:MC]]
+Perchè , quindi - si chiede il presidente del Consiglio provinciale - non dare vita ad un progetto organico di aiuti - « Il Trentino per Beslan » - che metta assieme e coordini tutte le iniziative di solidarietà già [avviate] e quelle programmate , puntando in via prioritaria ad assicurare ai bambini e alle bambine che hanno vissuto quella spaventosa esperienza tutti i supporti , materiali e non , necessari per aiutarli a superare il terribile shock subito in quei drammatici giorni ? » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avviate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2080]]
+
+[[Question:MC]]
+Nel 1989 quando ancora il terrorismo islamico era una fantasia scrisse « Allah contro Gorbaciov » , libro profetico [guardando] agli sviluppi successivi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ guardando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1463]]
+
+[[Question:MC]]
+MILANO - Banca Intesa , il gruppo creditizio che controlla la Btb , [chiude] il semestre con un balzo dell' utile netto consolidato a 876 milioni ( + 23% rispetto allo stesso periodo del 2003 ) e con un utile netto della capogruppo di 869 milioni , in rialzo sui 674 milioni al 30 giugno 2003 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ chiude ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q241]]
+
+[[Question:MC]]
+TRENTO - Sono i turisti italiani a [trainare] i risultati discreti del settore in luglio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trainare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2174]]
+
+[[Question:MC]]
+C' è chi dice che i terroristi l' abbiano scelta perché hanno [trovato] dei funzionari da corrompere .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trovato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1771]]
+
+[[Question:MC]]
+Ntv non ha [spiegato] come ne sia entrata in possesso .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spiegato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1046]]
+
+[[Question:MC]]
+I trampolini della Val di Fiemme gli hanno sempre [portato] fortuna e soprattutto l' hanno incoronato per due volte campione del mondo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ portato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2208]]
+
+[[Question:MC]]
+« C' è un antico proverbio persiano che [dice] : " quando lo scià impazzisce , marcia sul Caucaso " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dice ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q449]]
+
+[[Question:MC]]
+E questo [è] un' altra guerra ancora , la quarta guerra mondiale , che ci coinvolge davvero tutti , perchè noi non sappiamo se uscendo da quest' albergo ci succederà qualche cosa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q643]]
+
+[[Question:MC]]
+Questi , in sintesi , i risultati [registrati] nell' esercizio 92 dal gruppo Sara assicurazioni , approvato ieri dall' assemblea dei soci .
+[[Question:MC:SingleAnswer]]
+Il verbo [ registrati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q555]]
+
+[[Question:MC]]
+TOKYO - Giornata da tregenda ieri in Giappone colpito dal tifone Songda che ha spazzato le regioni sud-occcidentali del Paese con venti di oltre 200 chilometri orari , seminando morte e distruzione sulla terraferma e in mare , e [travolgendo] tesori sacri per l' arte e la coscienza storica del mondo intero .
+[[Question:MC:SingleAnswer]]
+Il verbo [ travolgendo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1317]]
+
+[[Question:MC]]
+La tradizionale , straordinaria sensibilità dei trentini ha avuto modo di esprimersi già nelle prime ore dopo la tragedia , con l' avvio di iniziative capaci di esprimere lo sgomento e l' orrore per i fatti di Beslan : ma ora a mio avviso è giunto il momento di organizzare e dare sistematicità ai diffusi sentimenti dei trentini che vogliono [dare] una testimonianza tangibile della loro vicinanza a quella sventurata popolazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q453]]
+
+[[Question:MC]]
+E questo è un' altra guerra ancora , la quarta guerra mondiale , che ci coinvolge davvero tutti , perchè noi non sappiamo se uscendo da quest' albergo ci [succederà] qualche cosa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ succederà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q370]]
+
+[[Question:MC]]
+Lo zainetto con l' orso più amato dai bambini ( 49,50 euro ) [è] azzurro , quindi urge un corredo coordinato : diario ( 9,50 euro ) e astuccio con miriade di tasche e cerniere .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q684]]
+
+[[Question:MC]]
+Costruire il futuro del paese è strategico e lo confermano anche due degli interventi generosamente sostenuti dall' amministrazione provinciale : il centro di istruzione per l' occupazione El Buen Pastor e l' istituto di educazione tecnologica di Manchay che , come l' Università Sedes Sapientiae , [sono] progetti gestiti direttamente dalla Provincia con contributi complessivi , spalmati nel triennio 2003 - 2005 , di 530mila euro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1199]]
+
+[[Question:MC]]
+Anche il risultato sportivo è [stato] buono , con 2 squadre a 42 punti e ben 3 a seguire con 41 , con Maria Silva Boccardi che ha fatto tesoro della precedente gara a squadre , dove è stata partner di Costantino Rocca .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q928]]
+
+[[Question:MC]]
+nan [Pensare] che il licenziamento dell' attuale Direttore Generale rappresenti la magica soluzione dei problemi della Sanità è una illusione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Pensare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2150]]
+
+[[Question:MC]]
+I sopravvissuti poterono tornare in patria solo dopo il 20 ° congresso del partito comunista , dove Nikita Chruschev nel 1956 [denunciò] le colpe di Stalin .
+[[Question:MC:SingleAnswer]]
+Il verbo [ denunciò ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1762]]
+
+[[Question:MC]]
+In teoria , nessuna norma impone un ultimatum per il loro deposito , ma i capigruppo hanno siglato questa sorta di « accordo tra gentiluomini » per [dare] modo agli uffici di compiere una veloce fase di istruttoria delle eventuali nuove domande inserite negli emendamenti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

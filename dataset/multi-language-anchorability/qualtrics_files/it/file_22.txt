@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q671]]
+
+[[Question:MC]]
+L' obiettivo dell' intesa ( tre anni la sua durata ) [è] quello di « porre le basi per una collaborazione fra le parti nei settori dell' istruzione ed educazione , della formazione professionale dei giovani , della formazione imprenditoriale e del consolidamento di microimprese , culturale e sociale » come recita l' articolo 1 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q606]]
+
+[[Question:MC]]
+Le staminali dei fratellini hanno lavorato e prodotto emoglobina e cellule sane : già a [partire] dal 28 agosto ( 16 / a giornata dal trapianto ) sono stati trovati nel sangue del bambino valori di globuli bianchi ampiamente protettivi rispetto ai rischi di infezione e due giorni dopo si sono documentati i primi segni di significativa produzione di globuli rossi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ partire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2166]]
+
+[[Question:MC]]
+Come risposta Putin dichiarò la guerra che [continua] fino ad oggi »
+[[Question:MC:SingleAnswer]]
+Il verbo [ continua ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2209]]
+
+[[Question:MC]]
+« C' è un antico proverbio persiano che dice : " quando lo scià [impazzisce] , marcia sul Caucaso " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ impazzisce ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1428]]
+
+[[Question:MC]]
+Le azioni Schemaventuno necessarie saranno fornite pro quota dagli attuali azionisti , così da mantenere , ha [spiegato] un portavoce , gli attuali equilibri che vedono Edizione e Del Vecchio in posizione paritetica ( 47,50% ) con Movenpick in minoranza ( 5,00% ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spiegato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1854]]
+
+[[Question:MC]]
+Lo ha [riferito] la Tv irachena Al-Sharqiya precisando che i rapitori hanno bloccato un autobus con a bordo 60 lavoratori e diretto alla raffineria di Baiji , vicino a Tilal Himrin .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riferito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2044]]
+
+[[Question:MC]]
+« Questa iniziativa vuole essere una sorta di " breviario " - spiega l' ideatore , Renato Morelli a cui è affidata la direzione artistica del festival - in questo caso [focalizzato] sull' Arco alpino e sulla nuova Europa per interrogarsi sugli altri , sui diversi , sui confini che rompono e si spostano , sulle minoranze anche lontano che diventano presenze vicine e quotidiane » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ focalizzato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q214]]
+
+[[Question:MC]]
+Sono appena 13 i gol [segnati] in 7 partite .
+[[Question:MC:SingleAnswer]]
+Il verbo [ segnati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1948]]
+
+[[Question:MC]]
+Eh , questa non mi [è] nuova .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q464]]
+
+[[Question:MC]]
+« Più volte il Papa ha ricordato che lo statuto dell' Onu fornisce tutti i mezzi per affrontare congiuntamente i pericoli che [mettono] in crisi la stabilità e la sicurezza internazionali .
+[[Question:MC:SingleAnswer]]
+Il verbo [ mettono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1577]]
+
+[[Question:MC]]
+I bambini russi reclutati nell' Accademia , nella piccola isola di fronte San Pietroburgo , sono tutti piccoli abbandonati , orfani , figli di alcolizzati , che hanno subito violenze , bambini che Putin vuole trasformare in piccoli soldati [ripristinando] la vecchia caserma zarista .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ripristinando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q635]]
+
+[[Question:MC]]
+Sono stabili ma sempre gravi le condizioni di Susanna Franzoni , la 19enne di Varese ricoverata al neurochirurgico di Bolzano per i traumi [riportati] nell' incidente avvenuto domenica all' alba a Pinzolo , quado un' auto è carambolata contro un muro nel centro del paese .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riportati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1087]]
+
+[[Question:MC]]
+Due proposte , pare [avanzate] dalla britannica Zeneca e dalla svizzera Roche , sono infatti svanite come neve al sole nelle ultime ore .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avanzate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1961]]
+
+[[Question:MC]]
+Ci [vuole] misura in tutto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vuole ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q889]]
+
+[[Question:MC]]
+La parte operativa della Dirigenza va guidata dalla parte politica che [ha] il delicato compito di rendere compatibili le diverse richieste , talora contrastanti , dei cittadini nei confronti della Sanità Pubblica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ha ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q953]]
+
+[[Question:MC]]
+C' è bisogno che la comunità internazionale ritrovi la sua unità per combattere al meglio il terrorismo internazionale , senza [dimenticare] che non c' è solo l' opzione militare ma la politica , il dialogo e la ragione » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dimenticare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1169]]
+
+[[Question:MC]]
+« Riteniamo opportuno - scrivono i richiedenti nella richiesta di variante al Prg [inviata] al sindaco Pacher - che tutta l' area verde posta a nord di Vela ( Laghetti ) , per il suo elevato e originale valore paesaggistico e ambientale , debba essere trasformata in un parco , un polo della natura , per tutta la città » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ inviata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1864]]
+
+[[Question:MC]]
+Sono bastate poche ore di fuoco per [provocare] una vittima e danni ingenti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ provocare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1226]]
+
+[[Question:MC]]
+La quadratura del cerchio è stata ottenuta grazie alla disponibilità , praticamente in tempo reale , dei fondi pubblici ( ed anche all' aiuto della Cassa Rurale di Aldeno e Cadine ) : « Abbiamo potuto così mantenere un rapporto fiduciario con le imprese che [avevano] la garanzia di venire pagate in tempi proporzionali alla velocità di esecuzione » aggiunge Rossi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avevano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2052]]
+
+[[Question:MC]]
+Significativo anche il titolo : « Minoranzèro - spiega Morelli - [indica] lo zero della prima edizione , ma richiama anche il concetto di " romancero " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ indica ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q2388]]
+
+[[Question:MC]]
+Sentence 1: In ogni caso le 250 richieste presentate dai residenti della Vela ( e non solo ) arrivate in questi mesi al Comune [ sono ] il segnale più evidente della contrarietà di una comunità intera al progetto di realizzazione a nord dell' abitato ( nell' area dei Laghetti ) di un polo della rottamazione .
+Sentence 2: Chiedono , in attesa della realizzazione di un parco fluviale dell' Adige collegato al biotopo ( come [ previsto ] da una delibera del Consiglio comunale del 2001 ) , di istituire una fascia di verde di tutela lungo l' argine destro del fiume , in modo da scongiurare qualsiasi possibilità di edificazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] accade PRIMA del verbo [ previsto ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q927]]
+
+[[Question:MC]]
+Sentence: Costruire il futuro del paese è strategico e lo [ confermano ] anche due degli interventi generosamente sostenuti dall' amministrazione provinciale : il centro di istruzione per l' occupazione El Buen Pastor e l' istituto di educazione tecnologica di Manchay che , come l' Università Sedes Sapientiae , sono progetti [ gestiti ] direttamente dalla Provincia con contributi complessivi , spalmati nel triennio 2003 - 2005 , di 530mila euro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ confermano ] accade PRIMA del verbo [ gestiti ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3483]]
+
+[[Question:MC]]
+Sentence 1: Ntv non ha spiegato come ne sia [ entrata ] in possesso .
+Sentence 2: La videocamera si muove molto , ma [ è ] chiaro che i sequestratori cercavano di filmare il loro dispositivo esplosivo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ entrata ] accade PRIMA del verbo [ è ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3424]]
+
+[[Question:MC]]
+Sentence: Le staminali dei fratellini hanno lavorato e prodotto emoglobina e cellule sane : già a [ partire ] dal 28 agosto ( 16 / a giornata dal trapianto ) sono stati [ trovati ] nel sangue del bambino valori di globuli bianchi ampiamente protettivi rispetto ai rischi di infezione e due giorni dopo si sono documentati i primi segni di significativa produzione di globuli rossi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ partire ] accade PRIMA del verbo [ trovati ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1485]]
+
+[[Question:MC]]
+Sentence: Durante le deportazioni ci furono trasportati i Ceceni , ed ora l' Ingushezia cecena [ rivendica ] tutta la regione di Prigorodnj , dove [ è ] appunto il teatro della strage » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rivendica ] accade PRIMA del verbo [ è ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2233]]
+
+[[Question:MC]]
+Sentence 1: Sono stabili ma sempre gravi le condizioni di Susanna Franzoni , la 19enne di Varese ricoverata al neurochirurgico di Bolzano per i traumi [ riportati ] nell' incidente avvenuto domenica all' alba a Pinzolo , quado un' auto è carambolata contro un muro nel centro del paese .
+Sentence 2: Nello schianto sono rimaste ferite anche tre colleghe di lavoro della giovane lombarda : in rianimazione all' ospedale di Trento è ricoverata Laura Patrizia Uboldi , 26 anni di Carisolo , la giovane che [ era ] alla guida della Peugeot 206 uscita di strada ; Nadia Bonapace , 18enne di Roncone , si trova nel reparto di chirurgia ; Arianna Vettori , 17enne di Rovereto era stata portata per controlli al Pronto Soccorso di Tione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riportati ] accade DOPO il verbo [ era ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1194]]
+
+[[Question:MC]]
+Sentence: In tema di assenze pesanti qualcosa lamenta pure la Benacense che nel big - match di Ponte Arche ha dovuto [ rinunciare ] a due stoccatori come Delnegro e Cosa risultando piuttosto [ spuntata ] al cospetto del reparto arretrato tradizionalmente più forte del torneo , quello del Comano Fiavè .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rinunciare ] accade PRIMA del verbo [ spuntata ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2140]]
+
+[[Question:MC]]
+Sentence 1: Per governare una macchina imponente come la Sanità Trentina c' [ è ] bisogno anche di conoscerne i diversi aspetti e la rivoluzione continua ai vertici dirigenziali non va in questa direzione .
+Sentence 2: Si [ riappropri ] la Politica del suo ruolo di guida e dotiamoci di strumenti partecipativi e di verifica che siano condivisi per quanto possibile ma pubblici e trasparenti per tutti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] accade PRIMA del verbo [ riappropri ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q778]]
+
+[[Question:MC]]
+Sentence: Un improvviso raptus - come hanno [ accertato ] i carabinieri di Todi - che l' hanno [ trovata ] in stato confusionale ed arrestata .
+[[Question:MC:SingleAnswer]]
+Il verbo [ accertato ] accade PRIMA del verbo [ trovata ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1000]]
+
+[[Question:MC]]
+Sentence 1: E quali testimoni della buona riuscita di alcuni di questi progetti , sono arrivati a Trento due importanti religiosi , accompagnati da monsignor Luigi Bressan : Lino Panizza , vescovo di Carabayllo , che invita le autorità ad intervenire all' ormai prossima inaugurazione del centro El Buen Pastor ( 180 alunni , tra i quali anche alcune ragazze iscritte al corso di falegnameria ) , e Adriano Tomasi , vescovo ausiliario di Lima , che annuncia il completamento ( forse già a marzo ) dei primi edifici dell' istituto di Manchay [ destinato ] a far studiare almeno un migliaio di allievi distribuiti in corsi da sei mesi fino a tre anni .
+Sentence 2: L' università Sedes Sapientiae sta invece per assegnare le prime lauree ( due le facoltà : scienza della formazione e scienza economiche ) e sta [ lavorando ] all' ipotesi di aprire un corso di psicologia che dovrebbe coinvolgere il docente di origini trentine Erminio Gius .
+[[Question:MC:SingleAnswer]]
+Il verbo [ destinato ] accade PRIMA del verbo [ lavorando ].
+[[Choices]]
+Sì
+NO
+NON SO
+

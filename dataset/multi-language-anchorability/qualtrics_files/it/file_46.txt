@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q704]]
+
+[[Question:MC]]
+L' università Sedes Sapientiae sta invece per [assegnare] le prime lauree ( due le facoltà : scienza della formazione e scienza economiche ) e sta lavorando all' ipotesi di aprire un corso di psicologia che dovrebbe coinvolgere il docente di origini trentine Erminio Gius .
+[[Question:MC:SingleAnswer]]
+Il verbo [ assegnare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1252]]
+
+[[Question:MC]]
+" L' Unione non [farà] riforme a colpi di maggioranza " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ farà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1584]]
+
+[[Question:MC]]
+« Con fierezza , con fierezza » grida l' addestratore , ma i ragazzi hanno sonno , sono stanchi ; enormi sbadigli si [spalancano] sulla loro vita malinconica di ordine e disciplina forzati .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spalancano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1276]]
+
+[[Question:MC]]
+La stessa capitale , che era addobbata a festa per le celebrazioni dell' anniversario della sua fondazione , nelle giornate [dedicate] al ricordo delle centinaia e centinaia di bambini e di adulti trucidati in Ossezia si è presentata avvolta da un silenzio irreale , da una tristezza profonda .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dedicate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q590]]
+
+[[Question:MC]]
+C' [era] la possibilità di utilizzare solo l' unità ricca di staminali , ma è stato deciso di trapiantarle entrambe , sia l' unità più ricca di cellule « non manipolate » , sia l' altra più povera , ma dopo averla congelata e trasferita alla « Cell Factory » di Milano , per amplificare il numero delle sue cellule .
+[[Question:MC:SingleAnswer]]
+Il verbo [ era ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q510]]
+
+[[Question:MC]]
+E Veneziani ne illustra i tre livelli : il primo , « [agisce] in platea ... la manovalanza intellettuale di Cosa nostra fischia ministri e direttori di mostra , tutto ciò che odora di Rai , Medus , Cinecittà » , sono quelli che « battono le mani appena arriva qualcuno a rappresentare in pellicola la loro ideologia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ agisce ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q867]]
+
+[[Question:MC]]
+nan [E'] evidente , abbandonando le facezie , che il Direttore Generale della Sanità Provinciale può influenzare molti di questi aspetti , sia dalla parte del cittadino utente che per il cittadino dipendente dei Servizi Sanitari , ma vorrei apportare alla discussione la convinzione che chi dirige la Azienda Sanitaria deve attenersi alle direttive di chi , per proprio mandato istituzionale , deve farsi carico del Servizio Sanitario nel suo insieme , vale a dire della Politica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ E' ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1732]]
+
+[[Question:MC]]
+Così la seduta del 28 settembre tratterà argomenti di ordinaria amministrazione , mentre il 29 si « [apriranno] le danze » con le relazioni introduttive del vicesindaco e assessore all' urbanistica Alessandro Andreatta e del presidente della commissione Agostino Bitteleri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ apriranno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q388]]
+
+[[Question:MC]]
+É comprensibile un po' di amarezza nello [sfiancare] il portafoglio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sfiancare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q175]]
+
+[[Question:MC]]
+Ma a ben guardare anche in questi casi non si può parlare di esiti clamorosi : che la formazione di Zimelli potesse sbancare Natz era infatti nei numeri visto che già l' anno passato si impose su quel campo con un roboante 5 - 3 e che il suo potenziale offensivo , già strepitoso ( basti [ricordare] i 115 gol dell' ultimo biennio ) , è ancor più lievitato adesso con l' ingaggio dell' interessantissimo rumeno Ionut Alecu , non a caso subito a segno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricordare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q180]]
+
+[[Question:MC]]
+Neppure lo 0 - 0 del Ger può essere definito impossibile : nella prima uscita stagionale ci può [stare] che una squadra pur con le ambizioni e i mezzi di quella di Ala non riesca a mettere sotto un Salorno incompleto e rivoluzionato , ma non per questo meno stimolato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q201]]
+
+[[Question:MC]]
+Mentre continuano ad [arrivare] gli aiuti italiani .
+[[Question:MC:SingleAnswer]]
+Il verbo [ arrivare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1621]]
+
+[[Question:MC]]
+In calo le spese generali , ridotte in un anno del 10,00% circa , mentre è [cresciuta] l' incidenza degli oneri finanziari a causa dell' aumento del costo del denaro , soprattutto nella seconda parte del 92 , ma anche dei sensibili ritardi che hanno caratterizzato i pagamenti dei lavori eseguiti da parte dello Stato e delle pubbliche amministrazioni in generale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ cresciuta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1892]]
+
+[[Question:MC]]
+Ora , dopo i novanta minuti e la doppietta a Natz , [è] capocannoniere in coabitazione con Ribul .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q662]]
+
+[[Question:MC]]
+L' assemblea dei soci della Sara , [presieduta] da Rosario Alessi ( che ha sostituito nella carica Filippo Carpi de Resmini anche ai vertici di Sara Vita ) , ha deliberato in sede straordinaria la fusione per incorporazione della Ala assicurazioni , piccola compagnia specializzata nel ramo tutela giudiziaria .
+[[Question:MC:SingleAnswer]]
+Il verbo [ presieduta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1443]]
+
+[[Question:MC]]
+L' operazione , sottolinea il comunicato del gruppo , rientra in un ampio programma di riorganizzazione e semplificazione della catena societaria mirato ad avvicinare la società alle holding di controllo , così da [garantire] una maggior flessibilità operativa e finanziaria .
+[[Question:MC:SingleAnswer]]
+Il verbo [ garantire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1536]]
+
+[[Question:MC]]
+Ieri ha firmato anche D' Alema , mentre Fassino ha dichiarato che « è meglio [puntare] su una nuova legge » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ puntare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q315]]
+
+[[Question:MC]]
+Vittoria netta per il Villazzano di Alberto Betta che a Gabbiolo impiega poco più di dieci minuti per [archiviare] la pratica La Rovere .
+[[Question:MC:SingleAnswer]]
+Il verbo [ archiviare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1602]]
+
+[[Question:MC]]
+Alcune delle famiglie sfollate vivono in vecchie fattorie semidistrutte e tentano una qualche forma di vita allevando capre , pregando , [sperando] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sperando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1775]]
+
+[[Question:MC]]
+La videocamera si muove molto , ma è chiaro che i sequestratori [cercavano] di filmare il loro dispositivo esplosivo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ cercavano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

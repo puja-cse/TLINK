@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1613]]
+
+[[Question:MC]]
+Un film insomma che cerca il perdono , la pace , la grazia , quella grazia che ha scritto la regista « [É] una liberazione totalmente gratuita dalla coazione ad odiare » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ É ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1739]]
+
+[[Question:MC]]
+Toccherà a loro tracciare il quadro generale della variante , spiegare gli obiettivi della revisione che si porterà in aula , illustrare il percorso compiuto dagli uffici e dalla commissione , presentare i criteri con cui sono state [valutate] le domande dei privati .
+[[Question:MC:SingleAnswer]]
+Il verbo [ valutate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1182]]
+
+[[Question:MC]]
+Lo [sostiene] L' Espresso .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sostiene ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1515]]
+
+[[Question:MC]]
+Sempre ieri , intanto , il Consiglio di amministrazione della cassa ha approvato il bilancio semestrale , che vede crescere la raccolta complessiva a circa 6.322 milioni di euro , mentre quella indiretta fa [annotare] una crescita pari ad oltre l' 11% .
+[[Question:MC:SingleAnswer]]
+Il verbo [ annotare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1986]]
+
+[[Question:MC]]
+E Mediobanca avrebbe già individuato anche il pilota cui affidare il compito del rilancio : in pole position c' è Giorgio Cefis , destinato ad assumere la carica di amministratore delegato e di presidente della Santavaleria mentre Varasi [lascerebbe] ogni incarico operativo pur mantenendo il ruolo di principale azionista .
+[[Question:MC:SingleAnswer]]
+Il verbo [ lascerebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1448]]
+
+[[Question:MC]]
+Si possono comunque [consolare] i biancocelesti guardando la statistica : negli ultimi due anni a vincere il campionato è stata proprio la squadra che all' esordio aveva affrontato il Salorno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ consolare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2118]]
+
+[[Question:MC]]
+I caucasici [resistettero] per diversi anni : dal 1820 al 1859 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ resistettero ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q615]]
+
+[[Question:MC]]
+Emesse 70 ordinanze di custodia cautelare , supportate da migliaia di intercettazioni ambientali e telefoniche , dichiarazioni di collaboratori di giustizia e testimonianze di una trentina di imprenditori e commercianti vittime dell' usura che , messi alle strette dagli investigatori , hanno ammesso di essere in mano agli usurai fornendo le indicazioni necessarie per [giungere] alla loro identificazione e all' arresto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ giungere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q601]]
+
+[[Question:MC]]
+Dal 12 agosto , giorno del doppio trapianto , a oggi , i riscontri via via [ottenuti] sulle condizioni del piccolo paziente hanno confortato le speranze riposte dai ricercatori di Paviaa e Milano .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ottenuti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q904]]
+
+[[Question:MC]]
+Non è pensabile che il lavoro del Direttore Generale venga valutato solo in prossimità della scadenza del mandato ; la Politica dovrebbe avere un costante ritorno di quanto [avviene] nella Azienda Sanitaria sia da parte di chi ne produce i Servizi che da parte di chi ne fruisce .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avviene ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q10]]
+
+[[Question:MC]]
+nan [É] sicuramente ben riuscita , grazie ad una precisa addizionale d' inventiva , la rilettura dei quadri di Edward Hopper fatta da Guilherme Botelho per l' appuntamento serale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ É ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1217]]
+
+[[Question:MC]]
+« L' esperienza di questi lavori - spiega il presidente della Scuola Alessandro Rossi , esperto in appalti pubblici - è un segnale importante : è la dimostrazione che quando pubblico e privato vogliono collaborare possono [realizzare] interventi significativi ed in tempi estremamente rapidi » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ realizzare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2015]]
+
+[[Question:MC]]
+Intanto i consigli di Santavaleria e di altre società del gruppo Varasi che si sarebbero dovuti svolgere oggi sono [slittati] a venerdì prossimo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ slittati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1044]]
+
+[[Question:MC]]
+La Coppa del Mondo estiva di salto con gli sci lo scorso weekend ha celebrato la terza prova in Polonia registrando una nuova vittoria del fuoriclasse Adam Malysz , il quale ha [centrato] così tre vittorie in tre gare .
+[[Question:MC:SingleAnswer]]
+Il verbo [ centrato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q701]]
+
+[[Question:MC]]
+E quali testimoni della buona riuscita di alcuni di questi progetti , sono arrivati a Trento due importanti religiosi , accompagnati da monsignor Luigi Bressan : Lino Panizza , vescovo di Carabayllo , che invita le autorità ad intervenire all' ormai prossima inaugurazione del centro El Buen Pastor ( 180 alunni , tra i quali anche alcune ragazze iscritte al corso di falegnameria ) , e Adriano Tomasi , vescovo ausiliario di Lima , che annuncia il completamento ( forse già a marzo ) dei primi edifici dell' istituto di Manchay destinato a far [studiare] almeno un migliaio di allievi distribuiti in corsi da sei mesi fino a tre anni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ studiare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2186]]
+
+[[Question:MC]]
+« Ad un certo punto i Ceceni si sono [ricordati] di essere mussulmani .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricordati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2140]]
+
+[[Question:MC]]
+« Stalin , da buon georgiano , aveva un astio particolare per quelli che dal suo punto di vista [erano] solo dei rozzi montanari - racconta Bensi - la deportazione in Siberia fu organizzata a partire dal 1944 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ erano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q161]]
+
+[[Question:MC]]
+Della riforma del federalismo [va] applicato alle autonomie solo ogni intervento migliorativo rispetto alle condizioni attuali .
+[[Question:MC:SingleAnswer]]
+Il verbo [ va ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q73]]
+
+[[Question:MC]]
+" Questa [è] una giornata importante per l' Iri - ha sottolineato Michele Tedeschi , presidente di via Veneto - Stiamo privatizzando nella massima trasparenza e tenendo contro degli interessi di Iri , imprese e dipendenti " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1270]]
+
+[[Question:MC]]
+Tutte le manifestazioni [indette] per i giorni di lutto nazionale sono state cancellate , compreso il concerto che il nostro Coro Monte Peller doveva tenere a Mosca .
+[[Question:MC:SingleAnswer]]
+Il verbo [ indette ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

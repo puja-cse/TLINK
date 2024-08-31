@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q554]]
+
+[[Question:MC]]
+Djordjevic reconoció además que se siente un azulgrana más - - " aquí he puesto mis raíces , he comprado una casa , he vivido el club , los colores , y me siento un culé más " - - después de estas tres temporadas , pero [ añadió ] que ese sentimiento no tiene por qué influir en su decisión .
+" Me siento completamente libre de escoger mi futuro , eso es otra historia " , [ dice ] .
+[[Question:MC:SingleAnswer]]
+El verbo [ añadió ] pasa ANTES que el verbo [ dice ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q586]]
+
+[[Question:MC]]
+" [ Creo ] que se equivocan , pero [ es ] una opinión personal " , señaló Djordjevic , desmintiendo que haya tenido ningún problema con García Reneses , con quien se reunió ayer durante media hora .
+[[Question:MC:SingleAnswer]]
+El verbo [ Creo ] pasa DESPUÉS del verbo [ es ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q625]]
+
+[[Question:MC]]
+" La aportación de Sasha ha [ sido ] muy positiva , pero [ creo ] que se ha cumplido el ciclo previsto cuando fichó " , indicó , por su parte , García Reneses para explicar la decisión de no hacerle ninguna oferta de renovación .
+[[Question:MC:SingleAnswer]]
+El verbo [ sido ] pasa DESPUÉS del verbo [ creo ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q141]]
+
+[[Question:MC]]
+El paro en Japón afecta en mayor medida a los hombres , que han [ superado ] la barrera del 5% [ situándose ] en Febrero en el 5,1% .
+[[Question:MC:SingleAnswer]]
+El verbo [ superado ] pasa DESPUÉS del verbo [ situándose ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q104]]
+
+[[Question:MC]]
+La economía japonesa se [ encuentra ] en recesión .
+Japón , considerado tradicionalmente como un país con una tasa de paro insignificante , contaba a finales de Febrero con 3,27 millones de demandantes de empleo , lo que [ supone ] 180.000 personas más que en enero .
+[[Question:MC:SingleAnswer]]
+El verbo [ encuentra ] pasa ANTES que el verbo [ supone ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q126]]
+
+[[Question:MC]]
+El Gobierno prevé que los próximos meses sean malos en materia de empleo , ya que [ espera ] que se incorporen al mercado laboral los nuevos licenciados en las universidades debido a que el año escolar acaba de [ terminar ] .
+[[Question:MC:SingleAnswer]]
+El verbo [ espera ] pasa DESPUÉS del verbo [ terminar ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q379]]
+
+[[Question:MC]]
+Por desgracia , el mar ya no es libre , y su riqueza se [ agota ] o cae en manos de los depre[ da ]dores : que más da que lleven traje y corbata o chilaba y turbante .
+[[Question:MC:SingleAnswer]]
+La relación entre [ agota ] y [ da ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q139]]
+
+[[Question:MC]]
+El paro en Japón [ afecta ] en mayor medida a los hombres , que han superado la barrera del 5% situándose en Febrero en el 5,1% .
+Las mujeres [ mantienen ] su tasa en el 4,5% , ya que se ven beneficiadas por el crecimiento de la contratación a tiempo parcial .
+[[Question:MC:SingleAnswer]]
+El verbo [ afecta ] pasa DESPUÉS del verbo [ mantienen ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q739]]
+
+[[Question:MC]]
+" Creo que hemos [ hecho ] una oferta competitiva , que está dentro del nivel del mercado " , aseguró ayer el gerente del club , Antonio Maceiras , sobre la negociación con Esteller , el capitán del equipo .
+" Me gustaría quedarme , pero la oferta que me han hecho , no es suficientemente competitiva " , [ indicó ] , por su parte , el jugador .
+[[Question:MC:SingleAnswer]]
+El verbo [ hecho ] pasa SIMULTÁNEAMENTE con el verbo [ indicó ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q115]]
+
+[[Question:MC]]
+De los 3,27 millones de parados , un total de 1,15 millones se han visto obligados a [ abandonar ] involuntariamente su trabajo .
+El Gobierno [ prevé ] que los próximos meses sean malos en materia de empleo , ya que espera que se incorporen al mercado laboral los nuevos licenciados en las universidades debido a que el año escolar acaba de terminar .
+[[Question:MC:SingleAnswer]]
+El verbo [ abandonar ] pasa ANTES que el verbo [ prevé ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+

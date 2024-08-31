@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q236]]
+
+[[Question:MC]]
+L' obiettivo [è] quello di " sviluppare iniziative di comune interesse ed a favorire concretamente la collaborazione tra ITC - Irst e le aziende aderenti all' Associazione " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1351]]
+
+[[Question:MC]]
+Ci sono poi Bravo Productions e New Programma Video per la produzione televisiva , mentre nell' home video [sono] attive Domovideo e Vhr .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q882]]
+
+[[Question:MC]]
+Il Politico deve dire al Direttore Generale quale sia la strada da percorrere e [deve] porre in essere verifiche che gli consentano di avere informazioni di ritorno per correggere eventuali digressioni dal programma .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deve ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q374]]
+
+[[Question:MC]]
+Ci sarebbe da [comprare] anche una bustina a parte , ma manca quella della stessa tonalità .
+[[Question:MC:SingleAnswer]]
+Il verbo [ comprare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q806]]
+
+[[Question:MC]]
+Di Giulio Giorello colpisce la capacità di comunicare con immediatezza l' entusiasmo per la conoscenza e la straordinaria foga con cui si [dedica] alla sua divulgazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dedica ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1493]]
+
+[[Question:MC]]
+Il giudice ha applicato il massimo della pena ( dai 3 ai 15 anni ) spiegando di voler [dare] un esempio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q652]]
+
+[[Question:MC]]
+" Le minusvalenze di 13,8 miliardi - [spiega] la nota - conseguenti all' allineamento dei valori mobiliari ai corsi di fine anno , sono state interamente portate a conto economico " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spiega ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1702]]
+
+[[Question:MC]]
+Intanto il procuratore di Marsala si è detto convinto che « la piccola [è] viva » e si troverebbe « a Mazara del Vallo o nelle vicinanze » tenuta segregata da qualcuno che vuole « punire » per « motivi personali » i genitori della bimba di quattro anni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q879]]
+
+[[Question:MC]]
+Il Politico deve [dire] al Direttore Generale quale sia la strada da percorrere e deve porre in essere verifiche che gli consentano di avere informazioni di ritorno per correggere eventuali digressioni dal programma .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1633]]
+
+[[Question:MC]]
+Quattro pachistani musulmani , [condannati] a morte per lo stupro collettivo di una giovane cristiana , sono stati impiccati oggi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ condannati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q760]]
+
+[[Question:MC]]
+Il secondo quando Maria Minà ha [tentato] di togliere l' arma dalla mani del marito .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tentato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q113]]
+
+[[Question:MC]]
+Il valore complessivo dell' operazione , che sarà completata entro la fine del 2006 , è di 2,1 miliardi di dollari , in virtù dei 28 dollari in contanti che la prima verserà per ogni azione della seconda - Joe Tucci , Ceo di Emc , ha commentato l' operazione nella conference call di rito [sottolineando] un concetto su tutti : " Emc si trasforma da società che opera dove le informazioni vivono a società in cui le informazioni vivranno in modo sicuro " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sottolineando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q689]]
+
+[[Question:MC]]
+« Il 90% dei nostri interventi di solidarietà nel mondo - ricorda Berasi - [hanno] come riferimento trentini e religiosi » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ hanno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1820]]
+
+[[Question:MC]]
+« La proclamazione dello sciopero - ha precisato Elena Vannucci , segretaria nazionale Fiba Cisl - [deriva] dalla chiusura totale da parte dell' Abi , che si è dimostrata non disposta a trattare dopo che si era raggiunta una buona piattaforma di accordo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deriva ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q326]]
+
+[[Question:MC]]
+Franco Pistolato , allenatore dell' Alta Vallagarina , è [soddisfatto] per l' importante successo ottenuto contro la Condinese .
+[[Question:MC:SingleAnswer]]
+Il verbo [ soddisfatto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1808]]
+
+[[Question:MC]]
+« Sono certo che i colleghi sindaci in questo momento così tragico [vorranno] aiutare i bambini sopravvissuti , ad alleviare , se mai fosse possibile , il dolore » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vorranno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1650]]
+
+[[Question:MC]]
+La Cassa Rurale di Trento [è] la più grande banca di credito cooperativo trentina , con 24 sportelli concentrati esclusivamente sul territorio comunale del capoluogo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1146]]
+
+[[Question:MC]]
+Alla luce della decisione dell' assessore Andreatta di [prendere] in considerazione le richieste presentate entro il 30 giugno di quest' anno alla Vela pretendono che pure le loro istanze vengano dibattute in commissione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ prendere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q45]]
+
+[[Question:MC]]
+Come stile creativo , quello di Botelho , è un teatro danza di terza generazione molto attento alle qualità descrittive del gesto ed è [abitato] da ottimi danzatori capaci anche di essere attori .
+[[Question:MC:SingleAnswer]]
+Il verbo [ abitato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1516]]
+
+[[Question:MC]]
+Gli impieghi [aumentano] circa del 13% .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aumentano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

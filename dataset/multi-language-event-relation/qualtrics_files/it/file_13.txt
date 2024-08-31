@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q602]]
+
+[[Question:MC]]
+Sentence: Valentini , che [ è ] direttore di un golf club , dopo aver spedito la giovane moglie Cheryl con i figlioletti Liliana ( 6 mesi ) e Alexander ( 3 anni ) sulla costa occidentale della penisola , al riparo dall' uragano , si è [ barricato ] all' interno del ristorante del club con altre 300 persone in attesa che la tempesta passasse .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] accade PRIMA del verbo [ barricato ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3873]]
+
+[[Question:MC]]
+Sentence 1: " Le minusvalenze di 13,8 miliardi - spiega la nota - conseguenti all' allineamento dei valori mobiliari ai corsi di fine anno , sono state interamente [ portate ] a conto economico " .
+Sentence 2: Le riserve premi ( 222,5 miliardi ) e le riserve sinistri ( 655,6 miliardi ) [ risultano ] interamente coperte dagli investimenti , che hanno raggiunto 1092 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ portate ] accade PRIMA del verbo [ risultano ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3556]]
+
+[[Question:MC]]
+Sentence: Difficile fare pronostici , [ sono ] in molti ad ambire ad un successo a Predazzo , in primis i norvegesi che stanno [ migliorando ] di gara in gara e che domenica hanno vinto la competizione a squadre .
+[[Question:MC:SingleAnswer]]
+La relazione tra [ sono ] e [ migliorando ] è VAGA (i.e., nessuna delle precedenti).
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q504]]
+
+[[Question:MC]]
+Sentence: Significativo anche il titolo : « Minoranzèro - [ spiega ] Morelli - indica lo zero della prima edizione , ma [ richiama ] anche il concetto di " romancero " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spiega ] accade PRIMA del verbo [ richiama ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1994]]
+
+[[Question:MC]]
+Sentence 1: La struttura , antica di un secolo , è [ rimasta ] chiusa tra giugno e settembre , con il solo « sacrificio » del tradizionale asilo estivo che riprenderà regolarmente la prossima estate .
+Sentence 2: Nel corso delle ultime quindici settimane si sono così [ alternate ] numerose ed anche nutrite squadre di addetti che hanno consentito il pieno rispetto della tabella di marcia fissata ancora lo scorso aprile .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rimasta ] accade SIMULTANEAMENTE con il verbo [ alternate ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3220]]
+
+[[Question:MC]]
+Sentence: Il ministro dell' Industria Vito Gnutti ha [ espresso ] soddisfazione per la definitiva conclusione della vendita , [ sottolineando ] come " quando le cose sono ben fatte e soprattutto sono impostate seriamente anche i nostri partners europei lo riconoscono " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ espresso ] accade PRIMA del verbo [ sottolineando ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2166]]
+
+[[Question:MC]]
+Sentence 1: Poi , affinché gli interventi inseriti nella variante possano effettivamente venire realizzati , servirà il « visto » della giunta provinciale , che [ ha ] a disposizione un anno per leggere tutta la documentazione .
+Sentence 2: L' escamotage di depositare la delibera in tempi separati permetterà di evitare l' impaccio del megaemendamento che - nelle intenzioni di parecchi consiglieri - sarebbe stato necessario presentare per riconsiderare tutte le domande [ rimaste ] escluse .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ha ] accade PRIMA del verbo [ rimaste ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q774]]
+
+[[Question:MC]]
+Sentence 1: PERUGIA - Era venuta da pochi giorni da Spoleto a Piedicolle , una frazione del comune di Collazzone ( Perugia ) , per assistere la figlia che da qualche anno aveva addirittura [ lasciato ] il lavoro perchè affetta da crisi di depressione .
+Sentence 2: Ieri è stata da lei [ uccisa ] a coltellate .
+[[Question:MC:SingleAnswer]]
+Il verbo [ lasciato ] accade PRIMA del verbo [ uccisa ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3572]]
+
+[[Question:MC]]
+Sentence: Sondati vagamente i suoi gusti ( meglio Winnie The Pooh , rispetto a un serioso zainetto squadrato della Scout che peraltro [ costa ] 97 euro ) , ecco [ attivarsi ] la mamma .
+[[Question:MC:SingleAnswer]]
+Il verbo [ costa ] accade DOPO il verbo [ attivarsi ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q323]]
+
+[[Question:MC]]
+Sentence 1: In un laconico comunicato la Wellcome ha reso noto che una controproposta [ era ] sul tavolo ( pare da parte della Zeneca ) ma si è scontrata con il rifiuto del Wellcome Trust , la fondazione caritatevole che detiene il 39,50% del capitale della società .
+Sentence 2: Questa non avrebbe voluto impegnarsi ad accettare una seconda offerta ( più elevata ) come definitiva sia perché impossibilitata sul piano legale sia perché [ legata ] a un' esclusiva con la Glaxo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ era ] accade DOPO il verbo [ legata ].
+[[Choices]]
+Sì
+NO
+NON SO
+

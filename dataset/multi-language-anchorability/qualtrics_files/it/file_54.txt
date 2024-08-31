@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q347]]
+
+[[Question:MC]]
+Noi puntiamo a trovare un buon equilibrio e a [disputare] un buon campionato » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ disputare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2142]]
+
+[[Question:MC]]
+« Stalin , da buon georgiano , aveva un astio particolare per quelli che dal suo punto di vista erano solo dei rozzi montanari - racconta Bensi - la deportazione in Siberia fu [organizzata] a partire dal 1944 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ organizzata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2184]]
+
+[[Question:MC]]
+Ma l' humus letale , per far [nascere] il terrorismo , dov' era ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ nascere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q278]]
+
+[[Question:MC]]
+NORTON ( Stati Uniti ) - Si [volta] pagina nel golf : un giocatore delle isole Figi , Vijay Singh , ha strappato a 41 anni la corona al fin qui imbattibile americano Tiger Woods , l' uomo che più a lungo nella storia ha conservato il numero uno nella classifica mondiale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ volta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1378]]
+
+[[Question:MC]]
+« Probabilmente ne sono [morti] quarantamila .
+[[Question:MC:SingleAnswer]]
+Il verbo [ morti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q838]]
+
+[[Question:MC]]
+Come Trentino , vorrei avere i migliori servizi dai migliori professionisti sanitari , a disposizione 24 ore su 24 ; questi Servizi li vorrei disponibili , sia per le urgenze che per gli interventi programmabili , nei tempi da me ritenuti adeguati ; [vorrei] la massima disponibilità d' animo e di tempo di tutti gli operatori sanitari ; il cibo e la sistemazione logistica dovrebbero essere non solo di mio gradimento ma consentirmi anche di poter scegliere tra varie opzioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vorrei ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q801]]
+
+[[Question:MC]]
+Come ampiamente anticipato dalla stampa spagnola , il premier Jose' Luis Rodriguez Zapatero ha annunciato oggi che verranno avviate trattative con i separatisti dell' Eta - - " Vi annuncio che il governo avviera' negoziati con l' Eta " , ha dichiarato il leader socialista in una conferenza stampa a Madrid - - " La democrazia non paghera' nessun prezzo politico per la pace " " , ha aggiunto il premier , replicando indirettamente alle critiche dell' opposizione , contraria a qualunque dialogo con l' organizzazione terroristica - Per questa ragione , ha quindi spiegato , il dialogo verra' avviato " " [conservando] il principio che le questioni politiche si devono risolvere con i rappresentanti del popolo " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ conservando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1657]]
+
+[[Question:MC]]
+I giudici si sono espressi con un voto di 5-3 sul caso dello yemenita Salim Ahmed Hamdan , un detenuto di Guantanamo che è stato l' autista di Osama bin Laden e ha sfidato la legittimità delle ' Commissioni militari ' [create] dall' amministrazione Bush .
+[[Question:MC:SingleAnswer]]
+Il verbo [ create ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q499]]
+
+[[Question:MC]]
+I caldei - spiega Cossiga - sono stati sempre fieri sostenitori di Saddam Hussein e ne hanno [ricevuto] in cambio la protezione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricevuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q977]]
+
+[[Question:MC]]
+« Quanto accaduto a Beslan - ha affermato Pacher - costituisce il superamento di una soglia inimmaginabile , ed è importante che tutta la città , senza divisioni né appartenenze , sia in piazza per ribadire valori che [uniscono] tutti , nel nome di una civiltà che si ritrova e di principi attorno a cui si costruisce l' idea di cittadinanza » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ uniscono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q683]]
+
+[[Question:MC]]
+Costruire il futuro del paese è strategico e lo confermano anche due degli interventi generosamente [sostenuti] dall' amministrazione provinciale : il centro di istruzione per l' occupazione El Buen Pastor e l' istituto di educazione tecnologica di Manchay che , come l' Università Sedes Sapientiae , sono progetti gestiti direttamente dalla Provincia con contributi complessivi , spalmati nel triennio 2003 - 2005 , di 530mila euro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sostenuti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1084]]
+
+[[Question:MC]]
+Il takeover , del valore di 9 miliardi di sterline ( oltre 24mila miliardi di lire ) ha visto la strada spianata dopo che la Wellcome ha [riconosciuto] di non potere presentare alcuna controfferta alternativa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riconosciuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q978]]
+
+[[Question:MC]]
+« Quanto accaduto a Beslan - ha affermato Pacher - costituisce il superamento di una soglia inimmaginabile , ed è importante che tutta la città , senza divisioni né appartenenze , sia in piazza per ribadire valori che uniscono tutti , nel nome di una civiltà che si [ritrova] e di principi attorno a cui si costruisce l' idea di cittadinanza » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ritrova ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1391]]
+
+[[Question:MC]]
+Si tratta di un gruppuscolo che si è installato nel disordine [creato] dal pompiere piromane Putin » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ creato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1258]]
+
+[[Question:MC]]
+" " Ricercheremo in maniera coerente - [sottolinea] Rutelli - il confronto sulla revisione del Titolo V della Costituzione , sulle modifiche alla legge elettorale , sulla riduzione del numero dei parlamentari , e su altre distinte materie che e' possibile condividere , ma senza piu' far ricorso a commissioni come la Bicamerale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sottolinea ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1077]]
+
+[[Question:MC]]
+Sorride e [guarda] verso la rinnovata facciata esterna della scuola .
+[[Question:MC:SingleAnswer]]
+Il verbo [ guarda ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q525]]
+
+[[Question:MC]]
+Il secondo livello , scrive Veneziani , è « costituto da un clan di giornalisti che scrivono divisi ma colpiscono uniti , elogiando le pellicole politicamente corrette , colmano di elogi chiunque sia in odore di disprezzare Bush , Berlusconi , Croff e le bandane e viceversa [pisciano] lacrime di commozione per tutti gli amarcord del sessantotto , anni settanta , Radio Alice » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ pisciano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q712]]
+
+[[Question:MC]]
+A quanto [pare] , il niet arrivato dagli ambienti bolzanini , restii ad avere una persona non bilingue in un ruolo così delicato , ha fatto saltare l' operazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ pare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1559]]
+
+[[Question:MC]]
+Gavino Angius ha rinviato l' accusa di Giovanardi al mittente : « E' la Cdl - ha detto - con una legge che obbliga una donna ad impiantare nel suo utero embrioni malati , ad aver [approvato] qualcosa di simile a esperimenti nazisti » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ approvato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q428]]
+
+[[Question:MC]]
+Dopo un periodo di calo , anche gli l' Invicta ( 68 euro ) sembra [fare] nuovamente capolino fra gli scaffali , mentre , dopo aver dominato gli anni Novanta , il diario - agenda Smemoranda ( 12 euro ) sembra essere entrato in un periodo di stanca , tanto che in una libreria lo abbiamo trovato in vendita con il 20% di sconto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

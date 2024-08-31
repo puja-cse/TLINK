@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q309]]
+
+[[Question:MC]]
+Alors que la métropole compte 58.416.500 habitants et les quatre départements d'outre - mer 1.665.500 , les premiers résultats du recensement de mars - avril , qui devraient être affinés d' ici la fin de l'année , [ confirment ] les tendances [ observées ] depuis vingt ans : l' urbanisation , loin de ralentir , connaît une nouvelle accélération .
+[[Question:MC:SingleAnswer]]
+La verb [ confirment ] se passe EN MÊME TEMPS que le verb [ observées ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q362]]
+
+[[Question:MC]]
+Les Jazz , après avoir frôlé l' élimination au premier tour , se sont imposés 93 à 83 avec 25 points et 12 rebonds de Karl Malone , avant de [ recevoir ] les Portland Trail Blazers une seconde fois , ce soir , dans la série au meilleur des sept matches .
+De leur côté , les New York Knicks , tombeurs au premier tour de Miami , numéro un à l'est , sont [ allés ] s ' imposer 100 à 92 à Atlanta , grâce à 34 points d'Allen Houston et 31 de Latrell Sprewell .
+[[Question:MC:SingleAnswer]]
+La verb [ recevoir ] se passe AVANT le verb [ allés ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q205]]
+
+[[Question:MC]]
+Cette affirmation est [ contredite ] par les déclarations de l'une des deux mineures .
+La présidente du tribunal , Claire Fermaut , a [ lu ] sa déposition : « L'homme était à terre , son short sur les genoux .
+[[Question:MC:SingleAnswer]]
+La verb [ contredite ] se passe APRÈS le verb [ lu ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q169]]
+
+[[Question:MC]]
+Bernard , de Giromagny , [ comparaissait ] hier devant le tribunal correctionnel de Belfort pour deux affaires d'exhibition sexuelle .
+Les faits qui lui sont reprochés [ remontent ] au 27 mai 1998 et se sont déroulés dans les bois proches du fort Dorsner à Giromagny .
+[[Question:MC:SingleAnswer]]
+La relation entre [ comparaissait ] et [ remontent ] est VAGUE (c'est-à-dire qu'elle ne correspond à aucune des réponses ci-dessus).
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q136]]
+
+[[Question:MC]]
+Et pour cause : la fumée a [ recouvert ] le quartier , faisant sortir les curieux , et le sinistre a [ interrompu ] le concours de pétanque organisée par l'association des Portugais de Belfort .
+[[Question:MC:SingleAnswer]]
+La verb [ recouvert ] se passe AVANT le verb [ interrompu ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q36]]
+
+[[Question:MC]]
+Sarkozy était hier dans la capitale alsacienne où le matin même une opération contre un réseau de recel et trafic de Hi - Fi et vidéo a [ permis ] d' interpeller dix personnes , de [ saisir ] des armes et 15.000 € .
+[[Question:MC:SingleAnswer]]
+La verb [ permis ] se passe AVANT le verb [ saisir ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q418]]
+
+[[Question:MC]]
+Tony Blair , le Premier ministre britannique a [ achevé ] hier deux jours de négociations avec les dirigeants d'Irlande du Nord , sans réussir à surmonter le blocage persistant sur la formation de l'exécutif .
+Les Unionistes protestants ont même [ décliné ] sa dernière invitation .
+[[Question:MC:SingleAnswer]]
+La verb [ achevé ] se passe AVANT le verb [ décliné ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q317]]
+
+[[Question:MC]]
+Après avoir [ connu ] une baisse globale de leur population entre 1982 et 1990 , la plupart de ces villes [ renouent ] désormais avec la croissance .
+[[Question:MC:SingleAnswer]]
+La verb [ connu ] se passe APRÈS le verb [ renouent ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q128]]
+
+[[Question:MC]]
+Tournoi de boules [ annulé ] .
+L' intervention des sapeurs - pompiers s ' est [ déroulée ] sous les yeux d'un public nombreux .
+[[Question:MC:SingleAnswer]]
+La verb [ annulé ] se passe AVANT le verb [ déroulée ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q343]]
+
+[[Question:MC]]
+A l'inverse , les communes trop excentrées [ voient ] leur population stagner , voire [ diminuer ] .
+[[Question:MC:SingleAnswer]]
+La verb [ voient ] se passe EN MÊME TEMPS que le verb [ diminuer ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+

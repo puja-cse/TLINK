@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1842]]
+
+[[Question:MC]]
+Qui non [sono] in gioco solo gli aumenti salariali , ma l' idea stessa di efficienza e affidabilità » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2085]]
+
+[[Question:MC]]
+« [Sono] tante le etnie accanto ai Ceceni in Caucaso : tutte mussulmane , di ceppo turco o caucasico tranne una : gli Ossiti , indoeuropei ed ortodossi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q401]]
+
+[[Question:MC]]
+« Ci [portiamo] dietro degli astucci - conferma una commessa - da almeno un paio d' anni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ portiamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q55]]
+
+[[Question:MC]]
+Alle 18 , invece , per la sezione Linguaggi s' incontra l' autorevole Franco Cardini per [parlare] del rapporto tra Islam e Occidente .
+[[Question:MC:SingleAnswer]]
+Il verbo [ parlare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1247]]
+
+[[Question:MC]]
+« Questo asilo [è] un simbolo ed un riferimento per la città » dice Giuliano Baldessari , presidente della Federazione provinciale delle scuole materne .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q872]]
+
+[[Question:MC]]
+E' evidente , abbandonando le facezie , che il Direttore Generale della Sanità Provinciale può influenzare molti di questi aspetti , sia dalla parte del cittadino utente che per il cittadino dipendente dei Servizi Sanitari , ma vorrei [apportare] alla discussione la convinzione che chi dirige la Azienda Sanitaria deve attenersi alle direttive di chi , per proprio mandato istituzionale , deve farsi carico del Servizio Sanitario nel suo insieme , vale a dire della Politica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ apportare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q80]]
+
+[[Question:MC]]
+" Entro metà gennaio l' advisor [dovrebbe] indicare le comparazioni effettuate e poi l' Iri deciderà " , ha precisato ieri Salvatore Biondo , segretario nazionale della Fm Cisl al termine di un incontro con i vertici di Via Veneto per fare il punto sulla privatizzazione dell' ultimo troncone di siderurgia di Stato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovrebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1163]]
+
+[[Question:MC]]
+Condini dice di aver già [incassato] l' appoggio di Pompermaier e Pattini , componenti della commissione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ incassato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q395]]
+
+[[Question:MC]]
+Per i ragazzi il discorso è un po' diverso , visto che spesso sono portati a [delegare] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ delegare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1765]]
+
+[[Question:MC]]
+Il 30 settembre , poi , la commissione urbanistica [tornerà] a riunirsi per discutere proprio tali modifiche .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tornerà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1486]]
+
+[[Question:MC]]
+L' Alta Corte e un pool di esperti [condurranno] l' inchiesta per scoprire la verità .
+[[Question:MC:SingleAnswer]]
+Il verbo [ condurranno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1487]]
+
+[[Question:MC]]
+L' Alta Corte e un pool di esperti condurranno l' inchiesta per [scoprire] la verità .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scoprire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q416]]
+
+[[Question:MC]]
+Anche se abbiamo sentito chiamarli « Zen » ( il numero 7 seguito dalla « en » finale può effettivamente essere [confuso] con una zeta ) , la loro fama rimane costante .
+[[Question:MC:SingleAnswer]]
+Il verbo [ confuso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q674]]
+
+[[Question:MC]]
+Il protocollo , in realtà , [fa] specifici riferimenti anche a collaborazioni tra le università di Trento e quella Catolica Sedes Sapientiae di Lima ed altri atenei della vasta e popolosa area che gravita attorno alla capitale peruviana .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2030]]
+
+[[Question:MC]]
+Il pellegrinaggio è presieduto da don monsignor Alberto Carotta e [diretto] da don Valeriano Segatta .
+[[Question:MC:SingleAnswer]]
+Il verbo [ diretto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1440]]
+
+[[Question:MC]]
+L' operazione , sottolinea il comunicato del gruppo , [rientra] in un ampio programma di riorganizzazione e semplificazione della catena societaria mirato ad avvicinare la società alle holding di controllo , così da garantire una maggior flessibilità operativa e finanziaria .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rientra ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q971]]
+
+[[Question:MC]]
+Ad aprire la conferenza stampa il sindaco di Trento , Alberto Pacher , che ha ringraziato i tre sindacati per « aver rappresentato , con l' organizzazione di questa fiaccolata , l' indignazione profonda dei nostri concittadini e la volontà di ribadire un no deciso a quello che [è] un insulto all' umanità » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q767]]
+
+[[Question:MC]]
+Il proiettile che l' ha condannata a morte è stato quello esploso verso l' inguine , che molto probabilmente ha reciso l' arteria femorale e che l' ha [raggiunta] appena fuori della porta , con i vicini che , dall' abitazione di fronte , assistevano increduli alla scena .
+[[Question:MC:SingleAnswer]]
+Il verbo [ raggiunta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1413]]
+
+[[Question:MC]]
+A suo avviso « bisogna costringere Putin ad adottare le nostre politiche occidentali nei confronti del terrorismo : quando c' è una presa di ostaggi o un pericolo terroristico , si tenta innanzitutto di salvare gli ostaggi , di [isolare] i terroristi e non di dar loro il potere di uccidere » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ isolare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1014]]
+
+[[Question:MC]]
+MILANO - Il gruppo Koelliker [acquista] la maggioranza azionaria della Hyundai Automobili Italia , società che distribuisce nel nostro paese i prodotti della casa automobilistica coreana .
+[[Question:MC:SingleAnswer]]
+Il verbo [ acquista ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

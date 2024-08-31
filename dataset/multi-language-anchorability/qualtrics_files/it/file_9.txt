@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q751]]
+
+[[Question:MC]]
+I fotogrammi della serata di sangue vissuta nella palazzina di Montecalvoli di Santa Maria a Monte , dove i due coniugi [abitavano] da soli , sono stati ricostruiti dagli investigatori con dovizia di particolari , anche se per saperne di più bisognerà attendere l' esame autoptico sul corpo della donna e la perizia balistica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ abitavano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q479]]
+
+[[Question:MC]]
+Martino rifiuta l' idea che sia in atto uno scontro di civiltà : « E' in atto uno scontro all' interno di ogni civiltà , fra chi [è] sul versante del diritto , del dialogo , della convivenza e della giustizia e chi è integralista , dovunque esso sia , perchè di integralismo non c' è solo quello islamico » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q644]]
+
+[[Question:MC]]
+Questi , in sintesi , i risultati registrati nell' esercizio 92 dal gruppo Sara assicurazioni , [approvato] ieri dall' assemblea dei soci .
+[[Question:MC:SingleAnswer]]
+Il verbo [ approvato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1707]]
+
+[[Question:MC]]
+Intanto il procuratore di Marsala si è detto convinto che « la piccola è viva » e si troverebbe « a Mazara del Vallo o nelle vicinanze » tenuta segregata da qualcuno che vuole « [punire] » per « motivi personali » i genitori della bimba di quattro anni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ punire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1680]]
+
+[[Question:MC]]
+Per fortuna a casa mia i danni sono [stati] piuttosto limitati : solo la piscina è stata colpita e andrà fatta riparare » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q833]]
+
+[[Question:MC]]
+nan [Vivo] a Trento e lavoro all' interno della azienda Sanitaria .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Vivo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1919]]
+
+[[Question:MC]]
+E' il punto di riferimento centrale e già questo crea spazi e agevola di molto il compito di chi si deve [inserire] sui lati , come spetta a me.
+[[Question:MC:SingleAnswer]]
+Il verbo [ inserire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2112]]
+
+[[Question:MC]]
+E' un codice d' onore dove la debolezza non è ammessa e ogni torto [va] vendicato » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ va ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q99]]
+
+[[Question:MC]]
+Ma la mancata chiarezza sul nuovo acquirente di Ilp , secondo molti di loro , rende più difficile sia [dare] una valutazione serena dell' Ise sia preparare una struttura finanziaria adeguata per le offerte .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1427]]
+
+[[Question:MC]]
+Le azioni Schemaventuno necessarie saranno fornite pro quota dagli attuali azionisti , così da [mantenere] , ha spiegato un portavoce , gli attuali equilibri che vedono Edizione e Del Vecchio in posizione paritetica ( 47,50% ) con Movenpick in minoranza ( 5,00% ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ mantenere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q376]]
+
+[[Question:MC]]
+La bambina intanto [scorrazza] per il negozio , interessata più dai giocattoli che dalla « mercanzia » che dovrà portarsi a scuola .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scorrazza ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1638]]
+
+[[Question:MC]]
+In questi sei anni erano stati [respinti] tutti gli appelli che avevano presentato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ respinti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1403]]
+
+[[Question:MC]]
+Bisogna [negoziare] con gli indipendentisti moderati ceceni che sconfessano le reazioni tipo la presa di ostaggi a Beslan » , in modo da stoppare « un cancro generalizzato che si sta estendendo a tutta la Russia » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ negoziare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q995]]
+
+[[Question:MC]]
+Bisogna [ricominciare] a riconsiderare - ha concluso Ferrante - il valore dei bambini per la società .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricominciare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1352]]
+
+[[Question:MC]]
+Questa costellazione di aziende , secondo proiezioni della stessa Profit , [dovrebbe] portare nel 95 a un giro d' affari superiore a 60 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovrebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q630]]
+
+[[Question:MC]]
+Nell' appartamento in cui è avvenuto l' omicidio c' [era] anche una connazionale della vittima , che con lei avrebbe dovuto far ritorno in Ucraina .
+[[Question:MC:SingleAnswer]]
+Il verbo [ era ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1550]]
+
+[[Question:MC]]
+In difesa di Giovanardi si sono [schierati] Maurizio Ronconi dell' Udc ( « ha difeso una legge dello Stato , non ha fatto altro che il suo dovere » ) e il forzista Giro , che però ha definisce « infelici » i toni del manifesto incriminato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ schierati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q298]]
+
+[[Question:MC]]
+nan [Cade] in moto dopo il Manghen
+[[Question:MC:SingleAnswer]]
+Il verbo [ Cade ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q265]]
+
+[[Question:MC]]
+E' il caso di Antino ( Merano ) che al Ger ha parato anche le mosche , di Postal ( Albiano ) che ha [detto] no a ripetizione agli avanti del Rovereto , e di Fontana ( Vallagarina ) che con una straordinaria prodezza ha messo in cassaforte la vittoria biancorossa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ detto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q587]]
+
+[[Question:MC]]
+Delle due unità di sangue cordonale [raccolto] alla nascita dai due gemelli , lo scorso aprile , una conteneva un buon numero di cellule staminali , mentre l' altra unità era più povera di « progenitori emopoietici » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ raccolto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

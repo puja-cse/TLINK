@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q146]]
+
+[[Question:MC]]
+A l'aube de l'an 2000 , la France a [dépassé] le cap symbolique des 60 millions d'habitants : sa population s ' établissait le 8 mars dernier à 60.082.000 habitants , soit 2.008.000 de plus par rapport au recensement de 1990 .
+[[Question:MC:SingleAnswer]]
+Le verbe [ dépassé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q88]]
+
+[[Question:MC]]
+« Il a eu un fantasme qu'il n ' a pas su [maîtriser] » , souligne - t - elle dans une plaidoirie qui constituait sa première intervention devant le tribunal correctionnel de Belfort .
+[[Question:MC:SingleAnswer]]
+Le verbe [ maîtriser ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q142]]
+
+[[Question:MC]]
+Le recensement de l'INSEE est formel : la France a [vu] sa population augmenter de plus de 2 millions d'habitants en 9 ans pour atteindre le chiffre de 60.082.000 personnes .
+[[Question:MC:SingleAnswer]]
+Le verbe [ vu ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q167]]
+
+[[Question:MC]]
+A l'inverse , les communes trop excentrées [voient] leur population stagner , voire diminuer .
+[[Question:MC:SingleAnswer]]
+Le verbe [ voient ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q80]]
+
+[[Question:MC]]
+Plaintes ont ensuite été [déposées] à la gendarmerie de Giromagny qui a ouverte une enquête .
+[[Question:MC:SingleAnswer]]
+Le verbe [ déposées ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q202]]
+
+[[Question:MC]]
+Deux gardiens de la paix , qui tentaient de s ' interposer , ont été légèrement [blessés] à leur tour .
+[[Question:MC:SingleAnswer]]
+Le verbe [ blessés ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q60]]
+
+[[Question:MC]]
+Bernard [affirme] qu'en se promenant , il a chuté et s ' est retrouvé à terre , la braguette ouverte .
+[[Question:MC:SingleAnswer]]
+Le verbe [ affirme ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q37]]
+
+[[Question:MC]]
+Une ultime tentative de replâtrage de la coalition sortante formée par les Travailliste ( PvdA ) , les Libéraux du VVD ( droite ) et les Réformistes du D66 ( centre - gauche ) - démissionnaires - , serait [vouée] à l' échec .
+[[Question:MC:SingleAnswer]]
+Le verbe [ vouée ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q66]]
+
+[[Question:MC]]
+Cette affirmation est [contredite] par les déclarations de l'une des deux mineures .
+[[Question:MC:SingleAnswer]]
+Le verbe [ contredite ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q193]]
+
+[[Question:MC]]
+Les Jazz , après avoir frôlé l' élimination au premier tour , se sont [imposés] 93 à 83 avec 25 points et 12 rebonds de Karl Malone , avant de recevoir les Portland Trail Blazers une seconde fois , ce soir , dans la série au meilleur des sept matches .
+[[Question:MC:SingleAnswer]]
+Le verbe [ imposés ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q270]]
+
+[[Question:MC]]
+Et pour cause : la fumée a recouvert le quartier , faisant sortir les curieux , et le sinistre a interrompu le concours de pétanque [organisée] par l'association des Portugais de Belfort .
+[[Question:MC:SingleAnswer]]
+Le verbe [ organisée ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q279]]
+
+[[Question:MC]]
+Hier soir , les services techniques de la Ville engageaient des travaux pour fermer le local tandis que les pompiers s ' organisaient pour [effectuer] des rondes pendant la nuit afin de déceler toute reprise de feu .
+[[Question:MC:SingleAnswer]]
+Le verbe [ effectuer ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q132]]
+
+[[Question:MC]]
+Dans un point de vue paru dans « Le Monde » , le président socialiste de l'Assemblée nationale juge que la cohabitation comporte « trois inconvénients » : elle « ne facilite pas le traitement des problèmes de long terme » , « dilue la notion - même de responsabilité politique » et « [fait] le lit des abstentionnistes et des votes marginaux » .
+[[Question:MC:SingleAnswer]]
+Le verbe [ fait ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q251]]
+
+[[Question:MC]]
+Avertie par des voisines , Juliette Carpezat s ' est précipitée en chaussons dans la rue lorsqu ' elle a [su] que le Secours populaire brûlait : « Je suis passée à midi devant en rentrant de la pharmacie .
+[[Question:MC:SingleAnswer]]
+Le verbe [ su ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q244]]
+
+[[Question:MC]]
+Nous avons [ouvert] vendredi jusqu ' à 17 h .
+[[Question:MC:SingleAnswer]]
+Le verbe [ ouvert ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q33]]
+
+[[Question:MC]]
+Toutefois , il doit trouver l'homme qui prendra sous sa coupe l'économie et les finances du pays , dossier délicat qui a officiellement [causé] la perte d'Evgueni Primakov .
+[[Question:MC:SingleAnswer]]
+Le verbe [ causé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q42]]
+
+[[Question:MC]]
+Une distribution de lunettes spéciales pour [regarder] l' éclipse aura lieu pour les administrés mardi 10 août , en mairie de 10 h à 12 h .
+[[Question:MC:SingleAnswer]]
+Le verbe [ regarder ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q173]]
+
+[[Question:MC]]
+La bibliothèque sera fermée en juillet et [rouvrira] ses portes en août , uniquement le mercredi .
+[[Question:MC:SingleAnswer]]
+Le verbe [ rouvrira ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q214]]
+
+[[Question:MC]]
+A leur arrivée devant le 10 , rue Paul - Bert à Belfort , les sapeurs - pompiers se sont rapidement [trouvés] face à un incendie d'importance .
+[[Question:MC:SingleAnswer]]
+Le verbe [ trouvés ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q203]]
+
+[[Question:MC]]
+Les auteurs de l' agression ont été [interpellés] et conduits au commissariat de police pour y être entendus .
+[[Question:MC:SingleAnswer]]
+Le verbe [ interpellés ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+

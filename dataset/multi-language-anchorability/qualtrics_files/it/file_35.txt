@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1387]]
+
+[[Question:MC]]
+Il famoso filosofo francese condanna senza mezze misure i terroristi di Beslan ( « un' ignobile commando di assassini » ) , ma fa subito un distinguo : « Si dice che si tratti di un commando ceceno ma è falso , a quanto si [sa] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1967]]
+
+[[Question:MC]]
+Se [posso] farne altri due aggiungo Brixen e Alense .
+[[Question:MC:SingleAnswer]]
+Il verbo [ posso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1064]]
+
+[[Question:MC]]
+Alberto Pacher , adesso sindaco di Trento , frequentava proprio l' asilo Pedrotti : « Le case c' erano già tutte qui attorno - [ricorda] mentre indica gli edifici che circondano la scuola materna - e noi salivamo da là » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricorda ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1588]]
+
+[[Question:MC]]
+Una città distrutta e deserta ; pochi bambini si aggirano tra le macerie e [giocano] alla guerra .
+[[Question:MC:SingleAnswer]]
+Il verbo [ giocano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1622]]
+
+[[Question:MC]]
+In calo le spese generali , ridotte in un anno del 10,00% circa , mentre è cresciuta l' incidenza degli oneri finanziari a causa dell' aumento del costo del denaro , soprattutto nella seconda parte del 92 , ma anche dei sensibili ritardi che hanno [caratterizzato] i pagamenti dei lavori eseguiti da parte dello Stato e delle pubbliche amministrazioni in generale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ caratterizzato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1492]]
+
+[[Question:MC]]
+Il giudice ha applicato il massimo della pena ( dai 3 ai 15 anni ) spiegando di [voler] dare un esempio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ voler ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q901]]
+
+[[Question:MC]]
+Non è pensabile che il lavoro del Direttore Generale venga [valutato] solo in prossimità della scadenza del mandato ; la Politica dovrebbe avere un costante ritorno di quanto avviene nella Azienda Sanitaria sia da parte di chi ne produce i Servizi che da parte di chi ne fruisce .
+[[Question:MC:SingleAnswer]]
+Il verbo [ valutato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2029]]
+
+[[Question:MC]]
+Il pellegrinaggio è [presieduto] da don monsignor Alberto Carotta e diretto da don Valeriano Segatta .
+[[Question:MC:SingleAnswer]]
+Il verbo [ presieduto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1127]]
+
+[[Question:MC]]
+L' annunciato voto contrario di otto senatori al decreto di rifinanziamento della missione in Afghanistan è " un problema serio , serissimo " che , " considerati i rapporti di forza tra maggioranza e opposizione in Parlamento , in particolare al Senato " , può rivelarsi " drammatico " - Lo ha detto il ministro della Difesa Arturo Parisi in un' intervista a - Repubblica Radio - Parisi ha [precisato] che " il nostro impegno nel secondo semestre è assolutamente identico all' impegno del primo " e quindi non c' è " né potenziamento né depotenziamento " della missione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ precisato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1224]]
+
+[[Question:MC]]
+La quadratura del cerchio è stata ottenuta grazie alla disponibilità , praticamente in tempo reale , dei fondi pubblici ( ed anche all' aiuto della Cassa Rurale di Aldeno e Cadine ) : « Abbiamo [potuto] così mantenere un rapporto fiduciario con le imprese che avevano la garanzia di venire pagate in tempi proporzionali alla velocità di esecuzione » aggiunge Rossi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ potuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q848]]
+
+[[Question:MC]]
+Come dipendente della Azienda , vorrei venisse [riconosciuto] , in termini di merito , di gratificazione economica , di progressione di carriera , l' impegno da me profuso nello svolgimento del mio lavoro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riconosciuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1955]]
+
+[[Question:MC]]
+Non scriverlo , ma [sai] quante volte ho segnato dopo una serata in discoteca con questi ritmi ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ sai ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2059]]
+
+[[Question:MC]]
+Fil rouge di questo festival sarà la musica che [attraversa] i confini antichi e nuovi con " Polifonie di minoranze " , che prevede quattro concerti per incontrare tradizioni polivocali arcaiche come quelle della Sardegna , dei monti Aurunci , dell' Istria veneta e della cultura zingara Sinti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ attraversa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1220]]
+
+[[Question:MC]]
+Il bilancio dell' operazione è in attivo perché a fronte di una spesa complessiva non certo irrisoria , sono stati risparmiati tutti i costi che avrebbe [comportato] la chiusura prolungata dell' asilo ( lavori di questa entità appaltati dall' ente pubblico possono durare anche un paio di anni ? ) con le collocazioni provvisorie del personale , dei 102 ragazzi ed i disagi per le famiglie .
+[[Question:MC:SingleAnswer]]
+Il verbo [ comportato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1572]]
+
+[[Question:MC]]
+Io so cos' è la guerra » dice uno dei bambini dell' Accademia militare di Kronstadt che [fa] da sfondo al primo dei tre episodi del film : « Nostalgia » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1594]]
+
+[[Question:MC]]
+nan [E'] il piccolo Stato di Inguscezia , la più piccola delle repubbliche della Federazione russa a nord del Caucaso , a far da sfondo alla terza testimonianza della regista , « Ricordo » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ E' ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q313]]
+
+[[Question:MC]]
+Le due favorite della vigilia , Riva del Garda ed Alta Vallagarina hanno esordito conquistando i tre punti ; netta l' affermazione dell' undici di Prandi , vittorioso quattro a zero sul campo di Cavrasto , più sofferto il successo dell' Alta Vallagarina che ha dovuto però [vedersela] con una squadra molto quotata quale la Condinese .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vedersela ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q233]]
+
+[[Question:MC]]
+In realtà , è un' intesa che arriva al termine di un percorso di « avvicinamento » durante il quale sono già state [avviate] forme di cooperazione soprattutto attraverso il Ceii ( Centro Europeo di Impresa e Innovazione ) ed il Conit , il consorzio del terziario di sviluppo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avviate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q900]]
+
+[[Question:MC]]
+Non [è] pensabile che il lavoro del Direttore Generale venga valutato solo in prossimità della scadenza del mandato ; la Politica dovrebbe avere un costante ritorno di quanto avviene nella Azienda Sanitaria sia da parte di chi ne produce i Servizi che da parte di chi ne fruisce .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q143]]
+
+[[Question:MC]]
+L' information security , stando a recenti indagini di alcuni analisti americani , è la priorità numero uno per i Cio e il 75,00% delle aziende Usa soffre ogni anno di perdite consistenti di dati : questo il terreno d' azione in cui Emc vuole [mettere] a frutto l' acquisizione di Rsa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ mettere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

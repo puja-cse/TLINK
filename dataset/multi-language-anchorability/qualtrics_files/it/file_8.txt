@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q698]]
+
+[[Question:MC]]
+E quali testimoni della buona riuscita di alcuni di questi progetti , sono arrivati a Trento due importanti religiosi , accompagnati da monsignor Luigi Bressan : Lino Panizza , vescovo di Carabayllo , che invita le autorità ad intervenire all' ormai prossima inaugurazione del centro El Buen Pastor ( 180 alunni , tra i quali anche alcune ragazze iscritte al corso di falegnameria ) , e Adriano Tomasi , vescovo ausiliario di Lima , che [annuncia] il completamento ( forse già a marzo ) dei primi edifici dell' istituto di Manchay destinato a far studiare almeno un migliaio di allievi distribuiti in corsi da sei mesi fino a tre anni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ annuncia ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q829]]
+
+[[Question:MC]]
+A pochi mesi dalla scadenza del contratto del direttore generale dell' Azienda sanitaria si è accesa la dicussione tra favorevoli e contrari alla riconferma di Carlo Favaretti , [designato] dalla giunta provinciale cinque anni fa al termine di una selezione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ designato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q973]]
+
+[[Question:MC]]
+« Quanto accaduto a Beslan - ha [affermato] Pacher - costituisce il superamento di una soglia inimmaginabile , ed è importante che tutta la città , senza divisioni né appartenenze , sia in piazza per ribadire valori che uniscono tutti , nel nome di una civiltà che si ritrova e di principi attorno a cui si costruisce l' idea di cittadinanza » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ affermato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1599]]
+
+[[Question:MC]]
+Alcune delle famiglie sfollate vivono in vecchie fattorie semidistrutte e [tentano] una qualche forma di vita allevando capre , pregando , sperando .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tentano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q836]]
+
+[[Question:MC]]
+Come Trentino , vorrei avere i migliori servizi dai migliori professionisti sanitari , a disposizione 24 ore su 24 ; questi Servizi li [vorrei] disponibili , sia per le urgenze che per gli interventi programmabili , nei tempi da me ritenuti adeguati ; vorrei la massima disponibilità d' animo e di tempo di tutti gli operatori sanitari ; il cibo e la sistemazione logistica dovrebbero essere non solo di mio gradimento ma consentirmi anche di poter scegliere tra varie opzioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vorrei ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1809]]
+
+[[Question:MC]]
+« Sono certo che i colleghi sindaci in questo momento così tragico vorranno [aiutare] i bambini sopravvissuti , ad alleviare , se mai fosse possibile , il dolore » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aiutare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q369]]
+
+[[Question:MC]]
+Sondati vagamente i suoi gusti ( meglio Winnie The Pooh , rispetto a un serioso zainetto squadrato della Scout che peraltro costa 97 euro ) , ecco [attivarsi] la mamma .
+[[Question:MC:SingleAnswer]]
+Il verbo [ attivarsi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1532]]
+
+[[Question:MC]]
+Il comitato promotore ( di cui fanno parte anche esponenti laici e Ds ) farà il punto domani sui numeri e annuncerà i « referendum days » , una mobilitazione generale per [accelerare] la raccolta delle firme nei prossimi due fine settimana .
+[[Question:MC:SingleAnswer]]
+Il verbo [ accelerare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q171]]
+
+[[Question:MC]]
+Ma a ben guardare anche in questi casi non si può parlare di esiti clamorosi : che la formazione di Zimelli potesse [sbancare] Natz era infatti nei numeri visto che già l' anno passato si impose su quel campo con un roboante 5 - 3 e che il suo potenziale offensivo , già strepitoso ( basti ricordare i 115 gol dell' ultimo biennio ) , è ancor più lievitato adesso con l' ingaggio dell' interessantissimo rumeno Ionut Alecu , non a caso subito a segno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sbancare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1115]]
+
+[[Question:MC]]
+Ma [è] difficile valutare quanto la Wellcome potrà dettare le proprie condizioni da una posizione di debolezza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q992]]
+
+[[Question:MC]]
+Per questo il silenzio di questa fiaccolata dovrà [essere] assordante , perché cresca la cultura del dialogo e della pace .
+[[Question:MC:SingleAnswer]]
+Il verbo [ essere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1981]]
+
+[[Question:MC]]
+E Mediobanca avrebbe già [individuato] anche il pilota cui affidare il compito del rilancio : in pole position c' è Giorgio Cefis , destinato ad assumere la carica di amministratore delegato e di presidente della Santavaleria mentre Varasi lascerebbe ogni incarico operativo pur mantenendo il ruolo di principale azionista .
+[[Question:MC:SingleAnswer]]
+Il verbo [ individuato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q264]]
+
+[[Question:MC]]
+E' il caso di Antino ( Merano ) che al Ger ha [parato] anche le mosche , di Postal ( Albiano ) che ha detto no a ripetizione agli avanti del Rovereto , e di Fontana ( Vallagarina ) che con una straordinaria prodezza ha messo in cassaforte la vittoria biancorossa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ parato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q618]]
+
+[[Question:MC]]
+Madre e figlio sono stati [ricoverati] all' ospedale Cardarelli , con prognosi riservata .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricoverati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1081]]
+
+[[Question:MC]]
+LONDRA - Il colosso britannico Glaxo ha [avuto] ieri ragione delle deboli resistenze della Wellcome , ottenendo da questa luce verde per l' acquisizione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1966]]
+
+[[Question:MC]]
+Se devo fare un nome solo dico Benacense perchè [ha] la rosa più completa , con tanti giocatori di categoria superiore .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ha ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q691]]
+
+[[Question:MC]]
+Sarebbe questo il segreto del successo ( « Quel che [iniziamo] , finiamo » , appunto ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ iniziamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q692]]
+
+[[Question:MC]]
+Sarebbe questo il segreto del successo ( « Quel che iniziamo , [finiamo] » , appunto ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ finiamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1426]]
+
+[[Question:MC]]
+Le azioni Schemaventuno necessarie saranno [fornite] pro quota dagli attuali azionisti , così da mantenere , ha spiegato un portavoce , gli attuali equilibri che vedono Edizione e Del Vecchio in posizione paritetica ( 47,50% ) con Movenpick in minoranza ( 5,00% ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fornite ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1039]]
+
+[[Question:MC]]
+I " Voli d' Estate " entrano nel vivo con le qualificazioni , che [decreteranno] i migliori 50 atleti che domani si contenderanno i punti della quarta tappa del FIS Summer Grand Prix , proposta dal Comitato Nordik Ski Fiemme .
+[[Question:MC:SingleAnswer]]
+Il verbo [ decreteranno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

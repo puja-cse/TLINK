@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q440]]
+
+[[Question:MC]]
+Los abogados de Microsoft , empresa que creó el programa Windows que usan el 95% de los ordenadores , aseguran que la división de la firma [ disminuiría ] su capacidad para competir .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [disminuiría] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q268]]
+
+[[Question:MC]]
+La Comisión de Apelación de la Federación Italiana de Fútbol se [ pronunciará ] ese día sobre los casos de dopaje por nandrolona del español Josep Guardiola ( Brescia ) y del defensa holandés Jaap Stam ( Lazio ) .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [pronunciará] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q242]]
+
+[[Question:MC]]
+Empleados de Doimo , la empresa a la que el ayuntamiento ha encargado el informe de viabilidad de los aparcamientos , [ realizaban ] ayer una encuesta junto a la plaza del Pi de Can'Oriac .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [realizaban] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q222]]
+
+[[Question:MC]]
+Pero nada de esto pasará hasta que comprendamos que nuestras redes - - telefónicas , informáticas , narcóticas - - son sólo derivaciones inciertas de aquellas que el hombre [ usaba ] para vivir cuando el mar era uno y daba para todos .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [usaba] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q328]]
+
+[[Question:MC]]
+La primera medida del Gobierno ha sido obligar a los directores de las explotaciones a [ informar ] " de forma rápida " de los accidentes ocurridos y a no interferir en las investigaciones de la policía local .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [informar] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q123]]
+
+[[Question:MC]]
+" No me [ tenía ] que explicar nada . Simplemente no cuadro en su proyecto del Barça . Está claro que no son cosas agradables ni por su parte ni por la mía " , señaló el exjugador barcelonista sobre la conversación con el entrenador .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [tenía] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q83]]
+
+[[Question:MC]]
+Djordjevic no [ quiso ] explicar si existen negociaciones , pero admitió que mantiene una excelente relación con Scariolo .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [quiso] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q421]]
+
+[[Question:MC]]
+El viernes pasado , el Gobierno [ entregó ] al juez una copia detallada de su propuesta para acabar con el monopolio de Microsoft .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [entregó] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q214]]
+
+[[Question:MC]]
+Marruecos debería [ dejarnos ] faenar en sus aguas y España debería dejar a los marroquís trabajar en paz en nuestros campos .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [dejarnos] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q165]]
+
+[[Question:MC]]
+Es la mayor caída en siete meses y supone un indicio de que el mercado inmobiliario de EEUU puede estar desacelerándose , tras [ subir ] el 5,8% en marzo .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [subir] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q300]]
+
+[[Question:MC]]
+El Ejecutivo portugués [ quería ] también saludar de esta forma el nacimiento de una generación euro .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [quería] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q350]]
+
+[[Question:MC]]
+La falta de inversión en equipos de seguridad se [ une ] a la actitud de los directivos , que obligan a los obreros a trabajar hasta 12 ó 14 horas diarias por salarios de miseria y ocultan a las autoridades los accidentes que se producen .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [une] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q422]]
+
+[[Question:MC]]
+El viernes pasado , el Gobierno entregó al juez una copia detallada de su propuesta para [ acabar ] con el monopolio de Microsoft .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [acabar] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q377]]
+
+[[Question:MC]]
+Tras [ opinar ] que la disputa del Mundial de fútbol 2002 , coorganizado por Japón y Corea del Sur , será un factor favorable , indicó que las inversiones " no rebasarán , por ejemplo , el nivel de Atlanta " .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [opinar] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q149]]
+
+[[Question:MC]]
+Aíto comentó que le ha costado mucho dar este paso - - " son decisiones muy difíciles y no soy insensible como muchos se creen " - - y mostró su deseo de [ cerrar ] cuanto antes la renovación de Roger Esteller , uno de los jugadores con los que el club negocia un nuevo contrato , junto al estadounidense Derrick Alston .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [cerrar] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q73]]
+
+[[Question:MC]]
+Scariolo es la apuesta de la directiva que preside Lorenzo Sanz para [ reconstruir ] el proyecto del básquet blanco , que la próxima temporada recibirá una fuerte inyección económica , para competir con posibilidades tanto en la Liga ACB como en la Euroliga .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [reconstruir] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q314]]
+
+[[Question:MC]]
+Valero Rivera , no disimuló su preocupación por el sorteo y [ comentó ] que " jugar la vuelta fuera complica más las cosas " .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [comentó] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q102]]
+
+[[Question:MC]]
+Djordjevic reconoció además que se siente un azulgrana más - - " aquí he puesto mis raíces , he comprado una casa , he vivido el club , los colores , y me siento un culé más " - - después de estas tres temporadas , pero añadió que ese sentimiento no tiene por qué [ influir ] en su decisión .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [influir] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q10]]
+
+[[Question:MC]]
+Japón , considerado tradicionalmente como un país con una tasa de paro insignificante , contaba a finales de Febrero con 3,27 millones de demandantes de empleo , lo que [ supone ] 180.000 personas más que en enero .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [supone] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q67]]
+
+[[Question:MC]]
+El futuro del exjugador del Barça de básquet , Aleksandar Djordjevic , [ apunta ] hacia el Real Madrid .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [apunta] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+

@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q2034]]
+
+[[Question:MC]]
+Il gioco è quello che [attraversa] " Minoranzèro " il festival sottolineato dalle parole " Breviario europeo sugli altri oltre il confine " che si svolgerà da domani , mercoledì 8 , all' 11 settembre a Pergine .
+[[Question:MC:SingleAnswer]]
+Il verbo [ attraversa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q473]]
+
+[[Question:MC]]
+Tutta l' Onu [potrebbe] affrontare la questione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ potrebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q199]]
+
+[[Question:MC]]
+Oggi è in programma una riunione del pontificio consiglio Cor Umum , che si occupa delle attività di aiuto [volute] direttamente da Giovanni Paolo II .
+[[Question:MC:SingleAnswer]]
+Il verbo [ volute ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1191]]
+
+[[Question:MC]]
+E' stata organizzata anche una gara di putting green a scopo benefico , a favore dell' Associazione " Un Birdie per la Vita " , che ha [visto] vincitore Claudio Dellamaria ( - 3 ) davanti a Renato Meneghello ( - 3 ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ visto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q533]]
+
+[[Question:MC]]
+Un improvviso raptus - come hanno accertato i carabinieri di Todi - che l' hanno [trovata] in stato confusionale ed arrestata .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trovata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2131]]
+
+[[Question:MC]]
+« Nel '17 , approfittando della confusione della rivoluzione Russa , i popoli del Caucaso tentarono la strada dell' indipendenza : la Russia [represse] aspramente » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ represse ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1877]]
+
+[[Question:MC]]
+Era con un altro contadino che alla vista delle fiamme è riuscito a scappare e a [mettersi] in salvo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ mettersi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1155]]
+
+[[Question:MC]]
+I residenti , però , tornano alla carica per tutelarsi per l' avvenire , nel caso in cui , qualche successivo passaggio urbanistico ( magari all' interno di una revisione per opere pubbliche ) , si decidesse di [modificare] la destinazione di quei terreni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ modificare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1173]]
+
+[[Question:MC]]
+In alternativa , propongono il mantenimento dell' attuale destinazione a verde agricolo primario ( come [previsto] dal Pup ) e l' istituzione di una fascia di rispetto di almeno 150 metri dai biotopi confinanti , dagli stagni di Velaverde e dal Sorasass , e altrettanti dal fiume Adige .
+[[Question:MC:SingleAnswer]]
+Il verbo [ previsto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1924]]
+
+[[Question:MC]]
+In più sa fare la sponda e appoggiare benissimo , insomma [è] fin troppo facile con uno così .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q332]]
+
+[[Question:MC]]
+Quali spunti le ha [offerto] la partita di domenica ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ offerto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1972]]
+
+[[Question:MC]]
+Lo so che non invento niente , ma [è] così .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q342]]
+
+[[Question:MC]]
+« La Condinese mi ha [destato] davvero un' ottima impressione e sono certo che reciterà un ruolo da protagonista .
+[[Question:MC:SingleAnswer]]
+Il verbo [ destato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1079]]
+
+[[Question:MC]]
+« Questo non è stato un semplice intervento di manutenzione ordinaria - [afferma] Pacher - ma un' operazione brillante che implica un positivo intreccio tra pubblico e privato » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ afferma ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1962]]
+
+[[Question:MC]]
+nan [Torniamo] al calcio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Torniamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q787]]
+
+[[Question:MC]]
+Gli agenti delle volanti lo hanno bloccato mentre cercava di scappare dopo essersi sbarazzato dell' attrezzo : è stato [raggiunto] e arrestato per tentato furto aggravato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ raggiunto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1935]]
+
+[[Question:MC]]
+In quanto ai rigori è giusto che li batta lui che è uno specialista , a me [piace] segnare su azione e mi va benissimo così .
+[[Question:MC:SingleAnswer]]
+Il verbo [ piace ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q217]]
+
+[[Question:MC]]
+ROMA - Affrontare alle radici il problema all' origine della strage di Beslan , che è un problema di conflitti interetnici di varia natura : [è] l' invito della Caritas italiana .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q310]]
+
+[[Question:MC]]
+Le due favorite della vigilia , Riva del Garda ed Alta Vallagarina hanno [esordito] conquistando i tre punti ; netta l' affermazione dell' undici di Prandi , vittorioso quattro a zero sul campo di Cavrasto , più sofferto il successo dell' Alta Vallagarina che ha dovuto però vedersela con una squadra molto quotata quale la Condinese .
+[[Question:MC:SingleAnswer]]
+Il verbo [ esordito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q465]]
+
+[[Question:MC]]
+A patto che gli stati lo [vogliano] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vogliano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

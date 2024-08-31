@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1319]]
+
+[[Question:MC]]
+Perchè , quindi - si chiede il presidente del Consiglio provinciale - non [dare] vita ad un progetto organico di aiuti - « Il Trentino per Beslan » - che metta assieme e coordini tutte le iniziative di solidarietà già avviate e quelle programmate , puntando in via prioritaria ad assicurare ai bambini e alle bambine che hanno vissuto quella spaventosa esperienza tutti i supporti , materiali e non , necessari per aiutarli a superare il terribile shock subito in quei drammatici giorni ? » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1467]]
+
+[[Question:MC]]
+A tre settimane dalle delibere di fusione tra la Popolare e il Banco di San Geminiano e San Prospero , l' istituto [presieduto] da Giorgio Zanotto ha costituito ieri la Holding di partecipazioni finanziarie Popolare di Verona-San Geminiano e San Prospero , cui sono state conferite le partecipazioni strumentali possedute dalle due banche .
+[[Question:MC:SingleAnswer]]
+Il verbo [ presieduto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q720]]
+
+[[Question:MC]]
+A Trento , come in tutta Italia , tra due anni sarà festeggiato il secolo del sindacato più antico e maggiormente rappresentativo in Italia , con i suoi oltre cinque milioni e mezzo d' iscritti , tra lavoratori , pensionati e giovani che [entrano] nel mondo del lavoro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ entrano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1408]]
+
+[[Question:MC]]
+A suo avviso « bisogna [costringere] Putin ad adottare le nostre politiche occidentali nei confronti del terrorismo : quando c' è una presa di ostaggi o un pericolo terroristico , si tenta innanzitutto di salvare gli ostaggi , di isolare i terroristi e non di dar loro il potere di uccidere » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ costringere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1786]]
+
+[[Question:MC]]
+TRENTO - Un set di grande equilibrio , più nulla da fare nel secondo : Davide Volpe ( nella foto ) ha messo addosso un po' di brividi a Markus Innerebner , ma è [stato] poi l' altoatesino a qualificarsi per gli ottavi dell' open del Ct Trento , imitato in ciò da Patrick Prader e David Complojer .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1349]]
+
+[[Question:MC]]
+Attualmente - prosegue il comunicato - sono dodici le società del settore televisivo in cui la Profit detiene una partecipazione e partecipa alla conduzione commerciale e operativa : dall' emittente nazionale Rete Mia a Telecampione ( [dedicata] all' informazione economico-finanziaria ) , dall' area teletext e multimediale con Miatel alla Vta e all' Acomedia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dedicata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1326]]
+
+[[Question:MC]]
+Perchè , quindi - si chiede il presidente del Consiglio provinciale - non dare vita ad un progetto organico di aiuti - « Il Trentino per Beslan » - che metta assieme e coordini tutte le iniziative di solidarietà già avviate e quelle programmate , puntando in via prioritaria ad assicurare ai bambini e alle bambine che hanno vissuto quella spaventosa esperienza tutti i supporti , materiali e non , necessari per [aiutarli] a superare il terribile shock subito in quei drammatici giorni ? » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aiutarli ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1471]]
+
+[[Question:MC]]
+Presidente della holding [sarà] Federico Pepe , direttore generale della Popolare di Verona e amministratore delegato del Banco .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sarà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1130]]
+
+[[Question:MC]]
+Non [sono] classiche istanze di modifica del Prg , hanno più che altro il sapore di una forma particolare di petizione per difendere il proprio territorio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1985]]
+
+[[Question:MC]]
+E Mediobanca avrebbe già individuato anche il pilota cui affidare il compito del rilancio : in pole position c' è Giorgio Cefis , destinato ad [assumere] la carica di amministratore delegato e di presidente della Santavaleria mentre Varasi lascerebbe ogni incarico operativo pur mantenendo il ruolo di principale azionista .
+[[Question:MC:SingleAnswer]]
+Il verbo [ assumere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q799]]
+
+[[Question:MC]]
+Come ampiamente anticipato dalla stampa spagnola , il premier Jose' Luis Rodriguez Zapatero ha annunciato oggi che verranno avviate trattative con i separatisti dell' Eta - - " Vi annuncio che il governo avviera' negoziati con l' Eta " , ha dichiarato il leader socialista in una conferenza stampa a Madrid - - " La democrazia non paghera' nessun prezzo politico per la pace " " , ha aggiunto il premier , replicando indirettamente alle critiche dell' opposizione , contraria a qualunque dialogo con l' organizzazione terroristica - Per questa ragione , ha quindi [spiegato] , il dialogo verra' avviato " " conservando il principio che le questioni politiche si devono risolvere con i rappresentanti del popolo " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spiegato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q354]]
+
+[[Question:MC]]
+Il dubbio , a questo punto , [è] lecito .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1718]]
+
+[[Question:MC]]
+L' Appm opera in Trentino da circa trent' anni ed è una onlus [finanziata] in toto dalla Provincia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ finanziata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1151]]
+
+[[Question:MC]]
+In realtà in questa tornata di revisione del Prg non si parlerà dei destini del polo della rottamazione , per cui la Vela , per il il momento , non [corre] rischi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ corre ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1753]]
+
+[[Question:MC]]
+L' escamotage di depositare la delibera in tempi separati permetterà di [evitare] l' impaccio del megaemendamento che - nelle intenzioni di parecchi consiglieri - sarebbe stato necessario presentare per riconsiderare tutte le domande rimaste escluse .
+[[Question:MC:SingleAnswer]]
+Il verbo [ evitare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1791]]
+
+[[Question:MC]]
+ANDREA STOPPINI AVANZA AL CHALLENGER DI GENOVA , OGGI TOCCA A SEPPI : Andrea Stoppini ( Ata Trentino ) supera il primo turno al torneo challenger al Ct genova ( terra , 25 mila $ ) [superando] l' ostico argentino Andres Dellatorre per 6 - 1 2 - 6 6 - 4 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ superando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q749]]
+
+[[Question:MC]]
+Proprio da qui è [partita] la scintilla dell' ultimo litigio , quello fatale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ partita ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q377]]
+
+[[Question:MC]]
+La bambina intanto scorrazza per il negozio , interessata più dai giocattoli che dalla « mercanzia » che [dovrà] portarsi a scuola .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovrà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2037]]
+
+[[Question:MC]]
+Si [tratta] di un particolare festival di letteratura , musica , multimedialità e danza organizzato dalla Regione Trentino Alto Adige e dal Comune di Pergine che guarda alle minoranze per andare oltre ogni confine .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tratta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1716]]
+
+[[Question:MC]]
+L' Appm [opera] in Trentino da circa trent' anni ed è una onlus finanziata in toto dalla Provincia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ opera ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

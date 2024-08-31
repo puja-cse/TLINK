@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q345]]
+
+[[Question:MC]]
+Noi [puntiamo] a trovare un buon equilibrio e a disputare un buon campionato » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ puntiamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q204]]
+
+[[Question:MC]]
+É stato [trasportato] in ambulanza al Pronto Soccorso pediatrico del Santa Chiara di Trento .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trasportato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2100]]
+
+[[Question:MC]]
+L' epica è quasi l' unica forma letteraria : non [esiste] poesia d' amore tra i nokhci .
+[[Question:MC:SingleAnswer]]
+Il verbo [ esiste ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q81]]
+
+[[Question:MC]]
+" Entro metà gennaio l' advisor dovrebbe [indicare] le comparazioni effettuate e poi l' Iri deciderà " , ha precisato ieri Salvatore Biondo , segretario nazionale della Fm Cisl al termine di un incontro con i vertici di Via Veneto per fare il punto sulla privatizzazione dell' ultimo troncone di siderurgia di Stato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ indicare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q272]]
+
+[[Question:MC]]
+E' vero che una rondine non fa primavera , ma il punto [ottenuto] con pieno merito sul campo dell' Alense dimostra che la determinazione e l' impegno sono tornati a livelli rassicuranti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ottenuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q330]]
+
+[[Question:MC]]
+La partita di domenica ha confermato che [dobbiamo] ancora lavorare molto » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dobbiamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2177]]
+
+[[Question:MC]]
+Beslan è [sorta] durante la guerra caucasica dell' 800 , abitata dagli Osseti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sorta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q393]]
+
+[[Question:MC]]
+Per i ragazzi il discorso [è] un po' diverso , visto che spesso sono portati a delegare .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q96]]
+
+[[Question:MC]]
+Ieri i concorrenti [rimasti] in gara hanno presentato le loro offerte vincolanti in busta chiusa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rimasti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1928]]
+
+[[Question:MC]]
+Macchè , [è] anche una situazione comoda .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1090]]
+
+[[Question:MC]]
+Da tempo la Wellcome , che aveva ritenuto insufficiente l' offerta della Glaxo , [era] freneticamente a caccia di un " cavaliere bianco " che potesse rilanciare sul prezzo della Glaxo e aveva consigliato i propri azionisti ad attendere un' alternativa più attraente .
+[[Question:MC:SingleAnswer]]
+Il verbo [ era ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1520]]
+
+[[Question:MC]]
+La gestione commerciale della banca mostra dunque un incremento della raccolta complessiva , [passata] dai 6.038 milioni di euro di fine giugno 2003 ai 6.322 milioni di euro di fine giugno 2004 ( + 284 milioni di euro ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ passata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q728]]
+
+[[Question:MC]]
+In attesa di arrivare al 2006 , Dorigatti , assieme agli altri segretari regionali non rieletti , dovrebbe uscire dal direttivo nazionale per [far] posto ai nuovi leader .
+[[Question:MC:SingleAnswer]]
+Il verbo [ far ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q989]]
+
+[[Question:MC]]
+Di « questione culturale » e di « appello alla famiglia » ha parlato invece Nicola Ferrante , segretario della Cisl , secondo il quale « qui vengono [presi] di mira i bambini , che sono il nostro futuro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ presi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1010]]
+
+[[Question:MC]]
+Quanto alle previsione di partecipazione , i sindacati si [attendono] 3 - 4mila persone , anche se , ha confessato Nicola Ferrante , « ci auguriamo che saranno dieci o ventimila » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ attendono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1925]]
+
+[[Question:MC]]
+Però a suon di gol e prodezze vi [toglie] un po' di visibilità .
+[[Question:MC:SingleAnswer]]
+Il verbo [ toglie ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q732]]
+
+[[Question:MC]]
+MONTECALVOLI - Ha sparato alla moglie , uccidendola e poi ha atteso i Carabinieri sulla soglia di casa , [fumando] una sigaretta .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fumando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1939]]
+
+[[Question:MC]]
+Quest' anno quale dovrebbe [essere] l' obbiettivo ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ essere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1294]]
+
+[[Question:MC]]
+TRENTO - Un progetto organico di aiuti alle famiglie colpite dalla tragedia di Beslan che metta assieme e coordini tutte le iniziative di solidarietà già avviate e quelle programmate , puntando in via prioritaria ad assicurare ai bambini e alle bambine che hanno [vissuto] quella spaventosa esperienza tutti i supporti , materiali e non , necessari per aiutarli a superare il terribile shock subito in quei drammatici giorni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vissuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1134]]
+
+[[Question:MC]]
+In ogni caso le 250 richieste presentate dai residenti della Vela ( e non solo ) [arrivate] in questi mesi al Comune sono il segnale più evidente della contrarietà di una comunità intera al progetto di realizzazione a nord dell' abitato ( nell' area dei Laghetti ) di un polo della rottamazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ arrivate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

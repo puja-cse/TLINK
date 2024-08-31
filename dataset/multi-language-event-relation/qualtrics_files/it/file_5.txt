@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q1316]]
+
+[[Question:MC]]
+Sentence 1: Quando nel 1500 arrivò l' islam trovò un terreno pagano » , [ spiega ] Bensi .
+Sentence 2: Ma in Caucaso non ci furono mai dei mussulmani molto ferventi , al punto che durante la dominazione sovietica [ dimenticarono ] totalmente il « culto di Allah » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spiega ] accade DOPO il verbo [ dimenticarono ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q198]]
+
+[[Question:MC]]
+Sentence: Ad [ aprire ] la conferenza stampa il sindaco di Trento , Alberto Pacher , che ha ringraziato i tre sindacati per « aver rappresentato , con l' organizzazione di questa fiaccolata , l' indignazione profonda dei nostri concittadini e la volontà di ribadire un no deciso a quello che [ è ] un insulto all' umanità » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aprire ] accade PRIMA del verbo [ è ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1570]]
+
+[[Question:MC]]
+Sentence: E Veneziani ne [ illustra ] i tre livelli : il primo , « agisce in platea ... la manovalanza intellettuale di Cosa nostra fischia ministri e direttori di mostra , tutto ciò che odora di Rai , Medus , Cinecittà » , [ sono ] quelli che « battono le mani appena arriva qualcuno a rappresentare in pellicola la loro ideologia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ illustra ] accade PRIMA del verbo [ sono ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2661]]
+
+[[Question:MC]]
+Sentence 1: Infina il cardinale di Napoli , Michele Giordano , [ chiede ] che « La scuola sia il terreno in cui cominciare a tessere i fili di una civiltà di pace e di amore » , basata sul rispetto della vita umana e la solidarietà tra le persone .
+Sentence 2: [ Ricordando ] la « vile e spietata aggressione di Beslan » , il cardinale Michele Giordano rivolge questo auspicio agli studenti napoletani , sostiene che « alla violenza delle guerre , del terrorismo , dell' intolleranza va contrapposta , cominciando proprio dai giovani , una cultura di segno opposto » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ chiede ] accade PRIMA del verbo [ Ricordando ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3569]]
+
+[[Question:MC]]
+Sentence 1: Incontriamo una famiglia tipo : papà , mamma e una bella bambina che lunedì [ inizierà ] le scuole elementari .
+Sentence 2: La tensione per la cartella nuova , la prima cartella della sua vita , [ pare ] non esserci .
+[[Question:MC:SingleAnswer]]
+Il verbo [ inizierà ] accade SIMULTANEAMENTE con il verbo [ pare ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3245]]
+
+[[Question:MC]]
+Sentence: La vendita dell' Ast , ha [ continuato ] Gnutti , [ è ] la dimostrazione di questa serietà e con gli stessi criteri - ha concluso - si procederà ora alla cessione dell' Ilp .
+[[Question:MC:SingleAnswer]]
+Il verbo [ continuato ] accade PRIMA del verbo [ è ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1843]]
+
+[[Question:MC]]
+Sentence 1: Si è fatto conoscere come « ladro maldestro » : lo scorso marzo si è ribaltato in bicicletta mentre stava scappando con un paio di cassette piene di monetine [ trafugate ] da una lavanderia , poi era stato sorpreso all' interno di un tombino con l' intenzione di intrufolarsi nel magazzino di una tabaccheria , infine lo scorso venerdì era stato denunciato perché trovato in possesso di un timbrino trafugato ad un medico , con cui falsificava le ricette .
+Sentence 2: Marco Cacucci , 23 anni , [ nato ] a Milano ma da anni a Trento senza fissa dimora , è una vecchia conoscenza di polizia e carabinieri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trafugate ] accade DOPO il verbo [ nato ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1599]]
+
+[[Question:MC]]
+Sentence: Il secondo livello , scrive Veneziani , è « [ costituto ] da un clan di giornalisti che scrivono divisi ma colpiscono uniti , elogiando le pellicole politicamente corrette , [ colmano ] di elogi chiunque sia in odore di disprezzare Bush , Berlusconi , Croff e le bandane e viceversa pisciano lacrime di commozione per tutti gli amarcord del sessantotto , anni settanta , Radio Alice » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ costituto ] accade PRIMA del verbo [ colmano ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1997]]
+
+[[Question:MC]]
+Sentence 1: La struttura , antica di un secolo , è rimasta chiusa tra giugno e settembre , con il solo « sacrificio » del tradizionale asilo estivo che [ riprenderà ] regolarmente la prossima estate .
+Sentence 2: Nel corso delle ultime quindici settimane si sono così [ alternate ] numerose ed anche nutrite squadre di addetti che hanno consentito il pieno rispetto della tabella di marcia fissata ancora lo scorso aprile .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riprenderà ] accade DOPO il verbo [ alternate ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q233]]
+
+[[Question:MC]]
+Sentence: « Quanto accaduto a Beslan - ha [ affermato ] Pacher - [ costituisce ] il superamento di una soglia inimmaginabile , ed è importante che tutta la città , senza divisioni né appartenenze , sia in piazza per ribadire valori che uniscono tutti , nel nome di una civiltà che si ritrova e di principi attorno a cui si costruisce l' idea di cittadinanza » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ affermato ] accade DOPO il verbo [ costituisce ].
+[[Choices]]
+Sì
+NO
+NON SO
+

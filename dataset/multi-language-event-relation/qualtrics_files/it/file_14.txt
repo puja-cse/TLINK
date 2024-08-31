@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q3433]]
+
+[[Question:MC]]
+Sentence: NORTON ( Stati Uniti ) - Si volta pagina nel golf : un giocatore delle isole Figi , Vijay Singh , ha [ strappato ] a 41 anni la corona al fin qui imbattibile americano Tiger Woods , l' uomo che più a lungo nella storia ha [ conservato ] il numero uno nella classifica mondiale .
+[[Question:MC:SingleAnswer]]
+La relazione tra [ strappato ] e [ conservato ] è VAGA (i.e., nessuna delle precedenti).
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3450]]
+
+[[Question:MC]]
+Sentence 1: Lo storico sorpasso è avvenuto l' altro ieri al torneo di Norton , nel Massachusetts , dove Singh - già in testa dopo il 3 ° turno - ha [ resistito ] alla rimonta di Woods concludendo con tre punti di vantaggio sull' americano e sull' australiano Adam Scott .
+Sentence 2: Ex insegnante di golf , specialità alla quale si è avvicinato da caddy , Singh aveva vinto il mese scorso , per la seconda volta in carriera dopo il 1998 , il campionato Pga , ultimo torneo del Grande Slam di Golf , diventando il più anziano vincitore della prova e [ conquistando ] , al posto del sudafricano Ernie Els , il secondo posto nella classifica mondiale dietro Woods .
+[[Question:MC:SingleAnswer]]
+Il verbo [ resistito ] accade PRIMA del verbo [ conquistando ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2348]]
+
+[[Question:MC]]
+Sentence: E si [ gira ] [ indicando ] il marciapiede di via Vittorio Veneto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ gira ] accade DOPO il verbo [ indicando ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3193]]
+
+[[Question:MC]]
+Sentence 1: E' [ prevista ] anche un' escursione nei boschi della zona per raccogliere esemplari di specie botaniche che verranno poi classificate e conservate .
+Sentence 2: Per l' occasione , l' Apt Lagorai [ mette ] a disposizione , gratuitamente , il servizio " Ecobus del Lagorai " con partenza alle 8.30 da Roncegno ( fermate a Borgo , Strigno e Bieno ) e rientro dal rifugio alle 15.30 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ prevista ] accade DOPO il verbo [ mette ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3638]]
+
+[[Question:MC]]
+Sentence 1: Dopo un periodo di calo , anche gli l' Invicta ( 68 euro ) [ sembra ] fare nuovamente capolino fra gli scaffali , mentre , dopo aver dominato gli anni Novanta , il diario - agenda Smemoranda ( 12 euro ) sembra essere entrato in un periodo di stanca , tanto che in una libreria lo abbiamo trovato in vendita con il 20% di sconto .
+Sentence 2: I ragazzi [ sembrano ] puntare di più su Comix ( 11 euro ) .
+[[Question:MC:SingleAnswer]]
+La relazione tra [ sembra ] e [ sembrano ] è VAGA (i.e., nessuna delle precedenti).
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q322]]
+
+[[Question:MC]]
+Sentence 1: In un laconico comunicato la Wellcome ha reso noto che una controproposta [ era ] sul tavolo ( pare da parte della Zeneca ) ma si è scontrata con il rifiuto del Wellcome Trust , la fondazione caritatevole che detiene il 39,50% del capitale della società .
+Sentence 2: Questa non avrebbe voluto impegnarsi ad accettare una seconda offerta ( più elevata ) come definitiva sia perché [ impossibilitata ] sul piano legale sia perché legata a un' esclusiva con la Glaxo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ era ] accade PRIMA del verbo [ impossibilitata ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2669]]
+
+[[Question:MC]]
+Sentence 1: [ Ricordando ] la « vile e spietata aggressione di Beslan » , il cardinale Michele Giordano rivolge questo auspicio agli studenti napoletani , sostiene che « alla violenza delle guerre , del terrorismo , dell' intolleranza va contrapposta , cominciando proprio dai giovani , una cultura di segno opposto » .
+Sentence 2: Inoltre il presidente Cossiga [ osserva ] : « Registro con vera gioia la " conversione " del Card . Martino ad una posizione più moderata nei confronto degli Usa e di Israele e più ferma nei confronti dell' estremismo islamico , come cattolico mi vergogno che il vescovo caldeo di Baghdad faccia parte della gerarchia cattolica .
+[[Question:MC:SingleAnswer]]
+La relazione tra [ Ricordando ] e [ osserva ] è VAGA (i.e., nessuna delle precedenti).
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2902]]
+
+[[Question:MC]]
+Sentence: Lo [ rileva ] una ricerca dell' università di Adelaide , [ condotta ] su un campione di 5000 adolescenti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rileva ] accade DOPO il verbo [ condotta ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3053]]
+
+[[Question:MC]]
+Sentence: Nella riunione del consiglio d' amministrazione della Fondazione che si è [ tenuta ] ieri non si è arrivati ad una intesa per cui tutto è [ rinviato ] a martedì prossimo quando sarà necessario « tirare le fila del discorso » come ha spiegato il presidente della Fondazione , Gerhard Brandstätter , lui stesso candidato di punta per la successione di Amonn .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tenuta ] accade DOPO il verbo [ rinviato ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2723]]
+
+[[Question:MC]]
+Sentence: I bambini russi [ reclutati ] nell' Accademia , nella piccola isola di fronte San Pietroburgo , [ sono ] tutti piccoli abbandonati , orfani , figli di alcolizzati , che hanno subito violenze , bambini che Putin vuole trasformare in piccoli soldati ripristinando la vecchia caserma zarista .
+[[Question:MC:SingleAnswer]]
+Il verbo [ reclutati ] accade SIMULTANEAMENTE con il verbo [ sono ].
+[[Choices]]
+Sì
+NO
+NON SO
+

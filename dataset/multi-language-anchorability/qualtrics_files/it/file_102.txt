@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q923]]
+
+[[Question:MC]]
+La politica deve quindi dare direttive precise e vigilare sulla loro applicazione , [cercando] i correttivi a quelle disfunzioni che dieci anni di Aziendalizzazione della Sanità possono avere evidenziato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ cercando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q556]]
+
+[[Question:MC]]
+I primi bilanci [parlano] di 6 morti , 25 dispersi e 442 feriti nell' isola di Kyushu .
+[[Question:MC:SingleAnswer]]
+Il verbo [ parlano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q173]]
+
+[[Question:MC]]
+Ma a ben guardare anche in questi casi non si può parlare di esiti clamorosi : che la formazione di Zimelli potesse sbancare Natz era infatti nei numeri visto che già l' anno passato si [impose] su quel campo con un roboante 5 - 3 e che il suo potenziale offensivo , già strepitoso ( basti ricordare i 115 gol dell' ultimo biennio ) , è ancor più lievitato adesso con l' ingaggio dell' interessantissimo rumeno Ionut Alecu , non a caso subito a segno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ impose ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q318]]
+
+[[Question:MC]]
+Parte bene la neo promossa Azzurra che grazie alle marcature di Flores e Fabbri mette a segno a Cavalese quella che [può] forse essere considerata come la sorpresa principale della giornata .
+[[Question:MC:SingleAnswer]]
+Il verbo [ può ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q460]]
+
+[[Question:MC]]
+Il cardinale sottolinea il ruolo che deve [avere] l' Onu .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1305]]
+
+[[Question:MC]]
+« La condanna di questi atti efferati e la mobilitazione di tutti contro questo terrorismo cieco e brutale che [cancella] ogni limite ed annulla i tabù più consolidati - prosegue Bezzi - devono accompagnarsi con concrete iniziative di solidarietà verso gli abitanti della sfortunata città dell' Ossezia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ cancella ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2160]]
+
+[[Question:MC]]
+Nel 1996 [finì] la prima guerra cecena con una indipendenza a metà e una promessa russa di rivedere i termini dell' autonomia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ finì ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1813]]
+
+[[Question:MC]]
+Fisac Cigl , Fiba Cisl e Uilca hanno [spiegato] così , durante un' assemblea tenutasi ieri alla Sala della Cooperazione in via Segantini , la decisione di proclamare due giornate di sciopero nel settore bancario , il 10 settembre e il primo ottobre , dopo la brusca interruzione della difficile trattativa sul rinnovo del contratto nazionale , scaduto a fine 2003 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spiegato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q145]]
+
+[[Question:MC]]
+Dopo le scalate a Documentum ( content management ) e VMware ( software per la virtualizzazione ) , la casa americana sembra in effetti aver [calato] un altro asso importante per continuare a giocare un ruolo di primo piano sullo scacchiere internazionale nel campo delle soluzioni destinate alle architetture informative delle grandi aziende .
+[[Question:MC:SingleAnswer]]
+Il verbo [ calato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1626]]
+
+[[Question:MC]]
+I nuovi lavori acquisiti nel 92 sul mercato tradizionale ammontano a 222 miliardi , ai quali si [aggiungono] 115 miliardi relativi all' acquisizione dalle Ferrovie dello Stato di una importante commessa relativa all' alta velocità .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aggiungono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2010]]
+
+[[Question:MC]]
+Ligresti , che da mesi trascorre più tempo in Costa Azzurra che a Milano , [tornerebbe] ad avere una presenza più assidua al vertice del gruppo anche in considerazione del fatto che il piano di ristrutturazione dell' indebitamento , a conti fatti , all' ingegnere siciliano sarebbe costato 600 miliardi di aumenti di capitale e altri 400 miliardi di rinunce crediti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tornerebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1429]]
+
+[[Question:MC]]
+Le azioni Schemaventuno necessarie saranno fornite pro quota dagli attuali azionisti , così da mantenere , ha spiegato un portavoce , gli attuali equilibri che [vedono] Edizione e Del Vecchio in posizione paritetica ( 47,50% ) con Movenpick in minoranza ( 5,00% ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vedono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q380]]
+
+[[Question:MC]]
+La commessa ammicca e [dice] : « Se il prossimo anno verrete prima , avrete più scelta » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dice ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2012]]
+
+[[Question:MC]]
+Ligresti , che da mesi trascorre più tempo in Costa Azzurra che a Milano , tornerebbe ad avere una presenza più assidua al vertice del gruppo anche in considerazione del fatto che il piano di ristrutturazione dell' indebitamento , a conti fatti , all' ingegnere siciliano sarebbe [costato] 600 miliardi di aumenti di capitale e altri 400 miliardi di rinunce crediti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ costato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q708]]
+
+[[Question:MC]]
+L' università Sedes Sapientiae sta invece per assegnare le prime lauree ( due le facoltà : scienza della formazione e scienza economiche ) e sta lavorando all' ipotesi di aprire un corso di psicologia che dovrebbe [coinvolgere] il docente di origini trentine Erminio Gius .
+[[Question:MC:SingleAnswer]]
+Il verbo [ coinvolgere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1120]]
+
+[[Question:MC]]
+Secondo gli analisti , infatti , uno dei vantaggi che deriverebbero dalla fusione [consisterebbe] proprio in un drastico ridimensionamento dei costi , stimato tra i 500 milioni e il miliardo di sterline l' anno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ consisterebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1581]]
+
+[[Question:MC]]
+« Con fierezza , con fierezza » [grida] l' addestratore , ma i ragazzi hanno sonno , sono stanchi ; enormi sbadigli si spalancano sulla loro vita malinconica di ordine e disciplina forzati .
+[[Question:MC:SingleAnswer]]
+Il verbo [ grida ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q520]]
+
+[[Question:MC]]
+Il secondo livello , scrive Veneziani , è « costituto da un clan di giornalisti che scrivono divisi ma [colpiscono] uniti , elogiando le pellicole politicamente corrette , colmano di elogi chiunque sia in odore di disprezzare Bush , Berlusconi , Croff e le bandane e viceversa pisciano lacrime di commozione per tutti gli amarcord del sessantotto , anni settanta , Radio Alice » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ colpiscono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q85]]
+
+[[Question:MC]]
+" Entro metà gennaio l' advisor dovrebbe indicare le comparazioni effettuate e poi l' Iri deciderà " , ha precisato ieri Salvatore Biondo , segretario nazionale della Fm Cisl al termine di un incontro con i vertici di Via Veneto per [fare] il punto sulla privatizzazione dell' ultimo troncone di siderurgia di Stato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q646]]
+
+[[Question:MC]]
+Contrassegnato da significativi progressi nella raccolta premi , il 92 ha [visto] - sottolinea una nota - anche un miglioramento dei saldi tecnici rispetto all' anno precedente .
+[[Question:MC:SingleAnswer]]
+Il verbo [ visto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

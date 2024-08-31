@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q35]]
+
+[[Question:MC]]
+Sarkozy était hier dans la capitale alsacienne où le matin même une opération contre un réseau de recel et trafic de Hi - Fi et vidéo a [ permis ] d' [ interpeller ] dix personnes , de saisir des armes et 15.000 € .
+[[Question:MC:SingleAnswer]]
+La verb [ permis ] se passe APRÈS le verb [ interpeller ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q90]]
+
+[[Question:MC]]
+Le bâtiment , qui appartient à la Ville de Belfort , venait de faire l'objet de travaux de rénovation [ confirme ] André Kaufmann , adjoint au maire , sur place hier : « La toiture a été complétement refaite à la fin de l'année dernière , ainsi que la façade extérieure et les systèmes de sécurité » , [ souligne ] - t - il , estimant le coût de ces travaux à environ 100.000 € .
+[[Question:MC:SingleAnswer]]
+La verb [ confirme ] se passe AVANT le verb [ souligne ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q188]]
+
+[[Question:MC]]
+Les faits qui lui sont reprochés remontent au 27 mai 1998 et se sont [ déroulés ] dans les bois proches du fort Dorsner à Giromagny .
+Bernard affirme qu'en se promenant , il a chuté et s ' est retrouvé à terre , la braguette [ ouverte ] .
+[[Question:MC:SingleAnswer]]
+La verb [ déroulés ] se passe AVANT le verb [ ouverte ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q425]]
+
+[[Question:MC]]
+Quant au chef du Sinn Fein , il a [ estimé ] que sans transfert des pouvoirs d' ici le 30 juin , l' accord du Vendredi Saint serait « caduc » .
+A Moscou , le nouveau Premier ministre russe Sergueï Stépachine , [ confirmé ] par les députés de la Douma , a annoncé qu'il garderait « l'ossature » du précédent gouvernement .
+[[Question:MC:SingleAnswer]]
+La verb [ estimé ] se passe APRÈS le verb [ confirmé ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q96]]
+
+[[Question:MC]]
+Nous avons [ ouvert ] vendredi jusqu ' à 17 h .
+Le bâtiment était [ fermé ] depuis .
+[[Question:MC:SingleAnswer]]
+La verb [ ouvert ] se passe AVANT le verb [ fermé ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q59]]
+
+[[Question:MC]]
+Il a [ fallu ] que les sapeurs - pompiers cassent les vitres , [ découpent ] le rideau métallique de la porte d'entrée et fassent des ouvertures dans le toit pour pouvoir combattre les flammes .
+[[Question:MC:SingleAnswer]]
+La verb [ fallu ] se passe AVANT le verb [ découpent ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q95]]
+
+[[Question:MC]]
+Jean - Claude Viailly , responsable des ventes , [ regardait ] avec la larme à l'œil les pompiers [ dégager ] les restes de son bureau et de sa brocante : « Nous sommes trois à être salariés ici .
+[[Question:MC:SingleAnswer]]
+La verb [ regardait ] se passe APRÈS le verb [ dégager ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q57]]
+
+[[Question:MC]]
+Le feu avait couvé et une épaisse fumée s ' était [ concentrée ] sur les deux étages de l'entrepôt du Secours populaire .
+Il a fallu que les sapeurs - pompiers cassent les vitres , découpent le rideau métallique de la porte d'entrée et [ fassent ] des ouvertures dans le toit pour pouvoir combattre les flammes .
+[[Question:MC:SingleAnswer]]
+La verb [ concentrée ] se passe APRÈS le verb [ fassent ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q268]]
+
+[[Question:MC]]
+Dans un point de vue paru dans « Le Monde » , le président socialiste de l'Assemblée nationale juge que la cohabitation comporte « trois inconvénients » : elle « ne facilite pas le traitement des problèmes de long terme » , « [ dilue ] la notion - même de responsabilité politique » et « [ fait ] le lit des abstentionnistes et des votes marginaux » .
+[[Question:MC:SingleAnswer]]
+La verb [ dilue ] se passe AVANT le verb [ fait ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q77]]
+
+[[Question:MC]]
+Il n ' y avait personne non plus à l'intérieur du hangar que le Secours populaire [ utilise ] depuis un quart de siècle pour l'accueil ainsi que la vente et le stockage de ses objets , meubles et vêtements .
+Le bâtiment , qui appartient à la Ville de Belfort , venait de faire l'objet de travaux de rénovation confirme André Kaufmann , adjoint au maire , sur place hier : « La toiture a été complétement [ refaite ] à la fin de l'année dernière , ainsi que la façade extérieure et les systèmes de sécurité » , souligne - t - il , estimant le coût de ces travaux à environ 100.000 € .
+[[Question:MC:SingleAnswer]]
+La verb [ utilise ] se passe APRÈS le verb [ refaite ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+

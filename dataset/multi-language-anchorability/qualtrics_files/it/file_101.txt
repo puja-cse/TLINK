@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q616]]
+
+[[Question:MC]]
+Si [getta] da balcone con il figlioletto
+[[Question:MC:SingleAnswer]]
+Il verbo [ getta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q785]]
+
+[[Question:MC]]
+Gli agenti delle volanti lo hanno bloccato mentre cercava di [scappare] dopo essersi sbarazzato dell' attrezzo : è stato raggiunto e arrestato per tentato furto aggravato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scappare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1834]]
+
+[[Question:MC]]
+I bancari , infatti , chiedono che si tenga conto dell' inflazione reale , mentre l' Abi pretende che si [faccia] riferimento all' inflazione programmata dal governo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ faccia ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1831]]
+
+[[Question:MC]]
+I bancari , infatti , [chiedono] che si tenga conto dell' inflazione reale , mentre l' Abi pretende che si faccia riferimento all' inflazione programmata dal governo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ chiedono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1586]]
+
+[[Question:MC]]
+Il secondo episodio , « Respiro » , è [girato] in bianco e nero con le devastanti rovine di Grozny sullo sfondo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ girato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q62]]
+
+[[Question:MC]]
+L' Ast [costituisce] uno dei principali produttori europei di acciai speciali , costituito a seguito della ristrutturazione industriale e societaria del gruppo Ilva .
+[[Question:MC:SingleAnswer]]
+Il verbo [ costituisce ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1353]]
+
+[[Question:MC]]
+Questa costellazione di aziende , secondo proiezioni della stessa Profit , dovrebbe [portare] nel 95 a un giro d' affari superiore a 60 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ portare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q218]]
+
+[[Question:MC]]
+« La tragedia osseta si [colloca] nello scenario del Caucaso , che vede convivere ceceni , ingusci , osseti , georgiani , daghestani , azeri , armeni e altre popolazioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ colloca ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1257]]
+
+[[Question:MC]]
+Lo ribadisce , in un' intervista rilasciata al " Corriere della Sera " , il vicepremier e ministro per i Beni culturali Francesco Rutelli , per il quale " " bisogna seguire la linea Ciampi per [allargare] la maggioranza " " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ allargare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q903]]
+
+[[Question:MC]]
+Non è pensabile che il lavoro del Direttore Generale venga valutato solo in prossimità della scadenza del mandato ; la Politica dovrebbe [avere] un costante ritorno di quanto avviene nella Azienda Sanitaria sia da parte di chi ne produce i Servizi che da parte di chi ne fruisce .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q366]]
+
+[[Question:MC]]
+La tensione per la cartella nuova , la prima cartella della sua vita , [pare] non esserci .
+[[Question:MC:SingleAnswer]]
+Il verbo [ pare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2192]]
+
+[[Question:MC]]
+Emblematica fu la dichiarazione del presidente ceceno Dudajev : " io sono [mussulmano] , ma non ho ancora capito la differenza tra sunniti e sciiti " » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ mussulmano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q776]]
+
+[[Question:MC]]
+Si è fatto conoscere come « ladro maldestro » : lo scorso marzo si è ribaltato in bicicletta mentre stava scappando con un paio di cassette piene di monetine trafugate da una lavanderia , poi era stato sorpreso all' interno di un tombino con l' intenzione di intrufolarsi nel magazzino di una tabaccheria , infine lo scorso venerdì era stato [denunciato] perché trovato in possesso di un timbrino trafugato ad un medico , con cui falsificava le ricette .
+[[Question:MC:SingleAnswer]]
+Il verbo [ denunciato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1627]]
+
+[[Question:MC]]
+Il portafoglio lavori si [attesta] sui 628 miliardi e , secondo una nota diffusa dalla società , " rappresenta una potenzialità produttiva che consente a Edilter di affrontare serenamente il futuro , a condizione che vengano riattivati i flussi finanziari sulle opere pubbliche , oggi quasi dappertutto rallentati e in qualche caso bloccati " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ attesta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1015]]
+
+[[Question:MC]]
+MILANO - Il gruppo Koelliker acquista la maggioranza azionaria della Hyundai Automobili Italia , società che [distribuisce] nel nostro paese i prodotti della casa automobilistica coreana .
+[[Question:MC:SingleAnswer]]
+Il verbo [ distribuisce ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1943]]
+
+[[Question:MC]]
+nan [Sarà] dura ...
+[[Question:MC:SingleAnswer]]
+Il verbo [ Sarà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1434]]
+
+[[Question:MC]]
+Ai fini della fusione , che sarà sottoposta il 27 settembre alle assemblee degli azionisti , la Sme , che controlla il 100,00% della società di grande distribuzione Gs , è stata valutata 1500 miliardi , mentre la Schemaventuno , che ha come unica attività la partecipazione nella stessa Sme , è stata [stimata] 692 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stimata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q656]]
+
+[[Question:MC]]
+Le riserve premi ( 222,5 miliardi ) e le riserve sinistri ( 655,6 miliardi ) risultano interamente [coperte] dagli investimenti , che hanno raggiunto 1092 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ coperte ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q14]]
+
+[[Question:MC]]
+Con la platea riempita fino all' ultima poltrona è stato [allestito] lunedì all' auditorium del Mart " Escucha mi cantar " , penultimo lavoro del coreografo brasiliano trapiantato in Svizzera .
+[[Question:MC:SingleAnswer]]
+Il verbo [ allestito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1425]]
+
+[[Question:MC]]
+L' operazione , si legge in una nota , è stata approvata dai consigli di amministrazione delle società coinvolte e prevede la distribuzione agli azionisti minori della Sme ( il 95,59% è controllato da Schemaventuno e il 4,00% dal gruppo bancario San Paolo di Torino ) di 12 azioni ordinarie Schemaventuno ogni 5 Sme [possedute] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ possedute ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

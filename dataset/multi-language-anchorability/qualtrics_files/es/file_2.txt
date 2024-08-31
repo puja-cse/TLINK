@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q400]]
+
+[[Question:MC]]
+Las afirmaciones de Musa , a quien cita hoy , lunes , la prensa local , [ coinciden ] con la presencia estos días en Egipto de una delegación de especialistas de las Naciones Unidas para tratar con las autoridades de este país sobre las posibilidades de eliminar esos artefactos en el territorio egipcio .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [coinciden] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q353]]
+
+[[Question:MC]]
+La falta de inversión en equipos de seguridad se une a la actitud de los directivos , que obligan a los obreros a trabajar hasta 12 ó 14 horas diarias por salarios de miseria y [ ocultan ] a las autoridades los accidentes que se producen .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [ocultan] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q394]]
+
+[[Question:MC]]
+Egipto necesita más de 250 millones de dólares para [ eliminar ] los campos de minas de distintos tipos que se encuentran en diferentes zonas de este país , dijo el ministro egipcio de Asuntos Exteriores , Amro Musa .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [eliminar] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q262]]
+
+[[Question:MC]]
+Josep Mil , secretario de la Oficina de Dinamización del Centro , recordó ayer que ejecutar el paralizado plan de aparcamientos " [ es ] básico por una cuestión de calidad ambiental y de movilidad " .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [es] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q54]]
+
+[[Question:MC]]
+Durante la campaña , el primer ministro provincial predicó la fórmula independentista , el núcleo esencial de la política de su partido , aunque dejó cuidadosamente abiertas las puertas para seguir [ liderando ] una vía pragmática de descentralización dentro de la federación canadiense .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [liderando] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q391]]
+
+[[Question:MC]]
+Yushiro Yagi , presidente del Comité Olímpico Japonés ( JOC ) , aclaró que pese a que su país ya ha sido escenario de Juegos Olímpicos confía en que ese aprendizaje les sirva para albergar otros con garantías y añadió que " la candidatura de Osaka [ es ] muy sólida y dispone de todo lo necesario " .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [es] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q163]]
+
+[[Question:MC]]
+Es la mayor caída en siete meses y supone un indicio de que el mercado inmobiliario de EEUU [ puede ] estar desacelerándose , tras subir el 5,8% en marzo .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [puede] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q342]]
+
+[[Question:MC]]
+La oficina regional también [ inspeccionará ] las instalaciones de la mina , sus equipos , aparatos , herramientas y seguros de accidente de los trabajadores , que deberán cumplir las leyes nacionales .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [inspeccionará] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q325]]
+
+[[Question:MC]]
+El Gobierno chino ha decidido reforzar las medidas de seguridad en las minas de carbón del país , en las que han muerto 3.400 trabajadores en diversos accidentes en lo que va de año , [ informa ] hoy miércoles el " Diario del Pueblo " .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [informa] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q176]]
+
+[[Question:MC]]
+Nadie que conozca las políticas y los problemas que [ aquejan ] al sector pesquero puede mostrarse sorprendido de la actitud marroquí .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [aquejan] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q316]]
+
+[[Question:MC]]
+Valero Rivera , no disimuló su preocupación por el sorteo y comentó que " jugar la vuelta fuera [ complica ] más las cosas " .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [complica] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q164]]
+
+[[Question:MC]]
+Es la mayor caída en siete meses y supone un indicio de que el mercado inmobiliario de EEUU puede estar [ desacelerándose ] , tras subir el 5,8% en marzo .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [desacelerándose] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q434]]
+
+[[Question:MC]]
+El caso , que [ dura ] ya más de dos años , surgió como consecuencia de la demanda presentada por el gobierno federal y los ejecutivos de 19 estados , que al final han quedado en 17 .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [dura] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q166]]
+
+[[Question:MC]]
+El encarecimiento de las hipotecas ha [ contribuido ] a frenar las ventas , ya que el tipo de interés a 30 años es del 8,62% , un punto más que hace un año .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [contribuido] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q405]]
+
+[[Question:MC]]
+" La ayuda que nos han enviado la comunidad internacional y los países involucrados en la guerra de Al Alamin , en el Desierto Occidental , ( Gran Bretaña , Alemania e Italia ) es muy limitada " , [ dijo ] Musa .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [dijo] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q244]]
+
+[[Question:MC]]
+Los jóvenes anotaban la movilidad , los vehículos aparcados legal e ilegalmente y la predisposición de vecinos y usuarios a [ comprar ] plazas en un hipotético párking .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [comprar] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q28]]
+
+[[Question:MC]]
+El descenso de los precios se debió a la debilidad del consumo interno , que aún se [ resiente ] de la crisis económica , y a la apreciación del yen .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [resiente] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q337]]
+
+[[Question:MC]]
+Además , se creará un órgano independiente de supervisión de seguridad en las minas de carbón , al que las explotaciones deberán [ presentar ] cada dos semanas informes detallados sobre el nivel de seguridad del yacimiento .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [presentar] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q128]]
+
+[[Question:MC]]
+" No me tenía que explicar nada . Simplemente no cuadro en su proyecto del Barça . Está claro que no son cosas agradables ni por su parte ni por la mía " , [ señaló ] el exjugador barcelonista sobre la conversación con el entrenador .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [señaló] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q432]]
+
+[[Question:MC]]
+Según algunas fuentes , [ es ] posible que lo haga esta misma semana .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [es] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+

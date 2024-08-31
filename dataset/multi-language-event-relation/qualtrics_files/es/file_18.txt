@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q184]]
+
+[[Question:MC]]
+Durante la campaña , el primer ministro provincial predicó la fórmula independentista , el núcleo esencial de la política de su partido , aunque [ dejó ] cuidadosamente abiertas las puertas para seguir liderando una vía pragmática de descentralización dentro de la federación canadiense .
+Esta línea la suscriben las nueve provincias anglófonas , pero la [ rechaza ] Ottawa .
+[[Question:MC:SingleAnswer]]
+El verbo [ dejó ] pasa ANTES que el verbo [ rechaza ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q660]]
+
+[[Question:MC]]
+El preparador barcelonista [ calificó ] la decisión como " un salto al vacío " al no tener cerrada la operación del escolta francés Antoine Rigaudeau , su probable sustituto , pero indicó que este riesgo era necesario para no perjudicar a Sasha a la hora de negociar nuevas ofertas .
+Aíto [ comentó ] que le ha costado mucho dar este paso - - " son decisiones muy difíciles y no soy insensible como muchos se creen " - - y mostró su deseo de cerrar cuanto antes la renovación de Roger Esteller , uno de los jugadores con los que el club negocia un nuevo contrato , junto al estadounidense Derrick Alston .
+[[Question:MC:SingleAnswer]]
+El verbo [ calificó ] pasa ANTES que el verbo [ comentó ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q577]]
+
+[[Question:MC]]
+" Su respaldo en estos últimos meses ha [ sido ] muy importante para superar el problema que vive mi país " , admitió , para [ añadir ] que se marcha sin ningún rencor contra el técnico por su decisión .
+[[Question:MC:SingleAnswer]]
+El verbo [ sido ] pasa ANTES que el verbo [ añadir ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q633]]
+
+[[Question:MC]]
+" La aportación de Sasha ha sido muy positiva , pero [ creo ] que se ha [ cumplido ] el ciclo previsto cuando fichó " , indicó , por su parte , García Reneses para explicar la decisión de no hacerle ninguna oferta de renovación .
+[[Question:MC:SingleAnswer]]
+El verbo [ creo ] pasa SIMULTÁNEAMENTE con el verbo [ cumplido ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q433]]
+
+[[Question:MC]]
+Con esta normativa , el Gobierno intenta reducir las más de 4.000 muertes que cada año se producen en los yacimientos de carbón del país , la mayoría de los cuales operan sin las mínimas medidas de seguridad , debido sobre todo a los malos resultados del sector , y algunos incluso [ son ] ilegales .
+La falta de inversión en equipos de seguridad se une a la actitud de los directivos , que obligan a los obreros a trabajar hasta 12 ó 14 horas diarias por salarios de miseria y [ ocultan ] a las autoridades los accidentes que se producen .
+[[Question:MC:SingleAnswer]]
+La relación entre [ son ] y [ ocultan ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q182]]
+
+[[Question:MC]]
+Durante la campaña , el primer ministro provincial [ predicó ] la fórmula independentista , el núcleo esencial de la política de su partido , aunque dejó cuidadosamente abiertas las puertas para seguir liderando una vía pragmática de descentralización dentro de la federación canadiense .
+Esta línea la suscriben las nueve provincias anglófonas , pero la [ rechaza ] Ottawa .
+[[Question:MC:SingleAnswer]]
+El verbo [ predicó ] pasa ANTES que el verbo [ rechaza ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q260]]
+
+[[Question:MC]]
+Isomura [ apuntó ] que Pekín no tenía por qué ser la favorita , porque tanto Osaka como las demás tienen proyectos importantes y [ son ] grandes ciudades .
+[[Question:MC:SingleAnswer]]
+El verbo [ apuntó ] pasa ANTES que el verbo [ son ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q532]]
+
+[[Question:MC]]
+Djordjevic reconoció además que se siente un azulgrana más - - " aquí he [ puesto ] mis raíces , he comprado una casa , he vivido el club , los colores , y me [ siento ] un culé más " - - después de estas tres temporadas , pero añadió que ese sentimiento no tiene por qué influir en su decisión .
+[[Question:MC:SingleAnswer]]
+El verbo [ puesto ] pasa ANTES que el verbo [ siento ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q530]]
+
+[[Question:MC]]
+Djordjevic reconoció además que se siente un azulgrana más - - " aquí he [ puesto ] mis raíces , he [ comprado ] una casa , he vivido el club , los colores , y me siento un culé más " - - después de estas tres temporadas , pero añadió que ese sentimiento no tiene por qué influir en su decisión .
+[[Question:MC:SingleAnswer]]
+La relación entre [ puesto ] y [ comprado ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q506]]
+
+[[Question:MC]]
+" Nos hemos ido llamando para felicitarnos por nuestros éxitos " , se [ limitó ] a descubrir .
+Djordjevic [ reconoció ] además que se siente un azulgrana más - - " aquí he puesto mis raíces , he comprado una casa , he vivido el club , los colores , y me siento un culé más " - - después de estas tres temporadas , pero añadió que ese sentimiento no tiene por qué influir en su decisión .
+[[Question:MC:SingleAnswer]]
+El verbo [ limitó ] pasa SIMULTÁNEAMENTE con el verbo [ reconoció ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+

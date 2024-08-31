@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1502]]
+
+[[Question:MC]]
+Nella riunione del consiglio d' amministrazione della Fondazione che si è tenuta ieri non si è arrivati ad una intesa per cui tutto è rinviato a martedì prossimo quando [sarà] necessario « tirare le fila del discorso » come ha spiegato il presidente della Fondazione , Gerhard Brandstätter , lui stesso candidato di punta per la successione di Amonn .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sarà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2025]]
+
+[[Question:MC]]
+nan [Partirà] domani mercoledì 8 settembre alle 15.40 dalla stazione ferroviaria di Trento , e alle 15.56 da quella di Rovereto , il 71 / o pellegrinaggio diocesano a Lourdes , organizzato da Ospitalità tridentina .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Partirà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q207]]
+
+[[Question:MC]]
+Camion di rifiuti [ribaltato] alla Vela
+[[Question:MC:SingleAnswer]]
+Il verbo [ ribaltato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q700]]
+
+[[Question:MC]]
+E quali testimoni della buona riuscita di alcuni di questi progetti , sono arrivati a Trento due importanti religiosi , accompagnati da monsignor Luigi Bressan : Lino Panizza , vescovo di Carabayllo , che invita le autorità ad intervenire all' ormai prossima inaugurazione del centro El Buen Pastor ( 180 alunni , tra i quali anche alcune ragazze iscritte al corso di falegnameria ) , e Adriano Tomasi , vescovo ausiliario di Lima , che annuncia il completamento ( forse già a marzo ) dei primi edifici dell' istituto di Manchay destinato a [far] studiare almeno un migliaio di allievi distribuiti in corsi da sei mesi fino a tre anni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ far ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2121]]
+
+[[Question:MC]]
+Nel 1830 un imam islamico , Shamil , proclamò un imanato : uno stato islamico che oppose una resistenza unica ai Russi prima di [capitolare] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ capitolare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2042]]
+
+[[Question:MC]]
+« Questa iniziativa vuole essere una sorta di " breviario " - [spiega] l' ideatore , Renato Morelli a cui è affidata la direzione artistica del festival - in questo caso focalizzato sull' Arco alpino e sulla nuova Europa per interrogarsi sugli altri , sui diversi , sui confini che rompono e si spostano , sulle minoranze anche lontano che diventano presenze vicine e quotidiane » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spiega ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2045]]
+
+[[Question:MC]]
+« Questa iniziativa vuole essere una sorta di " breviario " - spiega l' ideatore , Renato Morelli a cui è affidata la direzione artistica del festival - in questo caso focalizzato sull' Arco alpino e sulla nuova Europa per [interrogarsi] sugli altri , sui diversi , sui confini che rompono e si spostano , sulle minoranze anche lontano che diventano presenze vicine e quotidiane » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ interrogarsi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1126]]
+
+[[Question:MC]]
+L' annunciato voto contrario di otto senatori al decreto di rifinanziamento della missione in Afghanistan è " un problema serio , serissimo " che , " considerati i rapporti di forza tra maggioranza e opposizione in Parlamento , in particolare al Senato " , può rivelarsi " drammatico " - Lo ha [detto] il ministro della Difesa Arturo Parisi in un' intervista a - Repubblica Radio - Parisi ha precisato che " il nostro impegno nel secondo semestre è assolutamente identico all' impegno del primo " e quindi non c' è " né potenziamento né depotenziamento " della missione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ detto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q163]]
+
+[[Question:MC]]
+Nel nuovo Senato [va] dato spazio a rappresentanze paritarie , con un collegamento agli organi politici delle Regioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ va ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q288]]
+
+[[Question:MC]]
+Woods , che era [diventato] il più giovane numero 1 mondiale della storia del golf , il 15 giugno 1997 , a 21 anni e 24 settimane , è rimasto in testa fino a l' altro ieri , per 335 settimane , battendo così il record dell' australiano Greg Norman ( 331 ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ diventato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2190]]
+
+[[Question:MC]]
+Emblematica [fu] la dichiarazione del presidente ceceno Dudajev : " io sono mussulmano , ma non ho ancora capito la differenza tra sunniti e sciiti " » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fu ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1922]]
+
+[[Question:MC]]
+In più sa [fare] la sponda e appoggiare benissimo , insomma è fin troppo facile con uno così .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1314]]
+
+[[Question:MC]]
+La tradizionale , straordinaria sensibilità dei trentini ha avuto modo di esprimersi già nelle prime ore dopo la tragedia , con l' avvio di iniziative capaci di esprimere lo sgomento e l' orrore per i fatti di Beslan : ma ora a mio avviso è giunto il momento di [organizzare] e dare sistematicità ai diffusi sentimenti dei trentini che vogliono dare una testimonianza tangibile della loro vicinanza a quella sventurata popolazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ organizzare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q415]]
+
+[[Question:MC]]
+Anche se abbiamo sentito chiamarli « Zen » ( il numero 7 seguito dalla « en » finale [può] effettivamente essere confuso con una zeta ) , la loro fama rimane costante .
+[[Question:MC:SingleAnswer]]
+Il verbo [ può ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1190]]
+
+[[Question:MC]]
+E' stata [organizzata] anche una gara di putting green a scopo benefico , a favore dell' Associazione " Un Birdie per la Vita " , che ha visto vincitore Claudio Dellamaria ( - 3 ) davanti a Renato Meneghello ( - 3 ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ organizzata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q845]]
+
+[[Question:MC]]
+Tutto questo , vorrei [costasse] alla Comunità meno di quanto spendiamo attualmente per la Sanità .
+[[Question:MC:SingleAnswer]]
+Il verbo [ costasse ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1366]]
+
+[[Question:MC]]
+La tariffa chilometrica [è] unica sia per il trasporto su gomma sia per quello su rotaia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1275]]
+
+[[Question:MC]]
+La stessa capitale , che era [addobbata] a festa per le celebrazioni dell' anniversario della sua fondazione , nelle giornate dedicate al ricordo delle centinaia e centinaia di bambini e di adulti trucidati in Ossezia si è presentata avvolta da un silenzio irreale , da una tristezza profonda .
+[[Question:MC:SingleAnswer]]
+Il verbo [ addobbata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1682]]
+
+[[Question:MC]]
+Per fortuna a casa mia i danni sono stati piuttosto limitati : solo la piscina è stata colpita e [andrà] fatta riparare » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ andrà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1513]]
+
+[[Question:MC]]
+Sempre ieri , intanto , il Consiglio di amministrazione della cassa ha approvato il bilancio semestrale , che vede [crescere] la raccolta complessiva a circa 6.322 milioni di euro , mentre quella indiretta fa annotare una crescita pari ad oltre l' 11% .
+[[Question:MC:SingleAnswer]]
+Il verbo [ crescere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

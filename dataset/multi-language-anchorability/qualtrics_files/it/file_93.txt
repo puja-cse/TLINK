@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1454]]
+
+[[Question:MC]]
+NATZ - [è] vero che di fronte aveva il Mori dall' attacco stellare , ma partire con uno 0 - 4 non è proprio l' ideale per la credibilità e il morale di una formazione già lo scorso anno costretta a soffrire oltremisura per guadagnarsi la salvezza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q285]]
+
+[[Question:MC]]
+Ex insegnante di golf , specialità alla quale si è avvicinato da caddy , Singh aveva [vinto] il mese scorso , per la seconda volta in carriera dopo il 1998 , il campionato Pga , ultimo torneo del Grande Slam di Golf , diventando il più anziano vincitore della prova e conquistando , al posto del sudafricano Ernie Els , il secondo posto nella classifica mondiale dietro Woods .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vinto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q917]]
+
+[[Question:MC]]
+Ancora una volta è l' impianto politico - legislativo che fa sì che il Direttore Generale si [circondi] di collaboratori di fiducia ed è quindi conseguente che la scelta avvenga secondo determinati criteri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ circondi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1720]]
+
+[[Question:MC]]
+Ma non [sarà] la versione definitiva .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sarà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q896]]
+
+[[Question:MC]]
+Il Politico deve ascoltare tutti ma è poi fatale che debba assumere decisioni , che non [possono] accontentare tutti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ possono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1414]]
+
+[[Question:MC]]
+A suo avviso « bisogna costringere Putin ad adottare le nostre politiche occidentali nei confronti del terrorismo : quando c' è una presa di ostaggi o un pericolo terroristico , si tenta innanzitutto di salvare gli ostaggi , di isolare i terroristi e non di [dar] loro il potere di uccidere » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dar ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2149]]
+
+[[Question:MC]]
+I sopravvissuti poterono [tornare] in patria solo dopo il 20 ° congresso del partito comunista , dove Nikita Chruschev nel 1956 denunciò le colpe di Stalin .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tornare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1747]]
+
+[[Question:MC]]
+Poi , affinché gli interventi inseriti nella variante possano effettivamente venire [realizzati] , servirà il « visto » della giunta provinciale , che ha a disposizione un anno per leggere tutta la documentazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ realizzati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1722]]
+
+[[Question:MC]]
+La conferenza dei capigruppo riunitasi ieri sera a palazzo Thun ha infatti [deciso] ( su proposta di Tullio Buffa ) di concedere all' assessore Andreatta e alla commissione urbanistica la proroga di una settimana per completare il lavoro di definizione delle domande da accogliere .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deciso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1375]]
+
+[[Question:MC]]
+PARIGI - A dispetto della sanguinosa presa di ostaggi a Beslan , Andrè Glucksmann [ritorna] alla carica con una nuova , appassionata difesa della causa cecena e denuncia la « sporca guerra » in corso in quella zona del Caucaso , guerra che ha gia provocato un' immane ecatombe di bambini .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ritorna ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q925]]
+
+[[Question:MC]]
+La politica deve quindi dare direttive precise e vigilare sulla loro applicazione , cercando i correttivi a quelle disfunzioni che dieci anni di Aziendalizzazione della Sanità possono avere [evidenziato] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ evidenziato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q516]]
+
+[[Question:MC]]
+E Veneziani ne illustra i tre livelli : il primo , « agisce in platea ... la manovalanza intellettuale di Cosa nostra fischia ministri e direttori di mostra , tutto ciò che odora di Rai , Medus , Cinecittà » , sono quelli che « battono le mani appena arriva qualcuno a [rappresentare] in pellicola la loro ideologia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rappresentare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q493]]
+
+[[Question:MC]]
+Ricordando la « vile e spietata aggressione di Beslan » , il cardinale Michele Giordano rivolge questo auspicio agli studenti napoletani , sostiene che « alla violenza delle guerre , del terrorismo , dell' intolleranza va contrapposta , [cominciando] proprio dai giovani , una cultura di segno opposto » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ cominciando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q189]]
+
+[[Question:MC]]
+Si [tratta] di punti d' oro soprattutto per le assenze che entrambe accusavano : Mulchande , Fantelli , Nicolodi , Valentini i rossoneri di Memmo , Malcangio Corradini e Contini i biancorossi di Melone .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tratta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1869]]
+
+[[Question:MC]]
+Tutto è [iniziato] intorno alle 15 : il primo focolaio è stato avvistato in località Manierta in una zona coltivata a vigneti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ iniziato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1445]]
+
+[[Question:MC]]
+Invece si è [dovuto] accontentare di un punticino senza reti e anche senza troppe recriminazioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q198]]
+
+[[Question:MC]]
+Oggi è in programma una riunione del pontificio consiglio Cor Umum , che si [occupa] delle attività di aiuto volute direttamente da Giovanni Paolo II .
+[[Question:MC:SingleAnswer]]
+Il verbo [ occupa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q982]]
+
+[[Question:MC]]
+Sull' « esigenza per l' intera cittadinanza di rappresentare l' orrore e lo smarrimento per una tragedia immane , e di dare una risposta forte alla cultura della guerra e ad una politica militarizzata che non [porta] da nessuna parte » , ha messo invece l' accento Ruggero Purin , segretario provinciale della Cgil : « Al di là del cordoglio e dell' ovvia solidarietà per le vittime - ha insistito Purin - questa manifestazione deve essere anche occasione di rilancio di una solidarietà trasversale e della politica come strumento per superare i conflitti » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ porta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q742]]
+
+[[Question:MC]]
+Soprattutto da quando l' uomo aveva avuto problemi di salute e i medici gli avevano [consigliato] di smettere di fumare .
+[[Question:MC:SingleAnswer]]
+Il verbo [ consigliato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q52]]
+
+[[Question:MC]]
+Titolo dell' appuntamento [è] " Les Reflets d' Ulysse " ed è ospitato all' auditorium del Mart .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

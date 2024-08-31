@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q39]]
+
+[[Question:MC]]
+Aunque el sistema electoral le ha dado al Partido Quebequés mayoría absoluta en la cámara provincial ( 75 escaños sobre 125 ) , si lo del Lunes hubiese sido un referendo sobre la independencia lo habría perdido , pues no llega a la mayoría exigida para [ dar ] el paso .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [dar] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q33]]
+
+[[Question:MC]]
+Las urnas no le han dado las condiciones ganadoras en las que [ basarse ] para relanzar el tema de la consulta tras las derrotas secesionistas de 1980 y 1995 .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [basarse] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q336]]
+
+[[Question:MC]]
+Además , se creará un órgano independiente de supervisión de seguridad en las minas de carbón , al que las explotaciones [ deberán ] presentar cada dos semanas informes detallados sobre el nivel de seguridad del yacimiento .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [deberán] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q37]]
+
+[[Question:MC]]
+Aunque el sistema electoral le ha dado al Partido Quebequés mayoría absoluta en la cámara provincial ( 75 escaños sobre 125 ) , si lo del Lunes hubiese sido un referendo sobre la independencia lo habría [ perdido ] , pues no llega a la mayoría exigida para dar el paso .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [perdido] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q263]]
+
+[[Question:MC]]
+Mil [ aplaudió ] que el consistorio haya decidido estudiar nuevos equipamientos , así como habilitar el solar de la antigua fábrica Fytisa , en la calle de Sant Pau , como zona azul provisional para compensar la pérdida de plazas por la peatonalización del centro .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [aplaudió] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q305]]
+
+[[Question:MC]]
+" Flores no ha pedido a Vlaovic ni a nadie para [ sustituir ] a Benitez " , dijo .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [sustituir] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q118]]
+
+[[Question:MC]]
+" Creo que se equivocan , pero [ es ] una opinión personal " , señaló Djordjevic , desmintiendo que haya tenido ningún problema con García Reneses , con quien se reunió ayer durante media hora .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [es] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q412]]
+
+[[Question:MC]]
+Microsoft contraatacó ayer en su alegato final contra la propuesta del Gobierno de EEUU de dividir la compañía en dos y aseguró que la petición [ es ] " vaga , ambigua y deficiente " .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [es] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q287]]
+
+[[Question:MC]]
+Y los informativos , responsables de testimoniar esa realidad , tratan de convertirla en espectáculo , [ tomando ] de la ficción los aspectos supuestamente más atractivos para el espectador , incluidas las escenas escabrosas .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [tomando] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q313]]
+
+[[Question:MC]]
+Valero Rivera , no [ disimuló ] su preocupación por el sorteo y comentó que " jugar la vuelta fuera complica más las cosas " .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [disimuló] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q278]]
+
+[[Question:MC]]
+En esta sociedad donde impera la imagen nadie [ parece ] conformarse con ser como es .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [parece] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q47]]
+
+[[Question:MC]]
+Otro dato añadido adverso : no todos los que votan a favor de Bouchard [ quieren ] la independencia .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [quieren] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q14]]
+
+[[Question:MC]]
+El Gobierno [ prevé ] que los próximos meses sean malos en materia de empleo , ya que espera que se incorporen al mercado laboral los nuevos licenciados en las universidades debido a que el año escolar acaba de terminar .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [prevé] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q86]]
+
+[[Question:MC]]
+Djordjevic no quiso explicar si existen negociaciones , pero [ admitió ] que mantiene una excelente relación con Scariolo .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [admitió] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q76]]
+
+[[Question:MC]]
+" Ni lo [ confirmo ] , ni lo desmiento , como en la casa real ; es una posibilidad " , fue el críptico comentario de Lorenzo Sanz Durán , hijo del presidente blanco , que está a cargo de la sección de básquet .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [confirmo] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q44]]
+
+[[Question:MC]]
+Como las encuestas habían difundido una gran expectativa de crecimiento para el Partido Quebequés y ha terminado [ obteniendo ] dos diputados menos que en las elecciones anteriores , el clima es de fracaso .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [obteniendo] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q370]]
+
+[[Question:MC]]
+Isomura apuntó que Pekín no tenía por qué ser la favorita , porque tanto Osaka como las demás [ tienen ] proyectos importantes y son grandes ciudades .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [tienen] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q79]]
+
+[[Question:MC]]
+" Ni lo confirmo , ni lo desmiento , como en la casa real ; es una posibilidad " , [ fue ] el críptico comentario de Lorenzo Sanz Durán , hijo del presidente blanco , que está a cargo de la sección de básquet .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [fue] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q160]]
+
+[[Question:MC]]
+En abril pasado , la venta de viviendas [ registró ] un descenso del 5,8% , según el Departamento de Comercio .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [registró] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q35]]
+
+[[Question:MC]]
+Aunque el sistema electoral le ha [ dado ] al Partido Quebequés mayoría absoluta en la cámara provincial ( 75 escaños sobre 125 ) , si lo del Lunes hubiese sido un referendo sobre la independencia lo habría perdido , pues no llega a la mayoría exigida para dar el paso .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [dado] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+

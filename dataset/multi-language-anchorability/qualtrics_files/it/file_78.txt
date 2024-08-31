@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1049]]
+
+[[Question:MC]]
+Dopo gli allenamenti ( ore 18 ) , oggi gli atleti avranno a disposizione un solo salto per [raggiungere] la qualificazione , quella in cui sperano anche i quattro azzurri Marco Beltrame , Giancarlo Adami , Sebastian Colloredo e Stefano Chiapolino .
+[[Question:MC:SingleAnswer]]
+Il verbo [ raggiungere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1282]]
+
+[[Question:MC]]
+Il gemellaggio tra Suzdal e Cles affonda le sue radici ai tempi della seconda guerra mondiale , quando Giacomo Dusini , che in seguito sarebbe stato sindaco di Cles , [trascorse] tre anni di prigionia proprio a Suzdal .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trascorse ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q965]]
+
+[[Question:MC]]
+Le tre maggiori sigle sindacali hanno infatti indetto una conferenza stampa per spiegare le ragioni della fiaccolata silenziosa che si terrà domani - giovedì 9 settebre - a [partire] dalle 19.30 per le vie del centro , e che vedrà la partecipazione di numerose altre associazioni , tra cui le Acli e Azione cattolica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ partire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q790]]
+
+[[Question:MC]]
+Ieri mattina il giovane è stato processato per direttissima : [dovrà] rimanere in carcere per 4 mesi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovrà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1216]]
+
+[[Question:MC]]
+« L' esperienza di questi lavori - spiega il presidente della Scuola Alessandro Rossi , esperto in appalti pubblici - è un segnale importante : è la dimostrazione che quando pubblico e privato vogliono collaborare [possono] realizzare interventi significativi ed in tempi estremamente rapidi » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ possono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q352]]
+
+[[Question:MC]]
+Non mi aspettavo che il Calcio Bleggio [subisse] quattro gol in casa , ma evidentemente hanno pagato qualche assenza di troppo » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ subisse ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1472]]
+
+[[Question:MC]]
+L' operazione [riguarda] 25 partecipazioni parabancarie e nei servizi per un valore complessivo di 190 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riguarda ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1202]]
+
+[[Question:MC]]
+12 - 09 Coppa del Presidente - [Inaugurazione] campo 18 buche
+[[Question:MC:SingleAnswer]]
+Il verbo [ Inaugurazione ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1106]]
+
+[[Question:MC]]
+Il termine per [rilanciare] sull' offerta della Glaxo scadeva alle 15 Gmt di oggi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rilanciare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1298]]
+
+[[Question:MC]]
+« L' immane , terribile tragedia di Beslan - [scrive] Bezzi in una nota - ha commosso l' intera comunità nazionale ed internazionale ed anche la gente trentina ha seguito con passione e partecipazione il dramma dei bambini , delle mamme , di tutta la popolazione di quella lontana e sventurata città .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scrive ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2004]]
+
+[[Question:MC]]
+A Cefis [toccherà] quindi il compito di rimettere in sesto le finanze del gruppo Varasi che , dopo la fusione tra Maxfin , Fidenza vetraria e Paf realizzata nei primi mesi di quest' anno , ha trasferito in Francia nella Sediver il pacchetto di controllo della Santavaleria .
+[[Question:MC:SingleAnswer]]
+Il verbo [ toccherà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q106]]
+
+[[Question:MC]]
+Per il Consorzio guidato dal presidente Renzo Anderle si [tratta] di un motivo di soddisfazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tratta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1304]]
+
+[[Question:MC]]
+Mai forse come in questa occasione - continua Bezzi - è emerso il lato oscuro della crudeltà di cui sono talvolta capaci gli esseri umani e la memoria [torna] alle tragedie epocali del Novecento , ai misfatti del nazismo e dello stalinismo , con gli eccidi di intere popolazioni » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ torna ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2087]]
+
+[[Question:MC]]
+Quando nel 1500 [arrivò] l' islam trovò un terreno pagano » , spiega Bensi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ arrivò ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q413]]
+
+[[Question:MC]]
+Anche se abbiamo [sentito] chiamarli « Zen » ( il numero 7 seguito dalla « en » finale può effettivamente essere confuso con una zeta ) , la loro fama rimane costante .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sentito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q147]]
+
+[[Question:MC]]
+Dopo le scalate a Documentum ( content management ) e VMware ( software per la virtualizzazione ) , la casa americana sembra in effetti aver calato un altro asso importante per continuare a [giocare] un ruolo di primo piano sullo scacchiere internazionale nel campo delle soluzioni destinate alle architetture informative delle grandi aziende .
+[[Question:MC:SingleAnswer]]
+Il verbo [ giocare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1325]]
+
+[[Question:MC]]
+Perchè , quindi - si chiede il presidente del Consiglio provinciale - non dare vita ad un progetto organico di aiuti - « Il Trentino per Beslan » - che metta assieme e coordini tutte le iniziative di solidarietà già avviate e quelle programmate , puntando in via prioritaria ad assicurare ai bambini e alle bambine che hanno [vissuto] quella spaventosa esperienza tutti i supporti , materiali e non , necessari per aiutarli a superare il terribile shock subito in quei drammatici giorni ? » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vissuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1109]]
+
+[[Question:MC]]
+John Robb , presidente e amministratore delegato della Wellcome , ha rilevato ieri " con disappunto " che nessuno dei due pretendenti ha [dato] corso a una controfferta .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q707]]
+
+[[Question:MC]]
+L' università Sedes Sapientiae sta invece per assegnare le prime lauree ( due le facoltà : scienza della formazione e scienza economiche ) e sta lavorando all' ipotesi di aprire un corso di psicologia che [dovrebbe] coinvolgere il docente di origini trentine Erminio Gius .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovrebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2203]]
+
+[[Question:MC]]
+Ma c' [è] anche da dire che gli Americani stanno costruendo un oleodotto che passa dalla Georgia , evidentemente contro gli interessi della Russia » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

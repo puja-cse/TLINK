@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q682]]
+
+[[Question:MC]]
+Aíto [ comentó ] que le ha [ costado ] mucho dar este paso - - " son decisiones muy difíciles y no soy insensible como muchos se creen " - - y mostró su deseo de cerrar cuanto antes la renovación de Roger Esteller , uno de los jugadores con los que el club negocia un nuevo contrato , junto al estadounidense Derrick Alston .
+[[Question:MC:SingleAnswer]]
+El verbo [ comentó ] pasa ANTES que el verbo [ costado ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q85]]
+
+[[Question:MC]]
+Los abogados de Microsoft , empresa que [ creó ] el programa Windows que usan el 95% de los ordenadores , aseguran que la división de la firma disminuiría su capacidad para competir .
+Pese a sus argumentaciones , Microsoft se ha [ resignado ] a alterar sus prácticas comerciales .
+[[Question:MC:SingleAnswer]]
+El verbo [ creó ] pasa ANTES que el verbo [ resignado ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q413]]
+
+[[Question:MC]]
+Con esta normativa , el Gobierno [ intenta ] reducir las más de 4.000 muertes que cada año se [ producen ] en los yacimientos de carbón del país , la mayoría de los cuales operan sin las mínimas medidas de seguridad , debido sobre todo a los malos resultados del sector , y algunos incluso son ilegales .
+[[Question:MC:SingleAnswer]]
+El verbo [ intenta ] pasa ANTES que el verbo [ producen ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q86]]
+
+[[Question:MC]]
+Los abogados de Microsoft , empresa que creó el programa Windows que [ usan ] el 95% de los ordenadores , [ aseguran ] que la división de la firma disminuiría su capacidad para competir .
+[[Question:MC:SingleAnswer]]
+El verbo [ usan ] pasa ANTES que el verbo [ aseguran ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q654]]
+
+[[Question:MC]]
+" La aportación de Sasha ha sido muy positiva , pero creo que se ha cumplido el ciclo previsto cuando fichó " , [ indicó ] , por su parte , García Reneses para explicar la decisión de no hacerle ninguna oferta de renovación .
+El preparador barcelonista calificó la decisión como " un salto al vacío " al no tener cerrada la operación del escolta francés Antoine Rigaudeau , su probable sustituto , pero indicó que este riesgo [ era ] necesario para no perjudicar a Sasha a la hora de negociar nuevas ofertas .
+[[Question:MC:SingleAnswer]]
+El verbo [ indicó ] pasa ANTES que el verbo [ era ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q475]]
+
+[[Question:MC]]
+Scariolo [ es ] la apuesta de la directiva que preside Lorenzo Sanz para reconstruir el proyecto del básquet blanco , que la próxima temporada [ recibirá ] una fuerte inyección económica , para competir con posibilidades tanto en la Liga ACB como en la Euroliga .
+[[Question:MC:SingleAnswer]]
+El verbo [ es ] pasa SIMULTÁNEAMENTE con el verbo [ recibirá ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q13]]
+
+[[Question:MC]]
+Al menos 23 millones de minas están enterradas en el Desierto Occidental de Egipto desde la segunda Guerra Mundial , mientras que hay más de otros tres millones de artefactos similares en el Sinaí y a lo largo del Canal de Suez desde las guerras árabe-israelíes de 1956 , 1967 y 1973 , [ señaló ] .
+Las afirmaciones de Musa , a quien cita hoy , lunes , la prensa local , [ coinciden ] con la presencia estos días en Egipto de una delegación de especialistas de las Naciones Unidas para tratar con las autoridades de este país sobre las posibilidades de eliminar esos artefactos en el territorio egipcio .
+[[Question:MC:SingleAnswer]]
+El verbo [ señaló ] pasa DESPUÉS del verbo [ coinciden ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q225]]
+
+[[Question:MC]]
+Josep Mil , secretario de la Oficina de Dinamización del Centro , [ recordó ] ayer que [ ejecutar ] el paralizado plan de aparcamientos " es básico por una cuestión de calidad ambiental y de movilidad " .
+[[Question:MC:SingleAnswer]]
+El verbo [ recordó ] pasa DESPUÉS del verbo [ ejecutar ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q222]]
+
+[[Question:MC]]
+Los párkings del Mercat Central y de la plaza del Doctor Robert ( 728 plazas ) se [ reforzarán ] en el futuro con las 550 plazas del Vapor Turull y del cine Imperial .
+Josep Mil , secretario de la Oficina de Dinamización del Centro , [ recordó ] ayer que ejecutar el paralizado plan de aparcamientos " es básico por una cuestión de calidad ambiental y de movilidad " .
+[[Question:MC:SingleAnswer]]
+El verbo [ reforzarán ] pasa SIMULTÁNEAMENTE con el verbo [ recordó ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q482]]
+
+[[Question:MC]]
+Scariolo es la apuesta de la directiva que preside Lorenzo Sanz para reconstruir el proyecto del básquet blanco , que la próxima temporada [ recibirá ] una fuerte inyección económica , para competir con posibilidades tanto en la Liga ACB como en la Euroliga .
+" Ni lo confirmo , ni lo desmiento , como en la casa real ; es una posibilidad " , fue el críptico comentario de Lorenzo Sanz Durán , hijo del presidente blanco , que [ está ] a cargo de la sección de básquet .
+[[Question:MC:SingleAnswer]]
+El verbo [ recibirá ] pasa SIMULTÁNEAMENTE con el verbo [ está ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+

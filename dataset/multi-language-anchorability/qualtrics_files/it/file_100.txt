@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q600]]
+
+[[Question:MC]]
+A Milano l' unità di sangue è stata scongelata il 28 luglio e sono state selezionate le staminali che sono state messe in coltura in camera sterile per 15 giorni , [moltiplicandone] il numero di 60 volte .
+[[Question:MC:SingleAnswer]]
+Il verbo [ moltiplicandone ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1751]]
+
+[[Question:MC]]
+L' escamotage di [depositare] la delibera in tempi separati permetterà di evitare l' impaccio del megaemendamento che - nelle intenzioni di parecchi consiglieri - sarebbe stato necessario presentare per riconsiderare tutte le domande rimaste escluse .
+[[Question:MC:SingleAnswer]]
+Il verbo [ depositare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1290]]
+
+[[Question:MC]]
+TRENTO - Un progetto organico di aiuti alle famiglie colpite dalla tragedia di Beslan che metta assieme e coordini tutte le iniziative di solidarietà già [avviate] e quelle programmate , puntando in via prioritaria ad assicurare ai bambini e alle bambine che hanno vissuto quella spaventosa esperienza tutti i supporti , materiali e non , necessari per aiutarli a superare il terribile shock subito in quei drammatici giorni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avviate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q213]]
+
+[[Question:MC]]
+nan [Sono] appena 13 i gol segnati in 7 partite .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q526]]
+
+[[Question:MC]]
+« Ai vertici di Cosa nostra - [prosegue] - c' è la casta sacerdotale composta da registi , sceneggiatori , attori impegnati , autori » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ prosegue ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1542]]
+
+[[Question:MC]]
+Ai radicali che hanno deciso di adire le vie legali , Giovanardi ha [replicato] : « Sono allibito perché chi ogni giorno insulta i sentimenti e le convinzioni dei cattolici del nostro paese definendoli oscurantisti e talebani ora vuole intimidire un partito e un parlamentare che esprime una sua opinione che non coincide con quelle radicali » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ replicato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q138]]
+
+[[Question:MC]]
+Per crescere il business occorre creare nuovo valore per il lungo termine e integrare la componente di sicurezza alla nostra offerta di storage e data management [risponde] completamente a questo obiettivo " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ risponde ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1360]]
+
+[[Question:MC]]
+Il 12 luglio le sei grandi potenze [terranno] una riunione in Europa per analizzare la risposta .
+[[Question:MC:SingleAnswer]]
+Il verbo [ terranno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1780]]
+
+[[Question:MC]]
+Ostaggi e sequestratori [sembrano] relativamente calmi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sembrano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1696]]
+
+[[Question:MC]]
+A questa persona ci [rivolgiamo] per chiedere di farci riavere a casa Denise » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rivolgiamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q777]]
+
+[[Question:MC]]
+Si è fatto conoscere come « ladro maldestro » : lo scorso marzo si è ribaltato in bicicletta mentre stava scappando con un paio di cassette piene di monetine trafugate da una lavanderia , poi era stato sorpreso all' interno di un tombino con l' intenzione di intrufolarsi nel magazzino di una tabaccheria , infine lo scorso venerdì era stato denunciato perché [trovato] in possesso di un timbrino trafugato ad un medico , con cui falsificava le ricette .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trovato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1181]]
+
+[[Question:MC]]
+La compagnia di bandiera russa , Aeroflot , starebbe [pensando] ad un' alleanza con Alitalia , " e forse qualcosa in più " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ pensando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q269]]
+
+[[Question:MC]]
+SALORNO - dopo le traversie di agosto , leggasi la rinuncia di Sonato e l' abbandono di Michelon , i giallorossi parevano [caduti] in crisi di identità e di morale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ caduti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1124]]
+
+[[Question:MC]]
+L' annunciato voto contrario di otto senatori al decreto di rifinanziamento della missione in Afghanistan è " un problema serio , serissimo " che , " considerati i rapporti di forza tra maggioranza e opposizione in Parlamento , in particolare al Senato " , [può] rivelarsi " drammatico " - Lo ha detto il ministro della Difesa Arturo Parisi in un' intervista a - Repubblica Radio - Parisi ha precisato che " il nostro impegno nel secondo semestre è assolutamente identico all' impegno del primo " e quindi non c' è " né potenziamento né depotenziamento " della missione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ può ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q283]]
+
+[[Question:MC]]
+Lo storico sorpasso è avvenuto l' altro ieri al torneo di Norton , nel Massachusetts , dove Singh - già in testa dopo il 3 ° turno - ha resistito alla rimonta di Woods [concludendo] con tre punti di vantaggio sull' americano e sull' australiano Adam Scott .
+[[Question:MC:SingleAnswer]]
+Il verbo [ concludendo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1879]]
+
+[[Question:MC]]
+Ferrando non ce l' ha fatta : [avvolto] da una densa nube nera e dal fumo , è rimasto intrappolato nelle fiamme .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avvolto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q584]]
+
+[[Question:MC]]
+Per questo , alla madre incinta dei due gemelli perfettamente sani , è stato proposto il prelievo , alla nascita , del sangue dei cordoni ombelicali per [trasfonderne] le cellule staminali al fratellino più grande .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trasfonderne ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1101]]
+
+[[Question:MC]]
+Questa non avrebbe [voluto] impegnarsi ad accettare una seconda offerta ( più elevata ) come definitiva sia perché impossibilitata sul piano legale sia perché legata a un' esclusiva con la Glaxo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ voluto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q65]]
+
+[[Question:MC]]
+Il ministro dell' Industria Vito Gnutti ha espresso soddisfazione per la definitiva conclusione della vendita , [sottolineando] come " quando le cose sono ben fatte e soprattutto sono impostate seriamente anche i nostri partners europei lo riconoscono " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sottolineando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2211]]
+
+[[Question:MC]]
+E' impossibile che la Russia [organizzi] dei tavoli per la trattativa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ organizzi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

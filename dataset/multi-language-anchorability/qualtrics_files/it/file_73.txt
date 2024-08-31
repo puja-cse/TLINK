@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q508]]
+
+[[Question:MC]]
+Non si [riferisce] ai tragicamente noti Riina e Provenzano , ma « all' egemonia culturale della sinistra » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riferisce ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1043]]
+
+[[Question:MC]]
+La Coppa del Mondo estiva di salto con gli sci lo scorso weekend ha celebrato la terza prova in Polonia [registrando] una nuova vittoria del fuoriclasse Adam Malysz , il quale ha centrato così tre vittorie in tre gare .
+[[Question:MC:SingleAnswer]]
+Il verbo [ registrando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1715]]
+
+[[Question:MC]]
+Gli ospiti attualmente accolti e inviati dai servizi sociali e dal tribunale per i minorenni superano il centinaio , come pure gli educatori professionali che li seguono nelle oltre quindici realtà in cui si [articola] la struttura assistenziale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ articola ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1318]]
+
+[[Question:MC]]
+Perchè , quindi - si [chiede] il presidente del Consiglio provinciale - non dare vita ad un progetto organico di aiuti - « Il Trentino per Beslan » - che metta assieme e coordini tutte le iniziative di solidarietà già avviate e quelle programmate , puntando in via prioritaria ad assicurare ai bambini e alle bambine che hanno vissuto quella spaventosa esperienza tutti i supporti , materiali e non , necessari per aiutarli a superare il terribile shock subito in quei drammatici giorni ? » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ chiede ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q210]]
+
+[[Question:MC]]
+A causa dell' incidente , forse per un cedimento del terreno , i rifiuti sono [fuoriusciti] dai cassoni : è stato necessario l' intervento degli operatori della Trentino Servizi per ripulire la strada e dei vigili del fuoco con l' autogru per il recupero del mezzo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fuoriusciti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q623]]
+
+[[Question:MC]]
+BRESCIA - Voleva [lasciarlo] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ lasciarlo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1032]]
+
+[[Question:MC]]
+Nel 93 il gruppo prevede di vendere circa 9mila Mitsubishi e 5mila Chrysler Jeep che assommate ai modelli Hyundai [dovrebbe] portare il totale del gruppo a 22-23mila unità .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovrebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1889]]
+
+[[Question:MC]]
+Niente male davvero per un ventunenne , calcisticamente [cresciuto] nel Val di Gresta e , una volta passato al Mori , in grado d' esordire in prima squadra già da sedicenne .
+[[Question:MC:SingleAnswer]]
+Il verbo [ cresciuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q297]]
+
+[[Question:MC]]
+Fermato , è risultato [trattarsi] di un trentino , incensurato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trattarsi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1500]]
+
+[[Question:MC]]
+Nella riunione del consiglio d' amministrazione della Fondazione che si è tenuta ieri non si è [arrivati] ad una intesa per cui tutto è rinviato a martedì prossimo quando sarà necessario « tirare le fila del discorso » come ha spiegato il presidente della Fondazione , Gerhard Brandstätter , lui stesso candidato di punta per la successione di Amonn .
+[[Question:MC:SingleAnswer]]
+Il verbo [ arrivati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1814]]
+
+[[Question:MC]]
+Fisac Cigl , Fiba Cisl e Uilca hanno spiegato così , durante un' assemblea [tenutasi] ieri alla Sala della Cooperazione in via Segantini , la decisione di proclamare due giornate di sciopero nel settore bancario , il 10 settembre e il primo ottobre , dopo la brusca interruzione della difficile trattativa sul rinnovo del contratto nazionale , scaduto a fine 2003 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tenutasi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1845]]
+
+[[Question:MC]]
+Giancarlo Mirandola , della Federdirigenti , ha evidenziato come la vendita di buona parte delle banche locali , vicenda tornata di attualità con la polemica Grisenti - Volksbank , abbia [portato] « ad un impoverimento di tutti in Trentino , non solo dei dipendenti » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ portato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1717]]
+
+[[Question:MC]]
+L' Appm opera in Trentino da circa trent' anni ed [è] una onlus finanziata in toto dalla Provincia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q621]]
+
+[[Question:MC]]
+Muratore [uccide] la moglie ucraina
+[[Question:MC:SingleAnswer]]
+Il verbo [ uccide ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q946]]
+
+[[Question:MC]]
+Per Stacy invece i funerali [dovrebbero] svolgersi lunedì mattina nella chiesa dello stesso quartiere di Liegi dove le piccole sono state rapite .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovrebbero ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q64]]
+
+[[Question:MC]]
+Il ministro dell' Industria Vito Gnutti ha [espresso] soddisfazione per la definitiva conclusione della vendita , sottolineando come " quando le cose sono ben fatte e soprattutto sono impostate seriamente anche i nostri partners europei lo riconoscono " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ espresso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q681]]
+
+[[Question:MC]]
+Costruire il futuro del paese [è] strategico e lo confermano anche due degli interventi generosamente sostenuti dall' amministrazione provinciale : il centro di istruzione per l' occupazione El Buen Pastor e l' istituto di educazione tecnologica di Manchay che , come l' Università Sedes Sapientiae , sono progetti gestiti direttamente dalla Provincia con contributi complessivi , spalmati nel triennio 2003 - 2005 , di 530mila euro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2018]]
+
+[[Question:MC]]
+Sarà probabilmente in quell' occasione che avverrà la formalizzazione dell' incarico a Mediobanca di [ristrutturare] l' indebitamento del gruppo e la nomina di Giorgio Cefis al vertice .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ristrutturare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q15]]
+
+[[Question:MC]]
+Ma lo spettacolo non è [stato] solo una ridinamizzazione di quadri conosciuti ma ha anche regalato suggestioni cinematografiche e sonorità popolari .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1364]]
+
+[[Question:MC]]
+Il biglietto dell' autobus è [passato] da 0,80 a 0,90 euro ; l' aumento medio degli abbonamenti è del 10% .
+[[Question:MC:SingleAnswer]]
+Il verbo [ passato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

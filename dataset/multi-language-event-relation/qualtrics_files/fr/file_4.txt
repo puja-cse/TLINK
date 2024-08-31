@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q352]]
+
+[[Question:MC]]
+_ Les Utah Jazz , dauphins des Chicago Bulls depuis deux ans et favoris pour la succession ouverte par la retraite de Michael Jordan , ont [ ouvert ] par une victoire à domicile sur Portland leur demi - finale de la conférence ouest mardi soir à Salt Lake City .
+Les Jazz , après avoir [ frôlé ] l' élimination au premier tour , se sont imposés 93 à 83 avec 25 points et 12 rebonds de Karl Malone , avant de recevoir les Portland Trail Blazers une seconde fois , ce soir , dans la série au meilleur des sept matches .
+[[Question:MC:SingleAnswer]]
+La verb [ ouvert ] se passe AVANT le verb [ frôlé ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q130]]
+
+[[Question:MC]]
+L' intervention des sapeurs - pompiers s ' est [ déroulée ] sous les yeux d'un public nombreux .
+Et pour cause : la fumée a recouvert le quartier , [ faisant ] sortir les curieux , et le sinistre a interrompu le concours de pétanque organisée par l'association des Portugais de Belfort .
+[[Question:MC:SingleAnswer]]
+La verb [ déroulée ] se passe AVANT le verb [ faisant ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q398]]
+
+[[Question:MC]]
+Un haut dirigeant séparatiste kurde , Semdim Sakik , reconnu coupable de la mort de 283 personnes dans 191 attentats perpétrés par le PKK et accusé de séparatisme , a été [ condamné ] à mort hier par un tribunal turc .
+Cela [ laisse ] présager une sentence identique pour le leader kurde Abdullah Ocalan .
+[[Question:MC:SingleAnswer]]
+La verb [ condamné ] se passe AVANT le verb [ laisse ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q154]]
+
+[[Question:MC]]
+Les consignes de sécurité ont [ eu ] raison de la compétition : elle a été [ annulée ] .
+[[Question:MC:SingleAnswer]]
+La verb [ eu ] se passe AVANT le verb [ annulée ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q67]]
+
+[[Question:MC]]
+Il a fallu que les sapeurs - pompiers cassent les vitres , découpent le rideau métallique de la porte d'entrée et [ fassent ] des ouvertures dans le toit pour pouvoir combattre les flammes .
+Leur matériel respiratoire a été nécessaire pour entrer dans la fournaise [ générée ] par l' incendie des meubles , mousses et infrastructures en bois du bâtiment .
+[[Question:MC:SingleAnswer]]
+La verb [ fassent ] se passe EN MÊME TEMPS que le verb [ générée ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q172]]
+
+[[Question:MC]]
+Les faits qui lui sont [ reprochés ] remontent au 27 mai 1998 et se sont [ déroulés ] dans les bois proches du fort Dorsner à Giromagny .
+[[Question:MC:SingleAnswer]]
+La verb [ reprochés ] se passe AVANT le verb [ déroulés ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q364]]
+
+[[Question:MC]]
+De leur côté , les New York Knicks , tombeurs au premier tour de Miami , numéro un à l'est , sont [ allés ] s ' [ imposer ] 100 à 92 à Atlanta , grâce à 34 points d'Allen Houston et 31 de Latrell Sprewell .
+[[Question:MC:SingleAnswer]]
+La verb [ allés ] se passe AVANT le verb [ imposer ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q86]]
+
+[[Question:MC]]
+Le bâtiment , qui appartient à la Ville de Belfort , venait de [ faire ] l'objet de travaux de rénovation confirme André Kaufmann , adjoint au maire , sur place hier : « La toiture a été complétement [ refaite ] à la fin de l'année dernière , ainsi que la façade extérieure et les systèmes de sécurité » , souligne - t - il , estimant le coût de ces travaux à environ 100.000 € .
+[[Question:MC:SingleAnswer]]
+La verb [ faire ] se passe AVANT le verb [ refaite ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q191]]
+
+[[Question:MC]]
+Bernard [ affirme ] qu'en se promenant , il a chuté et s ' est [ retrouvé ] à terre , la braguette ouverte .
+[[Question:MC:SingleAnswer]]
+La verb [ affirme ] se passe APRÈS le verb [ retrouvé ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q9]]
+
+[[Question:MC]]
+Un chauffeur de bus de 38 ans a été pris à partie et [ agressé ] par deux individus , hier vers 18 h , place de la Mairie à Valdoie .
+Deux gardiens de la paix , qui [ tentaient ] de s ' interposer , ont été légèrement blessés à leur tour .
+[[Question:MC:SingleAnswer]]
+La verb [ agressé ] se passe AVANT le verb [ tentaient ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+

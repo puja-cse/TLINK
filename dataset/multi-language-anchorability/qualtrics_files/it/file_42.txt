@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q391]]
+
+[[Question:MC]]
+Sia da parte delle mamme , quando i figlioletti [sono] piccoli , sia da parte delle ragazzine più grandicelle che fanno acquisti da sole .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q961]]
+
+[[Question:MC]]
+Hanno compiuto nuovi passi in avanti tre procedure d' infrazione aperte dalla Commissione europea contro l' Italia in materia di appalti pubblici , di impianti portuali per la raccolta dei rifiuti [prodotti] dalle navi e di trasporto ferroviario delle merci .
+[[Question:MC:SingleAnswer]]
+Il verbo [ prodotti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1186]]
+
+[[Question:MC]]
+Formula : 18 buche stbl : si è [svolto] sabato 4 settembre il recupero della gara " European Green Pass Tour 2004 " , il cui circuito prevede ora per i vincitori una finale nazionale ed eventualmente una finalissima internazionale : Renato Tessadri , Giancarlo Agostini , Guido Valcanover e Alessandro Lubian saranno ospiti presso il Brianza Golf Club , mentre Bruno Bensa e Paolo Decaminada giocheranno al Modena Golf Club .
+[[Question:MC:SingleAnswer]]
+Il verbo [ svolto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q678]]
+
+[[Question:MC]]
+La firma è in programma oggi alle 18 e non è che l' ultima testimonianza della vicinanza del Trentino all' America Latina : « I nostri interventi in quell' area - [chiarisce] Berasi - sono dedicati quasi esclusivamente alla formazione professionale » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ chiarisce ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q251]]
+
+[[Question:MC]]
+Hamas accusa Israele di aver [pianificato] l' arresto dei vertici di Hamas " " sin dal risultato delle elezioni palestinesi " " dello scorso gennaio - Il rapimento del colono in Cisgiordania " " e' stato usato solo come pretesto " " per l' arresto di deputati e ministri palestinesi , ha denunciato il portavoce del governo , Ahmed Bahar .
+[[Question:MC:SingleAnswer]]
+Il verbo [ pianificato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1671]]
+
+[[Question:MC]]
+« Non sono riuscito a contattarlo per 3 giorni » [spiegava] ieri don Valentino , che a luglio era andato in visita al fratello .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spiegava ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q552]]
+
+[[Question:MC]]
+TOKYO - Giornata da tregenda ieri in Giappone [colpito] dal tifone Songda che ha spazzato le regioni sud-occcidentali del Paese con venti di oltre 200 chilometri orari , seminando morte e distruzione sulla terraferma e in mare , e travolgendo tesori sacri per l' arte e la coscienza storica del mondo intero .
+[[Question:MC:SingleAnswer]]
+Il verbo [ colpito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1036]]
+
+[[Question:MC]]
+PREDAZZO - [Comincia] oggi pomeriggio a Predazzo la kermesse dello ski jumping , la spettacolare disciplina dello sci nordico che si pratica anche d' estate sugli speciali trampolini rivestiti di materiale plastico .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Comincia ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1033]]
+
+[[Question:MC]]
+Nel 93 il gruppo prevede di vendere circa 9mila Mitsubishi e 5mila Chrysler Jeep che assommate ai modelli Hyundai dovrebbe [portare] il totale del gruppo a 22-23mila unità .
+[[Question:MC:SingleAnswer]]
+Il verbo [ portare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1475]]
+
+[[Question:MC]]
+" Con tale iniziativa " si [legge] in una nota " si è inteso avviare un' azione di coordinamento e integrazione adottando uno strumento più agile per la realizzazione di tutte le possibili iniziative future in un mercato in continua evoluzione " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ legge ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1663]]
+
+[[Question:MC]]
+Nell' occhio del ciclone si è [trovato] fisicamente il trentino Piero Valentini , fratello di don Agostino ( prossimo parroco di Mezzocorona ) , che da anni vive a Jupiter , una cittadina vicino alla ben più famosa Palm Beach .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trovato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q580]]
+
+[[Question:MC]]
+MILANO - La malattia di Luca , il bambino di cinque anni sottoposto al trapianto di staminali , [era] la Talassemia major o morbo di Cooley , una grave forma di anemia caratterizzata da globuli rossi più piccoli , in numero ridotto e con una minore durata di vita .
+[[Question:MC:SingleAnswer]]
+Il verbo [ era ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1632]]
+
+[[Question:MC]]
+Il portafoglio lavori si attesta sui 628 miliardi e , secondo una nota diffusa dalla società , " rappresenta una potenzialità produttiva che consente a Edilter di affrontare serenamente il futuro , a condizione che vengano riattivati i flussi finanziari sulle opere pubbliche , oggi quasi dappertutto [rallentati] e in qualche caso bloccati " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rallentati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q563]]
+
+[[Question:MC]]
+La scossa , [avvertita] alle 8,53 ( le 13,53 italiane ) , ha avuto come epicentro la Sierra di Ambato , una zona collinare al confine fra le province di Catamarca e La Rioja .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avvertita ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1927]]
+
+[[Question:MC]]
+E poi batte tutti i rigori : non vi [crea] un po' di invidia tutto questo ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ crea ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q560]]
+
+[[Question:MC]]
+A Hiroshima la furia di venti non ha risparmiato nemmeno uno dei due alberi di paulonia sopravvissuti al bombardamento atomico di Hiroshima nel 1945 e da allora [conservati] come preziosa testimonianza a fianco del Museo commemorativo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ conservati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2195]]
+
+[[Question:MC]]
+« La soluzione non [verrà] di certo dalla Russia di Valdimir Putin che non dialoga più neanche con i ceceni moderati e ha promesso ancora più durezza in futuro » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ verrà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2144]]
+
+[[Question:MC]]
+Per il trasporto [usarono] carri merci dove finivano uomini donne e bambini , molti morirono già durante il viaggio » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ usarono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q910]]
+
+[[Question:MC]]
+Quanto poi ai collaboratori del Direttore Generale , è ovvio che vanno rifiutate posizioni aprioristiche di chi [ritiene] che solo fuori dal Trentino si possano trovare Dirigenti di un certo spessore professionale ; allo stesso modo va rigettata l' ipotesi della promozione della " trentinità " in quanto tale come giudizio di merito .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ritiene ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q429]]
+
+[[Question:MC]]
+Dopo un periodo di calo , anche gli l' Invicta ( 68 euro ) sembra fare nuovamente capolino fra gli scaffali , mentre , dopo aver [dominato] gli anni Novanta , il diario - agenda Smemoranda ( 12 euro ) sembra essere entrato in un periodo di stanca , tanto che in una libreria lo abbiamo trovato in vendita con il 20% di sconto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dominato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

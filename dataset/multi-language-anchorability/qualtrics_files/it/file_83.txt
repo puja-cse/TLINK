@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q2088]]
+
+[[Question:MC]]
+Quando nel 1500 arrivò l' islam [trovò] un terreno pagano » , spiega Bensi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trovò ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q227]]
+
+[[Question:MC]]
+In entrambi i casi aveva [chiesto] maggiore collaborazione anche con le piccole imprese .
+[[Question:MC:SingleAnswer]]
+Il verbo [ chiesto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2092]]
+
+[[Question:MC]]
+Difficile comunque [parlare] di popolazioni caucasiche in blocco , bisognerebbe fare delle lunghe distinzioni tra Kabardini - Balkari , Cirassici e Karacia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ parlare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q966]]
+
+[[Question:MC]]
+Le tre maggiori sigle sindacali hanno infatti indetto una conferenza stampa per spiegare le ragioni della fiaccolata silenziosa che si terrà domani - giovedì 9 settebre - a partire dalle 19.30 per le vie del centro , e che [vedrà] la partecipazione di numerose altre associazioni , tra cui le Acli e Azione cattolica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vedrà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q159]]
+
+[[Question:MC]]
+Ogni modifica dello Statuto d' autonomia [deve] essere concordata dalle Camere con le regioni e le province interessate .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deve ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1262]]
+
+[[Question:MC]]
+Meglio l' articolo 138 , che [pensare] a vaste modifiche disomogenee " " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ pensare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q862]]
+
+[[Question:MC]]
+Quanto sopra [serve] ovviamente solo come benevola provocazione per arrivare poi al nocciolo della questione sopra esposta in merito alla Direzione Generale della Azienda .
+[[Question:MC:SingleAnswer]]
+Il verbo [ serve ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1795]]
+
+[[Question:MC]]
+Oggi toccherà ad Andreas Seppi , n. 6 , il bolzanino reduce dal successo di New York contro il n. 12 Atp Schüttler , che [sfida] un altro argentino , Edgardo Massa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sfida ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q50]]
+
+[[Question:MC]]
+Oggi vanno in scena i riflessi degli infiniti Ulissi coreografati da Bud Blumenthal , autore quarantacinquenne [arrivato] tardi alla danza ma che da allora non l' ha mai lasciata .
+[[Question:MC:SingleAnswer]]
+Il verbo [ arrivato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q390]]
+
+[[Question:MC]]
+Ma , alla fine , prevale sempre il desiderio di [acquistare] la novità .
+[[Question:MC:SingleAnswer]]
+Il verbo [ acquistare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1614]]
+
+[[Question:MC]]
+Un film insomma che cerca il perdono , la pace , la grazia , quella grazia che ha scritto la regista « É una liberazione totalmente gratuita dalla coazione ad [odiare] » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ odiare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q665]]
+
+[[Question:MC]]
+« Quello che [iniziamo] , finiamo » : è il marchio di fabbrica del Trentino solidale , dei finanziamenti provinciali ai progetti di sviluppo , così come lo definisce l' assessora Iva Berasi che anticipa i contenuti della convenzione che il presidente Dellai firmerà oggi con l' alcade della municipalità metropolitana di Lima , Luis Castanéda Lossio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ iniziamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1192]]
+
+[[Question:MC]]
+Il Trofeo " OK CASA - Levico Terme " che si è [svolto] domenica 5 settembre è stata una vera festa per i 60 giocatori iscritti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ svolto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q666]]
+
+[[Question:MC]]
+« Quello che iniziamo , [finiamo] » : è il marchio di fabbrica del Trentino solidale , dei finanziamenti provinciali ai progetti di sviluppo , così come lo definisce l' assessora Iva Berasi che anticipa i contenuti della convenzione che il presidente Dellai firmerà oggi con l' alcade della municipalità metropolitana di Lima , Luis Castanéda Lossio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ finiamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1579]]
+
+[[Question:MC]]
+Il film si [apre] su una bianca e desolata distesa , un orizzonte malinconico e deserto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ apre ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q990]]
+
+[[Question:MC]]
+Di « questione culturale » e di « appello alla famiglia » ha parlato invece Nicola Ferrante , segretario della Cisl , secondo il quale « qui vengono presi di mira i bambini , che [sono] il nostro futuro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q804]]
+
+[[Question:MC]]
+Di Giulio Giorello [colpisce] la capacità di comunicare con immediatezza l' entusiasmo per la conoscenza e la straordinaria foga con cui si dedica alla sua divulgazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ colpisce ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1578]]
+
+[[Question:MC]]
+I cadetti [provengono] dalle zone più remote e diverse della Russia e della Cecenia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ provengono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1761]]
+
+[[Question:MC]]
+In teoria , nessuna norma impone un ultimatum per il loro deposito , ma i capigruppo hanno [siglato] questa sorta di « accordo tra gentiluomini » per dare modo agli uffici di compiere una veloce fase di istruttoria delle eventuali nuove domande inserite negli emendamenti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ siglato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q287]]
+
+[[Question:MC]]
+Ex insegnante di golf , specialità alla quale si è avvicinato da caddy , Singh aveva vinto il mese scorso , per la seconda volta in carriera dopo il 1998 , il campionato Pga , ultimo torneo del Grande Slam di Golf , diventando il più anziano vincitore della prova e [conquistando] , al posto del sudafricano Ernie Els , il secondo posto nella classifica mondiale dietro Woods .
+[[Question:MC:SingleAnswer]]
+Il verbo [ conquistando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q138]]
+
+[[Question:MC]]
+El paro en Japón [ afecta ] en mayor medida a los hombres , que han superado la barrera del 5% [ situándose ] en Febrero en el 5,1% .
+[[Question:MC:SingleAnswer]]
+El verbo [ afecta ] pasa DESPUÉS del verbo [ situándose ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q673]]
+
+[[Question:MC]]
+El preparador barcelonista calificó la decisión como " un salto al vacío " al no tener cerrada la operación del escolta francés Antoine Rigaudeau , su probable sustituto , pero [ indicó ] que este riesgo era necesario para no perjudicar a Sasha a la hora de negociar nuevas ofertas .
+Aíto comentó que le ha costado mucho dar este paso - - " son decisiones muy difíciles y no soy insensible como muchos se creen " - - y [ mostró ] su deseo de cerrar cuanto antes la renovación de Roger Esteller , uno de los jugadores con los que el club negocia un nuevo contrato , junto al estadounidense Derrick Alston .
+[[Question:MC:SingleAnswer]]
+El verbo [ indicó ] pasa ANTES que el verbo [ mostró ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q22]]
+
+[[Question:MC]]
+" La ayuda que nos han [ enviado ] la comunidad internacional y los países involucrados en la guerra de Al Alamin , en el Desierto Occidental , ( Gran Bretaña , Alemania e Italia ) es muy limitada " , [ dijo ] Musa .
+[[Question:MC:SingleAnswer]]
+La relación entre [ enviado ] y [ dijo ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q436]]
+
+[[Question:MC]]
+La falta de inversión en equipos de seguridad se [ une ] a la actitud de los directivos , que obligan a los obreros a trabajar hasta 12 ó 14 horas diarias por salarios de miseria y [ ocultan ] a las autoridades los accidentes que se producen .
+[[Question:MC:SingleAnswer]]
+El verbo [ une ] pasa ANTES que el verbo [ ocultan ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q204]]
+
+[[Question:MC]]
+En abril , el número de demandantes de empleo [ disminuyó ] un 3,1% en relación con marzo , hasta situarse en un total de 2.371.300 parados .
+El Gobierno [ explicó ] esta caída por el favorable contexto de la economía .
+[[Question:MC:SingleAnswer]]
+El verbo [ disminuyó ] pasa ANTES que el verbo [ explicó ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q114]]
+
+[[Question:MC]]
+De los 3,27 millones de parados , un total de 1,15 millones se han [ visto ] obligados a abandonar involuntariamente su trabajo .
+El Gobierno prevé que los próximos meses sean malos en materia de empleo , ya que espera que se incorporen al mercado laboral los nuevos licenciados en las universidades debido a que el año escolar acaba de [ terminar ] .
+[[Question:MC:SingleAnswer]]
+El verbo [ visto ] pasa DESPUÉS del verbo [ terminar ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q692]]
+
+[[Question:MC]]
+Aíto comentó que le ha [ costado ] mucho [ dar ] este paso - - " son decisiones muy difíciles y no soy insensible como muchos se creen " - - y mostró su deseo de cerrar cuanto antes la renovación de Roger Esteller , uno de los jugadores con los que el club negocia un nuevo contrato , junto al estadounidense Derrick Alston .
+[[Question:MC:SingleAnswer]]
+El verbo [ costado ] pasa ANTES que el verbo [ dar ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q462]]
+
+[[Question:MC]]
+El base yugoslavo [ admitió ] ayer , en la rueda de prensa de su despedida como azulgrana , que ha [ recibido ] una llamada del técnico italiano Sergio Scariolo , el próximo preparador madridista , interesándose por su futuro .
+[[Question:MC:SingleAnswer]]
+La relación entre [ admitió ] y [ recibido ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q5]]
+
+[[Question:MC]]
+Egipto necesita más de 250 millones de dólares para eliminar los campos de minas de distintos tipos que se [ encuentran ] en diferentes zonas de este país , dijo el ministro egipcio de Asuntos Exteriores , Amro Musa .
+Al menos 23 millones de minas están enterradas en el Desierto Occidental de Egipto desde la segunda Guerra Mundial , mientras que [ hay ] más de otros tres millones de artefactos similares en el Sinaí y a lo largo del Canal de Suez desde las guerras árabe-israelíes de 1956 , 1967 y 1973 , señaló .
+[[Question:MC:SingleAnswer]]
+El verbo [ encuentran ] pasa DESPUÉS del verbo [ hay ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q495]]
+
+[[Question:MC]]
+Ambos [ coincidieron ] en Italia , en su etapa en la Fortitudo , y desde entonces han mantenido contactos regulares .
+" Nos hemos ido llamando para felicitarnos por nuestros éxitos " , se [ limitó ] a descubrir .
+[[Question:MC:SingleAnswer]]
+El verbo [ coincidieron ] pasa DESPUÉS del verbo [ limitó ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+

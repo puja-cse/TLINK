@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1231]]
+
+[[Question:MC]]
+Nel corso delle ultime quindici settimane si sono così [alternate] numerose ed anche nutrite squadre di addetti che hanno consentito il pieno rispetto della tabella di marcia fissata ancora lo scorso aprile .
+[[Question:MC:SingleAnswer]]
+Il verbo [ alternate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q124]]
+
+[[Question:MC]]
+La convinzione di Tucci espressa agli analisti finanziari critici per l' elevato investimento proferito per portarsi a casa Rsa ha quindi toccato la sfera delle enormi potenzialità di questo mercato : " abbiamo [acquisito] una società che può vantare risorse tecnologiche strategiche per servire un mercato molto importante .
+[[Question:MC:SingleAnswer]]
+Il verbo [ acquisito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q280]]
+
+[[Question:MC]]
+NORTON ( Stati Uniti ) - Si volta pagina nel golf : un giocatore delle isole Figi , Vijay Singh , ha strappato a 41 anni la corona al fin qui imbattibile americano Tiger Woods , l' uomo che più a lungo nella storia ha [conservato] il numero uno nella classifica mondiale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ conservato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q810]]
+
+[[Question:MC]]
+Giorello è laureato in filosofia e matematica ; da tempo collabora con il " Corriere della Sera " ed [è] un saggista molto apprezzato , autore di diversi libri - l' ultimo dei quali " Prometeo , Ulisse e Gilgamesh " è appena stato presentato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1767]]
+
+[[Question:MC]]
+Il 30 settembre , poi , la commissione urbanistica tornerà a riunirsi per [discutere] proprio tali modifiche .
+[[Question:MC:SingleAnswer]]
+Il verbo [ discutere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1770]]
+
+[[Question:MC]]
+MOSCA - La televisione russa Ntv ha trasmesso ieri sera un video di circa un minuto e mezzo [girato] dal commando filoceceno all' interno della palestra della scuola sequestrata .
+[[Question:MC:SingleAnswer]]
+Il verbo [ girato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1152]]
+
+[[Question:MC]]
+I residenti , però , [tornano] alla carica per tutelarsi per l' avvenire , nel caso in cui , qualche successivo passaggio urbanistico ( magari all' interno di una revisione per opere pubbliche ) , si decidesse di modificare la destinazione di quei terreni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tornano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q98]]
+
+[[Question:MC]]
+Ma la mancata chiarezza sul nuovo acquirente di Ilp , secondo molti di loro , [rende] più difficile sia dare una valutazione serena dell' Ise sia preparare una struttura finanziaria adeguata per le offerte .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rende ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1099]]
+
+[[Question:MC]]
+In un laconico comunicato la Wellcome ha reso noto che una controproposta era sul tavolo ( pare da parte della Zeneca ) ma si è [scontrata] con il rifiuto del Wellcome Trust , la fondazione caritatevole che detiene il 39,50% del capitale della società .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scontrata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1505]]
+
+[[Question:MC]]
+Anche perché l' accordo fra le cordate interne all' ala economica della Svp non [è] di certo in dirittura .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q132]]
+
+[[Question:MC]]
+Non averle a disposizione avrebbe rappresentato per Emc un severo svantaggio , averle significa [poterle] non condividere con altri concorrenti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ poterle ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q658]]
+
+[[Question:MC]]
+Il patrimonio netto della Sara [ammonta] a 266,7 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ammonta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1900]]
+
+[[Question:MC]]
+Non tanto per me quanto per la squadra che è competitiva e [può] aspirare ad un campionato di vertice .
+[[Question:MC:SingleAnswer]]
+Il verbo [ può ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1980]]
+
+[[Question:MC]]
+Secondo quanto si sostiene negli ambienti finanziari milanesi , sarebbe già pronto un piano di rientro dell' indebitamento del gruppo [esposto] nei confronti del sistema bancario per circa 400 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ esposto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q66]]
+
+[[Question:MC]]
+Il ministro dell' Industria Vito Gnutti ha espresso soddisfazione per la definitiva conclusione della vendita , sottolineando come " quando le cose sono ben [fatte] e soprattutto sono impostate seriamente anche i nostri partners europei lo riconoscono " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fatte ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q151]]
+
+[[Question:MC]]
+Chiuso il primo trimestre fiscale 2006 in crescita rispetto allo stesso periodo dell' anno precedente sia alla voce ricavi ( saliti del 14,00% a 2,55 miliardi di dollari ) sia sul piano degli utili netti ( arrivati a 272,5 milioni con un incremento del 50,00% ) , Emc ha già confermato anche le modalità con le quali verranno [assorbiti] gli asset di Rsa : quest' ultima opererà infatti come Information Security Division della casa madre e avrà l' head quarter a Bedford , nel Massachuttes , sede storica della società , mentre l' attuale presidente e Ceodi Rsa , Art Coviello , assumerà la carica di executive vice president di Emc e presidente della nuova divisione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ assorbiti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q115]]
+
+[[Question:MC]]
+Il valore complessivo dell' operazione , che sarà completata entro la fine del 2006 , è di 2,1 miliardi di dollari , in virtù dei 28 dollari in contanti che la prima verserà per ogni azione della seconda - Joe Tucci , Ceo di Emc , ha commentato l' operazione nella conference call di rito sottolineando un concetto su tutti : " Emc si trasforma da società che [opera] dove le informazioni vivono a società in cui le informazioni vivranno in modo sicuro " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ opera ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q26]]
+
+[[Question:MC]]
+Suntuoso il danzatore Joseph Trefeli che con l' aria da macho latino si [prepara] a chissà quale uscita per poi avere dei continui ripensamenti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ prepara ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1347]]
+
+[[Question:MC]]
+Attualmente - prosegue il comunicato - sono dodici le società del settore televisivo in cui la Profit [detiene] una partecipazione e partecipa alla conduzione commerciale e operativa : dall' emittente nazionale Rete Mia a Telecampione ( dedicata all' informazione economico-finanziaria ) , dall' area teletext e multimediale con Miatel alla Vta e all' Acomedia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ detiene ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q215]]
+
+[[Question:MC]]
+ROMA - [Affrontare] alle radici il problema all' origine della strage di Beslan , che è un problema di conflitti interetnici di varia natura : è l' invito della Caritas italiana .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Affrontare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

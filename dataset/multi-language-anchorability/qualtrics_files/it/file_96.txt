@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1499]]
+
+[[Question:MC]]
+Nella riunione del consiglio d' amministrazione della Fondazione che si è [tenuta] ieri non si è arrivati ad una intesa per cui tutto è rinviato a martedì prossimo quando sarà necessario « tirare le fila del discorso » come ha spiegato il presidente della Fondazione , Gerhard Brandstätter , lui stesso candidato di punta per la successione di Amonn .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tenuta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q880]]
+
+[[Question:MC]]
+Il Politico deve dire al Direttore Generale quale [sia] la strada da percorrere e deve porre in essere verifiche che gli consentano di avere informazioni di ritorno per correggere eventuali digressioni dal programma .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sia ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1498]]
+
+[[Question:MC]]
+BOLZANO - [Fumata] nera per la nomina del successore di Erich Amonn alla guida della Sparkasse .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Fumata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1128]]
+
+[[Question:MC]]
+L' annunciato voto contrario di otto senatori al decreto di rifinanziamento della missione in Afghanistan è " un problema serio , serissimo " che , " considerati i rapporti di forza tra maggioranza e opposizione in Parlamento , in particolare al Senato " , può rivelarsi " drammatico " - Lo ha detto il ministro della Difesa Arturo Parisi in un' intervista a - Repubblica Radio - Parisi ha precisato che " il nostro impegno nel secondo semestre [è] assolutamente identico all' impegno del primo " e quindi non c' è " né potenziamento né depotenziamento " della missione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q859]]
+
+[[Question:MC]]
+Vorrei che non si [decidesse] nulla senza prima consultarmi e vorrei il posto di lavoro a pochi minuti da casa mia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ decidesse ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1331]]
+
+[[Question:MC]]
+« Ecco - conclude Bezzi - , questo ritengo sia il compito primario delle nostre istituzioni autonomiste : farsi carico , [interpretare] il senso di sgomento e insieme la voglia di fare qualcosa dei trentini , per mettere in campo un' azione coordinata capace di raccogliere tutte le sensibilità e le disponibilità della società civile , sociale ed economica del Trentino per contribuire a sanare , per quanto possibile , questa incancellabile ferita alla vita e alla dignità umana » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ interpretare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1285]]
+
+[[Question:MC]]
+Al cimitero di Suzdal , dove sono sepolti molti soldati italiani , il Coro Monte Peller ha [eseguito] due canzoni : il « Testamento del Capitano » è stata dedicata ai lontani caduti in terra di Russia ; quella del « Signore delle Cime » , invece , è stata innalzato alla memoria dei bambini dell' Ossezia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ eseguito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q418]]
+
+[[Question:MC]]
+In genere , lo zaino base si [aggira] sui 64 euro e 90 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aggira ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1013]]
+
+[[Question:MC]]
+Quanto alle previsione di partecipazione , i sindacati si attendono 3 - 4mila persone , anche se , ha confessato Nicola Ferrante , « ci auguriamo che [saranno] dieci o ventimila » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ saranno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q680]]
+
+[[Question:MC]]
+nan [Costruire] il futuro del paese è strategico e lo confermano anche due degli interventi generosamente sostenuti dall' amministrazione provinciale : il centro di istruzione per l' occupazione El Buen Pastor e l' istituto di educazione tecnologica di Manchay che , come l' Università Sedes Sapientiae , sono progetti gestiti direttamente dalla Provincia con contributi complessivi , spalmati nel triennio 2003 - 2005 , di 530mila euro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Costruire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1936]]
+
+[[Question:MC]]
+In quanto ai rigori è giusto che li batta lui che è uno specialista , a me piace [segnare] su azione e mi va benissimo così .
+[[Question:MC:SingleAnswer]]
+Il verbo [ segnare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q169]]
+
+[[Question:MC]]
+Ma a ben guardare anche in questi casi non si può [parlare] di esiti clamorosi : che la formazione di Zimelli potesse sbancare Natz era infatti nei numeri visto che già l' anno passato si impose su quel campo con un roboante 5 - 3 e che il suo potenziale offensivo , già strepitoso ( basti ricordare i 115 gol dell' ultimo biennio ) , è ancor più lievitato adesso con l' ingaggio dell' interessantissimo rumeno Ionut Alecu , non a caso subito a segno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ parlare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1390]]
+
+[[Question:MC]]
+Si tratta di un gruppuscolo che si è [installato] nel disordine creato dal pompiere piromane Putin » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ installato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1420]]
+
+[[Question:MC]]
+L' operazione , si [legge] in una nota , è stata approvata dai consigli di amministrazione delle società coinvolte e prevede la distribuzione agli azionisti minori della Sme ( il 95,59% è controllato da Schemaventuno e il 4,00% dal gruppo bancario San Paolo di Torino ) di 12 azioni ordinarie Schemaventuno ogni 5 Sme possedute .
+[[Question:MC:SingleAnswer]]
+Il verbo [ legge ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q139]]
+
+[[Question:MC]]
+L' information security , [stando] a recenti indagini di alcuni analisti americani , è la priorità numero uno per i Cio e il 75,00% delle aziende Usa soffre ogni anno di perdite consistenti di dati : questo il terreno d' azione in cui Emc vuole mettere a frutto l' acquisizione di Rsa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2196]]
+
+[[Question:MC]]
+« La soluzione non verrà di certo dalla Russia di Valdimir Putin che non [dialoga] più neanche con i ceceni moderati e ha promesso ancora più durezza in futuro » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dialoga ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q869]]
+
+[[Question:MC]]
+E' evidente , abbandonando le facezie , che il Direttore Generale della Sanità Provinciale [può] influenzare molti di questi aspetti , sia dalla parte del cittadino utente che per il cittadino dipendente dei Servizi Sanitari , ma vorrei apportare alla discussione la convinzione che chi dirige la Azienda Sanitaria deve attenersi alle direttive di chi , per proprio mandato istituzionale , deve farsi carico del Servizio Sanitario nel suo insieme , vale a dire della Politica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ può ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1840]]
+
+[[Question:MC]]
+« Ciò che a noi preme - ha spiegato la segretaria generale della Fisac Cgil del Trentino , Rosanna Tranquillini - è fare in modo che il protocollo [firmato] prima della rottura delle trattative venga riempito di contenuti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ firmato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1343]]
+
+[[Question:MC]]
+La Profit accentrerà nella struttura immobiliare della Bravo Productions ( che [ha] sede a Milano e ha una superficie utile di circa 7500 metri quadri ) diverse attività operative .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ha ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q863]]
+
+[[Question:MC]]
+Quanto sopra serve ovviamente solo come benevola provocazione per [arrivare] poi al nocciolo della questione sopra esposta in merito alla Direzione Generale della Azienda .
+[[Question:MC:SingleAnswer]]
+Il verbo [ arrivare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

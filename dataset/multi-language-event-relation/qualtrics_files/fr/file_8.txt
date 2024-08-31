@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q310]]
+
+[[Question:MC]]
+Alors que la métropole compte 58.416.500 habitants et les quatre départements d'outre - mer 1.665.500 , les premiers résultats du recensement de mars - avril , qui devraient être affinés d' ici la fin de l'année , [ confirment ] les tendances observées depuis vingt ans : l' urbanisation , loin de ralentir , [ connaît ] une nouvelle accélération .
+[[Question:MC:SingleAnswer]]
+La verb [ confirment ] se passe AVANT le verb [ connaît ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q261]]
+
+[[Question:MC]]
+Cependant , si 56 % des personnes [ interrogées ] font confiance au gouvernement Raffarin en matière de lutte contre l'insécurité , 71 % ne lui font pas confiance en matière d'augmentation du pouvoir d'achat et 64 % en matière de lutte contre le chômage .
+Par ailleurs , 58 % se [ disent ] sceptiques en ce qui concerne la baisse des impôts .
+[[Question:MC:SingleAnswer]]
+La verb [ interrogées ] se passe APRÈS le verb [ disent ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q342]]
+
+[[Question:MC]]
+A l'inverse , les communes trop excentrées [ voient ] leur population [ stagner ] , voire diminuer .
+[[Question:MC:SingleAnswer]]
+La verb [ voient ] se passe AVANT le verb [ stagner ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q422]]
+
+[[Question:MC]]
+L'UUP [ continue ] d' exiger un désarmement de l'IRA avant la formation du gouvernement .
+M. Blair a [ donné ] jusqu'au 30 juin aux responsables catholiques et protestants pour débloquer ce dossier .
+[[Question:MC:SingleAnswer]]
+La verb [ continue ] se passe AVANT le verb [ donné ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q253]]
+
+[[Question:MC]]
+Près de deux tiers des Français ( 65 % ) se [ disent ] plutôt optimistes ( 56 % ) ou très optimistes ( 9 % ) en pensant à l' avenir , selon un sondage sur le moral des Français à la rentrée de septembre réalisé par l'IFOP pour Ouest - France .
+L'optimisme des Français [ enregistre ] une hausse de 10 points par rapport à l'année dernière à la même époque .
+[[Question:MC:SingleAnswer]]
+La verb [ disent ] se passe EN MÊME TEMPS que le verb [ enregistre ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q369]]
+
+[[Question:MC]]
+Vaclav Havel , le président tchèque qui [ souffre ] depuis mardi d'une affection virale des voies respiratoires , a dû être [ hospitalisé ] hier soir , après une « détérioration de l'état de santé » , selon le porte - parole .
+[[Question:MC:SingleAnswer]]
+La verb [ souffre ] se passe EN MÊME TEMPS que le verb [ hospitalisé ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q100]]
+
+[[Question:MC]]
+Nous ne mettions plus rien à l'étage car les planchers sont trop vieux » , [ détaille ] - t - il .
+Avertie par des voisines , Juliette Carpezat s ' est précipitée en chaussons dans la rue lorsqu ' elle a [ su ] que le Secours populaire brûlait : « Je suis passée à midi devant en rentrant de la pharmacie .
+[[Question:MC:SingleAnswer]]
+La verb [ détaille ] se passe AVANT le verb [ su ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q110]]
+
+[[Question:MC]]
+Avertie par des voisines , Juliette Carpezat s ' est [ précipitée ] en chaussons dans la rue lorsqu ' elle a [ su ] que le Secours populaire brûlait : « Je suis passée à midi devant en rentrant de la pharmacie .
+[[Question:MC:SingleAnswer]]
+La verb [ précipitée ] se passe AVANT le verb [ su ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q252]]
+
+[[Question:MC]]
+Près de deux tiers des Français ( 65 % ) se [ disent ] plutôt optimistes ( 56 % ) ou très optimistes ( 9 % ) en pensant à l' avenir , selon un sondage sur le moral des Français à la rentrée de septembre [ réalisé ] par l'IFOP pour Ouest - France .
+[[Question:MC:SingleAnswer]]
+La verb [ disent ] se passe AVANT le verb [ réalisé ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q184]]
+
+[[Question:MC]]
+Les faits qui lui sont reprochés remontent au 27 mai 1998 et se sont [ déroulés ] dans les bois proches du fort Dorsner à Giromagny .
+Bernard [ affirme ] qu'en se promenant , il a chuté et s ' est retrouvé à terre , la braguette ouverte .
+[[Question:MC:SingleAnswer]]
+La verb [ déroulés ] se passe AVANT le verb [ affirme ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+

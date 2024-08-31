@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q122]]
+
+[[Question:MC]]
+La convinzione di Tucci espressa agli analisti finanziari critici per l' elevato investimento proferito per [portarsi] a casa Rsa ha quindi toccato la sfera delle enormi potenzialità di questo mercato : " abbiamo acquisito una società che può vantare risorse tecnologiche strategiche per servire un mercato molto importante .
+[[Question:MC:SingleAnswer]]
+Il verbo [ portarsi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1944]]
+
+[[Question:MC]]
+Sarà [dura] ...
+[[Question:MC:SingleAnswer]]
+Il verbo [ dura ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1244]]
+
+[[Question:MC]]
+« La velocità di esecuzione - [conferma] Rossi - non ha inciso sulla qualità , perché il direttore lavori è stato un riferimento costante in cantiere per le aziende » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ conferma ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q593]]
+
+[[Question:MC]]
+C' era la possibilità di utilizzare solo l' unità ricca di staminali , ma è stato deciso di [trapiantarle] entrambe , sia l' unità più ricca di cellule « non manipolate » , sia l' altra più povera , ma dopo averla congelata e trasferita alla « Cell Factory » di Milano , per amplificare il numero delle sue cellule .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trapiantarle ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q825]]
+
+[[Question:MC]]
+Ha infatti collaborato con Luca Ronconi alla messa in scena di " Infinities " , una " drammaturgia di idee " [ispirata] dall' opera del matematico John Barrow .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ispirata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q536]]
+
+[[Question:MC]]
+La vittima è Sinope Faranfa , di 75 anni , morta all' ospedale di Marsciano dove era stata [trasportata] in condizioni disperate .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trasportata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q657]]
+
+[[Question:MC]]
+Le riserve premi ( 222,5 miliardi ) e le riserve sinistri ( 655,6 miliardi ) risultano interamente coperte dagli investimenti , che hanno [raggiunto] 1092 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ raggiunto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2133]]
+
+[[Question:MC]]
+Durante la seconda guerra mondiale , quando Hitler [fece] irruzione in Russia , i Ceceni sperarono nella fine del regime stalinista e appoggiarono l' irruzione dei nazisti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fece ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1815]]
+
+[[Question:MC]]
+Fisac Cigl , Fiba Cisl e Uilca hanno spiegato così , durante un' assemblea tenutasi ieri alla Sala della Cooperazione in via Segantini , la decisione di [proclamare] due giornate di sciopero nel settore bancario , il 10 settembre e il primo ottobre , dopo la brusca interruzione della difficile trattativa sul rinnovo del contratto nazionale , scaduto a fine 2003 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ proclamare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1104]]
+
+[[Question:MC]]
+Questa non avrebbe voluto impegnarsi ad accettare una seconda offerta ( più elevata ) come definitiva sia perché [impossibilitata] sul piano legale sia perché legata a un' esclusiva con la Glaxo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ impossibilitata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1156]]
+
+[[Question:MC]]
+Nei giorni scorsi Condini ha quindi [scritto] anche al presidente Agostino Bitteleri affinché il caso Vela trovi adeguata discussione all' interno della commissione urbanistica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scritto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1861]]
+
+[[Question:MC]]
+nan [E'] il bilancio del pauroso incendio che ieri pomeriggio è divampato all' improvviso nella pineta di Riva Trigoso , comune di Sestri Levante , a ridosso del mare .
+[[Question:MC:SingleAnswer]]
+Il verbo [ E' ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1949]]
+
+[[Question:MC]]
+Hai [parlato] con qualcuno della squadra vero ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ parlato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q589]]
+
+[[Question:MC]]
+Delle due unità di sangue cordonale raccolto alla nascita dai due gemelli , lo scorso aprile , una conteneva un buon numero di cellule staminali , mentre l' altra unità [era] più povera di « progenitori emopoietici » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ era ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2153]]
+
+[[Question:MC]]
+« Quasi tutti gli attuali dirigenti ceceni sono nati durante la deportazione : questo può [spiegare] la rabbia che si vive in cecenia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spiegare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1554]]
+
+[[Question:MC]]
+Gavino Angius ha [rinviato] l' accusa di Giovanardi al mittente : « E' la Cdl - ha detto - con una legge che obbliga una donna ad impiantare nel suo utero embrioni malati , ad aver approvato qualcosa di simile a esperimenti nazisti » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rinviato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1076]]
+
+[[Question:MC]]
+Ma , a « soli » 45 anni di distanza da quell' epoca , è meglio non [chiedergli] il nome di qualche maestra .
+[[Question:MC:SingleAnswer]]
+Il verbo [ chiedergli ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q426]]
+
+[[Question:MC]]
+Il costo [è] in linea con quello di uno zaino normale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2161]]
+
+[[Question:MC]]
+Nel 1996 finì la prima guerra cecena con una indipendenza a metà e una promessa russa di [rivedere] i termini dell' autonomia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rivedere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q714]]
+
+[[Question:MC]]
+A quanto pare , il niet arrivato dagli ambienti bolzanini , restii ad [avere] una persona non bilingue in un ruolo così delicato , ha fatto saltare l' operazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

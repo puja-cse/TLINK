@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q745]]
+
+[[Question:MC]]
+" Me gustaría quedarme , pero la oferta que me han [ hecho ] , no es suficientemente competitiva " , [ indicó ] , por su parte , el jugador .
+[[Question:MC:SingleAnswer]]
+La relación entre [ hecho ] y [ indicó ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q134]]
+
+[[Question:MC]]
+El Gobierno prevé que los próximos meses sean malos en materia de empleo , ya que espera que se incorporen al mercado laboral los nuevos licenciados en las universidades debido a que el año escolar acaba de [ terminar ] .
+El paro en Japón [ afecta ] en mayor medida a los hombres , que han superado la barrera del 5% situándose en Febrero en el 5,1% .
+[[Question:MC:SingleAnswer]]
+El verbo [ terminar ] pasa ANTES que el verbo [ afecta ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q240]]
+
+[[Question:MC]]
+Los azulgranas se enfrentarán en las semifinales de la competición al rival más duro que [ podía ] tocarles de los tres que [ quedaban ] en el bombo .
+[[Question:MC:SingleAnswer]]
+El verbo [ podía ] pasa ANTES que el verbo [ quedaban ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q435]]
+
+[[Question:MC]]
+La falta de inversión en equipos de seguridad se [ une ] a la actitud de los directivos , que [ obligan ] a los obreros a trabajar hasta 12 ó 14 horas diarias por salarios de miseria y ocultan a las autoridades los accidentes que se producen .
+[[Question:MC:SingleAnswer]]
+La relación entre [ une ] y [ obligan ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q194]]
+
+[[Question:MC]]
+Y los informativos , responsables de testimoniar esa realidad , [ tratan ] de convertirla en espectáculo , tomando de la ficción los aspectos supuestamente más atractivos para el espectador , incluidas las escenas escabrosas .
+Como una bocanada de aire clarificador se [ agradece ] la lista de recomendaciones del Consell de l'Audiovisual de Catalunya .
+[[Question:MC:SingleAnswer]]
+El verbo [ tratan ] pasa DESPUÉS del verbo [ agradece ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q751]]
+
+[[Question:MC]]
+[ Es ] la mayor caída en siete meses y supone un indicio de que el mercado inmobiliario de EEUU puede estar desacelerándose , tras subir el 5,8% en marzo .
+El encarecimiento de las hipotecas ha [ contribuido ] a frenar las ventas , ya que el tipo de interés a 30 años es del 8,62% , un punto más que hace un año .
+[[Question:MC:SingleAnswer]]
+El verbo [ Es ] pasa SIMULTÁNEAMENTE con el verbo [ contribuido ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q753]]
+
+[[Question:MC]]
+[ Es ] la mayor caída en siete meses y supone un indicio de que el mercado inmobiliario de EEUU puede estar desacelerándose , tras subir el 5,8% en marzo .
+El encarecimiento de las hipotecas ha contribuido a frenar las ventas , ya que el tipo de interés a 30 años [ es ] del 8,62% , un punto más que hace un año .
+[[Question:MC:SingleAnswer]]
+El verbo [ Es ] pasa SIMULTÁNEAMENTE con el verbo [ es ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q106]]
+
+[[Question:MC]]
+Japón , considerado tradicionalmente como un país con una tasa de paro insignificante , [ contaba ] a finales de Febrero con 3,27 millones de demandantes de empleo , lo que supone 180.000 personas más que en enero .
+Una de las razones de este aumento del paro [ son ] los planes de reestructuración llevados a cabo por algunas de las grandes empresas japonesas .
+[[Question:MC:SingleAnswer]]
+La relación entre [ contaba ] y [ son ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q259]]
+
+[[Question:MC]]
+Isomura [ apuntó ] que Pekín no tenía por qué ser la favorita , porque tanto Osaka como las demás [ tienen ] proyectos importantes y son grandes ciudades .
+[[Question:MC:SingleAnswer]]
+El verbo [ apuntó ] pasa DESPUÉS del verbo [ tienen ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q754]]
+
+[[Question:MC]]
+Es la mayor caída en siete meses y [ supone ] un indicio de que el mercado inmobiliario de EEUU puede estar desacelerándose , tras [ subir ] el 5,8% en marzo .
+[[Question:MC:SingleAnswer]]
+El verbo [ supone ] pasa ANTES que el verbo [ subir ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+

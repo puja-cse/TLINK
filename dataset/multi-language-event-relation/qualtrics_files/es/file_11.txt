@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q693]]
+
+[[Question:MC]]
+Aíto comentó que le ha [ costado ] mucho dar este paso - - " [ son ] decisiones muy difíciles y no soy insensible como muchos se creen " - - y mostró su deseo de cerrar cuanto antes la renovación de Roger Esteller , uno de los jugadores con los que el club negocia un nuevo contrato , junto al estadounidense Derrick Alston .
+[[Question:MC:SingleAnswer]]
+El verbo [ costado ] pasa DESPUÉS del verbo [ son ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q92]]
+
+[[Question:MC]]
+El mercado ha valorado positivamente la noticia y las acciones [ ascendieron ] un 4,9% el viernes , después de que la cotización [ quedara ] suspendida por la mañana .
+[[Question:MC:SingleAnswer]]
+El verbo [ ascendieron ] pasa ANTES que el verbo [ quedara ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q696]]
+
+[[Question:MC]]
+Aíto comentó que le ha [ costado ] mucho dar este paso - - " son decisiones muy difíciles y no soy insensible como muchos se creen " - - y mostró su deseo de cerrar cuanto antes la renovación de Roger Esteller , uno de los jugadores con los que el club [ negocia ] un nuevo contrato , junto al estadounidense Derrick Alston .
+[[Question:MC:SingleAnswer]]
+El verbo [ costado ] pasa ANTES que el verbo [ negocia ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q26]]
+
+[[Question:MC]]
+" La ayuda que nos han enviado la comunidad internacional y los países involucrados en la guerra de Al Alamin , en el Desierto Occidental , ( Gran Bretaña , Alemania e Italia ) [ es ] muy limitada " , dijo Musa .
+Especialistas de las Fuerzas Armadas egipcias [ afirman ] que hasta finales de 1999 han eliminado más de dos millones de minas .
+[[Question:MC:SingleAnswer]]
+El verbo [ es ] pasa DESPUÉS del verbo [ afirman ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q597]]
+
+[[Question:MC]]
+" Creo que se [ equivocan ] , pero es una opinión personal " , señaló Djordjevic , desmintiendo que haya tenido ningún problema con García Reneses , con quien se reunió ayer durante media hora .
+" No me tenía que explicar nada . Simplemente no cuadro en su proyecto del Barça . Está claro que no son cosas agradables ni por su parte ni por la mía " , [ señaló ] el exjugador barcelonista sobre la conversación con el entrenador .
+[[Question:MC:SingleAnswer]]
+La relación entre [ equivocan ] y [ señaló ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q665]]
+
+[[Question:MC]]
+El preparador barcelonista [ calificó ] la decisión como " un salto al vacío " al no tener cerrada la operación del escolta francés Antoine Rigaudeau , su probable sustituto , pero indicó que este riesgo era necesario para no perjudicar a Sasha a la hora de negociar nuevas ofertas .
+Aíto comentó que le ha costado mucho dar este paso - - " son decisiones muy difíciles y no soy insensible como muchos se creen " - - y [ mostró ] su deseo de cerrar cuanto antes la renovación de Roger Esteller , uno de los jugadores con los que el club negocia un nuevo contrato , junto al estadounidense Derrick Alston .
+[[Question:MC:SingleAnswer]]
+La relación entre [ calificó ] y [ mostró ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q420]]
+
+[[Question:MC]]
+Con esta normativa , el Gobierno intenta reducir las más de 4.000 muertes que cada año se [ producen ] en los yacimientos de carbón del país , la mayoría de los cuales [ operan ] sin las mínimas medidas de seguridad , debido sobre todo a los malos resultados del sector , y algunos incluso son ilegales .
+[[Question:MC:SingleAnswer]]
+El verbo [ producen ] pasa ANTES que el verbo [ operan ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q680]]
+
+[[Question:MC]]
+El preparador barcelonista calificó la decisión como " un salto al vacío " al no tener cerrada la operación del escolta francés Antoine Rigaudeau , su probable sustituto , pero indicó que este riesgo [ era ] necesario para no perjudicar a Sasha a la hora de negociar nuevas ofertas .
+Aíto comentó que le ha costado mucho dar este paso - - " son decisiones muy difíciles y no soy insensible como muchos se creen " - - y [ mostró ] su deseo de cerrar cuanto antes la renovación de Roger Esteller , uno de los jugadores con los que el club negocia un nuevo contrato , junto al estadounidense Derrick Alston .
+[[Question:MC:SingleAnswer]]
+El verbo [ era ] pasa ANTES que el verbo [ mostró ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q173]]
+
+[[Question:MC]]
+Como las encuestas habían difundido una gran expectativa de crecimiento para el Partido Quebequés y ha [ terminado ] obteniendo dos diputados menos que en las elecciones anteriores , el clima es de fracaso .
+Otro dato añadido adverso : no todos los que [ votan ] a favor de Bouchard quieren la independencia .
+[[Question:MC:SingleAnswer]]
+El verbo [ terminado ] pasa DESPUÉS del verbo [ votan ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q710]]
+
+[[Question:MC]]
+Aíto comentó que le ha costado mucho dar este paso - - " [ son ] decisiones muy difíciles y no soy insensible como muchos se creen " - - y [ mostró ] su deseo de cerrar cuanto antes la renovación de Roger Esteller , uno de los jugadores con los que el club negocia un nuevo contrato , junto al estadounidense Derrick Alston .
+[[Question:MC:SingleAnswer]]
+El verbo [ son ] pasa ANTES que el verbo [ mostró ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+

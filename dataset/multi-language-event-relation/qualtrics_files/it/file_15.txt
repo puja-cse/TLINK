@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q1481]]
+
+[[Question:MC]]
+Sentence 1: Beslan è [ sorta ] durante la guerra caucasica dell' 800 , abitata dagli Osseti .
+Sentence 2: Durante le deportazioni ci furono trasportati i Ceceni , ed ora l' Ingushezia cecena [ rivendica ] tutta la regione di Prigorodnj , dove è appunto il teatro della strage » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sorta ] accade PRIMA del verbo [ rivendica ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1847]]
+
+[[Question:MC]]
+Sentence: Si è fatto conoscere come « ladro maldestro » : lo scorso marzo si è ribaltato in bicicletta mentre stava scappando con un paio di cassette piene di monetine trafugate da una lavanderia , poi era stato [ sorpreso ] all' interno di un tombino con l' intenzione di intrufolarsi nel magazzino di una tabaccheria , infine lo scorso venerdì era stato denunciato perché trovato in possesso di un timbrino trafugato ad un medico , con cui [ falsificava ] le ricette .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sorpreso ] accade DOPO il verbo [ falsificava ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3008]]
+
+[[Question:MC]]
+Sentence 1: Hai [ parlato ] con qualcuno della squadra vero ?
+Sentence 2: Vabbè , mi [ piace ] tutto quel genere , afro , reggae , happy sound .
+[[Question:MC:SingleAnswer]]
+Il verbo [ parlato ] accade DOPO il verbo [ piace ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1216]]
+
+[[Question:MC]]
+Sentence 1: « L' eccidio di Beslan - ha raccontato al telefono l' assessore provinciale Franco Panizza , che guida il gruppo dei trentini , assieme a rappresentanti di alcune amministrazioni municipali della Valle di Non e della Val di Sole - ha [ messo ] al tappeto un' intera nazione .
+Sentence 2: Tutte le manifestazioni indette per i giorni di lutto nazionale sono state cancellate , [ compreso ] il concerto che il nostro Coro Monte Peller doveva tenere a Mosca .
+[[Question:MC:SingleAnswer]]
+Il verbo [ messo ] accade SIMULTANEAMENTE con il verbo [ compreso ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2716]]
+
+[[Question:MC]]
+Sentence 1: Io so cos' [ è ] la guerra » dice uno dei bambini dell' Accademia militare di Kronstadt che fa da sfondo al primo dei tre episodi del film : « Nostalgia » .
+Sentence 2: I bambini russi [ reclutati ] nell' Accademia , nella piccola isola di fronte San Pietroburgo , sono tutti piccoli abbandonati , orfani , figli di alcolizzati , che hanno subito violenze , bambini che Putin vuole trasformare in piccoli soldati ripristinando la vecchia caserma zarista .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] accade SIMULTANEAMENTE con il verbo [ reclutati ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3886]]
+
+[[Question:MC]]
+Sentence: Nel 92 la Sara Vita ha [ raccolto ] premi per 25,4 miliardi e chiuso il bilancio con un utile di 92 milioni ; le riserve tecniche al lordo del lavoro ceduto [ risultano ] pari a 90,4 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ raccolto ] accade DOPO il verbo [ risultano ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2329]]
+
+[[Question:MC]]
+Sentence: Alberto Pacher , adesso sindaco di Trento , frequentava proprio l' asilo Pedrotti : « Le case c' [ erano ] già tutte qui attorno - ricorda mentre [ indica ] gli edifici che circondano la scuola materna - e noi salivamo da là » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ erano ] accade SIMULTANEAMENTE con il verbo [ indica ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2259]]
+
+[[Question:MC]]
+Sentence: Hamas [ accusa ] Israele di aver pianificato l' arresto dei vertici di Hamas " " sin dal risultato delle elezioni palestinesi " " dello scorso gennaio - Il rapimento del colono in Cisgiordania " " e' stato usato solo come pretesto " " per l' arresto di deputati e ministri palestinesi , ha [ denunciato ] il portavoce del governo , Ahmed Bahar .
+[[Question:MC:SingleAnswer]]
+Il verbo [ accusa ] accade PRIMA del verbo [ denunciato ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1502]]
+
+[[Question:MC]]
+Sentence: Ma c' [ è ] anche da dire che gli Americani stanno costruendo un oleodotto che [ passa ] dalla Georgia , evidentemente contro gli interessi della Russia » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] accade PRIMA del verbo [ passa ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1062]]
+
+[[Question:MC]]
+Sentence 1: Secondo quanto si [ sostiene ] negli ambienti finanziari milanesi , sarebbe già pronto un piano di rientro dell' indebitamento del gruppo esposto nei confronti del sistema bancario per circa 400 miliardi .
+Sentence 2: E Mediobanca avrebbe già individuato anche il pilota cui affidare il compito del rilancio : in pole position c' è Giorgio Cefis , destinato ad assumere la carica di amministratore delegato e di presidente della Santavaleria mentre Varasi lascerebbe ogni incarico operativo pur [ mantenendo ] il ruolo di principale azionista .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sostiene ] accade PRIMA del verbo [ mantenendo ].
+[[Choices]]
+Sì
+NO
+NON SO
+

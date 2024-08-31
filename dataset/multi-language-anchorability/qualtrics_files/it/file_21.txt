@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1164]]
+
+[[Question:MC]]
+nan [Tocca] quindi all' amministrazione riprendere in mano il gioco rispondendo alle richieste della comunità .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Tocca ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1895]]
+
+[[Question:MC]]
+Sono [partito] bene come già l' anno scorso ( anche allora segnò alla prima giornata contro il Natz , ndr ) e spero di continuare così .
+[[Question:MC:SingleAnswer]]
+Il verbo [ partito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1404]]
+
+[[Question:MC]]
+Bisogna negoziare con gli indipendentisti moderati ceceni che [sconfessano] le reazioni tipo la presa di ostaggi a Beslan » , in modo da stoppare « un cancro generalizzato che si sta estendendo a tutta la Russia » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sconfessano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q670]]
+
+[[Question:MC]]
+« Quello che iniziamo , finiamo » : è il marchio di fabbrica del Trentino solidale , dei finanziamenti provinciali ai progetti di sviluppo , così come lo definisce l' assessora Iva Berasi che anticipa i contenuti della convenzione che il presidente Dellai [firmerà] oggi con l' alcade della municipalità metropolitana di Lima , Luis Castanéda Lossio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ firmerà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1620]]
+
+[[Question:MC]]
+In calo le spese generali , [ridotte] in un anno del 10,00% circa , mentre è cresciuta l' incidenza degli oneri finanziari a causa dell' aumento del costo del denaro , soprattutto nella seconda parte del 92 , ma anche dei sensibili ritardi che hanno caratterizzato i pagamenti dei lavori eseguiti da parte dello Stato e delle pubbliche amministrazioni in generale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ridotte ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q489]]
+
+[[Question:MC]]
+Ricordando la « vile e spietata aggressione di Beslan » , il cardinale Michele Giordano [rivolge] questo auspicio agli studenti napoletani , sostiene che « alla violenza delle guerre , del terrorismo , dell' intolleranza va contrapposta , cominciando proprio dai giovani , una cultura di segno opposto » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rivolge ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1667]]
+
+[[Question:MC]]
+Valentini , che è direttore di un golf club , dopo aver spedito la giovane moglie Cheryl con i figlioletti Liliana ( 6 mesi ) e Alexander ( 3 anni ) sulla costa occidentale della penisola , al riparo dall' uragano , si è [barricato] all' interno del ristorante del club con altre 300 persone in attesa che la tempesta passasse .
+[[Question:MC:SingleAnswer]]
+Il verbo [ barricato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q68]]
+
+[[Question:MC]]
+Il ministro dell' Industria Vito Gnutti ha espresso soddisfazione per la definitiva conclusione della vendita , sottolineando come " quando le cose sono ben fatte e soprattutto sono impostate seriamente anche i nostri partners europei lo [riconoscono] " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riconoscono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1953]]
+
+[[Question:MC]]
+Mi dà la carica e mi fa [giocare] meglio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ giocare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q243]]
+
+[[Question:MC]]
+La crescita complessiva degli arrivi è [stata] del 6,5% , ma quella degli italiani ( + 8,3% ) è risultata quasi quadrupla rispetto all' incremento degli stranieri ( + 2,3% sempre rispetto al luglio del 2003 ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q156]]
+
+[[Question:MC]]
+La richiesta è di [eliminare] la contestualità delle elezioni per il Senato federale e le regionali .
+[[Question:MC:SingleAnswer]]
+Il verbo [ eliminare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q327]]
+
+[[Question:MC]]
+Franco Pistolato , allenatore dell' Alta Vallagarina , è soddisfatto per l' importante successo [ottenuto] contro la Condinese .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ottenuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1607]]
+
+[[Question:MC]]
+Ma è ancora un bambino ad essere protagonista : le canzoni [cantate] da Risto Joost , un giovane controtenore dell' Estonia , sono musicate su testi scritti da un bimbo - cadetto di soli undici anni , uno dei cadetti dell' accademia di Kronstadt e sono cantate in russo e in ceceno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ cantate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q324]]
+
+[[Question:MC]]
+A Taio i padroni di casa del Predaia sono stati [raggiunti] nel recupero dalla rete di Campo ( autore di una doppietta ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ raggiunti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q706]]
+
+[[Question:MC]]
+L' università Sedes Sapientiae sta invece per assegnare le prime lauree ( due le facoltà : scienza della formazione e scienza economiche ) e sta lavorando all' ipotesi di [aprire] un corso di psicologia che dovrebbe coinvolgere il docente di origini trentine Erminio Gius .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aprire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1269]]
+
+[[Question:MC]]
+« L' eccidio di Beslan - ha raccontato al telefono l' assessore provinciale Franco Panizza , che guida il gruppo dei trentini , assieme a rappresentanti di alcune amministrazioni municipali della Valle di Non e della Val di Sole - ha [messo] al tappeto un' intera nazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ messo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1019]]
+
+[[Question:MC]]
+Il costo dell' acquisizione [dovrebbe] superare gli 11 miliardi , cifra che corrisponde all' ammontare del patrimonio netto della Hyundai Automobili Italia al 31 dicembre 1992 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovrebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q782]]
+
+[[Question:MC]]
+Ieri l' ultima sua iniziativa che lo ha portato dritto in carcere : ieri mattina alle 4.30 stava [forzando] con un piede di porco di 50 centimetri un distributore di sigarette di via Rosmini .
+[[Question:MC:SingleAnswer]]
+Il verbo [ forzando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1929]]
+
+[[Question:MC]]
+Se tutti [pensano] a fermare lui ci sono più opportunità per gli altri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ pensano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1995]]
+
+[[Question:MC]]
+Cefis , vice presidente operativo della Premafin , lascerebbe la carica attualmente [ricoperta] nella holding di Salvatore Ligresti avendo esaurito il compito affidatogli proprio da Mediobanca al momento dell' avvio del piano di ristrutturazione del debito del gruppo che fa capo al costruttore e finanziere siciliano .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricoperta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

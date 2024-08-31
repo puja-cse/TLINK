@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q930]]
+
+[[Question:MC]]
+Pensare che il licenziamento dell' attuale Direttore Generale rappresenti la magica soluzione dei problemi della Sanità [è] una illusione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1512]]
+
+[[Question:MC]]
+Sempre ieri , intanto , il Consiglio di amministrazione della cassa ha approvato il bilancio semestrale , che [vede] crescere la raccolta complessiva a circa 6.322 milioni di euro , mentre quella indiretta fa annotare una crescita pari ad oltre l' 11% .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vede ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1553]]
+
+[[Question:MC]]
+In difesa di Giovanardi si sono schierati Maurizio Ronconi dell' Udc ( « ha difeso una legge dello Stato , non ha fatto altro che il suo dovere » ) e il forzista Giro , che però ha [definisce] « infelici » i toni del manifesto incriminato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ definisce ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q837]]
+
+[[Question:MC]]
+Come Trentino , vorrei avere i migliori servizi dai migliori professionisti sanitari , a disposizione 24 ore su 24 ; questi Servizi li vorrei disponibili , sia per le urgenze che per gli interventi programmabili , nei tempi da me [ritenuti] adeguati ; vorrei la massima disponibilità d' animo e di tempo di tutti gli operatori sanitari ; il cibo e la sistemazione logistica dovrebbero essere non solo di mio gradimento ma consentirmi anche di poter scegliere tra varie opzioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ritenuti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1336]]
+
+[[Question:MC]]
+« Ecco - conclude Bezzi - , questo ritengo sia il compito primario delle nostre istituzioni autonomiste : farsi carico , interpretare il senso di sgomento e insieme la voglia di fare qualcosa dei trentini , per mettere in campo un' azione coordinata capace di raccogliere tutte le sensibilità e le disponibilità della società civile , sociale ed economica del Trentino per contribuire a [sanare] , per quanto possibile , questa incancellabile ferita alla vita e alla dignità umana » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sanare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1001]]
+
+[[Question:MC]]
+Necessità , quella di « [portare] in bambini in piazza » , che è stata sottolineata anche da Walter Alotti ( segreteria Uil ) , « perché capiscano quello che sta accadendo e perché vengano riaffermati i valori della vita e della fiducia nelle nuove generazioni » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ portare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1541]]
+
+[[Question:MC]]
+Ai radicali che hanno deciso di [adire] le vie legali , Giovanardi ha replicato : « Sono allibito perché chi ogni giorno insulta i sentimenti e le convinzioni dei cattolici del nostro paese definendoli oscurantisti e talebani ora vuole intimidire un partito e un parlamentare che esprime una sua opinione che non coincide con quelle radicali » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ adire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q420]]
+
+[[Question:MC]]
+Da quest' anno sembrano aver [preso] piede i trolly , molto indicati a chi deve fare molta strada a piedi e non vuole rimanere schiacciato sotto il peso dei libri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ preso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q49]]
+
+[[Question:MC]]
+Oggi vanno in scena i riflessi degli infiniti Ulissi [coreografati] da Bud Blumenthal , autore quarantacinquenne arrivato tardi alla danza ma che da allora non l' ha mai lasciata .
+[[Question:MC:SingleAnswer]]
+Il verbo [ coreografati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1875]]
+
+[[Question:MC]]
+Era con un altro contadino che alla vista delle fiamme è [riuscito] a scappare e a mettersi in salvo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riuscito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1121]]
+
+[[Question:MC]]
+Secondo gli analisti , infatti , uno dei vantaggi che deriverebbero dalla fusione consisterebbe proprio in un drastico ridimensionamento dei costi , [stimato] tra i 500 milioni e il miliardo di sterline l' anno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stimato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q624]]
+
+[[Question:MC]]
+Una 27 enne ucraina è stata [uccisa] a fucilate ad Artogne , in Valcamonica , dal marito , Aldo Cotti , 37 anni , muratore .
+[[Question:MC:SingleAnswer]]
+Il verbo [ uccisa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q794]]
+
+[[Question:MC]]
+Come ampiamente anticipato dalla stampa spagnola , il premier Jose' Luis Rodriguez Zapatero ha annunciato oggi che verranno [avviate] trattative con i separatisti dell' Eta - - " Vi annuncio che il governo avviera' negoziati con l' Eta " , ha dichiarato il leader socialista in una conferenza stampa a Madrid - - " La democrazia non paghera' nessun prezzo politico per la pace " " , ha aggiunto il premier , replicando indirettamente alle critiche dell' opposizione , contraria a qualunque dialogo con l' organizzazione terroristica - Per questa ragione , ha quindi spiegato , il dialogo verra' avviato " " conservando il principio che le questioni politiche si devono risolvere con i rappresentanti del popolo " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avviate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q610]]
+
+[[Question:MC]]
+Emesse 70 ordinanze di custodia cautelare , [supportate] da migliaia di intercettazioni ambientali e telefoniche , dichiarazioni di collaboratori di giustizia e testimonianze di una trentina di imprenditori e commercianti vittime dell' usura che , messi alle strette dagli investigatori , hanno ammesso di essere in mano agli usurai fornendo le indicazioni necessarie per giungere alla loro identificazione e all' arresto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ supportate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q267]]
+
+[[Question:MC]]
+SALORNO - dopo le traversie di agosto , [leggasi] la rinuncia di Sonato e l' abbandono di Michelon , i giallorossi parevano caduti in crisi di identità e di morale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ leggasi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2212]]
+
+[[Question:MC]]
+Solo l' internazionalizzazione del conflitto [può] porre fine alla violenza : l' Onu - purtroppo non c' è di meglio per ora - può evitare altre stragi » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ può ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q595]]
+
+[[Question:MC]]
+C' era la possibilità di utilizzare solo l' unità ricca di staminali , ma è stato deciso di trapiantarle entrambe , sia l' unità più ricca di cellule « non manipolate » , sia l' altra più povera , ma dopo averla congelata e [trasferita] alla « Cell Factory » di Milano , per amplificare il numero delle sue cellule .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trasferita ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q434]]
+
+[[Question:MC]]
+I ragazzi [sembrano] puntare di più su Comix ( 11 euro ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sembrano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q918]]
+
+[[Question:MC]]
+Ancora una volta è l' impianto politico - legislativo che fa sì che il Direttore Generale si circondi di collaboratori di fiducia ed [è] quindi conseguente che la scelta avvenga secondo determinati criteri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q715]]
+
+[[Question:MC]]
+A quanto pare , il niet arrivato dagli ambienti bolzanini , restii ad avere una persona non bilingue in un ruolo così delicato , ha [fatto] saltare l' operazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fatto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q322]]
+
+[[Question:MC]]
+Il nuovissimo Aldeno del ds Kaisermann esordisce alla grande [conquistando] l' intera posta in palio nel match esterno sul difficile campo del Calcio Chiese .
+[[Question:MC:SingleAnswer]]
+Il verbo [ conquistando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q548]]
+
+[[Question:MC]]
+L' anziana madre , che vive a Spoleto , nei giorni scorsi era [venuta] a casa sua , a Piedicolle , per assistere ed aiutare quella figlia che le dava tante preoccupazioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ venuta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q193]]
+
+[[Question:MC]]
+In tema di assenze pesanti qualcosa lamenta pure la Benacense che nel big - match di Ponte Arche ha dovuto [rinunciare] a due stoccatori come Delnegro e Cosa risultando piuttosto spuntata al cospetto del reparto arretrato tradizionalmente più forte del torneo , quello del Comano Fiavè .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rinunciare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q441]]
+
+[[Question:MC]]
+L' espositore , però , [era] ancora pieno zeppo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ era ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q813]]
+
+[[Question:MC]]
+A Rovereto è stato [invitato] da " Oriente Occidente " in collaborazione con il " Festivaletteratura " di Mantova per la serie di incontri centrati sul tema dei « Linguaggi » , una nuova sezione inaugurata quest' anno al Festival per permettere di dialogare con i protagonisti di differenti discipline , sempre mantenendo fissa l' attenzione sul dialogo tra i mondi dell' Oriente e quelli dell' Occidente .
+[[Question:MC:SingleAnswer]]
+Il verbo [ invitato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q612]]
+
+[[Question:MC]]
+Emesse 70 ordinanze di custodia cautelare , supportate da migliaia di intercettazioni ambientali e telefoniche , dichiarazioni di collaboratori di giustizia e testimonianze di una trentina di imprenditori e commercianti vittime dell' usura che , messi alle strette dagli investigatori , hanno [ammesso] di essere in mano agli usurai fornendo le indicazioni necessarie per giungere alla loro identificazione e all' arresto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ammesso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q378]]
+
+[[Question:MC]]
+La bambina intanto scorrazza per il negozio , interessata più dai giocattoli che dalla « mercanzia » che dovrà [portarsi] a scuola .
+[[Question:MC:SingleAnswer]]
+Il verbo [ portarsi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q483]]
+
+[[Question:MC]]
+Infina il cardinale di Napoli , Michele Giordano , [chiede] che « La scuola sia il terreno in cui cominciare a tessere i fili di una civiltà di pace e di amore » , basata sul rispetto della vita umana e la solidarietà tra le persone .
+[[Question:MC:SingleAnswer]]
+Il verbo [ chiede ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1195]]
+
+[[Question:MC]]
+Lo stand gastronomico alla partenza della buca 8 , la riuscita grigliata al termine delle 18 buche e la formula della gara , una 4 palle la migliore stableford a coppie ( senza pertanto la preoccupazione per la " virgola " ) , sono [state] le tre carte vincenti del Tesino Golf Club e della ditta " OK CASA " , che hanno già concordato di ripetere l' iniziativa nel 2005 ( fissando l' appuntamento ormai tradizionale per la prima domenica di settembre ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ state ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2065]]
+
+[[Question:MC]]
+Sabato 11 ( Piazza Municipio - ore 21,30 ) concerto del Coro istriano " Marco Garbin " di Rovigo prsentato da Gianluigi Sacco mentre la stessa sera ma al Teatro Tenda ( inizio ore 20.30 ) spettacolo multimediale " Yol " [dedicato] alle musiche e alle culture balcaniche , ebraiche e zingare dell' Est Europa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dedicato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1704]]
+
+[[Question:MC]]
+Intanto il procuratore di Marsala si è detto convinto che « la piccola è viva » e si troverebbe « a Mazara del Vallo o nelle vicinanze » [tenuta] segregata da qualcuno che vuole « punire » per « motivi personali » i genitori della bimba di quattro anni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tenuta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q93]]
+
+[[Question:MC]]
+L' incertezza su Taranto [sembra] intanto condizionare in qualche modo la cessione della Ise , la società di produzione elettrica dell' Ilva il cui maggior asset sarebbe proprio quello della nuova centrale collegata agli stabilimenti di Taranto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sembra ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q895]]
+
+[[Question:MC]]
+Il Politico deve ascoltare tutti ma è poi fatale che debba [assumere] decisioni , che non possono accontentare tutti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ assumere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q385]]
+
+[[Question:MC]]
+Ci si può [lamentare] che , in alcuni casi , i prezzi siano esorbitanti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ lamentare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1301]]
+
+[[Question:MC]]
+Mai forse come in questa occasione - [continua] Bezzi - è emerso il lato oscuro della crudeltà di cui sono talvolta capaci gli esseri umani e la memoria torna alle tragedie epocali del Novecento , ai misfatti del nazismo e dello stalinismo , con gli eccidi di intere popolazioni » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ continua ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1912]]
+
+[[Question:MC]]
+Ah non c' è dubbio , [è] un grossissimo vantaggio avere davanti uno come lui , che è indiscutibilmente il migliore attaccante della regione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q84]]
+
+[[Question:MC]]
+" Entro metà gennaio l' advisor dovrebbe indicare le comparazioni effettuate e poi l' Iri deciderà " , ha [precisato] ieri Salvatore Biondo , segretario nazionale della Fm Cisl al termine di un incontro con i vertici di Via Veneto per fare il punto sulla privatizzazione dell' ultimo troncone di siderurgia di Stato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ precisato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q450]]
+
+[[Question:MC]]
+E questo è un' altra guerra ancora , la quarta guerra mondiale , che ci [coinvolge] davvero tutti , perchè noi non sappiamo se uscendo da quest' albergo ci succederà qualche cosa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ coinvolge ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q789]]
+
+[[Question:MC]]
+Ieri mattina il giovane è stato [processato] per direttissima : dovrà rimanere in carcere per 4 mesi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ processato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q941]]
+
+[[Question:MC]]
+I genitori di Stacy e Nathalie , le due bambine trovate uccise ieri , hanno deciso di [celebrare] funerali separati .
+[[Question:MC:SingleAnswer]]
+Il verbo [ celebrare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

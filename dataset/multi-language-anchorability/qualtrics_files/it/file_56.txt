@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q17]]
+
+[[Question:MC]]
+Il titolo del pezzo , " Escucha mi cantar " , [viene] direttamante da una canzone messa in chiusura della colonna sonora mentre la struttura della piéce è un continuo vorticare di tre stanze uguali tra loro , ma nel cui interno si svolgono delle storie con protagonisti diversi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ viene ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q654]]
+
+[[Question:MC]]
+" Le minusvalenze di 13,8 miliardi - spiega la nota - conseguenti all' allineamento dei valori mobiliari ai corsi di fine anno , sono state interamente [portate] a conto economico " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ portate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1114]]
+
+[[Question:MC]]
+In un tentativo di minimizzare i danni , il consiglio della Wellcome ha reso noto ieri di avere ricevuto garanzie che la fusione tra le due società , che daranno vita al nuovo gruppo Glaxo-Wellcome , [seguirà] criteri di " correttezza e obiettività " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ seguirà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2193]]
+
+[[Question:MC]]
+Emblematica fu la dichiarazione del presidente ceceno Dudajev : " io sono mussulmano , ma non ho ancora [capito] la differenza tra sunniti e sciiti " » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ capito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1668]]
+
+[[Question:MC]]
+Valentini , che è direttore di un golf club , dopo aver spedito la giovane moglie Cheryl con i figlioletti Liliana ( 6 mesi ) e Alexander ( 3 anni ) sulla costa occidentale della penisola , al riparo dall' uragano , si è barricato all' interno del ristorante del club con altre 300 persone in attesa che la tempesta [passasse] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ passasse ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1979]]
+
+[[Question:MC]]
+Secondo quanto si sostiene negli ambienti finanziari milanesi , [sarebbe] già pronto un piano di rientro dell' indebitamento del gruppo esposto nei confronti del sistema bancario per circa 400 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sarebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1417]]
+
+[[Question:MC]]
+MILANO - Si chiamerà Gruppo Gs la nuova azienda che [nascerà] dalla fusione di Sme e Gs nella controllante Schemaventuno , la società partecipata dai gruppi Del Vecchio , Edizione ( Benetton ) e Movenpick che ha rilevato la ex finanziaria alimentare dell' Iri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ nascerà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1158]]
+
+[[Question:MC]]
+« A nome del comitato - [insiste] - chiedo che anche le nostre domande vengano quantomeno esaminate , auspicando per altro un esito favorevole » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ insiste ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1260]]
+
+[[Question:MC]]
+" " Ricercheremo in maniera coerente - sottolinea Rutelli - il confronto sulla revisione del Titolo V della Costituzione , sulle modifiche alla legge elettorale , sulla riduzione del numero dei parlamentari , e su altre distinte materie che e' possibile [condividere] , ma senza piu' far ricorso a commissioni come la Bicamerale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ condividere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1025]]
+
+[[Question:MC]]
+Del gruppo [fanno] parte la Bepi Koelliker Automobili Importazioni , nata nel 1979 per commercializzare autovetture Mitsubishi in Italia e la Chrysler Jeep Italia Importazioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fanno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1335]]
+
+[[Question:MC]]
+« Ecco - conclude Bezzi - , questo ritengo sia il compito primario delle nostre istituzioni autonomiste : farsi carico , interpretare il senso di sgomento e insieme la voglia di fare qualcosa dei trentini , per mettere in campo un' azione coordinata capace di raccogliere tutte le sensibilità e le disponibilità della società civile , sociale ed economica del Trentino per [contribuire] a sanare , per quanto possibile , questa incancellabile ferita alla vita e alla dignità umana » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ contribuire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1855]]
+
+[[Question:MC]]
+Lo ha riferito la Tv irachena Al-Sharqiya [precisando] che i rapitori hanno bloccato un autobus con a bordo 60 lavoratori e diretto alla raffineria di Baiji , vicino a Tilal Himrin .
+[[Question:MC:SingleAnswer]]
+Il verbo [ precisando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q18]]
+
+[[Question:MC]]
+Il titolo del pezzo , " Escucha mi cantar " , viene direttamante da una canzone [messa] in chiusura della colonna sonora mentre la struttura della piéce è un continuo vorticare di tre stanze uguali tra loro , ma nel cui interno si svolgono delle storie con protagonisti diversi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ messa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q399]]
+
+[[Question:MC]]
+E così I Simpsons , Sabrina , Arale , vengono [venduti] a prezzi che vanno dai 29 ai 39 euro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ venduti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q329]]
+
+[[Question:MC]]
+La partita di domenica ha [confermato] che dobbiamo ancora lavorare molto » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ confermato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1157]]
+
+[[Question:MC]]
+Nei giorni scorsi Condini ha quindi scritto anche al presidente Agostino Bitteleri affinché il caso Vela [trovi] adeguata discussione all' interno della commissione urbanistica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trovi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q178]]
+
+[[Question:MC]]
+Neppure lo 0 - 0 del Ger può essere [definito] impossibile : nella prima uscita stagionale ci può stare che una squadra pur con le ambizioni e i mezzi di quella di Ala non riesca a mettere sotto un Salorno incompleto e rivoluzionato , ma non per questo meno stimolato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ definito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q741]]
+
+[[Question:MC]]
+Soprattutto da quando l' uomo aveva [avuto] problemi di salute e i medici gli avevano consigliato di smettere di fumare .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2017]]
+
+[[Question:MC]]
+Sarà probabilmente in quell' occasione che [avverrà] la formalizzazione dell' incarico a Mediobanca di ristrutturare l' indebitamento del gruppo e la nomina di Giorgio Cefis al vertice .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avverrà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q379]]
+
+[[Question:MC]]
+La commessa [ammicca] e dice : « Se il prossimo anno verrete prima , avrete più scelta » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ammicca ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q240]]
+
+[[Question:MC]]
+TRENTO - [Sono] i turisti italiani a trainare i risultati discreti del settore in luglio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q537]]
+
+[[Question:MC]]
+La figlia , R.S. , di 44 anni , sposata , senza figli , è stata [bloccata] dai carabinieri mentre usciva di casa , tutta insanguinata , ed in stato confusionale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ bloccata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q128]]
+
+[[Question:MC]]
+Non [averle] a disposizione avrebbe rappresentato per Emc un severo svantaggio , averle significa poterle non condividere con altri concorrenti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ averle ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1608]]
+
+[[Question:MC]]
+Ma è ancora un bambino ad essere protagonista : le canzoni cantate da Risto Joost , un giovane controtenore dell' Estonia , sono [musicate] su testi scritti da un bimbo - cadetto di soli undici anni , uno dei cadetti dell' accademia di Kronstadt e sono cantate in russo e in ceceno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ musicate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1708]]
+
+[[Question:MC]]
+É stato [attivato] il sito web dell' Associazione provinciale per i problemi dei minori onlus .
+[[Question:MC:SingleAnswer]]
+Il verbo [ attivato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1]]
+
+[[Question:MC]]
+nan [Bisogna] " recuperare il crollo del gettito che c' è stato in questi anni ma non ci sarà nessun aumento delle tasse " - Lo ha detto Visco - All' incontro a Palazzo Chigi con le parti sociali , il viceministro per l' Economia ha aggiunto che il governo " metterà mano al sistema dei rimborsi Iva " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Bisogna ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2099]]
+
+[[Question:MC]]
+L' epica [è] quasi l' unica forma letteraria : non esiste poesia d' amore tra i nokhci .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2033]]
+
+[[Question:MC]]
+Il gioco [è] quello che attraversa " Minoranzèro " il festival sottolineato dalle parole " Breviario europeo sugli altri oltre il confine " che si svolgerà da domani , mercoledì 8 , all' 11 settembre a Pergine .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q337]]
+
+[[Question:MC]]
+« Sicuramente abbiamo qualche problemino che dovremo [cercare] di risolvere al più presto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ cercare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1239]]
+
+[[Question:MC]]
+Giovanni Stenico ( progettista e direttore dei lavori ) e Andrea Dalla Torre ( l' altro progettista ) hanno fatto il pieno di elogi che , però , il presidente Rossi ha invitato a [condividere] pubblicamente con l' intera « squadra » : la Schiavina Srl ( edilizia ) , la Falegnameria Bellotti , Bosetti Snc ( termoidraulici ) , Elettrosea Snc ( impiantistica ) , Nadalinflor ( floricoltura ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ condividere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1617]]
+
+[[Question:MC]]
+Bilancio sul quale il cda esprime un giudizio complessivamente positivo , in considerazione della grave crisi che ha [investito] il settore delle costruzioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ investito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2056]]
+
+[[Question:MC]]
+Se poi si cambia l' accento del logo di questo festival - ha sottolineato Morelli - in minoranzerò , si [passa] da uno sguardo indietro , ad uno in avanti , al futuro alle nuove prospettive e contaminazioni di multimedialità e minoranze dove la tradizione si coniuga con l' innovazione » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ passa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q126]]
+
+[[Question:MC]]
+La convinzione di Tucci espressa agli analisti finanziari critici per l' elevato investimento proferito per portarsi a casa Rsa ha quindi toccato la sfera delle enormi potenzialità di questo mercato : " abbiamo acquisito una società che può [vantare] risorse tecnologiche strategiche per servire un mercato molto importante .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vantare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1574]]
+
+[[Question:MC]]
+I bambini russi reclutati nell' Accademia , nella piccola isola di fronte San Pietroburgo , [sono] tutti piccoli abbandonati , orfani , figli di alcolizzati , che hanno subito violenze , bambini che Putin vuole trasformare in piccoli soldati ripristinando la vecchia caserma zarista .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q219]]
+
+[[Question:MC]]
+« La tragedia osseta si colloca nello scenario del Caucaso , che [vede] convivere ceceni , ingusci , osseti , georgiani , daghestani , azeri , armeni e altre popolazioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vede ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2014]]
+
+[[Question:MC]]
+Intanto i consigli di Santavaleria e di altre società del gruppo Varasi che si sarebbero dovuti [svolgere] oggi sono slittati a venerdì prossimo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ svolgere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1597]]
+
+[[Question:MC]]
+Da lì ci sono soltanto 4 chilometri dal confine con la Cecenia e si [sentono] le esplosioni in lontananza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sentono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1695]]
+
+[[Question:MC]]
+MAZARA - « Chi ha in mano la nostra bambina , forse può avere anche lei una figlia , e può dunque [comprendere] il nostro stato d' animo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ comprendere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q212]]
+
+[[Question:MC]]
+A causa dell' incidente , forse per un cedimento del terreno , i rifiuti sono fuoriusciti dai cassoni : è stato necessario l' intervento degli operatori della Trentino Servizi per [ripulire] la strada e dei vigili del fuoco con l' autogru per il recupero del mezzo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ripulire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1329]]
+
+[[Question:MC]]
+« Ecco - conclude Bezzi - , questo [ritengo] sia il compito primario delle nostre istituzioni autonomiste : farsi carico , interpretare il senso di sgomento e insieme la voglia di fare qualcosa dei trentini , per mettere in campo un' azione coordinata capace di raccogliere tutte le sensibilità e le disponibilità della società civile , sociale ed economica del Trentino per contribuire a sanare , per quanto possibile , questa incancellabile ferita alla vita e alla dignità umana » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ritengo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

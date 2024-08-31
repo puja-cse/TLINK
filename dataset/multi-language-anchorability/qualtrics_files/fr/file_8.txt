@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q15]]
+
+[[Question:MC]]
+Il a [concédé] avoir aidé à recharger des armes des bourreaux .
+[[Question:MC:SingleAnswer]]
+Le verbe [ concédé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q176]]
+
+[[Question:MC]]
+Bill Clinton a annoncé qu'il mettra son veto à une réduction d'impôts de 792 milliards de dollars sur dix ans [adoptée] par le Congrès à majorité républicaine .
+[[Question:MC:SingleAnswer]]
+Le verbe [ adoptée ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q64]]
+
+[[Question:MC]]
+Bernard affirme qu'en se promenant , il a chuté et s ' est retrouvé à terre , la braguette [ouverte] .
+[[Question:MC:SingleAnswer]]
+Le verbe [ ouverte ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q275]]
+
+[[Question:MC]]
+Les consignes de sécurité ont eu raison de la compétition : elle a été [annulée] .
+[[Question:MC:SingleAnswer]]
+Le verbe [ annulée ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q228]]
+
+[[Question:MC]]
+Le sinistre a [détruit] essentiellement , au niveau du rez - de-chaussée , les locaux et le matériel situé côté Paul - Bert .
+[[Question:MC:SingleAnswer]]
+Le verbe [ détruit ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q253]]
+
+[[Question:MC]]
+Avertie par des voisines , Juliette Carpezat s ' est précipitée en chaussons dans la rue lorsqu ' elle a su que le Secours populaire brûlait : « Je suis [passée] à midi devant en rentrant de la pharmacie .
+[[Question:MC:SingleAnswer]]
+Le verbe [ passée ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q106]]
+
+[[Question:MC]]
+Jacques Chirac [effectuera] aujourd ' hui un déplacement de campagne à Toulouse au côté du député - maire UDF Philippe Douste - Blazy .
+[[Question:MC:SingleAnswer]]
+Le verbe [ effectuera ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q68]]
+
+[[Question:MC]]
+Il nous a [demandé] de l' aider à soulever son vélo » .
+[[Question:MC:SingleAnswer]]
+Le verbe [ demandé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q93]]
+
+[[Question:MC]]
+Considérant que les faits étaient constitués , le tribunal a [condamné] Bernard à 5.000 F d'amende .
+[[Question:MC:SingleAnswer]]
+Le verbe [ condamné ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q266]]
+
+[[Question:MC]]
+Et pour cause : la fumée a [recouvert] le quartier , faisant sortir les curieux , et le sinistre a interrompu le concours de pétanque organisée par l'association des Portugais de Belfort .
+[[Question:MC:SingleAnswer]]
+Le verbe [ recouvert ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q260]]
+
+[[Question:MC]]
+Si on [laisse] cela en l'état , ils vont être pillés » , soupirait - elle alors que les pompiers engageaient les premières opérations de ventilation , d'étayage et de déblais .
+[[Question:MC:SingleAnswer]]
+Le verbe [ laisse ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q232]]
+
+[[Question:MC]]
+Le reste a été [endommagé] par la chaleur et les fumées .
+[[Question:MC:SingleAnswer]]
+Le verbe [ endommagé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q73]]
+
+[[Question:MC]]
+« Il était derrière un arbre » , [dit] - elle dans sa déposition lue par le juge unique .
+[[Question:MC:SingleAnswer]]
+Le verbe [ dit ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q7]]
+
+[[Question:MC]]
+Un haut dirigeant séparatiste kurde , Semdim Sakik , [reconnu] coupable de la mort de 283 personnes dans 191 attentats perpétrés par le PKK et accusé de séparatisme , a été condamné à mort hier par un tribunal turc .
+[[Question:MC:SingleAnswer]]
+Le verbe [ reconnu ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q162]]
+
+[[Question:MC]]
+Seules exceptions notables : Paris , Marseille et Nice , do nt les populations [stagnent] ou diminuent par rapport au dernier recensement .
+[[Question:MC:SingleAnswer]]
+Le verbe [ stagnent ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q261]]
+
+[[Question:MC]]
+Si on laisse cela en l'état , ils vont être [pillés] » , soupirait - elle alors que les pompiers engageaient les premières opérations de ventilation , d'étayage et de déblais .
+[[Question:MC:SingleAnswer]]
+Le verbe [ pillés ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q213]]
+
+[[Question:MC]]
+Il a fallu rapidement se [rendre] à l'évidence : il ne s ' agissait pas d'un feu de cheminée .
+[[Question:MC:SingleAnswer]]
+Le verbe [ rendre ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q69]]
+
+[[Question:MC]]
+Il nous a demandé de l' [aider] à soulever son vélo » .
+[[Question:MC:SingleAnswer]]
+Le verbe [ aider ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q117]]
+
+[[Question:MC]]
+Secourue rapidement , son cœur est reparti , mais elle n'avait pas repris conscience lors de son admission à l'hôpital , où elle est [décédée] .
+[[Question:MC:SingleAnswer]]
+Le verbe [ décédée ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q188]]
+
+[[Question:MC]]
+En fin de réunion , les différents délégués ont décidé de réunir leurs collègues dans les établissements pour s ' [opposer] à la mise en place des chartes Allègre - Royal , « qui organisent la destruction du service public d'enseignement » .
+[[Question:MC:SingleAnswer]]
+Le verbe [ opposer ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+

@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q3322]]
+
+[[Question:MC]]
+Sentence 1: Era con un altro contadino che alla vista delle fiamme è riuscito a [ scappare ] e a mettersi in salvo .
+Sentence 2: Ferrando non ce l' ha fatta : avvolto da una densa nube nera e dal fumo , è rimasto [ intrappolato ] nelle fiamme .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scappare ] accade DOPO il verbo [ intrappolato ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3819]]
+
+[[Question:MC]]
+Sentence 1: Gli ospiti attualmente accolti e [ inviati ] dai servizi sociali e dal tribunale per i minorenni superano il centinaio , come pure gli educatori professionali che li seguono nelle oltre quindici realtà in cui si articola la struttura assistenziale .
+Sentence 2: L' Appm opera in Trentino da circa trent' anni ed è una onlus [ finanziata ] in toto dalla Provincia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ inviati ] accade PRIMA del verbo [ finanziata ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1854]]
+
+[[Question:MC]]
+Sentence: Si è fatto conoscere come « ladro maldestro » : lo scorso marzo si è ribaltato in bicicletta mentre stava scappando con un paio di cassette piene di monetine trafugate da una lavanderia , poi era stato sorpreso all' interno di un tombino con l' intenzione di intrufolarsi nel magazzino di una tabaccheria , infine lo scorso venerdì era stato denunciato perché [ trovato ] in possesso di un timbrino trafugato ad un medico , con cui [ falsificava ] le ricette .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trovato ] accade PRIMA del verbo [ falsificava ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1848]]
+
+[[Question:MC]]
+Sentence 1: Si è fatto conoscere come « ladro maldestro » : lo scorso marzo si è ribaltato in bicicletta mentre stava scappando con un paio di cassette piene di monetine trafugate da una lavanderia , poi era stato [ sorpreso ] all' interno di un tombino con l' intenzione di intrufolarsi nel magazzino di una tabaccheria , infine lo scorso venerdì era stato denunciato perché trovato in possesso di un timbrino trafugato ad un medico , con cui falsificava le ricette .
+Sentence 2: Marco Cacucci , 23 anni , [ nato ] a Milano ma da anni a Trento senza fissa dimora , è una vecchia conoscenza di polizia e carabinieri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sorpreso ] accade PRIMA del verbo [ nato ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q213]]
+
+[[Question:MC]]
+Sentence: Ad aprire la conferenza stampa il sindaco di Trento , Alberto Pacher , che ha ringraziato i tre sindacati per « aver [ rappresentato ] , con l' organizzazione di questa fiaccolata , l' indignazione profonda dei nostri concittadini e la volontà di ribadire un no deciso a quello che [ è ] un insulto all' umanità » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rappresentato ] accade PRIMA del verbo [ è ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1962]]
+
+[[Question:MC]]
+Sentence: Il bilancio dell' operazione è in attivo perché a fronte di una spesa complessiva non certo irrisoria , sono stati [ risparmiati ] tutti i costi che avrebbe [ comportato ] la chiusura prolungata dell' asilo ( lavori di questa entità appaltati dall' ente pubblico possono durare anche un paio di anni ? ) con le collocazioni provvisorie del personale , dei 102 ragazzi ed i disagi per le famiglie .
+[[Question:MC:SingleAnswer]]
+Il verbo [ risparmiati ] accade PRIMA del verbo [ comportato ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1778]]
+
+[[Question:MC]]
+Sentence 1: Vigili del fuoco mobilitati ieri in tarda mattinata a Fierozzo per un turista che è [ caduto ] durante un' escursione nei boschi della zona .
+Sentence 2: Il ferito , impossibilitato a muoversi per un trauma alla caviglia , è stato [ portato ] con l' elicottero in ospedale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ caduto ] accade SIMULTANEAMENTE con il verbo [ portato ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2444]]
+
+[[Question:MC]]
+Sentence: La Hyundai Automobili Italia , che [ ha ] sede a Torino , ha chiuso il 92 con un fatturato consolidato di 175,4 miliardi e ha [ venduto ] 11501 vetture attraverso 138 concessionari .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ha ] accade DOPO il verbo [ venduto ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q350]]
+
+[[Question:MC]]
+Sentence: MONTECALVOLI - Ha sparato alla moglie , [ uccidendola ] e poi ha atteso i Carabinieri sulla soglia di casa , [ fumando ] una sigaretta .
+[[Question:MC:SingleAnswer]]
+Il verbo [ uccidendola ] accade PRIMA del verbo [ fumando ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1482]]
+
+[[Question:MC]]
+Sentence 1: Beslan è [ sorta ] durante la guerra caucasica dell' 800 , abitata dagli Osseti .
+Sentence 2: Durante le deportazioni ci furono trasportati i Ceceni , ed ora l' Ingushezia cecena rivendica tutta la regione di Prigorodnj , dove [ è ] appunto il teatro della strage » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sorta ] accade PRIMA del verbo [ è ].
+[[Choices]]
+Sì
+NO
+NON SO
+

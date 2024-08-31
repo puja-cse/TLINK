@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q578]]
+
+[[Question:MC]]
+su sette partite giocate ben cinque hanno fatto [registrare] il successo della formazione ospite .
+[[Question:MC:SingleAnswer]]
+Il verbo [ registrare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1458]]
+
+[[Question:MC]]
+NATZ - è vero che di fronte aveva il Mori dall' attacco stellare , ma partire con uno 0 - 4 non è proprio l' ideale per la credibilità e il morale di una formazione già lo scorso anno [costretta] a soffrire oltremisura per guadagnarsi la salvezza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ costretta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1035]]
+
+[[Question:MC]]
+Il fatturato 93 dovrebbe [aggirarsi] sui 700 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aggirarsi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1631]]
+
+[[Question:MC]]
+Il portafoglio lavori si attesta sui 628 miliardi e , secondo una nota diffusa dalla società , " rappresenta una potenzialità produttiva che consente a Edilter di affrontare serenamente il futuro , a condizione che vengano [riattivati] i flussi finanziari sulle opere pubbliche , oggi quasi dappertutto rallentati e in qualche caso bloccati " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riattivati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q818]]
+
+[[Question:MC]]
+Lunedì sera ( durante il sesto incontro previsto da un programma versatile che ha [visto] , tra gli altri , Amelia Rudolph , Franco Rella , Shen Wei e Bud Blumenthal ) Giulio Giorello ha presentato " Le metamorfosi di Ulisse " , un viaggio dentro il mito e le sue trasformazioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ visto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q470]]
+
+[[Question:MC]]
+Ma io [credo] che sarebbe necessario andare al di là del perimetro dei membri permanenti e a rotazione del Consiglio di sicurezza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ credo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2022]]
+
+[[Question:MC]]
+L' Aula della Camera inizierà l' esame della manovra economica correttiva e del Dpef dal 24 luglio : lo ha [deciso] la conferenza dei capigruppo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deciso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2215]]
+
+[[Question:MC]]
+Solo l' internazionalizzazione del conflitto può porre fine alla violenza : l' Onu - purtroppo non c' è di meglio per ora - [può] evitare altre stragi » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ può ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1833]]
+
+[[Question:MC]]
+I bancari , infatti , chiedono che si tenga conto dell' inflazione reale , mentre l' Abi [pretende] che si faccia riferimento all' inflazione programmata dal governo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ pretende ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1225]]
+
+[[Question:MC]]
+La quadratura del cerchio è stata ottenuta grazie alla disponibilità , praticamente in tempo reale , dei fondi pubblici ( ed anche all' aiuto della Cassa Rurale di Aldeno e Cadine ) : « Abbiamo potuto così [mantenere] un rapporto fiduciario con le imprese che avevano la garanzia di venire pagate in tempi proporzionali alla velocità di esecuzione » aggiunge Rossi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ mantenere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2093]]
+
+[[Question:MC]]
+Difficile comunque parlare di popolazioni caucasiche in blocco , [bisognerebbe] fare delle lunghe distinzioni tra Kabardini - Balkari , Cirassici e Karacia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ bisognerebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q192]]
+
+[[Question:MC]]
+In tema di assenze pesanti qualcosa lamenta pure la Benacense che nel big - match di Ponte Arche ha [dovuto] rinunciare a due stoccatori come Delnegro e Cosa risultando piuttosto spuntata al cospetto del reparto arretrato tradizionalmente più forte del torneo , quello del Comano Fiavè .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q112]]
+
+[[Question:MC]]
+Il valore complessivo dell' operazione , che sarà completata entro la fine del 2006 , è di 2,1 miliardi di dollari , in virtù dei 28 dollari in contanti che la prima verserà per ogni azione della seconda - Joe Tucci , Ceo di Emc , ha [commentato] l' operazione nella conference call di rito sottolineando un concetto su tutti : " Emc si trasforma da società che opera dove le informazioni vivono a società in cui le informazioni vivranno in modo sicuro " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ commentato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q599]]
+
+[[Question:MC]]
+A Milano l' unità di sangue è stata scongelata il 28 luglio e sono state selezionate le staminali che sono state [messe] in coltura in camera sterile per 15 giorni , moltiplicandone il numero di 60 volte .
+[[Question:MC:SingleAnswer]]
+Il verbo [ messe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1743]]
+
+[[Question:MC]]
+Dunque , entro la metà del mese prossimo l' iter della prima adozione dovrebbe essere [concluso] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ concluso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q547]]
+
+[[Question:MC]]
+L' anziana madre , che [vive] a Spoleto , nei giorni scorsi era venuta a casa sua , a Piedicolle , per assistere ed aiutare quella figlia che le dava tante preoccupazioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vive ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1000]]
+
+[[Question:MC]]
+E dunque invitiamo tutti i genitori a portare alla manifestazione i propri figli , perché Trento [diventi] città non solo alpina , ma della pace e della solidarietà » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ diventi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q744]]
+
+[[Question:MC]]
+Soprattutto da quando l' uomo aveva avuto problemi di salute e i medici gli avevano consigliato di smettere di [fumare] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fumare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q660]]
+
+[[Question:MC]]
+Nel 92 la Sara Vita ha raccolto premi per 25,4 miliardi e [chiuso] il bilancio con un utile di 92 milioni ; le riserve tecniche al lordo del lavoro ceduto risultano pari a 90,4 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ chiuso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q51]]
+
+[[Question:MC]]
+Oggi vanno in scena i riflessi degli infiniti Ulissi coreografati da Bud Blumenthal , autore quarantacinquenne arrivato tardi alla danza ma che da allora non l' ha mai [lasciata] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ lasciata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

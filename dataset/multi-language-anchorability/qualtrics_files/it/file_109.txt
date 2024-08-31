@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1647]]
+
+[[Question:MC]]
+Per l' occasione , l' Apt Lagorai [mette] a disposizione , gratuitamente , il servizio " Ecobus del Lagorai " con partenza alle 8.30 da Roncegno ( fermate a Borgo , Strigno e Bieno ) e rientro dal rifugio alle 15.30 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ mette ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q878]]
+
+[[Question:MC]]
+Il Politico [deve] dire al Direttore Generale quale sia la strada da percorrere e deve porre in essere verifiche che gli consentano di avere informazioni di ritorno per correggere eventuali digressioni dal programma .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deve ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q165]]
+
+[[Question:MC]]
+Quattro vittorie casalinghe , una in trasferta , tre pareggi , 15 gol [fatti] , un rigore trasformato , un espulso .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fatti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1407]]
+
+[[Question:MC]]
+A suo avviso « [bisogna] costringere Putin ad adottare le nostre politiche occidentali nei confronti del terrorismo : quando c' è una presa di ostaggi o un pericolo terroristico , si tenta innanzitutto di salvare gli ostaggi , di isolare i terroristi e non di dar loro il potere di uccidere » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ bisogna ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q220]]
+
+[[Question:MC]]
+« La tragedia osseta si colloca nello scenario del Caucaso , che vede [convivere] ceceni , ingusci , osseti , georgiani , daghestani , azeri , armeni e altre popolazioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ convivere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1996]]
+
+[[Question:MC]]
+Cefis , vice presidente operativo della Premafin , lascerebbe la carica attualmente ricoperta nella holding di Salvatore Ligresti avendo [esaurito] il compito affidatogli proprio da Mediobanca al momento dell' avvio del piano di ristrutturazione del debito del gruppo che fa capo al costruttore e finanziere siciliano .
+[[Question:MC:SingleAnswer]]
+Il verbo [ esaurito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1933]]
+
+[[Question:MC]]
+In quanto ai rigori è giusto che li [batta] lui che è uno specialista , a me piace segnare su azione e mi va benissimo così .
+[[Question:MC:SingleAnswer]]
+Il verbo [ batta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q448]]
+
+[[Question:MC]]
+« Noi parliamo sempre delle due guerre mondiali , la prima e la seconda , e dimentichiamo che c' è stata una terza guerra mondiale , la guerra fredda - [spiega] il cardinale - Una vera e propria guerra , anche se fuori degli schemi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spiega ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2024]]
+
+[[Question:MC]]
+Sempre il 24 , la Camera [esaminerà] il provvedimento su amnistia e indulto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ esaminerà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q183]]
+
+[[Question:MC]]
+Il bello , e difficile , sarà [continuare] con questa carica di motivazioni e concentrazione per ripetere magari ( la storia ha avuto aspetti simili ) il miracolo del Comano dell' anno scorso .
+[[Question:MC:SingleAnswer]]
+Il verbo [ continuare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1496]]
+
+[[Question:MC]]
+I legali [intendono] ora ricorrere in appello .
+[[Question:MC:SingleAnswer]]
+Il verbo [ intendono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1661]]
+
+[[Question:MC]]
+Non è una scena di un film di fantascienza , ma quanto [vissuto] nelle scorse ore da milioni di abitanti del sud della Florida , colpita , per la seconda volta in un mese , da un violento uragano .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vissuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1988]]
+
+[[Question:MC]]
+L' ingresso di Cefis in Santavaleria [resta] subordinato all' accettazione da parte di Varasi del piano predisposto da Mediobanca che potrebbe essere a grandi linee simile a quello già realizzato proprio con il gruppo Ligresti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ resta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q603]]
+
+[[Question:MC]]
+Dal 12 agosto , giorno del doppio trapianto , a oggi , i riscontri via via ottenuti sulle condizioni del piccolo paziente hanno confortato le speranze [riposte] dai ricercatori di Paviaa e Milano .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riposte ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q123]]
+
+[[Question:MC]]
+La convinzione di Tucci espressa agli analisti finanziari critici per l' elevato investimento proferito per portarsi a casa Rsa ha quindi [toccato] la sfera delle enormi potenzialità di questo mercato : " abbiamo acquisito una società che può vantare risorse tecnologiche strategiche per servire un mercato molto importante .
+[[Question:MC:SingleAnswer]]
+Il verbo [ toccato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q877]]
+
+[[Question:MC]]
+E' evidente , abbandonando le facezie , che il Direttore Generale della Sanità Provinciale può influenzare molti di questi aspetti , sia dalla parte del cittadino utente che per il cittadino dipendente dei Servizi Sanitari , ma vorrei apportare alla discussione la convinzione che chi dirige la Azienda Sanitaria deve attenersi alle direttive di chi , per proprio mandato istituzionale , deve [farsi] carico del Servizio Sanitario nel suo insieme , vale a dire della Politica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ farsi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1971]]
+
+[[Question:MC]]
+Lo so che non [invento] niente , ma è così .
+[[Question:MC:SingleAnswer]]
+Il verbo [ invento ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q625]]
+
+[[Question:MC]]
+Aldo Cotti e Maria Banja erano [sposati] da alcuni mesi , ma fra loro c' erano tensioni pare dovute alla gelosia dell' uomo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sposati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1725]]
+
+[[Question:MC]]
+La conferenza dei capigruppo riunitasi ieri sera a palazzo Thun ha infatti deciso ( su proposta di Tullio Buffa ) di concedere all' assessore Andreatta e alla commissione urbanistica la proroga di una settimana per completare il lavoro di definizione delle domande da [accogliere] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ accogliere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q355]]
+
+[[Question:MC]]
+Nell' eterna « lotta » per l' acquisto del corredo scolastico che [dissangua] il portafoglio di una famiglia non è che anche i genitori abbiano le loro responsabilità ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ dissangua ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

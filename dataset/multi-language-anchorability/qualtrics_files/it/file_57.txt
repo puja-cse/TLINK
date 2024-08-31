@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1685]]
+
+[[Question:MC]]
+Il pericolo uragani per la Florida non è però [cessato] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ cessato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q747]]
+
+[[Question:MC]]
+Un divieto che la moglie voleva fare [rispettare] e sul quale l' uomo era invece scettico .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rispettare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1952]]
+
+[[Question:MC]]
+Mi dà la carica e mi [fa] giocare meglio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2013]]
+
+[[Question:MC]]
+Intanto i consigli di Santavaleria e di altre società del gruppo Varasi che si sarebbero [dovuti] svolgere oggi sono slittati a venerdì prossimo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovuti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q48]]
+
+[[Question:MC]]
+Oggi [vanno] in scena i riflessi degli infiniti Ulissi coreografati da Bud Blumenthal , autore quarantacinquenne arrivato tardi alla danza ma che da allora non l' ha mai lasciata .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vanno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q356]]
+
+[[Question:MC]]
+Nell' eterna « lotta » per l' acquisto del corredo scolastico che dissangua il portafoglio di una famiglia non [è] che anche i genitori abbiano le loro responsabilità ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q826]]
+
+[[Question:MC]]
+Non [è] il primo caso : quaranta anni prima , per la messa in scena della " Vita di Galileo " di Brecht , era diventato celebre il binomio Geymonat - Strehler .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2125]]
+
+[[Question:MC]]
+« Qui è l' origine remota della rivalità tra Ceceni e Ossiti : oltre alla differenza di religione gli abitanti della Ossetia del Nord hanno [favorito] la dominazione russa - sottolinea Bensi - una colpa imperdonabile , che gli Ossiti si trascinano fino ad oggi » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ favorito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q935]]
+
+[[Question:MC]]
+Si [riappropri] la Politica del suo ruolo di guida e dotiamoci di strumenti partecipativi e di verifica che siano condivisi per quanto possibile ma pubblici e trasparenti per tutti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riappropri ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q667]]
+
+[[Question:MC]]
+« Quello che iniziamo , finiamo » : [è] il marchio di fabbrica del Trentino solidale , dei finanziamenti provinciali ai progetti di sviluppo , così come lo definisce l' assessora Iva Berasi che anticipa i contenuti della convenzione che il presidente Dellai firmerà oggi con l' alcade della municipalità metropolitana di Lima , Luis Castanéda Lossio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1698]]
+
+[[Question:MC]]
+A questa persona ci rivolgiamo per chiedere di [farci] riavere a casa Denise » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ farci ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1159]]
+
+[[Question:MC]]
+« A nome del comitato - insiste - [chiedo] che anche le nostre domande vengano quantomeno esaminate , auspicando per altro un esito favorevole » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ chiedo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q295]]
+
+[[Question:MC]]
+Girava su una Nissan Primera bianca , nella zona di Ponte Arche , facendo strane manovre e [issando] sul tetto dell' auto il lampeggiante delle forze dell' ordine .
+[[Question:MC:SingleAnswer]]
+Il verbo [ issando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1070]]
+
+[[Question:MC]]
+Pacher non [dimentica] la sua infanzia : « Avevo tre anni - dice - e ricordo ancora i profumi : non solo gli odori della cucina , ma anche quelli delle piante e dei fiori .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dimentica ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2157]]
+
+[[Question:MC]]
+Nel 1993 , dopo la caduta del muro di Berlino , l' unico generale di origine cecena riuscito ad entrare nell' esercito russo , [proclamò] l' indipendenza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ proclamò ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q239]]
+
+[[Question:MC]]
+Alla firma [saranno] presenti anche il direttore dell' Associazione Gianni Benedetti , Mario Zen ( direttore Itc - Irst ) e Mario Tonini ( direttore servizi Itc ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ saranno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q870]]
+
+[[Question:MC]]
+E' evidente , abbandonando le facezie , che il Direttore Generale della Sanità Provinciale può [influenzare] molti di questi aspetti , sia dalla parte del cittadino utente che per il cittadino dipendente dei Servizi Sanitari , ma vorrei apportare alla discussione la convinzione che chi dirige la Azienda Sanitaria deve attenersi alle direttive di chi , per proprio mandato istituzionale , deve farsi carico del Servizio Sanitario nel suo insieme , vale a dire della Politica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ influenzare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1075]]
+
+[[Question:MC]]
+Ma , a « soli » 45 anni di distanza da quell' epoca , [è] meglio non chiedergli il nome di qualche maestra .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q35]]
+
+[[Question:MC]]
+Come quei totem delle preghiere tibetane che vengono continuamente girati , oppure come in una lanterna magica dai tanti clic scorre sotto gli occhi della spettatore l' intreccio di tre vicende distinte e percepite come tali da chi le [vede] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vede ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q839]]
+
+[[Question:MC]]
+Come Trentino , vorrei avere i migliori servizi dai migliori professionisti sanitari , a disposizione 24 ore su 24 ; questi Servizi li vorrei disponibili , sia per le urgenze che per gli interventi programmabili , nei tempi da me ritenuti adeguati ; vorrei la massima disponibilità d' animo e di tempo di tutti gli operatori sanitari ; il cibo e la sistemazione logistica [dovrebbero] essere non solo di mio gradimento ma consentirmi anche di poter scegliere tra varie opzioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovrebbero ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

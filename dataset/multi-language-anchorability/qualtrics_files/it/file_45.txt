@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1122]]
+
+[[Question:MC]]
+L' annunciato voto contrario di otto senatori al decreto di rifinanziamento della missione in Afghanistan [è] " un problema serio , serissimo " che , " considerati i rapporti di forza tra maggioranza e opposizione in Parlamento , in particolare al Senato " , può rivelarsi " drammatico " - Lo ha detto il ministro della Difesa Arturo Parisi in un' intervista a - Repubblica Radio - Parisi ha precisato che " il nostro impegno nel secondo semestre è assolutamente identico all' impegno del primo " e quindi non c' è " né potenziamento né depotenziamento " della missione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q118]]
+
+[[Question:MC]]
+Storage più sicurezza , quindi , per [presentarsi] alle grandi aziende con un' offerta in grado di gestire l' intero ciclo di vita dei flussi informativi originati dalle attività di business e quindi prendersi cura dei dati critici di queste ultime anche attraverso applicazioni di identity e access management e tecnologie avanzate di crittografia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ presentarsi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1580]]
+
+[[Question:MC]]
+« Buon giorno , compagni cadetti » e la giornata [inizia] tra addestramenti , marce e saluti militari .
+[[Question:MC:SingleAnswer]]
+Il verbo [ inizia ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1432]]
+
+[[Question:MC]]
+Ai fini della fusione , che sarà sottoposta il 27 settembre alle assemblee degli azionisti , la Sme , che controlla il 100,00% della società di grande distribuzione Gs , è stata [valutata] 1500 miliardi , mentre la Schemaventuno , che ha come unica attività la partecipazione nella stessa Sme , è stata stimata 692 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ valutata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q637]]
+
+[[Question:MC]]
+Sono stabili ma sempre gravi le condizioni di Susanna Franzoni , la 19enne di Varese ricoverata al neurochirurgico di Bolzano per i traumi riportati nell' incidente avvenuto domenica all' alba a Pinzolo , quado un' auto è [carambolata] contro un muro nel centro del paese .
+[[Question:MC:SingleAnswer]]
+Il verbo [ carambolata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2049]]
+
+[[Question:MC]]
+Tanti gli spunti [offerti] dal programma di " Minoranzèro " a partire dai " Racconti di minoranze " due incontri aperitivo al Castello di Pergine con gli autori Carmine Abate ( mercoledì 8 ) e Fredo Valla ( giovedì 9 ) , poeti e cantori delle rispettive indentità arbereshe ed occitana .
+[[Question:MC:SingleAnswer]]
+Il verbo [ offerti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1880]]
+
+[[Question:MC]]
+Ferrando non ce l' ha fatta : avvolto da una densa nube nera e dal fumo , è [rimasto] intrappolato nelle fiamme .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rimasto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q271]]
+
+[[Question:MC]]
+E' vero che una rondine non [fa] primavera , ma il punto ottenuto con pieno merito sul campo dell' Alense dimostra che la determinazione e l' impegno sono tornati a livelli rassicuranti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q951]]
+
+[[Question:MC]]
+C' è bisogno che la comunità internazionale [ritrovi] la sua unità per combattere al meglio il terrorismo internazionale , senza dimenticare che non c' è solo l' opzione militare ma la politica , il dialogo e la ragione » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ritrovi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1642]]
+
+[[Question:MC]]
+TRENTO - Una giornata in famiglia sul monte Lefre per imparare a costruire un vero erbario [è] in programma venerdì 10 settembre .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1726]]
+
+[[Question:MC]]
+In pratica , il 14 ne verrà [presentata] una parte , mentre entro il 21 sarà consegnata agli uffici del Consiglio l' integrazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ presentata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1874]]
+
+[[Question:MC]]
+nan [Era] con un altro contadino che alla vista delle fiamme è riuscito a scappare e a mettersi in salvo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Era ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1862]]
+
+[[Question:MC]]
+E' il bilancio del pauroso incendio che ieri pomeriggio è [divampato] all' improvviso nella pineta di Riva Trigoso , comune di Sestri Levante , a ridosso del mare .
+[[Question:MC:SingleAnswer]]
+Il verbo [ divampato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1056]]
+
+[[Question:MC]]
+Difficile fare pronostici , [sono] in molti ad ambire ad un successo a Predazzo , in primis i norvegesi che stanno migliorando di gara in gara e che domenica hanno vinto la competizione a squadre .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1222]]
+
+[[Question:MC]]
+Il bilancio dell' operazione è in attivo perché a fronte di una spesa complessiva non certo irrisoria , sono stati risparmiati tutti i costi che avrebbe comportato la chiusura prolungata dell' asilo ( lavori di questa entità appaltati dall' ente pubblico possono [durare] anche un paio di anni ? ) con le collocazioni provvisorie del personale , dei 102 ragazzi ed i disagi per le famiglie .
+[[Question:MC:SingleAnswer]]
+Il verbo [ durare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1940]]
+
+[[Question:MC]]
+nan [Vorrei] confermare i 15 gol , sarebbe un grande successo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Vorrei ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q529]]
+
+[[Question:MC]]
+PERUGIA - Era venuta da pochi giorni da Spoleto a Piedicolle , una frazione del comune di Collazzone ( Perugia ) , per [assistere] la figlia che da qualche anno aveva addirittura lasciato il lavoro perchè affetta da crisi di depressione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ assistere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1433]]
+
+[[Question:MC]]
+Ai fini della fusione , che sarà sottoposta il 27 settembre alle assemblee degli azionisti , la Sme , che controlla il 100,00% della società di grande distribuzione Gs , è stata valutata 1500 miliardi , mentre la Schemaventuno , che [ha] come unica attività la partecipazione nella stessa Sme , è stata stimata 692 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ha ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1916]]
+
+[[Question:MC]]
+E' il punto di riferimento centrale e già questo [crea] spazi e agevola di molto il compito di chi si deve inserire sui lati , come spetta a me.
+[[Question:MC:SingleAnswer]]
+Il verbo [ crea ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1373]]
+
+[[Question:MC]]
+L' adeguamento deliberato nel giugno scorso , dopo l' intesa raggiunta con sindacati , tiene conto dell' indice d' inflazione reale dal settembre 2000 all' agosto 2004 pari al 10% , e del costo di produzione del trasporto extraurbano che si è [incrementato] del 12% , passando da 4.811 lire a 5.410 lire ( 2,79 euro ) al chilometro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ incrementato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

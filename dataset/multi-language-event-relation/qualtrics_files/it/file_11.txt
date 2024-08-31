@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q2390]]
+
+[[Question:MC]]
+Sentence 1: [ Chiedono ] , in attesa della realizzazione di un parco fluviale dell' Adige collegato al biotopo ( come previsto da una delibera del Consiglio comunale del 2001 ) , di istituire una fascia di verde di tutela lungo l' argine destro del fiume , in modo da scongiurare qualsiasi possibilità di edificazione .
+Sentence 2: « Una proposta opposta - [ scrive ] il responsabile del Comitato Pro Vela , Fabiano Condini - rispetto alla quella dell' assessorato che intendeva realizzare nella zona un mega polo della rottamazione di quattro ettari » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Chiedono ] accade PRIMA del verbo [ scrive ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2606]]
+
+[[Question:MC]]
+Sentence 1: ROMA - « Ormai siamo [ entrati ] nella quarta guerra mondiale » .
+Sentence 2: [ E' ] quanto sostiene il cardinale Renato Raffaele Martino , Presidente del Pontificio Consiglio « Justitia et Pax » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ entrati ] accade DOPO il verbo [ E' ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1227]]
+
+[[Question:MC]]
+Sentence 1: Tutte le manifestazioni indette per i giorni di lutto nazionale sono state [ cancellate ] , compreso il concerto che il nostro Coro Monte Peller doveva tenere a Mosca .
+Sentence 2: La stessa capitale , che era [ addobbata ] a festa per le celebrazioni dell' anniversario della sua fondazione , nelle giornate dedicate al ricordo delle centinaia e centinaia di bambini e di adulti trucidati in Ossezia si è presentata avvolta da un silenzio irreale , da una tristezza profonda .
+[[Question:MC:SingleAnswer]]
+Il verbo [ cancellate ] accade PRIMA del verbo [ addobbata ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2545]]
+
+[[Question:MC]]
+Sentence 1: Dopo le scalate a Documentum ( content management ) e VMware ( software per la virtualizzazione ) , la casa americana [ sembra ] in effetti aver calato un altro asso importante per continuare a giocare un ruolo di primo piano sullo scacchiere internazionale nel campo delle soluzioni destinate alle architetture informative delle grandi aziende .
+Sentence 2: [ Chiuso ] il primo trimestre fiscale 2006 in crescita rispetto allo stesso periodo dell' anno precedente sia alla voce ricavi ( saliti del 14,00% a 2,55 miliardi di dollari ) sia sul piano degli utili netti ( arrivati a 272,5 milioni con un incremento del 50,00% ) , Emc ha già confermato anche le modalità con le quali verranno assorbiti gli asset di Rsa : quest' ultima opererà infatti come Information Security Division della casa madre e avrà l' head quarter a Bedford , nel Massachuttes , sede storica della società , mentre l' attuale presidente e Ceodi Rsa , Art Coviello , assumerà la carica di executive vice president di Emc e presidente della nuova divisione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sembra ] accade DOPO il verbo [ Chiuso ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q143]]
+
+[[Question:MC]]
+Sentence: Il finale riserva una sorpresa che [ ingloba ] tutti , che sorprende la platea per la sua teatralità e , in qualche modo , si [ ricollega ] a delle immagine abbastanza comuni raccolte durante l' infanzia di tutti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ingloba ] accade DOPO il verbo [ ricollega ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1212]]
+
+[[Question:MC]]
+Sentence 1: « L' eccidio di Beslan - ha raccontato al telefono l' assessore provinciale Franco Panizza , che [ guida ] il gruppo dei trentini , assieme a rappresentanti di alcune amministrazioni municipali della Valle di Non e della Val di Sole - ha messo al tappeto un' intera nazione .
+Sentence 2: Tutte le manifestazioni indette per i giorni di lutto nazionale sono state cancellate , [ compreso ] il concerto che il nostro Coro Monte Peller doveva tenere a Mosca .
+[[Question:MC:SingleAnswer]]
+Il verbo [ guida ] accade PRIMA del verbo [ compreso ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2399]]
+
+[[Question:MC]]
+Sentence: « A nome del comitato - [ insiste ] - [ chiedo ] che anche le nostre domande vengano quantomeno esaminate , auspicando per altro un esito favorevole » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ insiste ] accade DOPO il verbo [ chiedo ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1518]]
+
+[[Question:MC]]
+Sentence: I risultati della produzione in Italia hanno [ raggiunto ] 201 miliardi , con un aumento del 17,00% rispetto al 91 che [ riguarda ] soprattutto il comparto delle grandi opere .
+[[Question:MC:SingleAnswer]]
+Il verbo [ raggiunto ] accade PRIMA del verbo [ riguarda ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q719]]
+
+[[Question:MC]]
+Sentence: Mai forse come in questa occasione - continua Bezzi - è [ emerso ] il lato oscuro della crudeltà di cui sono talvolta capaci gli esseri umani e la memoria [ torna ] alle tragedie epocali del Novecento , ai misfatti del nazismo e dello stalinismo , con gli eccidi di intere popolazioni » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ emerso ] accade DOPO il verbo [ torna ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1162]]
+
+[[Question:MC]]
+Sentence: Ma a ben [ guardare ] anche in questi casi non si può parlare di esiti clamorosi : che la formazione di Zimelli potesse sbancare Natz [ era ] infatti nei numeri visto che già l' anno passato si impose su quel campo con un roboante 5 - 3 e che il suo potenziale offensivo , già strepitoso ( basti ricordare i 115 gol dell' ultimo biennio ) , è ancor più lievitato adesso con l' ingaggio dell' interessantissimo rumeno Ionut Alecu , non a caso subito a segno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ guardare ] accade PRIMA del verbo [ era ].
+[[Choices]]
+Sì
+NO
+NON SO
+

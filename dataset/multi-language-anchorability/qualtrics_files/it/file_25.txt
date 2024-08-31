@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1265]]
+
+[[Question:MC]]
+É stata accolta da un' atmosfera comprensibilmente triste la delegazione della Valle di Non che in questi giorni [è] in visita in Russia per rinnovare il gemellaggio tra Cles e Suzdal , il più importante centro religioso della Russia sud-orientale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1180]]
+
+[[Question:MC]]
+« Pensiamo - [concludono] - che la protezione di questa area sia di grande interesse per tutti gli attuali abitanti del Trentino e per le generazioni future » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ concludono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1249]]
+
+[[Question:MC]]
+Una benedizione non soltanto per i 102 bambini che [frequentano] la scuola , ma anche all' attività del personale ( 19 persone di cui 14 insegnanti ) e , soprattutto , per la struttura .
+[[Question:MC:SingleAnswer]]
+Il verbo [ frequentano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1248]]
+
+[[Question:MC]]
+« Questo asilo è un simbolo ed un riferimento per la città » [dice] Giuliano Baldessari , presidente della Federazione provinciale delle scuole materne .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dice ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1816]]
+
+[[Question:MC]]
+Fisac Cigl , Fiba Cisl e Uilca hanno spiegato così , durante un' assemblea tenutasi ieri alla Sala della Cooperazione in via Segantini , la decisione di proclamare due giornate di sciopero nel settore bancario , il 10 settembre e il primo ottobre , dopo la brusca interruzione della difficile trattativa sul rinnovo del contratto nazionale , [scaduto] a fine 2003 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scaduto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1263]]
+
+[[Question:MC]]
+dopo una stagione altalenante la formazione di Vigo di Fassa parte con il piede giusto [rifilando] 5 reti al Monte Lefre .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rifilando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1273]]
+
+[[Question:MC]]
+Tutte le manifestazioni indette per i giorni di lutto nazionale sono state cancellate , compreso il concerto che il nostro Coro Monte Peller [doveva] tenere a Mosca .
+[[Question:MC:SingleAnswer]]
+Il verbo [ doveva ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q328]]
+
+[[Question:MC]]
+« [Sono] felice per il risultato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1078]]
+
+[[Question:MC]]
+« Questo non è [stato] un semplice intervento di manutenzione ordinaria - afferma Pacher - ma un' operazione brillante che implica un positivo intreccio tra pubblico e privato » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1086]]
+
+[[Question:MC]]
+Due proposte , [pare] avanzate dalla britannica Zeneca e dalla svizzera Roche , sono infatti svanite come neve al sole nelle ultime ore .
+[[Question:MC:SingleAnswer]]
+Il verbo [ pare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1749]]
+
+[[Question:MC]]
+Poi , affinché gli interventi inseriti nella variante possano effettivamente venire realizzati , servirà il « visto » della giunta provinciale , che [ha] a disposizione un anno per leggere tutta la documentazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ha ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1066]]
+
+[[Question:MC]]
+Alberto Pacher , adesso sindaco di Trento , frequentava proprio l' asilo Pedrotti : « Le case c' erano già tutte qui attorno - ricorda mentre indica gli edifici che [circondano] la scuola materna - e noi salivamo da là » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ circondano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1206]]
+
+[[Question:MC]]
+Il risultato è quello che è stato presentato ieri mattina : la ristrutturazione e l' ampliamento della Scuola Materna privata equiparata « P. Pedrotti » di Trento , la più vecchia del capoluogo , [completata] in cento giorni con un investimento complessivo di 2,3 milioni di euro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ completata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q824]]
+
+[[Question:MC]]
+Ha infatti [collaborato] con Luca Ronconi alla messa in scena di " Infinities " , una " drammaturgia di idee " ispirata dall' opera del matematico John Barrow .
+[[Question:MC:SingleAnswer]]
+Il verbo [ collaborato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2104]]
+
+[[Question:MC]]
+Impossibile da [tradurre] per un russo o un europeo che tenta di dialogare con loro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tradurre ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q234]]
+
+[[Question:MC]]
+Nel protocollo vengono [indicate] ipotesi di lavoro comune e vengono delineate le possibili aree di intervento .
+[[Question:MC:SingleAnswer]]
+Il verbo [ indicate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1272]]
+
+[[Question:MC]]
+Tutte le manifestazioni indette per i giorni di lutto nazionale sono state cancellate , [compreso] il concerto che il nostro Coro Monte Peller doveva tenere a Mosca .
+[[Question:MC:SingleAnswer]]
+Il verbo [ compreso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1792]]
+
+[[Question:MC]]
+IL rivano aveva già [sconfitto] il sudamericano al torneo di Bergamo ( 7 - 6 6 - 4 ) e ora attende il vincitore tra il n. 1 Mutis e Santopadre .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sconfitto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q402]]
+
+[[Question:MC]]
+« Ci portiamo dietro degli astucci - [conferma] una commessa - da almeno un paio d' anni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ conferma ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1188]]
+
+[[Question:MC]]
+Formula : 18 buche stbl : si è svolto sabato 4 settembre il recupero della gara " European Green Pass Tour 2004 " , il cui circuito prevede ora per i vincitori una finale nazionale ed eventualmente una finalissima internazionale : Renato Tessadri , Giancarlo Agostini , Guido Valcanover e Alessandro Lubian [saranno] ospiti presso il Brianza Golf Club , mentre Bruno Bensa e Paolo Decaminada giocheranno al Modena Golf Club .
+[[Question:MC:SingleAnswer]]
+Il verbo [ saranno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

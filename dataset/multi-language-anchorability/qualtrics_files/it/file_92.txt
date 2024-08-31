@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q365]]
+
+[[Question:MC]]
+Incontriamo una famiglia tipo : papà , mamma e una bella bambina che lunedì [inizierà] le scuole elementari .
+[[Question:MC:SingleAnswer]]
+Il verbo [ inizierà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q679]]
+
+[[Question:MC]]
+La firma è in programma oggi alle 18 e non è che l' ultima testimonianza della vicinanza del Trentino all' America Latina : « I nostri interventi in quell' area - chiarisce Berasi - sono [dedicati] quasi esclusivamente alla formazione professionale » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dedicati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1029]]
+
+[[Question:MC]]
+Nel 93 il gruppo [prevede] di vendere circa 9mila Mitsubishi e 5mila Chrysler Jeep che assommate ai modelli Hyundai dovrebbe portare il totale del gruppo a 22-23mila unità .
+[[Question:MC:SingleAnswer]]
+Il verbo [ prevede ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1659]]
+
+[[Question:MC]]
+Raffiche di vento a 180 chilometri all' ora , alberi sradicati e tegole che [volavano] come proiettili .
+[[Question:MC:SingleAnswer]]
+Il verbo [ volavano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q202]]
+
+[[Question:MC]]
+Un bimbo di tre anni di Riccione , in vacanza con i parenti a Molveno , è [caduto] ieri mattina dallo scivolo del parco , battendo la testa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ caduto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1844]]
+
+[[Question:MC]]
+Giancarlo Mirandola , della Federdirigenti , ha evidenziato come la vendita di buona parte delle banche locali , vicenda [tornata] di attualità con la polemica Grisenti - Volksbank , abbia portato « ad un impoverimento di tutti in Trentino , non solo dei dipendenti » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tornata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1697]]
+
+[[Question:MC]]
+A questa persona ci rivolgiamo per [chiedere] di farci riavere a casa Denise » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ chiedere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q633]]
+
+[[Question:MC]]
+nan [Sono] stabili ma sempre gravi le condizioni di Susanna Franzoni , la 19enne di Varese ricoverata al neurochirurgico di Bolzano per i traumi riportati nell' incidente avvenuto domenica all' alba a Pinzolo , quado un' auto è carambolata contro un muro nel centro del paese .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1913]]
+
+[[Question:MC]]
+Ah non c' è dubbio , è un grossissimo vantaggio [avere] davanti uno come lui , che è indiscutibilmente il migliore attaccante della regione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2194]]
+
+[[Question:MC]]
+Incapacità della Russia di [gestire] la situazione : gli interessi economici in gioco ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ gestire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q518]]
+
+[[Question:MC]]
+Il secondo livello , scrive Veneziani , è « [costituto] da un clan di giornalisti che scrivono divisi ma colpiscono uniti , elogiando le pellicole politicamente corrette , colmano di elogi chiunque sia in odore di disprezzare Bush , Berlusconi , Croff e le bandane e viceversa pisciano lacrime di commozione per tutti gli amarcord del sessantotto , anni settanta , Radio Alice » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ costituto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q841]]
+
+[[Question:MC]]
+Come Trentino , vorrei avere i migliori servizi dai migliori professionisti sanitari , a disposizione 24 ore su 24 ; questi Servizi li vorrei disponibili , sia per le urgenze che per gli interventi programmabili , nei tempi da me ritenuti adeguati ; vorrei la massima disponibilità d' animo e di tempo di tutti gli operatori sanitari ; il cibo e la sistemazione logistica dovrebbero essere non solo di mio gradimento ma [consentirmi] anche di poter scegliere tra varie opzioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ consentirmi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1402]]
+
+[[Question:MC]]
+nan [Bisogna] negoziare con gli indipendentisti moderati ceceni che sconfessano le reazioni tipo la presa di ostaggi a Beslan » , in modo da stoppare « un cancro generalizzato che si sta estendendo a tutta la Russia » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Bisogna ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q513]]
+
+[[Question:MC]]
+E Veneziani ne illustra i tre livelli : il primo , « agisce in platea ... la manovalanza intellettuale di Cosa nostra fischia ministri e direttori di mostra , tutto ciò che odora di Rai , Medus , Cinecittà » , [sono] quelli che « battono le mani appena arriva qualcuno a rappresentare in pellicola la loro ideologia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1268]]
+
+[[Question:MC]]
+« L' eccidio di Beslan - ha raccontato al telefono l' assessore provinciale Franco Panizza , che [guida] il gruppo dei trentini , assieme a rappresentanti di alcune amministrazioni municipali della Valle di Non e della Val di Sole - ha messo al tappeto un' intera nazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ guida ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1687]]
+
+[[Question:MC]]
+L' eroina della rivoluzione arancione , Yulia Tymoschenko [è] di nuovo primo ministro dell' Ucraina - La candidatura della Tynmoshenko è stata sostenuta dalla sua lista e dal partito del presidente Viktor Yushenko , che ora dovrà sottoporre la candidatura al verdetto finale del Parlamento .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2214]]
+
+[[Question:MC]]
+Solo l' internazionalizzazione del conflitto può porre fine alla violenza : l' Onu - purtroppo non c' [è] di meglio per ora - può evitare altre stragi » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q209]]
+
+[[Question:MC]]
+Un autoarticolato carico di immondizia ieri pomeriggio si è ribaltato su un fianco sulla strada che dalla Vela [porta] alla discarica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ porta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1419]]
+
+[[Question:MC]]
+MILANO - Si chiamerà Gruppo Gs la nuova azienda che nascerà dalla fusione di Sme e Gs nella controllante Schemaventuno , la società partecipata dai gruppi Del Vecchio , Edizione ( Benetton ) e Movenpick che ha [rilevato] la ex finanziaria alimentare dell' Iri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rilevato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q733]]
+
+[[Question:MC]]
+Ha [consegnato] la pistola e si è fatto arrestare .
+[[Question:MC:SingleAnswer]]
+Il verbo [ consegnato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1558]]
+
+[[Question:MC]]
+Gavino Angius ha rinviato l' accusa di Giovanardi al mittente : « E' la Cdl - ha detto - con una legge che obbliga una donna ad [impiantare] nel suo utero embrioni malati , ad aver approvato qualcosa di simile a esperimenti nazisti » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ impiantare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1636]]
+
+[[Question:MC]]
+I quattro - Omar Hayat , Mubarik Ali , Muhammad Ashraf e Shehzad Ahmed - riconosciuti colpevoli di aver [violentato] nel 1999 la ragazza , all' epoca 14enne , sono stati giustiziati nella prigione di Faisalabad , città industriale nella provincia del Pundjab ( centro del paese ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ violentato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1135]]
+
+[[Question:MC]]
+In ogni caso le 250 richieste presentate dai residenti della Vela ( e non solo ) arrivate in questi mesi al Comune [sono] il segnale più evidente della contrarietà di una comunità intera al progetto di realizzazione a nord dell' abitato ( nell' area dei Laghetti ) di un polo della rottamazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1435]]
+
+[[Question:MC]]
+La Sme , reduce da un' Opa [conclusa] il 5 agosto che ha portato la quota Schemaventuno ai livelli attuali , è destinata a essere cancellata dal listino della Borsa valori italiana .
+[[Question:MC:SingleAnswer]]
+Il verbo [ conclusa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q902]]
+
+[[Question:MC]]
+Non è pensabile che il lavoro del Direttore Generale venga valutato solo in prossimità della scadenza del mandato ; la Politica [dovrebbe] avere un costante ritorno di quanto avviene nella Azienda Sanitaria sia da parte di chi ne produce i Servizi che da parte di chi ne fruisce .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovrebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q952]]
+
+[[Question:MC]]
+C' è bisogno che la comunità internazionale ritrovi la sua unità per [combattere] al meglio il terrorismo internazionale , senza dimenticare che non c' è solo l' opzione militare ma la politica , il dialogo e la ragione » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ combattere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1470]]
+
+[[Question:MC]]
+A tre settimane dalle delibere di fusione tra la Popolare e il Banco di San Geminiano e San Prospero , l' istituto presieduto da Giorgio Zanotto ha costituito ieri la Holding di partecipazioni finanziarie Popolare di Verona-San Geminiano e San Prospero , cui sono state conferite le partecipazioni strumentali [possedute] dalle due banche .
+[[Question:MC:SingleAnswer]]
+Il verbo [ possedute ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1906]]
+
+[[Question:MC]]
+Diciamo che possiamo puntare al podio se solo sappiamo [mantenere] la concentazione e condizione giusta .
+[[Question:MC:SingleAnswer]]
+Il verbo [ mantenere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1658]]
+
+[[Question:MC]]
+Tra le motivazioni c' [è] la violazione della Convenzione di Ginevra .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q709]]
+
+[[Question:MC]]
+Bruno Dorigatti , ex segretario provinciale della Cgil , non [diventerà] coordinatore regionale del sindacato , ruolo che era stato ipotizzato per valorizzare l' esperienza di uno dei sindacalisti di razza della provincia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ diventerà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q531]]
+
+[[Question:MC]]
+Ieri è stata da lei [uccisa] a coltellate .
+[[Question:MC:SingleAnswer]]
+Il verbo [ uccisa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q959]]
+
+[[Question:MC]]
+Il Trentino non mancherà di contribuire ad [alleviare] le sofferenze dei piccoli abitanti dell' Ossezia attraverso un progetto adatto » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ alleviare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q71]]
+
+[[Question:MC]]
+La vendita dell' Ast , ha continuato Gnutti , è la dimostrazione di questa serietà e con gli stessi criteri - ha [concluso] - si procederà ora alla cessione dell' Ilp .
+[[Question:MC:SingleAnswer]]
+Il verbo [ concluso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2016]]
+
+[[Question:MC]]
+nan [Sarà] probabilmente in quell' occasione che avverrà la formalizzazione dell' incarico a Mediobanca di ristrutturare l' indebitamento del gruppo e la nomina di Giorgio Cefis al vertice .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Sarà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q54]]
+
+[[Question:MC]]
+Alle 18 , invece , per la sezione Linguaggi s' [incontra] l' autorevole Franco Cardini per parlare del rapporto tra Islam e Occidente .
+[[Question:MC:SingleAnswer]]
+Il verbo [ incontra ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q963]]
+
+[[Question:MC]]
+Le tre maggiori sigle sindacali hanno infatti indetto una conferenza stampa per [spiegare] le ragioni della fiaccolata silenziosa che si terrà domani - giovedì 9 settebre - a partire dalle 19.30 per le vie del centro , e che vedrà la partecipazione di numerose altre associazioni , tra cui le Acli e Azione cattolica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spiegare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1431]]
+
+[[Question:MC]]
+Ai fini della fusione , che sarà sottoposta il 27 settembre alle assemblee degli azionisti , la Sme , che [controlla] il 100,00% della società di grande distribuzione Gs , è stata valutata 1500 miliardi , mentre la Schemaventuno , che ha come unica attività la partecipazione nella stessa Sme , è stata stimata 692 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ controlla ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1358]]
+
+[[Question:MC]]
+Sull' Iran , i ministri degli esteri , [attendono] una risposta alle proposte avanzate per il 5 luglio , quando Solana incontrerà Larijani , negoziatore iraniano sul nucleare .
+[[Question:MC:SingleAnswer]]
+Il verbo [ attendono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q511]]
+
+[[Question:MC]]
+E Veneziani ne illustra i tre livelli : il primo , « agisce in platea ... la manovalanza intellettuale di Cosa nostra [fischia] ministri e direttori di mostra , tutto ciò che odora di Rai , Medus , Cinecittà » , sono quelli che « battono le mani appena arriva qualcuno a rappresentare in pellicola la loro ideologia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fischia ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2188]]
+
+[[Question:MC]]
+Già durante l' era di Gorbaciov [presero] contatti con gli integralisti islamici in Afghanistan , con i talebani .
+[[Question:MC:SingleAnswer]]
+Il verbo [ presero ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

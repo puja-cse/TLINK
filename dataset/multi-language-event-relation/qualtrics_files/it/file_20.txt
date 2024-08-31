@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q3617]]
+
+[[Question:MC]]
+Sentence: Anche se abbiamo [ sentito ] chiamarli « Zen » ( il numero 7 seguito dalla « en » finale può effettivamente essere confuso con una zeta ) , la loro fama [ rimane ] costante .
+[[Question:MC:SingleAnswer]]
+La relazione tra [ sentito ] e [ rimane ] è VAGA (i.e., nessuna delle precedenti).
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q384]]
+
+[[Question:MC]]
+Sentence 1: Soprattutto da quando l' uomo aveva [ avuto ] problemi di salute e i medici gli avevano consigliato di smettere di fumare .
+Sentence 2: Un divieto che la moglie [ voleva ] fare rispettare e sul quale l' uomo era invece scettico .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avuto ] accade PRIMA del verbo [ voleva ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1445]]
+
+[[Question:MC]]
+Sentence 1: « Quasi tutti gli attuali dirigenti ceceni sono nati durante la deportazione : questo [ può ] spiegare la rabbia che si vive in cecenia .
+Sentence 2: Nel 1993 , dopo la caduta del muro di Berlino , l' unico generale di origine cecena riuscito ad entrare nell' esercito russo , [ proclamò ] l' indipendenza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ può ] accade PRIMA del verbo [ proclamò ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3055]]
+
+[[Question:MC]]
+Sentence: Nella riunione del consiglio d' amministrazione della Fondazione che si è tenuta ieri non si è arrivati ad una intesa per cui tutto è [ rinviato ] a martedì prossimo quando sarà necessario « tirare le fila del discorso » come ha [ spiegato ] il presidente della Fondazione , Gerhard Brandstätter , lui stesso candidato di punta per la successione di Amonn .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rinviato ] accade DOPO il verbo [ spiegato ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3373]]
+
+[[Question:MC]]
+Sentence 1: C' era la possibilità di utilizzare solo l' unità ricca di staminali , ma è stato deciso di trapiantarle entrambe , sia l' unità più ricca di cellule « non manipolate » , sia l' altra più povera , ma dopo averla [ congelata ] e trasferita alla « Cell Factory » di Milano , per amplificare il numero delle sue cellule .
+Sentence 2: A Milano l' unità di sangue è stata [ scongelata ] il 28 luglio e sono state selezionate le staminali che sono state messe in coltura in camera sterile per 15 giorni , moltiplicandone il numero di 60 volte .
+[[Question:MC:SingleAnswer]]
+La relazione tra [ congelata ] e [ scongelata ] è VAGA (i.e., nessuna delle precedenti).
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q125]]
+
+[[Question:MC]]
+Sentence: Ma per la velocità del vorticare del palco , [ sembra ] che nel racconto si [ sovrappongono ] i tempi e le emozioni rappresentate .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sembra ] accade PRIMA del verbo [ sovrappongono ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2320]]
+
+[[Question:MC]]
+Sentence: Ci [ [ sono ] ] poi Bravo Productions e New Programma Video per la produzione televisiva , mentre nell' home video sono attive Domovideo e Vhr .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] accade PRIMA del verbo [ sono ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1948]]
+
+[[Question:MC]]
+Sentence: « L' esperienza di questi lavori - spiega il presidente della Scuola Alessandro Rossi , esperto in appalti pubblici - [ [ è ] ] un segnale importante : è la dimostrazione che quando pubblico e privato vogliono collaborare possono realizzare interventi significativi ed in tempi estremamente rapidi » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] accade PRIMA del verbo [ è ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1273]]
+
+[[Question:MC]]
+Sentence 1: TRENTO - Un set di grande equilibrio , più nulla da fare nel secondo : Davide Volpe ( nella foto ) ha messo addosso un po' di brividi a Markus Innerebner , ma è stato poi l' altoatesino a [ qualificarsi ] per gli ottavi dell' open del Ct Trento , imitato in ciò da Patrick Prader e David Complojer .
+Sentence 2: Fra le ragazze , ottavi [ raggiunti ] solo da Bressan e Miori , vincitrici con punteggi severi sulle nostre Galvan e Merola .
+[[Question:MC:SingleAnswer]]
+La relazione tra [ qualificarsi ] e [ raggiunti ] è VAGA (i.e., nessuna delle precedenti).
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q692]]
+
+[[Question:MC]]
+Sentence 1: TRENTO - Un progetto organico di aiuti alle famiglie colpite dalla tragedia di Beslan che metta assieme e coordini tutte le iniziative di solidarietà già avviate e quelle programmate , [ puntando ] in via prioritaria ad assicurare ai bambini e alle bambine che hanno vissuto quella spaventosa esperienza tutti i supporti , materiali e non , necessari per aiutarli a superare il terribile shock subito in quei drammatici giorni .
+Sentence 2: E' quanto [ propone ] il presidente del Consiglio provinciale di Trento , Giacomo Bezzi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ puntando ] accade PRIMA del verbo [ propone ].
+[[Choices]]
+Sì
+NO
+NON SO
+

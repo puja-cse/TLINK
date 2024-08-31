@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q200]]
+
+[[Question:MC]]
+El paro en Francia [ cayó ] en abril por debajo del 10% por primera vez en 10 años .
+La tasa de desempleo se [ situó ] en el 9,8% .
+[[Question:MC:SingleAnswer]]
+El verbo [ cayó ] pasa ANTES que el verbo [ situó ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q533]]
+
+[[Question:MC]]
+Djordjevic reconoció además que se siente un azulgrana más - - " aquí he [ puesto ] mis raíces , he comprado una casa , he vivido el club , los colores , y me siento un culé más " - - después de estas tres temporadas , pero [ añadió ] que ese sentimiento no tiene por qué influir en su decisión .
+[[Question:MC:SingleAnswer]]
+El verbo [ puesto ] pasa DESPUÉS del verbo [ añadió ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q748]]
+
+[[Question:MC]]
+En abril pasado , la venta de viviendas [ registró ] un descenso del 5,8% , según el Departamento de Comercio .
+Es la mayor caída en siete meses y supone un indicio de que el mercado inmobiliario de EEUU puede estar desacelerándose , tras [ subir ] el 5,8% en marzo .
+[[Question:MC:SingleAnswer]]
+El verbo [ registró ] pasa ANTES que el verbo [ subir ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q356]]
+
+[[Question:MC]]
+Rasgarse ahora las vestiduras por la firmeza negociadora de nuestro vecino del sur , [ dejando ] caer en la opinión pública una cifra de afectados claramente hinchada , al objeto de responsabilizar a Marruecos del daño social , [ constituye ] una muestra de la peor política posible : culpar a los otros por lo que debimos haber hecho y no tuvimos la voluntad , ni la inteligencia , ni el coraje , de acometer .
+[[Question:MC:SingleAnswer]]
+El verbo [ dejando ] pasa ANTES que el verbo [ constituye ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q537]]
+
+[[Question:MC]]
+Djordjevic reconoció además que se siente un azulgrana más - - " aquí he puesto mis raíces , he [ comprado ] una casa , he [ vivido ] el club , los colores , y me siento un culé más " - - después de estas tres temporadas , pero añadió que ese sentimiento no tiene por qué influir en su decisión .
+[[Question:MC:SingleAnswer]]
+El verbo [ comprado ] pasa ANTES que el verbo [ vivido ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q226]]
+
+[[Question:MC]]
+Josep Mil , secretario de la Oficina de Dinamización del Centro , [ recordó ] ayer que ejecutar el paralizado plan de aparcamientos " [ es ] básico por una cuestión de calidad ambiental y de movilidad " .
+[[Question:MC:SingleAnswer]]
+El verbo [ recordó ] pasa SIMULTÁNEAMENTE con el verbo [ es ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q42]]
+
+[[Question:MC]]
+Microsoft contraatacó ayer en su alegato final contra la propuesta del Gobierno de EEUU de dividir la compañía en dos y aseguró que la petición [ es ] " vaga , ambigua y deficiente " .
+Los abogados del gigante del software , en su última oportunidad de dulcificar la próxima decisión del juez de distrito que lleva el caso antimonopolio , Thomas P. Jackson , [ reclamaron ] un plazo de 12 meses para proceder a una eventual segregación de la empresa .
+[[Question:MC:SingleAnswer]]
+El verbo [ es ] pasa DESPUÉS del verbo [ reclamaron ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q215]]
+
+[[Question:MC]]
+Empleados de Doimo , la empresa a la que el ayuntamiento ha [ encargado ] el informe de viabilidad de los aparcamientos , [ realizaban ] ayer una encuesta junto a la plaza del Pi de Can'Oriac .
+[[Question:MC:SingleAnswer]]
+El verbo [ encargado ] pasa SIMULTÁNEAMENTE con el verbo [ realizaban ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q691]]
+
+[[Question:MC]]
+Aíto [ comentó ] que le ha costado mucho dar este paso - - " son decisiones muy difíciles y no soy insensible como muchos se creen " - - y mostró su deseo de cerrar cuanto antes la renovación de Roger Esteller , uno de los jugadores con los que el club negocia un nuevo contrato , junto al estadounidense Derrick Alston .
+" Creo que hemos hecho una oferta competitiva , que está dentro del nivel del mercado " , [ aseguró ] ayer el gerente del club , Antonio Maceiras , sobre la negociación con Esteller , el capitán del equipo .
+[[Question:MC:SingleAnswer]]
+El verbo [ comentó ] pasa SIMULTÁNEAMENTE con el verbo [ aseguró ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q405]]
+
+[[Question:MC]]
+La primera medida del Gobierno ha sido [ obligar ] a los directores de las explotaciones a informar " de forma rápida " de los accidentes ocurridos y a no interferir en las investigaciones de la policía local .
+" Aquellos que no cumplan esta normativa serán juzgados e incluso podrían sufrir un castigo penal " , según la regulación aprobada por el primer ministro Zhu Rongji , que [ entrará ] en vigor el primero de diciembre .
+[[Question:MC:SingleAnswer]]
+El verbo [ obligar ] pasa DESPUÉS del verbo [ entrará ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+

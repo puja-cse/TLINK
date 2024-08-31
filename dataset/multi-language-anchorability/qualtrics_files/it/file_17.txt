@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1299]]
+
+[[Question:MC]]
+« L' immane , terribile tragedia di Beslan - scrive Bezzi in una nota - ha [commosso] l' intera comunità nazionale ed internazionale ed anche la gente trentina ha seguito con passione e partecipazione il dramma dei bambini , delle mamme , di tutta la popolazione di quella lontana e sventurata città .
+[[Question:MC:SingleAnswer]]
+Il verbo [ commosso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q312]]
+
+[[Question:MC]]
+Le due favorite della vigilia , Riva del Garda ed Alta Vallagarina hanno esordito conquistando i tre punti ; netta l' affermazione dell' undici di Prandi , vittorioso quattro a zero sul campo di Cavrasto , più sofferto il successo dell' Alta Vallagarina che ha [dovuto] però vedersela con una squadra molto quotata quale la Condinese .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1630]]
+
+[[Question:MC]]
+Il portafoglio lavori si attesta sui 628 miliardi e , secondo una nota diffusa dalla società , " rappresenta una potenzialità produttiva che consente a Edilter di [affrontare] serenamente il futuro , a condizione che vengano riattivati i flussi finanziari sulle opere pubbliche , oggi quasi dappertutto rallentati e in qualche caso bloccati " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ affrontare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1950]]
+
+[[Question:MC]]
+Vabbè , mi [piace] tutto quel genere , afro , reggae , happy sound .
+[[Question:MC:SingleAnswer]]
+Il verbo [ piace ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1876]]
+
+[[Question:MC]]
+Era con un altro contadino che alla vista delle fiamme è riuscito a [scappare] e a mettersi in salvo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scappare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q303]]
+
+[[Question:MC]]
+E [capitato] ieri verso le 18 ad un turista tedesco .
+[[Question:MC:SingleAnswer]]
+Il verbo [ capitato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1277]]
+
+[[Question:MC]]
+La stessa capitale , che era addobbata a festa per le celebrazioni dell' anniversario della sua fondazione , nelle giornate dedicate al ricordo delle centinaia e centinaia di bambini e di adulti [trucidati] in Ossezia si è presentata avvolta da un silenzio irreale , da una tristezza profonda .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trucidati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1162]]
+
+[[Question:MC]]
+Condini [dice] di aver già incassato l' appoggio di Pompermaier e Pattini , componenti della commissione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dice ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q622]]
+
+[[Question:MC]]
+BRESCIA - [Voleva] lasciarlo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Voleva ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q673]]
+
+[[Question:MC]]
+L' obiettivo dell' intesa ( tre anni la sua durata ) è quello di « porre le basi per una collaborazione fra le parti nei settori dell' istruzione ed educazione , della formazione professionale dei giovani , della formazione imprenditoriale e del consolidamento di microimprese , culturale e sociale » come [recita] l' articolo 1 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ recita ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q228]]
+
+[[Question:MC]]
+Sollecitazioni che avevano , in parte , [trovato] sponde importanti nella giunta provinciale e che erano poi culminate in un incontro ufficiale di una delegazione di via Brennero alla sede dell' Itc .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trovato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1683]]
+
+[[Question:MC]]
+Per fortuna a casa mia i danni sono stati piuttosto limitati : solo la piscina è stata colpita e andrà [fatta] riparare » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fatta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q740]]
+
+[[Question:MC]]
+Adesso Giovanni Galioto , pensionato di 75 anni , è in carcere con l' accusa di omicidio volontario per avere [ammazzato] , ieri sera , con quattro colpi di una pistola a tamburo calibro 44 , la moglie Maria Stella Minà , sedici anni più giovane , badante e baby sitter .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ammazzato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q46]]
+
+[[Question:MC]]
+Come stile creativo , quello di Botelho , è un teatro danza di terza generazione molto attento alle qualità descrittive del gesto ed è abitato da ottimi danzatori capaci anche di [essere] attori .
+[[Question:MC:SingleAnswer]]
+Il verbo [ essere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1031]]
+
+[[Question:MC]]
+Nel 93 il gruppo prevede di vendere circa 9mila Mitsubishi e 5mila Chrysler Jeep che [assommate] ai modelli Hyundai dovrebbe portare il totale del gruppo a 22-23mila unità .
+[[Question:MC:SingleAnswer]]
+Il verbo [ assommate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1418]]
+
+[[Question:MC]]
+MILANO - Si chiamerà Gruppo Gs la nuova azienda che nascerà dalla fusione di Sme e Gs nella controllante Schemaventuno , la società [partecipata] dai gruppi Del Vecchio , Edizione ( Benetton ) e Movenpick che ha rilevato la ex finanziaria alimentare dell' Iri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ partecipata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1868]]
+
+[[Question:MC]]
+E in serata le fiamme sono tornate a minacciare alcuni stabilimenti industriali , in particolare la fabbrica metallurgica Arinox : i vigili del fuoco hanno lottato per ore per [allontanare] le numerose bombole di idrogeno presenti nello stabilimento .
+[[Question:MC:SingleAnswer]]
+Il verbo [ allontanare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q651]]
+
+[[Question:MC]]
+Nonostante un saldo tecnico negativo per 65 miliardi ( comunque migliore rispetto al 91 , si legge ancora nel comunicato ) , la compagnia ha [conseguito] un utile di 3,9 miliardi , grazie anche a proventi straordinari per 19,5 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ conseguito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2163]]
+
+[[Question:MC]]
+Qui è nato il terrorismo ceceno , quello che ha [fatto] saltare in aria i condomini a Volgodonsk .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fatto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q56]]
+
+[[Question:MC]]
+ROMA - Raffica di approvazioni natalizie per le cessioni [avviate] nel 94 dall' Iri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avviate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

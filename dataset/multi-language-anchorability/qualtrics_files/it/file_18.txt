@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q320]]
+
+[[Question:MC]]
+Troppo pesante ( così come [accadde] nella passata stagione ) per il Fiemme l' assenza in mezzo al campo di Luca Giunchi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ accadde ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q400]]
+
+[[Question:MC]]
+E così I Simpsons , Sabrina , Arale , vengono venduti a prezzi che [vanno] dai 29 ai 39 euro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vanno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q222]]
+
+[[Question:MC]]
+« In ciascuno di questi Paesi vi è un conflitto e ogni conflitto è [legato] all' altro da ragioni politiche ed economiche .
+[[Question:MC:SingleAnswer]]
+Il verbo [ legato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1729]]
+
+[[Question:MC]]
+In questo modo si riuscirà a « [guadagnare] » una settimana per la discussione in aula .
+[[Question:MC:SingleAnswer]]
+Il verbo [ guadagnare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2146]]
+
+[[Question:MC]]
+Per il trasporto usarono carri merci dove finivano uomini donne e bambini , molti [morirono] già durante il viaggio » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ morirono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2169]]
+
+[[Question:MC]]
+Ma c' è un particolare ancora che non si spiega se non [guardando] indietro : perché proprio la scuola di Beslan ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ guardando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1601]]
+
+[[Question:MC]]
+Alcune delle famiglie sfollate vivono in vecchie fattorie semidistrutte e tentano una qualche forma di vita allevando capre , [pregando] , sperando .
+[[Question:MC:SingleAnswer]]
+Il verbo [ pregando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q435]]
+
+[[Question:MC]]
+I ragazzi sembrano [puntare] di più su Comix ( 11 euro ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ puntare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q816]]
+
+[[Question:MC]]
+A Rovereto è stato invitato da " Oriente Occidente " in collaborazione con il " Festivaletteratura " di Mantova per la serie di incontri centrati sul tema dei « Linguaggi » , una nuova sezione inaugurata quest' anno al Festival per permettere di [dialogare] con i protagonisti di differenti discipline , sempre mantenendo fissa l' attenzione sul dialogo tra i mondi dell' Oriente e quelli dell' Occidente .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dialogare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q149]]
+
+[[Question:MC]]
+Chiuso il primo trimestre fiscale 2006 in crescita rispetto allo stesso periodo dell' anno precedente sia alla voce ricavi ( saliti del 14,00% a 2,55 miliardi di dollari ) sia sul piano degli utili netti ( [arrivati] a 272,5 milioni con un incremento del 50,00% ) , Emc ha già confermato anche le modalità con le quali verranno assorbiti gli asset di Rsa : quest' ultima opererà infatti come Information Security Division della casa madre e avrà l' head quarter a Bedford , nel Massachuttes , sede storica della società , mentre l' attuale presidente e Ceodi Rsa , Art Coviello , assumerà la carica di executive vice president di Emc e presidente della nuova divisione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ arrivati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1176]]
+
+[[Question:MC]]
+« All' interno di questa fascia di rispetto - qui è il passaggio più importante - non dovranno essere [esercitate] attività produttive incompatibili con i vicini biotopi e nemmeno realizzate costruzioni o infrastrutture non direttamente collegate con i biotopi e l' agricoltura » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ esercitate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2050]]
+
+[[Question:MC]]
+Tanti gli spunti offerti dal programma di " Minoranzèro " a [partire] dai " Racconti di minoranze " due incontri aperitivo al Castello di Pergine con gli autori Carmine Abate ( mercoledì 8 ) e Fredo Valla ( giovedì 9 ) , poeti e cantori delle rispettive indentità arbereshe ed occitana .
+[[Question:MC:SingleAnswer]]
+Il verbo [ partire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q672]]
+
+[[Question:MC]]
+L' obiettivo dell' intesa ( tre anni la sua durata ) è quello di « [porre] le basi per una collaborazione fra le parti nei settori dell' istruzione ed educazione , della formazione professionale dei giovani , della formazione imprenditoriale e del consolidamento di microimprese , culturale e sociale » come recita l' articolo 1 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ porre ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q774]]
+
+[[Question:MC]]
+Si è fatto conoscere come « ladro maldestro » : lo scorso marzo si è ribaltato in bicicletta mentre stava scappando con un paio di cassette piene di monetine trafugate da una lavanderia , poi era stato [sorpreso] all' interno di un tombino con l' intenzione di intrufolarsi nel magazzino di una tabaccheria , infine lo scorso venerdì era stato denunciato perché trovato in possesso di un timbrino trafugato ad un medico , con cui falsificava le ricette .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sorpreso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1383]]
+
+[[Question:MC]]
+Il famoso filosofo francese condanna senza mezze misure i terroristi di Beslan ( « un' ignobile commando di assassini » ) , ma [fa] subito un distinguo : « Si dice che si tratti di un commando ceceno ma è falso , a quanto si sa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1170]]
+
+[[Question:MC]]
+« Riteniamo opportuno - scrivono i richiedenti nella richiesta di variante al Prg inviata al sindaco Pacher - che tutta l' area verde posta a nord di Vela ( Laghetti ) , per il suo elevato e originale valore paesaggistico e ambientale , [debba] essere trasformata in un parco , un polo della natura , per tutta la città » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ debba ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1625]]
+
+[[Question:MC]]
+I nuovi lavori acquisiti nel 92 sul mercato tradizionale [ammontano] a 222 miliardi , ai quali si aggiungono 115 miliardi relativi all' acquisizione dalle Ferrovie dello Stato di una importante commessa relativa all' alta velocità .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ammontano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2216]]
+
+[[Question:MC]]
+Solo l' internazionalizzazione del conflitto può porre fine alla violenza : l' Onu - purtroppo non c' è di meglio per ora - può [evitare] altre stragi » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ evitare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q905]]
+
+[[Question:MC]]
+Non è pensabile che il lavoro del Direttore Generale venga valutato solo in prossimità della scadenza del mandato ; la Politica dovrebbe avere un costante ritorno di quanto avviene nella Azienda Sanitaria sia da parte di chi ne [produce] i Servizi che da parte di chi ne fruisce .
+[[Question:MC:SingleAnswer]]
+Il verbo [ produce ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q260]]
+
+[[Question:MC]]
+Lo [rileva] una ricerca dell' università di Adelaide , condotta su un campione di 5000 adolescenti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rileva ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

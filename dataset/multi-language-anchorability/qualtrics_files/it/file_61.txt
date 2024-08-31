@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q614]]
+
+[[Question:MC]]
+Emesse 70 ordinanze di custodia cautelare , supportate da migliaia di intercettazioni ambientali e telefoniche , dichiarazioni di collaboratori di giustizia e testimonianze di una trentina di imprenditori e commercianti vittime dell' usura che , messi alle strette dagli investigatori , hanno ammesso di essere in mano agli usurai [fornendo] le indicazioni necessarie per giungere alla loro identificazione e all' arresto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fornendo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q579]]
+
+[[Question:MC]]
+MILANO - La malattia di Luca , il bambino di cinque anni [sottoposto] al trapianto di staminali , era la Talassemia major o morbo di Cooley , una grave forma di anemia caratterizzata da globuli rossi più piccoli , in numero ridotto e con una minore durata di vita .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sottoposto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q486]]
+
+[[Question:MC]]
+Infina il cardinale di Napoli , Michele Giordano , chiede che « La scuola sia il terreno in cui cominciare a [tessere] i fili di una civiltà di pace e di amore » , basata sul rispetto della vita umana e la solidarietà tra le persone .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tessere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1451]]
+
+[[Question:MC]]
+Si possono comunque consolare i biancocelesti guardando la statistica : negli ultimi due anni a vincere il campionato è [stata] proprio la squadra che all' esordio aveva affrontato il Salorno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q155]]
+
+[[Question:MC]]
+La richiesta [è] di eliminare la contestualità delle elezioni per il Senato federale e le regionali .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1183]]
+
+[[Question:MC]]
+Un' anticipazione del numero che [sarà] in edicola domani rivela che " durante la visita di Prodi a Mosca , il presidente di Zao Banca Intesa , Fallico , ha auspicato l' appoggio del governo all' operazione : una nuova compagnia aerea competitiva e fortemente favorita nello sviluppo del traffico aereo , cargo e passeggeri , soprattutto per le rotte eurasiatiche " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sarà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q299]]
+
+[[Question:MC]]
+nan [Scendeva] dal passo del Manghen in motocicletta , è caduto in curva e si è scontrato con un' auto guidata da una dona di Borgo Valsugana .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Scendeva ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q83]]
+
+[[Question:MC]]
+" Entro metà gennaio l' advisor dovrebbe indicare le comparazioni effettuate e poi l' Iri [deciderà] " , ha precisato ieri Salvatore Biondo , segretario nazionale della Fm Cisl al termine di un incontro con i vertici di Via Veneto per fare il punto sulla privatizzazione dell' ultimo troncone di siderurgia di Stato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deciderà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q956]]
+
+[[Question:MC]]
+Anche il Consorzio dei comuni , con il presidente Renzo Anderle , « unisce la propria voce a quelle degli amministratori locali ed [aderisce] - prima tra tutte la fiaccolata di giovedì nella città capoluogo - di cordoglio e di esecrazione per la perdita di tante vite innocenti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aderisce ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1289]]
+
+[[Question:MC]]
+TRENTO - Un progetto organico di aiuti alle famiglie colpite dalla tragedia di Beslan che [metta] assieme e coordini tutte le iniziative di solidarietà già avviate e quelle programmate , puntando in via prioritaria ad assicurare ai bambini e alle bambine che hanno vissuto quella spaventosa esperienza tutti i supporti , materiali e non , necessari per aiutarli a superare il terribile shock subito in quei drammatici giorni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ metta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q745]]
+
+[[Question:MC]]
+Un divieto che la moglie [voleva] fare rispettare e sul quale l' uomo era invece scettico .
+[[Question:MC:SingleAnswer]]
+Il verbo [ voleva ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q695]]
+
+[[Question:MC]]
+E quali testimoni della buona riuscita di alcuni di questi progetti , sono arrivati a Trento due importanti religiosi , [accompagnati] da monsignor Luigi Bressan : Lino Panizza , vescovo di Carabayllo , che invita le autorità ad intervenire all' ormai prossima inaugurazione del centro El Buen Pastor ( 180 alunni , tra i quali anche alcune ragazze iscritte al corso di falegnameria ) , e Adriano Tomasi , vescovo ausiliario di Lima , che annuncia il completamento ( forse già a marzo ) dei primi edifici dell' istituto di Manchay destinato a far studiare almeno un migliaio di allievi distribuiti in corsi da sei mesi fino a tre anni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ accompagnati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1731]]
+
+[[Question:MC]]
+Così la seduta del 28 settembre [tratterà] argomenti di ordinaria amministrazione , mentre il 29 si « apriranno le danze » con le relazioni introduttive del vicesindaco e assessore all' urbanistica Alessandro Andreatta e del presidente della commissione Agostino Bitteleri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tratterà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q626]]
+
+[[Question:MC]]
+Aldo Cotti e Maria Banja erano sposati da alcuni mesi , ma fra loro c' [erano] tensioni pare dovute alla gelosia dell' uomo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ erano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1174]]
+
+[[Question:MC]]
+« All' interno di questa fascia di rispetto - qui [è] il passaggio più importante - non dovranno essere esercitate attività produttive incompatibili con i vicini biotopi e nemmeno realizzate costruzioni o infrastrutture non direttamente collegate con i biotopi e l' agricoltura » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2207]]
+
+[[Question:MC]]
+« C' [è] un antico proverbio persiano che dice : " quando lo scià impazzisce , marcia sul Caucaso " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q431]]
+
+[[Question:MC]]
+Dopo un periodo di calo , anche gli l' Invicta ( 68 euro ) sembra fare nuovamente capolino fra gli scaffali , mentre , dopo aver dominato gli anni Novanta , il diario - agenda Smemoranda ( 12 euro ) sembra essere [entrato] in un periodo di stanca , tanto che in una libreria lo abbiamo trovato in vendita con il 20% di sconto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ entrato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q957]]
+
+[[Question:MC]]
+Il Trentino non [mancherà] di contribuire ad alleviare le sofferenze dei piccoli abitanti dell' Ossezia attraverso un progetto adatto » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ mancherà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q566]]
+
+[[Question:MC]]
+Gli edifici più alti della capitale hanno [oscillato] visibilmente , generando paura negli abitanti non abituati ai terremoti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ oscillato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1028]]
+
+[[Question:MC]]
+Nei primi cinque mesi del 93 in Italia , sono state [consegnate] 3935 Mitsubishi , 1620 Chrysler e 4650 Hyundai .
+[[Question:MC:SingleAnswer]]
+Il verbo [ consegnate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

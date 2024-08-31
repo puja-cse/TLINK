@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1804]]
+
+[[Question:MC]]
+ROMA - Il presidente dell' Anci , Leonardo Domenici , chiede ai comuni italiani di [ospitare] i bambini di Beslan per aiutarli a dimenticare l' orrore .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ospitare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1884]]
+
+[[Question:MC]]
+Eppure lui [è] uno che parla tanto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1293]]
+
+[[Question:MC]]
+TRENTO - Un progetto organico di aiuti alle famiglie colpite dalla tragedia di Beslan che metta assieme e coordini tutte le iniziative di solidarietà già avviate e quelle programmate , puntando in via prioritaria ad [assicurare] ai bambini e alle bambine che hanno vissuto quella spaventosa esperienza tutti i supporti , materiali e non , necessari per aiutarli a superare il terribile shock subito in quei drammatici giorni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ assicurare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1096]]
+
+[[Question:MC]]
+In un laconico comunicato la Wellcome ha [reso] noto che una controproposta era sul tavolo ( pare da parte della Zeneca ) ma si è scontrata con il rifiuto del Wellcome Trust , la fondazione caritatevole che detiene il 39,50% del capitale della società .
+[[Question:MC:SingleAnswer]]
+Il verbo [ reso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q152]]
+
+[[Question:MC]]
+Chiuso il primo trimestre fiscale 2006 in crescita rispetto allo stesso periodo dell' anno precedente sia alla voce ricavi ( saliti del 14,00% a 2,55 miliardi di dollari ) sia sul piano degli utili netti ( arrivati a 272,5 milioni con un incremento del 50,00% ) , Emc ha già confermato anche le modalità con le quali verranno assorbiti gli asset di Rsa : quest' ultima [opererà] infatti come Information Security Division della casa madre e avrà l' head quarter a Bedford , nel Massachuttes , sede storica della società , mentre l' attuale presidente e Ceodi Rsa , Art Coviello , assumerà la carica di executive vice president di Emc e presidente della nuova divisione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ opererà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q91]]
+
+[[Question:MC]]
+Non ci sono garanzie - ha [detto] - per gli assetti industriali e il futuro dei lavoratori , né si intravvede una risposta di tipo industriale " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ detto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1645]]
+
+[[Question:MC]]
+E' prevista anche un' escursione nei boschi della zona per raccogliere esemplari di specie botaniche che verranno poi [classificate] e conservate .
+[[Question:MC:SingleAnswer]]
+Il verbo [ classificate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1511]]
+
+[[Question:MC]]
+Sempre ieri , intanto , il Consiglio di amministrazione della cassa ha [approvato] il bilancio semestrale , che vede crescere la raccolta complessiva a circa 6.322 milioni di euro , mentre quella indiretta fa annotare una crescita pari ad oltre l' 11% .
+[[Question:MC:SingleAnswer]]
+Il verbo [ approvato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1710]]
+
+[[Question:MC]]
+L' indirizzo [è] www.appm.it.
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1376]]
+
+[[Question:MC]]
+PARIGI - A dispetto della sanguinosa presa di ostaggi a Beslan , Andrè Glucksmann ritorna alla carica con una nuova , appassionata difesa della causa cecena e [denuncia] la « sporca guerra » in corso in quella zona del Caucaso , guerra che ha gia provocato un' immane ecatombe di bambini .
+[[Question:MC:SingleAnswer]]
+Il verbo [ denuncia ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2114]]
+
+[[Question:MC]]
+Tra queste popolazioni e i Russi c' [è] sempre stata una più o meno forte rivalità .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1535]]
+
+[[Question:MC]]
+Ieri ha firmato anche D' Alema , mentre Fassino ha dichiarato che « [è] meglio puntare su una nuova legge » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1819]]
+
+[[Question:MC]]
+« La proclamazione dello sciopero - ha [precisato] Elena Vannucci , segretaria nazionale Fiba Cisl - deriva dalla chiusura totale da parte dell' Abi , che si è dimostrata non disposta a trattare dopo che si era raggiunta una buona piattaforma di accordo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ precisato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1582]]
+
+[[Question:MC]]
+« Con fierezza , con fierezza » grida l' addestratore , ma i ragazzi [hanno] sonno , sono stanchi ; enormi sbadigli si spalancano sulla loro vita malinconica di ordine e disciplina forzati .
+[[Question:MC:SingleAnswer]]
+Il verbo [ hanno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q762]]
+
+[[Question:MC]]
+Il terzo e il quarto mentre [cercava] di scappare verso l' uscio di casa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ cercava ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1522]]
+
+[[Question:MC]]
+L' andamento degli impieghi nei primi sei mesi del 2004 è [stato] sopra la media , ed evidenzia una crescita del 12,73% in confronto al risultato ottenuto nel primo semestre 2003 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q840]]
+
+[[Question:MC]]
+Come Trentino , vorrei avere i migliori servizi dai migliori professionisti sanitari , a disposizione 24 ore su 24 ; questi Servizi li vorrei disponibili , sia per le urgenze che per gli interventi programmabili , nei tempi da me ritenuti adeguati ; vorrei la massima disponibilità d' animo e di tempo di tutti gli operatori sanitari ; il cibo e la sistemazione logistica dovrebbero [essere] non solo di mio gradimento ma consentirmi anche di poter scegliere tra varie opzioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ essere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1736]]
+
+[[Question:MC]]
+Toccherà a loro tracciare il quadro generale della variante , spiegare gli obiettivi della revisione che si [porterà] in aula , illustrare il percorso compiuto dagli uffici e dalla commissione , presentare i criteri con cui sono state valutate le domande dei privati .
+[[Question:MC:SingleAnswer]]
+Il verbo [ porterà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1264]]
+
+[[Question:MC]]
+É stata [accolta] da un' atmosfera comprensibilmente triste la delegazione della Valle di Non che in questi giorni è in visita in Russia per rinnovare il gemellaggio tra Cles e Suzdal , il più importante centro religioso della Russia sud-orientale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ accolta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1639]]
+
+[[Question:MC]]
+In questi sei anni erano stati respinti tutti gli appelli che avevano [presentato] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ presentato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

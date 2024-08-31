@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q119]]
+
+[[Question:MC]]
+L'Agence universitaire de la francophonie [porte] plainte pour diffamation .
+[[Question:MC:SingleAnswer]]
+Le verbe [ porte ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q160]]
+
+[[Question:MC]]
+Et , pour certaines , de façon spectaculaire : la population de Nantes a [augmenté] de 10 % entre 1990 et 1999 .
+[[Question:MC:SingleAnswer]]
+Le verbe [ augmenté ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q43]]
+
+[[Question:MC]]
+Une distribution de lunettes spéciales pour regarder l' éclipse [aura] lieu pour les administrés mardi 10 août , en mairie de 10 h à 12 h .
+[[Question:MC:SingleAnswer]]
+Le verbe [ aura ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q181]]
+
+[[Question:MC]]
+Hier à 10 h , une dizaine de délégués de la FNEC FP Force Ouvrière ont [appelé] leurs collègues à boycotter la deuxième journée de pré - rentrée .
+[[Question:MC:SingleAnswer]]
+Le verbe [ appelé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q47]]
+
+[[Question:MC]]
+Près de deux tiers des Français ( 65 % ) se disent plutôt optimistes ( 56 % ) ou très optimistes ( 9 % ) en pensant à l' avenir , selon un sondage sur le moral des Français à la rentrée de septembre [réalisé] par l'IFOP pour Ouest - France .
+[[Question:MC:SingleAnswer]]
+Le verbe [ réalisé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q50]]
+
+[[Question:MC]]
+Cependant , si 56 % des personnes [interrogées] font confiance au gouvernement Raffarin en matière de lutte contre l'insécurité , 71 % ne lui font pas confiance en matière d'augmentation du pouvoir d'achat et 64 % en matière de lutte contre le chômage .
+[[Question:MC:SingleAnswer]]
+Le verbe [ interrogées ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q46]]
+
+[[Question:MC]]
+Près de deux tiers des Français ( 65 % ) se disent plutôt optimistes ( 56 % ) ou très optimistes ( 9 % ) en [pensant] à l' avenir , selon un sondage sur le moral des Français à la rentrée de septembre réalisé par l'IFOP pour Ouest - France .
+[[Question:MC:SingleAnswer]]
+Le verbe [ pensant ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q75]]
+
+[[Question:MC]]
+« Il nous a [demandé] de le suivre .
+[[Question:MC:SingleAnswer]]
+Le verbe [ demandé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q277]]
+
+[[Question:MC]]
+Hier soir , les services techniques de la Ville engageaient des travaux pour [fermer] le local tandis que les pompiers s ' organisaient pour effectuer des rondes pendant la nuit afin de déceler toute reprise de feu .
+[[Question:MC:SingleAnswer]]
+Le verbe [ fermer ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q204]]
+
+[[Question:MC]]
+Les auteurs de l' agression ont été interpellés et [conduits] au commissariat de police pour y être entendus .
+[[Question:MC:SingleAnswer]]
+Le verbe [ conduits ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q20]]
+
+[[Question:MC]]
+Tony Blair , le Premier ministre britannique a achevé hier deux jours de négociations avec les dirigeants d'Irlande du Nord , sans réussir à [surmonter] le blocage persistant sur la formation de l'exécutif .
+[[Question:MC:SingleAnswer]]
+Le verbe [ surmonter ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q145]]
+
+[[Question:MC]]
+C'est [fait] .
+[[Question:MC:SingleAnswer]]
+Le verbe [ fait ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q126]]
+
+[[Question:MC]]
+#NAME? [dit] favorable à un « quinquennat de cohérence » consistant à aligner la durée des mandats présidentiel et législatif afin d' éviter une cohabitation .
+[[Question:MC:SingleAnswer]]
+Le verbe [ dit ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q272]]
+
+[[Question:MC]]
+A l'heure du sinistre , près une centaine de personnes se [trouvait] dans le boulodrome ou trente triplettes engageaient leur troisième partie .
+[[Question:MC:SingleAnswer]]
+Le verbe [ trouvait ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q225]]
+
+[[Question:MC]]
+L' opération a [mobilisé] 25 hommes issus des centres de Belfort Nord et Sud , de Giromagny et du service départemental d'incendie et de secours .
+[[Question:MC:SingleAnswer]]
+Le verbe [ mobilisé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q207]]
+
+[[Question:MC]]
+L'avantage du Premier ministre dans les sondages est si fragile qu'il [rend] tout pronostic impossible .
+[[Question:MC:SingleAnswer]]
+Le verbe [ rend ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q70]]
+
+[[Question:MC]]
+Il nous a demandé de l' aider à [soulever] son vélo » .
+[[Question:MC:SingleAnswer]]
+Le verbe [ soulever ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q157]]
+
+[[Question:MC]]
+Environ 80 % des Français [habitent] désormais dans une zone urbaine ou péri - urbaine et les grandes villes de plus de 100.000 habitants sont les principales bénéficiaires de la croissance démographique .
+[[Question:MC:SingleAnswer]]
+Le verbe [ habitent ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q113]]
+
+[[Question:MC]]
+Pauline , en vacances avec sa famille au domaine Saint - Jacques , a été [transportée] à l'hôpital de Hautepierre à Strasbourg , après avoir coulé dans le grand bassin de la piscine couverte du site .
+[[Question:MC:SingleAnswer]]
+Le verbe [ transportée ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q205]]
+
+[[Question:MC]]
+Les auteurs de l' agression ont été interpellés et conduits au commissariat de police pour y être [entendus] .
+[[Question:MC:SingleAnswer]]
+Le verbe [ entendus ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+

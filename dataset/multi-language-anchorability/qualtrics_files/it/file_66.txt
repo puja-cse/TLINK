@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q986]]
+
+[[Question:MC]]
+Sull' « esigenza per l' intera cittadinanza di rappresentare l' orrore e lo smarrimento per una tragedia immane , e di dare una risposta forte alla cultura della guerra e ad una politica militarizzata che non porta da nessuna parte » , ha messo invece l' accento Ruggero Purin , segretario provinciale della Cgil : « Al di là del cordoglio e dell' ovvia solidarietà per le vittime - ha insistito Purin - questa manifestazione deve [essere] anche occasione di rilancio di una solidarietà trasversale e della politica come strumento per superare i conflitti » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ essere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q475]]
+
+[[Question:MC]]
+Perchè non una sessione straordinaria [dedicata] al terrorismo ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ dedicata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1897]]
+
+[[Question:MC]]
+Sono partito bene come già l' anno scorso ( anche allora segnò alla prima giornata contro il Natz , ndr ) e [spero] di continuare così .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spero ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q814]]
+
+[[Question:MC]]
+A Rovereto è stato invitato da " Oriente Occidente " in collaborazione con il " Festivaletteratura " di Mantova per la serie di incontri centrati sul tema dei « Linguaggi » , una nuova sezione [inaugurata] quest' anno al Festival per permettere di dialogare con i protagonisti di differenti discipline , sempre mantenendo fissa l' attenzione sul dialogo tra i mondi dell' Oriente e quelli dell' Occidente .
+[[Question:MC:SingleAnswer]]
+Il verbo [ inaugurata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2062]]
+
+[[Question:MC]]
+Così domani 8 a Serso ( Chiesa di San Giorgio , ore 21 ) si [tiene] il concerto dei Cantori di Castelsardo , con il loro repertorio polivocale religioso , e dei Cantori di Sessa Auruncia depositari di canti e di riti quaresimali delle Processioni della Settimana Santa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tiene ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q357]]
+
+[[Question:MC]]
+Nell' eterna « lotta » per l' acquisto del corredo scolastico che dissangua il portafoglio di una famiglia non è che anche i genitori [abbiano] le loro responsabilità ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ abbiano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2136]]
+
+[[Question:MC]]
+Questo [fu] uno dei motivi per cui Stalin fu spietato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fu ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1067]]
+
+[[Question:MC]]
+Alberto Pacher , adesso sindaco di Trento , frequentava proprio l' asilo Pedrotti : « Le case c' erano già tutte qui attorno - ricorda mentre indica gli edifici che circondano la scuola materna - e noi [salivamo] da là » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ salivamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q549]]
+
+[[Question:MC]]
+L' anziana madre , che vive a Spoleto , nei giorni scorsi era venuta a casa sua , a Piedicolle , per [assistere] ed aiutare quella figlia che le dava tante preoccupazioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ assistere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q321]]
+
+[[Question:MC]]
+Il nuovissimo Aldeno del ds Kaisermann [esordisce] alla grande conquistando l' intera posta in palio nel match esterno sul difficile campo del Calcio Chiese .
+[[Question:MC:SingleAnswer]]
+Il verbo [ esordisce ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1175]]
+
+[[Question:MC]]
+« All' interno di questa fascia di rispetto - qui è il passaggio più importante - non [dovranno] essere esercitate attività produttive incompatibili con i vicini biotopi e nemmeno realizzate costruzioni o infrastrutture non direttamente collegate con i biotopi e l' agricoltura » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovranno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2048]]
+
+[[Question:MC]]
+« Questa iniziativa vuole essere una sorta di " breviario " - spiega l' ideatore , Renato Morelli a cui è affidata la direzione artistica del festival - in questo caso focalizzato sull' Arco alpino e sulla nuova Europa per interrogarsi sugli altri , sui diversi , sui confini che rompono e si spostano , sulle minoranze anche lontano che [diventano] presenze vicine e quotidiane » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ diventano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1327]]
+
+[[Question:MC]]
+Perchè , quindi - si chiede il presidente del Consiglio provinciale - non dare vita ad un progetto organico di aiuti - « Il Trentino per Beslan » - che metta assieme e coordini tutte le iniziative di solidarietà già avviate e quelle programmate , puntando in via prioritaria ad assicurare ai bambini e alle bambine che hanno vissuto quella spaventosa esperienza tutti i supporti , materiali e non , necessari per aiutarli a [superare] il terribile shock subito in quei drammatici giorni ? » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ superare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2038]]
+
+[[Question:MC]]
+Si tratta di un particolare festival di letteratura , musica , multimedialità e danza organizzato dalla Regione Trentino Alto Adige e dal Comune di Pergine che [guarda] alle minoranze per andare oltre ogni confine .
+[[Question:MC:SingleAnswer]]
+Il verbo [ guarda ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q738]]
+
+[[Question:MC]]
+« Appariva lucido , conscio di quello che aveva fatto » - ha [raccontato] un militare .
+[[Question:MC:SingleAnswer]]
+Il verbo [ raccontato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1598]]
+
+[[Question:MC]]
+Alcune delle famiglie sfollate [vivono] in vecchie fattorie semidistrutte e tentano una qualche forma di vita allevando capre , pregando , sperando .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vivono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q985]]
+
+[[Question:MC]]
+Sull' « esigenza per l' intera cittadinanza di rappresentare l' orrore e lo smarrimento per una tragedia immane , e di dare una risposta forte alla cultura della guerra e ad una politica militarizzata che non porta da nessuna parte » , ha messo invece l' accento Ruggero Purin , segretario provinciale della Cgil : « Al di là del cordoglio e dell' ovvia solidarietà per le vittime - ha insistito Purin - questa manifestazione [deve] essere anche occasione di rilancio di una solidarietà trasversale e della politica come strumento per superare i conflitti » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deve ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1748]]
+
+[[Question:MC]]
+Poi , affinché gli interventi inseriti nella variante possano effettivamente venire realizzati , [servirà] il « visto » della giunta provinciale , che ha a disposizione un anno per leggere tutta la documentazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ servirà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q407]]
+
+[[Question:MC]]
+Prima fra tutte Dimensione Danza , che [propone] delle borse molto simili a quelle che gli interpreti di « Saranno famosi » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ propone ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1211]]
+
+[[Question:MC]]
+« L' esperienza di questi lavori - [spiega] il presidente della Scuola Alessandro Rossi , esperto in appalti pubblici - è un segnale importante : è la dimostrazione che quando pubblico e privato vogliono collaborare possono realizzare interventi significativi ed in tempi estremamente rapidi » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spiega ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q201]]
+
+[[Question:MC]]
+¿ Cómo explicarles , sin recurrir al birlibirloque de los acuerdos que el hombre inventa , lo que la ley de la naturaleza [ ignora ] ? .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [ignora] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q396]]
+
+[[Question:MC]]
+Egipto necesita más de 250 millones de dólares para eliminar los campos de minas de distintos tipos que se encuentran en diferentes zonas de este país , [ dijo ] el ministro egipcio de Asuntos Exteriores , Amro Musa .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [dijo] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q203]]
+
+[[Question:MC]]
+¿ Qué sentido tiene [ combinar ] tan dura faena con tan torpe beneficio sin el consuelo romántico de un mar libre , abierto e inagotable ? .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [combinar] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q259]]
+
+[[Question:MC]]
+Los párkings del Mercat Central y de la plaza del Doctor Robert ( 728 plazas ) se [ reforzarán ] en el futuro con las 550 plazas del Vapor Turull y del cine Imperial .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [reforzarán] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q59]]
+
+[[Question:MC]]
+La cerrazón del poder federal puede generar un incremento del descontento nacionalista en Quebec , pero difícilmente [ llegará ] a crear dentro de esta legislatura las condiciones ganadoras para que haya un referendo sobre la independencia con garantías de éxito .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [llegará] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q245]]
+
+[[Question:MC]]
+Sánchez [ anunció ] que en 15 días dispondrá de los resultados .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [anunció] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q428]]
+
+[[Question:MC]]
+El juez [ interpreta ] que Microsoft ha violado las leyes antimonopolio y se espera que dicte una resolución en breve .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [interpreta] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q56]]
+
+[[Question:MC]]
+Esta línea la suscriben las nueve provincias anglófonas , pero la [ rechaza ] Ottawa .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [rechaza] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q209]]
+
+[[Question:MC]]
+Así lo [ ven ] los pescadores , y sus argumentos , romos en jurídica y política , no presentan fisuras morales .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [ven] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q95]]
+
+[[Question:MC]]
+Djordjevic reconoció además que se [ siente ] un azulgrana más - - " aquí he puesto mis raíces , he comprado una casa , he vivido el club , los colores , y me siento un culé más " - - después de estas tres temporadas , pero añadió que ese sentimiento no tiene por qué influir en su decisión .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [siente] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q237]]
+
+[[Question:MC]]
+El ayuntamiento ya dispone de datos sobre la Via Alexandra , donde según el concejal de Via Pública , Joan Carles Sánchez , hay 260 vecinos interesados en [ adquirir ] plazas .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [adquirir] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q232]]
+
+[[Question:MC]]
+Can'Oriac , la Creu de Barber y la Via Alexandra , tres populosos barrios de la periferia de Sabadell , podrían [ contar ] con párkings subterráneos si se confirma que los equipamientos son viables .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [contar] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q109]]
+
+[[Question:MC]]
+El internacional yugoslavo quiso despedirse [ agradeciendo ] el apoyo de todos , afición , técnicos , jugadores e incluso de los rivales .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [agradeciendo] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q150]]
+
+[[Question:MC]]
+Aíto comentó que le ha costado mucho dar este paso - - " son decisiones muy difíciles y no soy insensible como muchos se creen " - - y mostró su deseo de cerrar cuanto antes la renovación de Roger Esteller , uno de los jugadores con los que el club [ negocia ] un nuevo contrato , junto al estadounidense Derrick Alston .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [negocia] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q272]]
+
+[[Question:MC]]
+El tenista catalán fue [ eliminado ] por el argentino Mariano Hood ( 7-6 , 6-4 ) en la primera ronda del torneo en el que el bicampeón de Roland Garros jugaba con una invitación especial .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [eliminado] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q389]]
+
+[[Question:MC]]
+Yushiro Yagi , presidente del Comité Olímpico Japonés ( JOC ) , aclaró que pese a que su país ya ha sido escenario de Juegos Olímpicos confía en que ese aprendizaje les sirva para [ albergar ] otros con garantías y añadió que " la candidatura de Osaka es muy sólida y dispone de todo lo necesario " .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [albergar] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q220]]
+
+[[Question:MC]]
+Pero nada de esto pasará hasta que [ comprendamos ] que nuestras redes - - telefónicas , informáticas , narcóticas - - son sólo derivaciones inciertas de aquellas que el hombre usaba para vivir cuando el mar era uno y daba para todos .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [comprendamos] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q41]]
+
+[[Question:MC]]
+Pero es que , además , la formación de Bouchard está en retroceso y [ consiguió ] 25.000 votos menos que el federalista Partido Liberal .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [consiguió] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q17]]
+
+[[Question:MC]]
+El Gobierno prevé que los próximos meses sean malos en materia de empleo , ya que espera que se [ incorporen ] al mercado laboral los nuevos licenciados en las universidades debido a que el año escolar acaba de terminar .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [incorporen] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q450]]
+
+[[Question:MC]]
+En esa situación , sus recursos podrían tramitarse en tribunales de apelación o [ pasar ] al Tribunal Supremo , opción viable para los grandes casos de monopolio .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [pasar] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+

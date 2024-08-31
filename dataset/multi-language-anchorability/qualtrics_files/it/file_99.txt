@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q2002]]
+
+[[Question:MC]]
+A Ciani si [affiancherà] Pierangelo Magnone con la carica di direttore generale della Nfm .
+[[Question:MC:SingleAnswer]]
+Il verbo [ affiancherà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q480]]
+
+[[Question:MC]]
+Martino rifiuta l' idea che sia in atto uno scontro di civiltà : « E' in atto uno scontro all' interno di ogni civiltà , fra chi è sul versante del diritto , del dialogo , della convivenza e della giustizia e chi [è] integralista , dovunque esso sia , perchè di integralismo non c' è solo quello islamico » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1022]]
+
+[[Question:MC]]
+La Hyundai Automobili Italia , che [ha] sede a Torino , ha chiuso il 92 con un fatturato consolidato di 175,4 miliardi e ha venduto 11501 vetture attraverso 138 concessionari .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ha ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q231]]
+
+[[Question:MC]]
+In realtà , [è] un' intesa che arriva al termine di un percorso di « avvicinamento » durante il quale sono già state avviate forme di cooperazione soprattutto attraverso il Ceii ( Centro Europeo di Impresa e Innovazione ) ed il Conit , il consorzio del terziario di sviluppo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1097]]
+
+[[Question:MC]]
+In un laconico comunicato la Wellcome ha reso noto che una controproposta [era] sul tavolo ( pare da parte della Zeneca ) ma si è scontrata con il rifiuto del Wellcome Trust , la fondazione caritatevole che detiene il 39,50% del capitale della società .
+[[Question:MC:SingleAnswer]]
+Il verbo [ era ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1904]]
+
+[[Question:MC]]
+Diciamo che possiamo [puntare] al podio se solo sappiamo mantenere la concentazione e condizione giusta .
+[[Question:MC:SingleAnswer]]
+Il verbo [ puntare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q766]]
+
+[[Question:MC]]
+Il proiettile che l' ha condannata a morte è stato quello esploso verso l' inguine , che molto probabilmente ha [reciso] l' arteria femorale e che l' ha raggiunta appena fuori della porta , con i vicini che , dall' abitazione di fronte , assistevano increduli alla scena .
+[[Question:MC:SingleAnswer]]
+Il verbo [ reciso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1241]]
+
+[[Question:MC]]
+« Mi complimento per il risultato : per i tempi ma anche per i modi » [commenta] Pacher , intervenuto all' inaugurazione assieme ai colleghi di giunta Andrea Rudari e Renato Pegoretti ( la Provincia , invece , è stata rappresentata dall' assessore Silvano Grisenti e dal collega Tiziano Salvaterra ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ commenta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2154]]
+
+[[Question:MC]]
+« Quasi tutti gli attuali dirigenti ceceni sono nati durante la deportazione : questo può spiegare la rabbia che si [vive] in cecenia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vive ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q101]]
+
+[[Question:MC]]
+L' Aido ( Associazione italiana donazione organi e tessuti ) del Trento in una nota [annuncia] che questa sera sarà presente allo stadio della Quercia di Rovereto , in occasione del meeting internazionale di atletica leggera , con i propri dirigenti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ annuncia ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2051]]
+
+[[Question:MC]]
+Significativo anche il titolo : « Minoranzèro - [spiega] Morelli - indica lo zero della prima edizione , ma richiama anche il concetto di " romancero " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spiega ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1093]]
+
+[[Question:MC]]
+Da tempo la Wellcome , che aveva ritenuto insufficiente l' offerta della Glaxo , era freneticamente a caccia di un " cavaliere bianco " che potesse rilanciare sul prezzo della Glaxo e aveva [consigliato] i propri azionisti ad attendere un' alternativa più attraente .
+[[Question:MC:SingleAnswer]]
+Il verbo [ consigliato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1635]]
+
+[[Question:MC]]
+I quattro - Omar Hayat , Mubarik Ali , Muhammad Ashraf e Shehzad Ahmed - [riconosciuti] colpevoli di aver violentato nel 1999 la ragazza , all' epoca 14enne , sono stati giustiziati nella prigione di Faisalabad , città industriale nella provincia del Pundjab ( centro del paese ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riconosciuti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1132]]
+
+[[Question:MC]]
+Non sono classiche istanze di modifica del Prg , hanno più che altro il sapore di una forma particolare di petizione per [difendere] il proprio territorio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ difendere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1964]]
+
+[[Question:MC]]
+Se [devo] fare un nome solo dico Benacense perchè ha la rosa più completa , con tanti giocatori di categoria superiore .
+[[Question:MC:SingleAnswer]]
+Il verbo [ devo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q647]]
+
+[[Question:MC]]
+Contrassegnato da significativi progressi nella raccolta premi , il 92 ha visto - [sottolinea] una nota - anche un miglioramento dei saldi tecnici rispetto all' anno precedente .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sottolinea ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2137]]
+
+[[Question:MC]]
+Questo fu uno dei motivi per cui Stalin [fu] spietato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fu ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1763]]
+
+[[Question:MC]]
+In teoria , nessuna norma impone un ultimatum per il loro deposito , ma i capigruppo hanno siglato questa sorta di « accordo tra gentiluomini » per dare modo agli uffici di [compiere] una veloce fase di istruttoria delle eventuali nuove domande inserite negli emendamenti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ compiere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1113]]
+
+[[Question:MC]]
+In un tentativo di minimizzare i danni , il consiglio della Wellcome ha reso noto ieri di avere ricevuto garanzie che la fusione tra le due società , che [daranno] vita al nuovo gruppo Glaxo-Wellcome , seguirà criteri di " correttezza e obiettività " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ daranno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1334]]
+
+[[Question:MC]]
+« Ecco - conclude Bezzi - , questo ritengo sia il compito primario delle nostre istituzioni autonomiste : farsi carico , interpretare il senso di sgomento e insieme la voglia di fare qualcosa dei trentini , per mettere in campo un' azione coordinata capace di [raccogliere] tutte le sensibilità e le disponibilità della società civile , sociale ed economica del Trentino per contribuire a sanare , per quanto possibile , questa incancellabile ferita alla vita e alla dignità umana » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ raccogliere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

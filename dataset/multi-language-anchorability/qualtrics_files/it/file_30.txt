@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q252]]
+
+[[Question:MC]]
+Hamas accusa Israele di aver pianificato l' arresto dei vertici di Hamas " " sin dal risultato delle elezioni palestinesi " " dello scorso gennaio - Il rapimento del colono in Cisgiordania " " e' stato [usato] solo come pretesto " " per l' arresto di deputati e ministri palestinesi , ha denunciato il portavoce del governo , Ahmed Bahar .
+[[Question:MC:SingleAnswer]]
+Il verbo [ usato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1053]]
+
+[[Question:MC]]
+Domani invece gli organizzatori [serviranno] il piatto forte : alle 21 il primo salto di gara e solo i migliori 30 accederanno poi alla finalissima delle ore 22 , con l' assegnazione dei punti di Coppa del Mondo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ serviranno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q177]]
+
+[[Question:MC]]
+Neppure lo 0 - 0 del Ger [può] essere definito impossibile : nella prima uscita stagionale ci può stare che una squadra pur con le ambizioni e i mezzi di quella di Ala non riesca a mettere sotto un Salorno incompleto e rivoluzionato , ma non per questo meno stimolato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ può ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q469]]
+
+[[Question:MC]]
+I membri del Consiglio di sicurezza potrebbero riunirsi ad esempio per vedere insieme come [affrontare] il nuovo terrorismo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ affrontare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q908]]
+
+[[Question:MC]]
+Quanto poi ai collaboratori del Direttore Generale , è ovvio che [vanno] rifiutate posizioni aprioristiche di chi ritiene che solo fuori dal Trentino si possano trovare Dirigenti di un certo spessore professionale ; allo stesso modo va rigettata l' ipotesi della promozione della " trentinità " in quanto tale come giudizio di merito .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vanno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q763]]
+
+[[Question:MC]]
+Il terzo e il quarto mentre cercava di [scappare] verso l' uscio di casa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scappare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q348]]
+
+[[Question:MC]]
+Pronostici rispettati o c' [è] qualche risultato che non si aspettava in questa prima giornata ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1796]]
+
+[[Question:MC]]
+Per l' elezione dei componenti del Csm e i giudici della Consulta , Napolitano [chiede] ai Gruppi Parlamentari di cercare " soluzioni concordate " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ chiede ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q442]]
+
+[[Question:MC]]
+ROMA - « Ormai siamo [entrati] nella quarta guerra mondiale » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ entrati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2185]]
+
+[[Question:MC]]
+Ma l' humus letale , per far nascere il terrorismo , dov' [era] ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ era ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1339]]
+
+[[Question:MC]]
+La dismissione è [avvenuta] nell' ambito delle procedure di liquidazione del gruppo Cameli e - segnala un comunicato della società acquirente - " ha permesso il salvataggio di oltre il 60,00% dei posti di lavoro della Bravo " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avvenuta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q325]]
+
+[[Question:MC]]
+Franco Pistolato , allenatore dell' Alta Vallagarina , [è] soddisfatto per l' importante successo ottenuto contro la Condinese .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1323]]
+
+[[Question:MC]]
+Perchè , quindi - si chiede il presidente del Consiglio provinciale - non dare vita ad un progetto organico di aiuti - « Il Trentino per Beslan » - che metta assieme e coordini tutte le iniziative di solidarietà già avviate e quelle programmate , [puntando] in via prioritaria ad assicurare ai bambini e alle bambine che hanno vissuto quella spaventosa esperienza tutti i supporti , materiali e non , necessari per aiutarli a superare il terribile shock subito in quei drammatici giorni ? » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ puntando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2130]]
+
+[[Question:MC]]
+« Nel '17 , approfittando della confusione della rivoluzione Russa , i popoli del Caucaso [tentarono] la strada dell' indipendenza : la Russia represse aspramente » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tentarono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q47]]
+
+[[Question:MC]]
+La giornata di Oriente Occidente s' è [conclusa] con l' esibizione del dj Fabio e con la sua bella selezione di musiche anni Ottanta proposta ad una platee , questa volta , non propriamente folta .
+[[Question:MC:SingleAnswer]]
+Il verbo [ conclusa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1776]]
+
+[[Question:MC]]
+La videocamera si muove molto , ma è chiaro che i sequestratori cercavano di [filmare] il loro dispositivo esplosivo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ filmare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1788]]
+
+[[Question:MC]]
+TRENTO - Un set di grande equilibrio , più nulla da fare nel secondo : Davide Volpe ( nella foto ) ha messo addosso un po' di brividi a Markus Innerebner , ma è stato poi l' altoatesino a qualificarsi per gli ottavi dell' open del Ct Trento , [imitato] in ciò da Patrick Prader e David Complojer .
+[[Question:MC:SingleAnswer]]
+Il verbo [ imitato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q730]]
+
+[[Question:MC]]
+MONTECALVOLI - Ha sparato alla moglie , [uccidendola] e poi ha atteso i Carabinieri sulla soglia di casa , fumando una sigaretta .
+[[Question:MC:SingleAnswer]]
+Il verbo [ uccidendola ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q258]]
+
+[[Question:MC]]
+Il fenomeno è destinato a creare problemi a tanti , dai medici all' industria dell' abbigliamento , e rende fra l' altro inutilizzabili le tabelle ufficiali di crescita infantile , [usate] dai pediatri per valutare lo sviluppo fisico .
+[[Question:MC:SingleAnswer]]
+Il verbo [ usate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2057]]
+
+[[Question:MC]]
+Se poi si cambia l' accento del logo di questo festival - ha sottolineato Morelli - in minoranzerò , si passa da uno sguardo indietro , ad uno in avanti , al futuro alle nuove prospettive e contaminazioni di multimedialità e minoranze dove la tradizione si [coniuga] con l' innovazione » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ coniuga ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

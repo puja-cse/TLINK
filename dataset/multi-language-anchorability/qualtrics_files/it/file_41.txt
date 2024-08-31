@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1896]]
+
+[[Question:MC]]
+Sono partito bene come già l' anno scorso ( anche allora [segnò] alla prima giornata contro il Natz , ndr ) e spero di continuare così .
+[[Question:MC:SingleAnswer]]
+Il verbo [ segnò ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q293]]
+
+[[Question:MC]]
+nan [Girava] su una Nissan Primera bianca , nella zona di Ponte Arche , facendo strane manovre e issando sul tetto dell' auto il lampeggiante delle forze dell' ordine .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Girava ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1790]]
+
+[[Question:MC]]
+ANDREA STOPPINI AVANZA AL CHALLENGER DI GENOVA , OGGI TOCCA A SEPPI : Andrea Stoppini ( Ata Trentino ) [supera] il primo turno al torneo challenger al Ct genova ( terra , 25 mila $ ) superando l' ostico argentino Andres Dellatorre per 6 - 1 2 - 6 6 - 4 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ supera ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q883]]
+
+[[Question:MC]]
+Il Politico deve dire al Direttore Generale quale sia la strada da percorrere e deve [porre] in essere verifiche che gli consentano di avere informazioni di ritorno per correggere eventuali digressioni dal programma .
+[[Question:MC:SingleAnswer]]
+Il verbo [ porre ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1797]]
+
+[[Question:MC]]
+Per l' elezione dei componenti del Csm e i giudici della Consulta , Napolitano chiede ai Gruppi Parlamentari di [cercare] " soluzioni concordate " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ cercare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2172]]
+
+[[Question:MC]]
+C' è chi [dice] che i terroristi l' abbiano scelta perché hanno trovato dei funzionari da corrompere .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dice ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2078]]
+
+[[Question:MC]]
+Nel 1989 quando ancora il terrorismo islamico [era] una fantasia scrisse « Allah contro Gorbaciov » , libro profetico guardando agli sviluppi successivi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ era ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q432]]
+
+[[Question:MC]]
+Dopo un periodo di calo , anche gli l' Invicta ( 68 euro ) sembra fare nuovamente capolino fra gli scaffali , mentre , dopo aver dominato gli anni Novanta , il diario - agenda Smemoranda ( 12 euro ) sembra essere entrato in un periodo di [stanca] , tanto che in una libreria lo abbiamo trovato in vendita con il 20% di sconto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stanca ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1678]]
+
+[[Question:MC]]
+« L' uragano non ha [fatto] morti , ma c' è ancora un milione di persone senza acqua e senza luce .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fatto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1510]]
+
+[[Question:MC]]
+Le candidature , infatti , rappresentano le tre frange più rappresentative , quella meranese che punta su Manfred König , quella pusterese che sostiene Walter Ausserhofer , marito della senatrice Helga Thaler , e quella bolzanina dove brilla la candidatura di Peter Gliera , [appoggiato] da tutta la Stella alpina cittadina .
+[[Question:MC:SingleAnswer]]
+Il verbo [ appoggiato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1997]]
+
+[[Question:MC]]
+Cefis , vice presidente operativo della Premafin , lascerebbe la carica attualmente ricoperta nella holding di Salvatore Ligresti avendo esaurito il compito [affidatogli] proprio da Mediobanca al momento dell' avvio del piano di ristrutturazione del debito del gruppo che fa capo al costruttore e finanziere siciliano .
+[[Question:MC:SingleAnswer]]
+Il verbo [ affidatogli ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q628]]
+
+[[Question:MC]]
+Aldo Cotti e Maria Banja erano sposati da alcuni mesi , ma fra loro c' erano tensioni pare [dovute] alla gelosia dell' uomo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovute ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1397]]
+
+[[Question:MC]]
+Glucksmann disegna degli scenari apocalittici : « Quando si è capaci di sparare sui bambini si è capaci di mandare un aereo contro una centrale nucleare e in questo caso la nube non si [fermerà] alle frontiere della Russia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fermerà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1108]]
+
+[[Question:MC]]
+John Robb , presidente e amministratore delegato della Wellcome , ha [rilevato] ieri " con disappunto " che nessuno dei due pretendenti ha dato corso a una controfferta .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rilevato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q798]]
+
+[[Question:MC]]
+Come ampiamente anticipato dalla stampa spagnola , il premier Jose' Luis Rodriguez Zapatero ha annunciato oggi che verranno avviate trattative con i separatisti dell' Eta - - " Vi annuncio che il governo avviera' negoziati con l' Eta " , ha dichiarato il leader socialista in una conferenza stampa a Madrid - - " La democrazia non paghera' nessun prezzo politico per la pace " " , ha aggiunto il premier , [replicando] indirettamente alle critiche dell' opposizione , contraria a qualunque dialogo con l' organizzazione terroristica - Per questa ragione , ha quindi spiegato , il dialogo verra' avviato " " conservando il principio che le questioni politiche si devono risolvere con i rappresentanti del popolo " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ replicando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q693]]
+
+[[Question:MC]]
+E quali testimoni della buona [riuscita] di alcuni di questi progetti , sono arrivati a Trento due importanti religiosi , accompagnati da monsignor Luigi Bressan : Lino Panizza , vescovo di Carabayllo , che invita le autorità ad intervenire all' ormai prossima inaugurazione del centro El Buen Pastor ( 180 alunni , tra i quali anche alcune ragazze iscritte al corso di falegnameria ) , e Adriano Tomasi , vescovo ausiliario di Lima , che annuncia il completamento ( forse già a marzo ) dei primi edifici dell' istituto di Manchay destinato a far studiare almeno un migliaio di allievi distribuiti in corsi da sei mesi fino a tre anni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riuscita ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q980]]
+
+[[Question:MC]]
+Sull' « esigenza per l' intera cittadinanza di [rappresentare] l' orrore e lo smarrimento per una tragedia immane , e di dare una risposta forte alla cultura della guerra e ad una politica militarizzata che non porta da nessuna parte » , ha messo invece l' accento Ruggero Purin , segretario provinciale della Cgil : « Al di là del cordoglio e dell' ovvia solidarietà per le vittime - ha insistito Purin - questa manifestazione deve essere anche occasione di rilancio di una solidarietà trasversale e della politica come strumento per superare i conflitti » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rappresentare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q474]]
+
+[[Question:MC]]
+Tutta l' Onu potrebbe [affrontare] la questione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ affrontare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q103]]
+
+[[Question:MC]]
+Nell' occasione sarà posto uno striscione all' interno del centro sportivo e verrà [allestito] fuori dallo stadio un gazebo per la distribuzione di materiale informativo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ allestito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2011]]
+
+[[Question:MC]]
+Ligresti , che da mesi trascorre più tempo in Costa Azzurra che a Milano , tornerebbe ad [avere] una presenza più assidua al vertice del gruppo anche in considerazione del fatto che il piano di ristrutturazione dell' indebitamento , a conti fatti , all' ingegnere siciliano sarebbe costato 600 miliardi di aumenti di capitale e altri 400 miliardi di rinunce crediti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

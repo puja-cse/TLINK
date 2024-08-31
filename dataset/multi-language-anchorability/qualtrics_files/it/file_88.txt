@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1085]]
+
+[[Question:MC]]
+Il takeover , del valore di 9 miliardi di sterline ( oltre 24mila miliardi di lire ) ha visto la strada spianata dopo che la Wellcome ha riconosciuto di non potere [presentare] alcuna controfferta alternativa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ presentare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1911]]
+
+[[Question:MC]]
+Ah non c' [è] dubbio , è un grossissimo vantaggio avere davanti uno come lui , che è indiscutibilmente il migliore attaccante della regione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1229]]
+
+[[Question:MC]]
+La struttura , antica di un secolo , è [rimasta] chiusa tra giugno e settembre , con il solo « sacrificio » del tradizionale asilo estivo che riprenderà regolarmente la prossima estate .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rimasta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q546]]
+
+[[Question:MC]]
+Era in cura , le venivano [somministrati] anche dei farmaci , ma apparentemente senza risultati .
+[[Question:MC:SingleAnswer]]
+Il verbo [ somministrati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q134]]
+
+[[Question:MC]]
+Per [crescere] il business occorre creare nuovo valore per il lungo termine e integrare la componente di sicurezza alla nostra offerta di storage e data management risponde completamente a questo obiettivo " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ crescere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1693]]
+
+[[Question:MC]]
+MAZARA - « Chi ha in mano la nostra bambina , forse può [avere] anche lei una figlia , e può dunque comprendere il nostro stato d' animo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q386]]
+
+[[Question:MC]]
+Ci si può lamentare che , in alcuni casi , i prezzi [siano] esorbitanti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ siano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1920]]
+
+[[Question:MC]]
+E' il punto di riferimento centrale e già questo crea spazi e agevola di molto il compito di chi si deve inserire sui lati , come [spetta] a me.
+[[Question:MC:SingleAnswer]]
+Il verbo [ spetta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1733]]
+
+[[Question:MC]]
+nan [Toccherà] a loro tracciare il quadro generale della variante , spiegare gli obiettivi della revisione che si porterà in aula , illustrare il percorso compiuto dagli uffici e dalla commissione , presentare i criteri con cui sono state valutate le domande dei privati .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Toccherà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1302]]
+
+[[Question:MC]]
+Mai forse come in questa occasione - continua Bezzi - è [emerso] il lato oscuro della crudeltà di cui sono talvolta capaci gli esseri umani e la memoria torna alle tragedie epocali del Novecento , ai misfatti del nazismo e dello stalinismo , con gli eccidi di intere popolazioni » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ emerso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q275]]
+
+[[Question:MC]]
+FERRARI - il bomberino rossonero [mancava] da sei mesi per un brutto infortunio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ mancava ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1735]]
+
+[[Question:MC]]
+Toccherà a loro tracciare il quadro generale della variante , [spiegare] gli obiettivi della revisione che si porterà in aula , illustrare il percorso compiuto dagli uffici e dalla commissione , presentare i criteri con cui sono state valutate le domande dei privati .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spiegare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2111]]
+
+[[Question:MC]]
+E' un codice d' onore dove la debolezza non è [ammessa] e ogni torto va vendicato » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ammessa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q577]]
+
+[[Question:MC]]
+su sette partite giocate ben cinque hanno [fatto] registrare il successo della formazione ospite .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fatto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q754]]
+
+[[Question:MC]]
+I fotogrammi della serata di sangue vissuta nella palazzina di Montecalvoli di Santa Maria a Monte , dove i due coniugi abitavano da soli , sono stati ricostruiti dagli investigatori con dovizia di particolari , anche se per saperne di più [bisognerà] attendere l' esame autoptico sul corpo della donna e la perizia balistica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ bisognerà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1503]]
+
+[[Question:MC]]
+Nella riunione del consiglio d' amministrazione della Fondazione che si è tenuta ieri non si è arrivati ad una intesa per cui tutto è rinviato a martedì prossimo quando sarà necessario « [tirare] le fila del discorso » come ha spiegato il presidente della Fondazione , Gerhard Brandstätter , lui stesso candidato di punta per la successione di Amonn .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tirare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q153]]
+
+[[Question:MC]]
+Chiuso il primo trimestre fiscale 2006 in crescita rispetto allo stesso periodo dell' anno precedente sia alla voce ricavi ( saliti del 14,00% a 2,55 miliardi di dollari ) sia sul piano degli utili netti ( arrivati a 272,5 milioni con un incremento del 50,00% ) , Emc ha già confermato anche le modalità con le quali verranno assorbiti gli asset di Rsa : quest' ultima opererà infatti come Information Security Division della casa madre e [avrà] l' head quarter a Bedford , nel Massachuttes , sede storica della società , mentre l' attuale presidente e Ceodi Rsa , Art Coviello , assumerà la carica di executive vice president di Emc e presidente della nuova divisione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avrà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q509]]
+
+[[Question:MC]]
+E Veneziani ne [illustra] i tre livelli : il primo , « agisce in platea ... la manovalanza intellettuale di Cosa nostra fischia ministri e direttori di mostra , tutto ciò che odora di Rai , Medus , Cinecittà » , sono quelli che « battono le mani appena arriva qualcuno a rappresentare in pellicola la loro ideologia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ illustra ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1234]]
+
+[[Question:MC]]
+« Noi [avevamo] qui anche fino a 9 persone - spiega uno degli imprenditori - ma il calendario è stato stilato con grande professionalità » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avevamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1921]]
+
+[[Question:MC]]
+In più [sa] fare la sponda e appoggiare benissimo , insomma è fin troppo facile con uno così .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

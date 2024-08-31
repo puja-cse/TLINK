@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1030]]
+
+[[Question:MC]]
+Nel 93 il gruppo prevede di [vendere] circa 9mila Mitsubishi e 5mila Chrysler Jeep che assommate ai modelli Hyundai dovrebbe portare il totale del gruppo a 22-23mila unità .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vendere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2128]]
+
+[[Question:MC]]
+Ma la vera tragedia dei popoli del Caucaso [fu] la Russia stalinista .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fu ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1837]]
+
+[[Question:MC]]
+« Ciò che a noi preme - ha [spiegato] la segretaria generale della Fisac Cgil del Trentino , Rosanna Tranquillini - è fare in modo che il protocollo firmato prima della rottura delle trattative venga riempito di contenuti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spiegato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1937]]
+
+[[Question:MC]]
+In quanto ai rigori è giusto che li batta lui che è uno specialista , a me piace segnare su azione e mi [va] benissimo così .
+[[Question:MC:SingleAnswer]]
+Il verbo [ va ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2204]]
+
+[[Question:MC]]
+Ma c' è anche da [dire] che gli Americani stanno costruendo un oleodotto che passa dalla Georgia , evidentemente contro gli interessi della Russia » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q256]]
+
+[[Question:MC]]
+Il fenomeno è destinato a [creare] problemi a tanti , dai medici all' industria dell' abbigliamento , e rende fra l' altro inutilizzabili le tabelle ufficiali di crescita infantile , usate dai pediatri per valutare lo sviluppo fisico .
+[[Question:MC:SingleAnswer]]
+Il verbo [ creare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1131]]
+
+[[Question:MC]]
+Non sono classiche istanze di modifica del Prg , [hanno] più che altro il sapore di una forma particolare di petizione per difendere il proprio territorio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ hanno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2081]]
+
+[[Question:MC]]
+Nella sua casa di Levico , piena di icone russe e d' una infinità di testi in cirillico , in questi giorni sta [finendo] di scrivere « Il Caucaso : popoli , lingue , culture , religioni e petrolio tra il mar Nero e il Caspio » ( titolo provvisorio ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ finendo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q947]]
+
+[[Question:MC]]
+Per Stacy invece i funerali dovrebbero [svolgersi] lunedì mattina nella chiesa dello stesso quartiere di Liegi dove le piccole sono state rapite .
+[[Question:MC:SingleAnswer]]
+Il verbo [ svolgersi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q778]]
+
+[[Question:MC]]
+Si è fatto conoscere come « ladro maldestro » : lo scorso marzo si è ribaltato in bicicletta mentre stava scappando con un paio di cassette piene di monetine trafugate da una lavanderia , poi era stato sorpreso all' interno di un tombino con l' intenzione di intrufolarsi nel magazzino di una tabaccheria , infine lo scorso venerdì era stato denunciato perché trovato in possesso di un timbrino trafugato ad un medico , con cui [falsificava] le ricette .
+[[Question:MC:SingleAnswer]]
+Il verbo [ falsificava ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q40]]
+
+[[Question:MC]]
+Il finale riserva una sorpresa che [ingloba] tutti , che sorprende la platea per la sua teatralità e , in qualche modo , si ricollega a delle immagine abbastanza comuni raccolte durante l' infanzia di tutti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ingloba ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q713]]
+
+[[Question:MC]]
+A quanto pare , il niet [arrivato] dagli ambienti bolzanini , restii ad avere una persona non bilingue in un ruolo così delicato , ha fatto saltare l' operazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ arrivato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q367]]
+
+[[Question:MC]]
+La tensione per la cartella nuova , la prima cartella della sua vita , pare non [esserci] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ esserci ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2076]]
+
+[[Question:MC]]
+nan [Studiò] nella capitale sovietica in seguito all' accordo culturale firmato dal presidente Gronchi nel 1960 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Studiò ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q994]]
+
+[[Question:MC]]
+nan [Bisogna] ricominciare a riconsiderare - ha concluso Ferrante - il valore dei bambini per la società .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Bisogna ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q305]]
+
+[[Question:MC]]
+D. G. del 1963 , che si è fratturato una gamba ed è stato [ricoverato] all' ospedale di Cavalese .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricoverato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q309]]
+
+[[Question:MC]]
+Il ferito , impossibilitato a muoversi per un trauma alla caviglia , è stato [portato] con l' elicottero in ospedale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ portato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1430]]
+
+[[Question:MC]]
+Ai fini della fusione , che sarà [sottoposta] il 27 settembre alle assemblee degli azionisti , la Sme , che controlla il 100,00% della società di grande distribuzione Gs , è stata valutata 1500 miliardi , mentre la Schemaventuno , che ha come unica attività la partecipazione nella stessa Sme , è stata stimata 692 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sottoposta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q229]]
+
+[[Question:MC]]
+Sollecitazioni che avevano , in parte , trovato sponde importanti nella giunta provinciale e che erano poi [culminate] in un incontro ufficiale di una delegazione di via Brennero alla sede dell' Itc .
+[[Question:MC:SingleAnswer]]
+Il verbo [ culminate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1798]]
+
+[[Question:MC]]
+Lo [scrive] Napolitano , ai presidenti delle Camere , Marini e Bertinotti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scrive ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

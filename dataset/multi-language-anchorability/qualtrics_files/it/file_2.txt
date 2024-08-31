@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1446]]
+
+[[Question:MC]]
+Invece si è dovuto [accontentare] di un punticino senza reti e anche senza troppe recriminazioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ accontentare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q306]]
+
+[[Question:MC]]
+Vigili del fuoco [mobilitati] ieri in tarda mattinata a Fierozzo per un turista che è caduto durante un' escursione nei boschi della zona .
+[[Question:MC:SingleAnswer]]
+Il verbo [ mobilitati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q411]]
+
+[[Question:MC]]
+Uno dei più alti che abbiamo [trovato] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trovato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1041]]
+
+[[Question:MC]]
+I " Voli d' Estate " entrano nel vivo con le qualificazioni , che decreteranno i migliori 50 atleti che domani si contenderanno i punti della quarta tappa del FIS Summer Grand Prix , [proposta] dal Comitato Nordik Ski Fiemme .
+[[Question:MC:SingleAnswer]]
+Il verbo [ proposta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1094]]
+
+[[Question:MC]]
+Da tempo la Wellcome , che aveva ritenuto insufficiente l' offerta della Glaxo , era freneticamente a caccia di un " cavaliere bianco " che potesse rilanciare sul prezzo della Glaxo e aveva consigliato i propri azionisti ad [attendere] un' alternativa più attraente .
+[[Question:MC:SingleAnswer]]
+Il verbo [ attendere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q238]]
+
+[[Question:MC]]
+L' obiettivo è quello di " sviluppare iniziative di comune interesse ed a [favorire] concretamente la collaborazione tra ITC - Irst e le aziende aderenti all' Associazione " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ favorire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q119]]
+
+[[Question:MC]]
+Storage più sicurezza , quindi , per presentarsi alle grandi aziende con un' offerta in grado di [gestire] l' intero ciclo di vita dei flussi informativi originati dalle attività di business e quindi prendersi cura dei dati critici di queste ultime anche attraverso applicazioni di identity e access management e tecnologie avanzate di crittografia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ gestire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1828]]
+
+[[Question:MC]]
+Ma l' Abi - ha concluso Vannucci - ha messo in mostra un' intransigenza inspiegabile , e dunque lo sciopero [è] una decisione obbligata » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1619]]
+
+[[Question:MC]]
+I risultati della produzione in Italia hanno raggiunto 201 miliardi , con un aumento del 17,00% rispetto al 91 che [riguarda] soprattutto il comparto delle grandi opere .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riguarda ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2124]]
+
+[[Question:MC]]
+« Qui [è] l' origine remota della rivalità tra Ceceni e Ossiti : oltre alla differenza di religione gli abitanti della Ossetia del Nord hanno favorito la dominazione russa - sottolinea Bensi - una colpa imperdonabile , che gli Ossiti si trascinano fino ad oggi » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2032]]
+
+[[Question:MC]]
+Un gioco di parole per [riflettere] sullo " stato dell' arte " delle minoranze etnico - lingustiche , fra globalizzazione e tutela delle identità .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riflettere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1230]]
+
+[[Question:MC]]
+La struttura , antica di un secolo , è rimasta chiusa tra giugno e settembre , con il solo « sacrificio » del tradizionale asilo estivo che [riprenderà] regolarmente la prossima estate .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riprenderà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q300]]
+
+[[Question:MC]]
+Scendeva dal passo del Manghen in motocicletta , è [caduto] in curva e si è scontrato con un' auto guidata da una dona di Borgo Valsugana .
+[[Question:MC:SingleAnswer]]
+Il verbo [ caduto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1872]]
+
+[[Question:MC]]
+Da lì il fuoco , complice il forte vento , s' è subito propagato tutto attorno , fino a [raggiungere] un fronte di un chilometro e mezzo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ raggiungere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1575]]
+
+[[Question:MC]]
+I bambini russi reclutati nell' Accademia , nella piccola isola di fronte San Pietroburgo , sono tutti piccoli abbandonati , orfani , figli di alcolizzati , che hanno subito violenze , bambini che Putin [vuole] trasformare in piccoli soldati ripristinando la vecchia caserma zarista .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vuole ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2053]]
+
+[[Question:MC]]
+Significativo anche il titolo : « Minoranzèro - spiega Morelli - indica lo zero della prima edizione , ma [richiama] anche il concetto di " romancero " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ richiama ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1871]]
+
+[[Question:MC]]
+Da lì il fuoco , complice il forte vento , s' è subito [propagato] tutto attorno , fino a raggiungere un fronte di un chilometro e mezzo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ propagato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1533]]
+
+[[Question:MC]]
+Ieri ha [firmato] anche D' Alema , mentre Fassino ha dichiarato che « è meglio puntare su una nuova legge » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ firmato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q557]]
+
+[[Question:MC]]
+Marosi alti fino a dieci metri di altezza e l' alta marea , autocarri [sollevati] come fuscelli e rovesciati su strade e autostrade .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sollevati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q655]]
+
+[[Question:MC]]
+Le riserve premi ( 222,5 miliardi ) e le riserve sinistri ( 655,6 miliardi ) [risultano] interamente coperte dagli investimenti , che hanno raggiunto 1092 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ risultano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

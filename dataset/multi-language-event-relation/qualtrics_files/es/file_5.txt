@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q109]]
+
+[[Question:MC]]
+Una de las razones de este aumento del paro [ son ] los planes de reestructuración llevados a cabo por algunas de las grandes empresas japonesas .
+De los 3,27 millones de parados , un total de 1,15 millones se han visto obligados a [ abandonar ] involuntariamente su trabajo .
+[[Question:MC:SingleAnswer]]
+La relación entre [ son ] y [ abandonar ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q401]]
+
+[[Question:MC]]
+El Gobierno chino ha decidido reforzar las medidas de seguridad en las minas de carbón del país , en las que han muerto 3.400 trabajadores en diversos accidentes en lo que va de año , [ informa ] hoy miércoles el " Diario del Pueblo " .
+La primera medida del Gobierno ha [ sido ] obligar a los directores de las explotaciones a informar " de forma rápida " de los accidentes ocurridos y a no interferir en las investigaciones de la policía local .
+[[Question:MC:SingleAnswer]]
+El verbo [ informa ] pasa DESPUÉS del verbo [ sido ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q322]]
+
+[[Question:MC]]
+Yushiro Yagi , pr[ es ]idente del Comité Olímpico Japonés ( JOC ) , [ aclaró ] que pese a que su país ya ha sido escenario de Juegos Olímpicos confía en que ese aprendizaje les sirva para albergar otros con garantías y añadió que " la candidatura de Osaka es muy sólida y dispone de todo lo necesario " .
+[[Question:MC:SingleAnswer]]
+El verbo [ aclaró ] pasa ANTES que el verbo [ es ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q581]]
+
+[[Question:MC]]
+" Su respaldo en estos últimos meses ha sido muy importante para superar el problema que [ vive ] mi país " , admitió , para añadir que se [ marcha ] sin ningún rencor contra el técnico por su decisión .
+[[Question:MC:SingleAnswer]]
+El verbo [ vive ] pasa DESPUÉS del verbo [ marcha ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q319]]
+
+[[Question:MC]]
+Yushiro Yagi , presidente del Comité Olímpico Japonés ( JOC ) , [ aclaró ] que pese a que su país ya ha [ sido ] escenario de Juegos Olímpicos confía en que ese aprendizaje les sirva para albergar otros con garantías y añadió que " la candidatura de Osaka es muy sólida y dispone de todo lo necesario " .
+[[Question:MC:SingleAnswer]]
+El verbo [ aclaró ] pasa DESPUÉS del verbo [ sido ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q755]]
+
+[[Question:MC]]
+Es la mayor caída en siete meses y [ supone ] un indicio de que el mercado inmobiliario de EEUU puede estar desacelerándose , tras subir el 5,8% en marzo .
+El encarecimiento de las hipotecas ha [ contribuido ] a frenar las ventas , ya que el tipo de interés a 30 años es del 8,62% , un punto más que hace un año .
+[[Question:MC:SingleAnswer]]
+La relación entre [ supone ] y [ contribuido ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q351]]
+
+[[Question:MC]]
+[ Rasgarse ] ahora las vestiduras por la firmeza negociadora de nuestro vecino del sur , dejando caer en la opinión pública una cifra de afectados claramente hinchada , al objeto de responsabilizar a Marruecos del daño social , [ constituye ] una muestra de la peor política posible : culpar a los otros por lo que debimos haber hecho y no tuvimos la voluntad , ni la inteligencia , ni el coraje , de acometer .
+[[Question:MC:SingleAnswer]]
+El verbo [ Rasgarse ] pasa DESPUÉS del verbo [ constituye ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q98]]
+
+[[Question:MC]]
+El paro japonés alcanzó un nuevo récord histórico en Febrero y la tasa de desempleo se [ elevó ] hasta el 4,9% de la población activa .
+Este [ es ] el nivel de paro más alto desde la segunda guerra mundial y los expertos prevén que siga aumentando en los próximos meses .
+[[Question:MC:SingleAnswer]]
+El verbo [ elevó ] pasa ANTES que el verbo [ es ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q34]]
+
+[[Question:MC]]
+Microsoft [ contraatacó ] ayer en su alegato final contra la propuesta del Gobierno de EEUU de dividir la compañía en dos y [ aseguró ] que la petición es " vaga , ambigua y deficiente " .
+[[Question:MC:SingleAnswer]]
+El verbo [ contraatacó ] pasa ANTES que el verbo [ aseguró ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q560]]
+
+[[Question:MC]]
+" Me siento completamente libre de escoger mi futuro , eso [ es ] otra historia " , dice .
+El internacional yugoslavo [ quiso ] despedirse agradeciendo el apoyo de todos , afición , técnicos , jugadores e incluso de los rivales .
+[[Question:MC:SingleAnswer]]
+El verbo [ es ] pasa ANTES que el verbo [ quiso ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+

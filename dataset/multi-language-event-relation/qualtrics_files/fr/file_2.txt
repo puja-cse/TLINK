@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q206]]
+
+[[Question:MC]]
+La présidente du tribunal , Claire Fermaut , a [ lu ] sa déposition : « L'homme était à terre , son short sur les genoux .
+Il nous a [ demandé ] de l' aider à soulever son vélo » .
+[[Question:MC:SingleAnswer]]
+La verb [ lu ] se passe AVANT le verb [ demandé ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q62]]
+
+[[Question:MC]]
+Il a fallu que les sapeurs - pompiers [ cassent ] les vitres , [ découpent ] le rideau métallique de la porte d'entrée et fassent des ouvertures dans le toit pour pouvoir combattre les flammes .
+[[Question:MC:SingleAnswer]]
+La verb [ cassent ] se passe AVANT le verb [ découpent ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q14]]
+
+[[Question:MC]]
+Deux gardiens de la paix , qui tentaient de s ' interposer , ont été légèrement [ blessés ] à leur tour .
+Les auteurs de l' agression ont été [ interpellés ] et conduits au commissariat de police pour y être entendus .
+[[Question:MC:SingleAnswer]]
+La verb [ blessés ] se passe AVANT le verb [ interpellés ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q160]]
+
+[[Question:MC]]
+L'Union nationale des associations de parents et amis de personnes handicapées mentales ( UNAPEI ) a [ dénoncé ] hier le « scandale » des quelques 10 à 15.000 enfants handicapés mentaux , selon son estimation , qui sont [ obligés ] de rester chez eux faute de scolarisation .
+[[Question:MC:SingleAnswer]]
+La verb [ dénoncé ] se passe AVANT le verb [ obligés ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q159]]
+
+[[Question:MC]]
+Hier soir , les services techniques de la Ville [ engageaient ] des travaux pour fermer le local tandis que les pompiers s ' [ organisaient ] pour effectuer des rondes pendant la nuit afin de déceler toute reprise de feu .
+[[Question:MC:SingleAnswer]]
+La verb [ engageaient ] se passe APRÈS le verb [ organisaient ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q388]]
+
+[[Question:MC]]
+Un haut dirigeant séparatiste kurde , Semdim Sakik , [ reconnu ] coupable de la mort de 283 personnes dans 191 attentats perpétrés par le PKK et accusé de séparatisme , a été [ condamné ] à mort hier par un tribunal turc .
+[[Question:MC:SingleAnswer]]
+La verb [ reconnu ] se passe AVANT le verb [ condamné ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q39]]
+
+[[Question:MC]]
+Sarkozy était hier dans la capitale alsacienne où le matin même une opération contre un réseau de recel et trafic de Hi - Fi et vidéo a permis d' [ interpeller ] dix personnes , de [ saisir ] des armes et 15.000 € .
+[[Question:MC:SingleAnswer]]
+La verb [ interpeller ] se passe AVANT le verb [ saisir ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q155]]
+
+[[Question:MC]]
+Les consignes de sécurité ont [ eu ] raison de la compétition : elle a été annulée .
+Hier soir , les services techniques de la Ville [ engageaient ] des travaux pour fermer le local tandis que les pompiers s ' organisaient pour effectuer des rondes pendant la nuit afin de déceler toute reprise de feu .
+[[Question:MC:SingleAnswer]]
+La verb [ eu ] se passe APRÈS le verb [ engageaient ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q347]]
+
+[[Question:MC]]
+A l'inverse , les communes trop excentrées voient leur population stagner , voire [ diminuer ] .
+Seules les banlieues ne profitent pas de l'attrait des villes : leur croissance , de 0,41 % par an en moyenne entre 1990 et 1999 , s ' est [ ralentie ] par rapport au recensement précédent .
+[[Question:MC:SingleAnswer]]
+La verb [ diminuer ] se passe EN MÊME TEMPS que le verb [ ralentie ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q193]]
+
+[[Question:MC]]
+Bernard [ affirme ] qu'en se promenant , il a chuté et s ' est retrouvé à terre , la braguette ouverte .
+D'après lui , c'est dans cette position que deux jeunes filles , Jessica et Sandrine , l'ont [ découvert ] .
+[[Question:MC:SingleAnswer]]
+La verb [ affirme ] se passe APRÈS le verb [ découvert ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+

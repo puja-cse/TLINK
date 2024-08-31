@@ -1,0 +1,162 @@
+[[AdvancedFormat]]
+
+[[Block: Q1690]]
+
+[[Question:MC]]
+L' eroina della rivoluzione arancione , Yulia Tymoschenko è di nuovo primo ministro dell' Ucraina - La candidatura della Tynmoshenko è stata sostenuta dalla sua lista e dal partito del presidente Viktor Yushenko , che ora dovrà [sottoporre] la candidatura al verdetto finale del Parlamento .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sottoporre ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q384]]
+
+[[Question:MC]]
+Ci si [può] lamentare che , in alcuni casi , i prezzi siano esorbitanti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ può ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q998]]
+
+[[Question:MC]]
+E dunque [invitiamo] tutti i genitori a portare alla manifestazione i propri figli , perché Trento diventi città non solo alpina , ma della pace e della solidarietà » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ invitiamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2181]]
+
+[[Question:MC]]
+I tasselli storici [compongono] una immagine non molto dissimile dalla Palestina attuale : territori contesi , religioni ed etnie diverse , impossibilità di dialogare .
+[[Question:MC:SingleAnswer]]
+Il verbo [ compongono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2046]]
+
+[[Question:MC]]
+« Questa iniziativa vuole essere una sorta di " breviario " - spiega l' ideatore , Renato Morelli a cui è affidata la direzione artistica del festival - in questo caso focalizzato sull' Arco alpino e sulla nuova Europa per interrogarsi sugli altri , sui diversi , sui confini che [rompono] e si spostano , sulle minoranze anche lontano che diventano presenze vicine e quotidiane » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rompono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1857]]
+
+[[Question:MC]]
+I sequestratori hanno [dato] alle fiamme l' autobus e si sono poi dileguati con gli ostaggi a bordo di altre vetture .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1759]]
+
+[[Question:MC]]
+A proposito di emendamenti , i capigruppo si sono [dati] una data ( il 29 settembre ) quale scadenza per la presentazione di testi modificatori della delibera .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q368]]
+
+[[Question:MC]]
+Sondati vagamente i suoi gusti ( meglio Winnie The Pooh , rispetto a un serioso zainetto squadrato della Scout che peraltro [costa] 97 euro ) , ecco attivarsi la mamma .
+[[Question:MC:SingleAnswer]]
+Il verbo [ costa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q764]]
+
+[[Question:MC]]
+Il proiettile che l' ha [condannata] a morte è stato quello esploso verso l' inguine , che molto probabilmente ha reciso l' arteria femorale e che l' ha raggiunta appena fuori della porta , con i vicini che , dall' abitazione di fronte , assistevano increduli alla scena .
+[[Question:MC:SingleAnswer]]
+Il verbo [ condannata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q570]]
+
+[[Question:MC]]
+Il bimbo è stato [infettato] dallo stesso ceppo del virus che l' inverno scorso ha ucciso nel Paese 19 persone .
+[[Question:MC:SingleAnswer]]
+Il verbo [ infettato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q160]]
+
+[[Question:MC]]
+Ogni modifica dello Statuto d' autonomia deve essere [concordata] dalle Camere con le regioni e le province interessate .
+[[Question:MC:SingleAnswer]]
+Il verbo [ concordata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1421]]
+
+[[Question:MC]]
+L' operazione , si legge in una nota , è stata [approvata] dai consigli di amministrazione delle società coinvolte e prevede la distribuzione agli azionisti minori della Sme ( il 95,59% è controllato da Schemaventuno e il 4,00% dal gruppo bancario San Paolo di Torino ) di 12 azioni ordinarie Schemaventuno ogni 5 Sme possedute .
+[[Question:MC:SingleAnswer]]
+Il verbo [ approvata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q242]]
+
+[[Question:MC]]
+Almeno per quanto riguarda gli alberghi , i cui dati praticamente definitivi sono stati [elaborati] dal Servizio statistica della Provincia , gli arrivi in totale sono risultati pari a 265.015 unità , distinti tra italiani ( 186.573 , pari al 70% del totale ) e stranieri ( i restanti 78.442 , pari al 30% circa ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ elaborati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1518]]
+
+[[Question:MC]]
+Il conto economico consolidato , che ricomprende oltre al settore bancario quello della riscossione ed il comparto di gestione immobiliare , [presenta] un utile netto semestrale pari a 13,6 milioni di euro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ presenta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q909]]
+
+[[Question:MC]]
+Quanto poi ai collaboratori del Direttore Generale , è ovvio che vanno [rifiutate] posizioni aprioristiche di chi ritiene che solo fuori dal Trentino si possano trovare Dirigenti di un certo spessore professionale ; allo stesso modo va rigettata l' ipotesi della promozione della " trentinità " in quanto tale come giudizio di merito .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rifiutate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1288]]
+
+[[Question:MC]]
+TRENTO - Un progetto organico di aiuti alle famiglie [colpite] dalla tragedia di Beslan che metta assieme e coordini tutte le iniziative di solidarietà già avviate e quelle programmate , puntando in via prioritaria ad assicurare ai bambini e alle bambine che hanno vissuto quella spaventosa esperienza tutti i supporti , materiali e non , necessari per aiutarli a superare il terribile shock subito in quei drammatici giorni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ colpite ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

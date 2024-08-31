@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1528]]
+
+[[Question:MC]]
+Vuol dire che [serviranno] almeno 20 mila firme al giorno da qui al 30 settembre .
+[[Question:MC:SingleAnswer]]
+Il verbo [ serviranno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2126]]
+
+[[Question:MC]]
+« Qui è l' origine remota della rivalità tra Ceceni e Ossiti : oltre alla differenza di religione gli abitanti della Ossetia del Nord hanno favorito la dominazione russa - [sottolinea] Bensi - una colpa imperdonabile , che gli Ossiti si trascinano fino ad oggi » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sottolinea ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q781]]
+
+[[Question:MC]]
+Ieri l' ultima sua iniziativa che lo ha [portato] dritto in carcere : ieri mattina alle 4.30 stava forzando con un piede di porco di 50 centimetri un distributore di sigarette di via Rosmini .
+[[Question:MC:SingleAnswer]]
+Il verbo [ portato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1238]]
+
+[[Question:MC]]
+Giovanni Stenico ( progettista e direttore dei lavori ) e Andrea Dalla Torre ( l' altro progettista ) hanno fatto il pieno di elogi che , però , il presidente Rossi ha [invitato] a condividere pubblicamente con l' intera « squadra » : la Schiavina Srl ( edilizia ) , la Falegnameria Bellotti , Bosetti Snc ( termoidraulici ) , Elettrosea Snc ( impiantistica ) , Nadalinflor ( floricoltura ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ invitato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q864]]
+
+[[Question:MC]]
+Qualcuno [può] realmente credere che tutto quanto sopra esposto sia realizzabile o meno a seconda delle caratteristiche e delle propensioni del Direttore Generale ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ può ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q172]]
+
+[[Question:MC]]
+Ma a ben guardare anche in questi casi non si può parlare di esiti clamorosi : che la formazione di Zimelli potesse sbancare Natz [era] infatti nei numeri visto che già l' anno passato si impose su quel campo con un roboante 5 - 3 e che il suo potenziale offensivo , già strepitoso ( basti ricordare i 115 gol dell' ultimo biennio ) , è ancor più lievitato adesso con l' ingaggio dell' interessantissimo rumeno Ionut Alecu , non a caso subito a segno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ era ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1309]]
+
+[[Question:MC]]
+« La condanna di questi atti efferati e la mobilitazione di tutti contro questo terrorismo cieco e brutale che cancella ogni limite ed annulla i tabù più consolidati - prosegue Bezzi - devono [accompagnarsi] con concrete iniziative di solidarietà verso gli abitanti della sfortunata città dell' Ossezia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ accompagnarsi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1482]]
+
+[[Question:MC]]
+E' quanto ha [deciso] di scoprire il governo del Jammu e Kashmir dopo che i pellegrini che hanno raggiunto la grotta per il rituale pellegrinaggio , hanno protestato per l' aspetto del lingam , a dir loro troppo piccolo rispetto al passato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deciso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1551]]
+
+[[Question:MC]]
+In difesa di Giovanardi si sono schierati Maurizio Ronconi dell' Udc ( « ha [difeso] una legge dello Stato , non ha fatto altro che il suo dovere » ) e il forzista Giro , che però ha definisce « infelici » i toni del manifesto incriminato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ difeso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1591]]
+
+[[Question:MC]]
+La stessa Hadizhat è stata [condotta] in un orfanatrofio russo di Grozny all' età di sei anni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ condotta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q729]]
+
+[[Question:MC]]
+MONTECALVOLI - Ha [sparato] alla moglie , uccidendola e poi ha atteso i Carabinieri sulla soglia di casa , fumando una sigaretta .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sparato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q919]]
+
+[[Question:MC]]
+Ancora una volta è l' impianto politico - legislativo che fa sì che il Direttore Generale si circondi di collaboratori di fiducia ed è quindi conseguente che la scelta [avvenga] secondo determinati criteri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avvenga ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q942]]
+
+[[Question:MC]]
+Didier Mahy , padre di Nathalie , ha [preferito] un funerale nella più stretta intimità da tenersi probabilmente sabato mattina , secondo quanto riferito dall' avvocato della madre che ora vive con il padre di Stacy .
+[[Question:MC:SingleAnswer]]
+Il verbo [ preferito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q874]]
+
+[[Question:MC]]
+E' evidente , abbandonando le facezie , che il Direttore Generale della Sanità Provinciale può influenzare molti di questi aspetti , sia dalla parte del cittadino utente che per il cittadino dipendente dei Servizi Sanitari , ma vorrei apportare alla discussione la convinzione che chi dirige la Azienda Sanitaria [deve] attenersi alle direttive di chi , per proprio mandato istituzionale , deve farsi carico del Servizio Sanitario nel suo insieme , vale a dire della Politica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deve ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1757]]
+
+[[Question:MC]]
+L' escamotage di depositare la delibera in tempi separati permetterà di evitare l' impaccio del megaemendamento che - nelle intenzioni di parecchi consiglieri - sarebbe stato necessario presentare per riconsiderare tutte le domande [rimaste] escluse .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rimaste ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q514]]
+
+[[Question:MC]]
+E Veneziani ne illustra i tre livelli : il primo , « agisce in platea ... la manovalanza intellettuale di Cosa nostra fischia ministri e direttori di mostra , tutto ciò che odora di Rai , Medus , Cinecittà » , sono quelli che « [battono] le mani appena arriva qualcuno a rappresentare in pellicola la loro ideologia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ battono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1016]]
+
+[[Question:MC]]
+Lo ha [annunciato] ieri il presidente del gruppo milanese , Luigi Koelliker .
+[[Question:MC:SingleAnswer]]
+Il verbo [ annunciato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2003]]
+
+[[Question:MC]]
+Magnone [è] attualmente direttore generale della Costruzioni meccaniche Fbm del gruppo Fochi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q61]]
+
+[[Question:MC]]
+L' acquirente di Ast - si legge in una nota dell' Iri - si è [impegnato] alla continuità produttiva dell' intero gruppo Ast e al mantenimento dei livelli occupazionali .
+[[Question:MC:SingleAnswer]]
+Il verbo [ impegnato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1983]]
+
+[[Question:MC]]
+E Mediobanca avrebbe già individuato anche il pilota cui affidare il compito del rilancio : in pole position c' [è] Giorgio Cefis , destinato ad assumere la carica di amministratore delegato e di presidente della Santavaleria mentre Varasi lascerebbe ogni incarico operativo pur mantenendo il ruolo di principale azionista .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

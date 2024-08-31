@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1177]]
+
+[[Question:MC]]
+« All' interno di questa fascia di rispetto - qui è il passaggio più importante - non dovranno essere esercitate attività produttive incompatibili con i vicini biotopi e nemmeno [realizzate] costruzioni o infrastrutture non direttamente collegate con i biotopi e l' agricoltura » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ realizzate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1034]]
+
+[[Question:MC]]
+Il fatturato 93 [dovrebbe] aggirarsi sui 700 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovrebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1062]]
+
+[[Question:MC]]
+Alberto Pacher , adesso sindaco di Trento , [frequentava] proprio l' asilo Pedrotti : « Le case c' erano già tutte qui attorno - ricorda mentre indica gli edifici che circondano la scuola materna - e noi salivamo da là » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ frequentava ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q553]]
+
+[[Question:MC]]
+TOKYO - Giornata da tregenda ieri in Giappone colpito dal tifone Songda che ha [spazzato] le regioni sud-occcidentali del Paese con venti di oltre 200 chilometri orari , seminando morte e distruzione sulla terraferma e in mare , e travolgendo tesori sacri per l' arte e la coscienza storica del mondo intero .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spazzato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q351]]
+
+[[Question:MC]]
+Non mi [aspettavo] che il Calcio Bleggio subisse quattro gol in casa , ma evidentemente hanno pagato qualche assenza di troppo » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aspettavo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1850]]
+
+[[Question:MC]]
+Gianni Dorigatti , segretario provinciale della Fabi ( 2.700 iscritti in provincia di Trento su un totale di 4.000 bancari ) che aderirà allo sciopero , spiega che « non si può accettare la posizione dell' Abi che [intende] lavorare per una netta scissione fra parte economica inconsistente e una parte normativa peraltro mai discussa » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ intende ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q572]]
+
+[[Question:MC]]
+L' Organizzazione mondiale della sanità [attende] ulteriori informazioni dal Vietnam sul decesso .
+[[Question:MC:SingleAnswer]]
+Il verbo [ attende ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1568]]
+
+[[Question:MC]]
+« Non ho paura di [uccidere] gente malvagia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ uccidere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q196]]
+
+[[Question:MC]]
+CITTA' DEL VATICANO - Aiuti ai bambini di Beslan , [arriveranno] anche dalla beneficenza del Papa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ arriveranno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1573]]
+
+[[Question:MC]]
+I bambini russi [reclutati] nell' Accademia , nella piccola isola di fronte San Pietroburgo , sono tutti piccoli abbandonati , orfani , figli di alcolizzati , che hanno subito violenze , bambini che Putin vuole trasformare in piccoli soldati ripristinando la vecchia caserma zarista .
+[[Question:MC:SingleAnswer]]
+Il verbo [ reclutati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1517]]
+
+[[Question:MC]]
+Il conto economico consolidato , che [ricomprende] oltre al settore bancario quello della riscossione ed il comparto di gestione immobiliare , presenta un utile netto semestrale pari a 13,6 milioni di euro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricomprende ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1117]]
+
+[[Question:MC]]
+Ma è difficile valutare quanto la Wellcome [potrà] dettare le proprie condizioni da una posizione di debolezza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ potrà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q168]]
+
+[[Question:MC]]
+Ma a ben guardare anche in questi casi non si [può] parlare di esiti clamorosi : che la formazione di Zimelli potesse sbancare Natz era infatti nei numeri visto che già l' anno passato si impose su quel campo con un roboante 5 - 3 e che il suo potenziale offensivo , già strepitoso ( basti ricordare i 115 gol dell' ultimo biennio ) , è ancor più lievitato adesso con l' ingaggio dell' interessantissimo rumeno Ionut Alecu , non a caso subito a segno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ può ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q358]]
+
+[[Question:MC]]
+L' ipotesi [nasce] dopo una giornata trascorsa nelle cartolerie di Trento per « annusare » quali saranno le tendenze per quest' anno scolastico 2004 / 2005 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ nasce ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q675]]
+
+[[Question:MC]]
+Il protocollo , in realtà , fa specifici riferimenti anche a collaborazioni tra le università di Trento e quella Catolica Sedes Sapientiae di Lima ed altri atenei della vasta e popolosa area che [gravita] attorno alla capitale peruviana .
+[[Question:MC:SingleAnswer]]
+Il verbo [ gravita ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q871]]
+
+[[Question:MC]]
+E' evidente , abbandonando le facezie , che il Direttore Generale della Sanità Provinciale può influenzare molti di questi aspetti , sia dalla parte del cittadino utente che per il cittadino dipendente dei Servizi Sanitari , ma [vorrei] apportare alla discussione la convinzione che chi dirige la Azienda Sanitaria deve attenersi alle direttive di chi , per proprio mandato istituzionale , deve farsi carico del Servizio Sanitario nel suo insieme , vale a dire della Politica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vorrei ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q722]]
+
+[[Question:MC]]
+Le iniziative sul tavolo per festeggiare la Cgil a Trento [riguardano] una mostra , un convegno e un filmato che dovrebbero nascere dalla collaborazione con il Museo storico di Trento .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riguardano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q858]]
+
+[[Question:MC]]
+nan [Vorrei] che non si decidesse nulla senza prima consultarmi e vorrei il posto di lavoro a pochi minuti da casa mia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Vorrei ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q291]]
+
+[[Question:MC]]
+In tutte le isole Fiji ( 800.000 abitanti a sud del Pacifico , un arcipelago famoso solo per il rugby ) i toni sono subito [diventati] quelli della festa nazionale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ diventati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1073]]
+
+[[Question:MC]]
+Pacher non dimentica la sua infanzia : « Avevo tre anni - dice - e [ricordo] ancora i profumi : non solo gli odori della cucina , ma anche quelli delle piante e dei fiori .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricordo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

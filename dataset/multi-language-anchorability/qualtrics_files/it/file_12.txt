@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q2189]]
+
+[[Question:MC]]
+Ma l' islam ceceno [è] profondamente strumentale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q543]]
+
+[[Question:MC]]
+R.S. lavorava in banca , ma aveva dovuto [lasciare] questo impiego per le sempre più gravi crisi depressive delle quali soffriva .
+[[Question:MC:SingleAnswer]]
+Il verbo [ lasciare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1567]]
+
+[[Question:MC]]
+« Non [ho] paura di uccidere gente malvagia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ho ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q20]]
+
+[[Question:MC]]
+Il titolo del pezzo , " Escucha mi cantar " , viene direttamante da una canzone messa in chiusura della colonna sonora mentre la struttura della piéce è un continuo [vorticare] di tre stanze uguali tra loro , ma nel cui interno si svolgono delle storie con protagonisti diversi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vorticare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q737]]
+
+[[Question:MC]]
+« Appariva lucido , conscio di quello che aveva [fatto] » - ha raccontato un militare .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fatto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1960]]
+
+[[Question:MC]]
+Certo , o almeno non [esagera] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ esagera ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1382]]
+
+[[Question:MC]]
+Il famoso filosofo francese [condanna] senza mezze misure i terroristi di Beslan ( « un' ignobile commando di assassini » ) , ma fa subito un distinguo : « Si dice che si tratti di un commando ceceno ma è falso , a quanto si sa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ condanna ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1284]]
+
+[[Question:MC]]
+Al cimitero di Suzdal , dove sono [sepolti] molti soldati italiani , il Coro Monte Peller ha eseguito due canzoni : il « Testamento del Capitano » è stata dedicata ai lontani caduti in terra di Russia ; quella del « Signore delle Cime » , invece , è stata innalzato alla memoria dei bambini dell' Ossezia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sepolti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q97]]
+
+[[Question:MC]]
+Ieri i concorrenti rimasti in gara hanno [presentato] le loro offerte vincolanti in busta chiusa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ presentato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1484]]
+
+[[Question:MC]]
+E' quanto ha deciso di scoprire il governo del Jammu e Kashmir dopo che i pellegrini che hanno [raggiunto] la grotta per il rituale pellegrinaggio , hanno protestato per l' aspetto del lingam , a dir loro troppo piccolo rispetto al passato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ raggiunto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q939]]
+
+[[Question:MC]]
+I genitori di Stacy e Nathalie , le due bambine trovate [uccise] ieri , hanno deciso di celebrare funerali separati .
+[[Question:MC:SingleAnswer]]
+Il verbo [ uccise ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1026]]
+
+[[Question:MC]]
+Del gruppo fanno parte la Bepi Koelliker Automobili Importazioni , [nata] nel 1979 per commercializzare autovetture Mitsubishi in Italia e la Chrysler Jeep Italia Importazioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ nata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1563]]
+
+[[Question:MC]]
+Un rigoroso documentario sulla guerra cecena [vista] dai più piccoli , un documento sulla « vulnerabilità » della mente dei bambinì e sull' incapacità degli adulti di far fronte all' odio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vista ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1724]]
+
+[[Question:MC]]
+La conferenza dei capigruppo riunitasi ieri sera a palazzo Thun ha infatti deciso ( su proposta di Tullio Buffa ) di concedere all' assessore Andreatta e alla commissione urbanistica la proroga di una settimana per [completare] il lavoro di definizione delle domande da accogliere .
+[[Question:MC:SingleAnswer]]
+Il verbo [ completare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1754]]
+
+[[Question:MC]]
+L' escamotage di depositare la delibera in tempi separati permetterà di evitare l' impaccio del megaemendamento che - nelle intenzioni di parecchi consiglieri - sarebbe [stato] necessario presentare per riconsiderare tutte le domande rimaste escluse .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1154]]
+
+[[Question:MC]]
+I residenti , però , tornano alla carica per tutelarsi per l' avvenire , nel caso in cui , qualche successivo passaggio urbanistico ( magari all' interno di una revisione per opere pubbliche ) , si [decidesse] di modificare la destinazione di quei terreni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ decidesse ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1545]]
+
+[[Question:MC]]
+Ai radicali che hanno deciso di adire le vie legali , Giovanardi ha replicato : « Sono allibito perché chi ogni giorno [insulta] i sentimenti e le convinzioni dei cattolici del nostro paese definendoli oscurantisti e talebani ora vuole intimidire un partito e un parlamentare che esprime una sua opinione che non coincide con quelle radicali » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ insulta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q235]]
+
+[[Question:MC]]
+Nel protocollo vengono indicate ipotesi di lavoro comune e vengono [delineate] le possibili aree di intervento .
+[[Question:MC:SingleAnswer]]
+Il verbo [ delineate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q979]]
+
+[[Question:MC]]
+« Quanto accaduto a Beslan - ha affermato Pacher - costituisce il superamento di una soglia inimmaginabile , ed è importante che tutta la città , senza divisioni né appartenenze , sia in piazza per ribadire valori che uniscono tutti , nel nome di una civiltà che si ritrova e di principi attorno a cui si [costruisce] l' idea di cittadinanza » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ costruisce ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q492]]
+
+[[Question:MC]]
+Ricordando la « vile e spietata aggressione di Beslan » , il cardinale Michele Giordano rivolge questo auspicio agli studenti napoletani , sostiene che « alla violenza delle guerre , del terrorismo , dell' intolleranza va [contrapposta] , cominciando proprio dai giovani , una cultura di segno opposto » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ contrapposta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

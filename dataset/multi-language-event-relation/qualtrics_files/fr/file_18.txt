@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q25]]
+
+[[Question:MC]]
+Bill Clinton a [ annoncé ] qu'il mettra son veto à une réduction d'impôts de 792 milliards de dollars sur dix ans [ adoptée ] par le Congrès à majorité républicaine .
+[[Question:MC:SingleAnswer]]
+La verb [ annoncé ] se passe APRÈS le verb [ adoptée ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q356]]
+
+[[Question:MC]]
+Les Jazz , après avoir [ frôlé ] l' élimination au premier tour , se sont imposés 93 à 83 avec 25 points et 12 rebonds de Karl Malone , avant de [ recevoir ] les Portland Trail Blazers une seconde fois , ce soir , dans la série au meilleur des sept matches .
+[[Question:MC:SingleAnswer]]
+La verb [ frôlé ] se passe AVANT le verb [ recevoir ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q44]]
+
+[[Question:MC]]
+Le nouveau ministre de l'intérieur se [ rend ] aujourd ' hui au centre de Sangatte où [ transitent ] des milliers d'immigrés sans papier .
+[[Question:MC:SingleAnswer]]
+La verb [ rend ] se passe AVANT le verb [ transitent ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q150]]
+
+[[Question:MC]]
+A l'heure du sinistre , près une centaine de personnes se [ trouvait ] dans le boulodrome ou trente triplettes engageaient leur troisième partie .
+Les consignes de sécurité ont [ eu ] raison de la compétition : elle a été annulée .
+[[Question:MC:SingleAnswer]]
+La verb [ trouvait ] se passe AVANT le verb [ eu ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q393]]
+
+[[Question:MC]]
+Un haut dirigeant séparatiste kurde , Semdim Sakik , reconnu coupable de la mort de 283 personnes dans 191 attentats [ perpétrés ] par le PKK et accusé de séparatisme , a été condamné à mort hier par un tribunal turc .
+Cela [ laisse ] présager une sentence identique pour le leader kurde Abdullah Ocalan .
+[[Question:MC:SingleAnswer]]
+La verb [ perpétrés ] se passe EN MÊME TEMPS que le verb [ laisse ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q306]]
+
+[[Question:MC]]
+Alors que la métropole [ compte ] 58.416.500 habitants et les quatre départements d'outre - mer 1.665.500 , les premiers résultats du recensement de mars - avril , qui devraient être affinés d' ici la fin de l'année , confirment les tendances [ observées ] depuis vingt ans : l' urbanisation , loin de ralentir , connaît une nouvelle accélération .
+[[Question:MC:SingleAnswer]]
+La verb [ compte ] se passe AVANT le verb [ observées ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q27]]
+
+[[Question:MC]]
+Bill Clinton a annoncé qu'il mettra son veto à une réduction d'impôts de 792 milliards de dollars sur dix ans [ adoptée ] par le Congrès à majorité républicaine .
+Le texte [ prévoit ] des réductions d'impôts pour un montant de 791,9 milliards de dollars sur 10 ans , pour redistribuer aux Américains une partie des excédents budgétaires , qui pourraient atteindre 3.000 milliards d' ici à dix ans .
+[[Question:MC:SingleAnswer]]
+La relation entre [ adoptée ] et [ prévoit ] est VAGUE (c'est-à-dire qu'elle ne correspond à aucune des réponses ci-dessus).
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q322]]
+
+[[Question:MC]]
+Toulouse , Montpellier , Aix - en - Provence , Lyon , Orléans et Angers [ connaissent ] également des taux de croissance supérieurs à 0,7 % par an .
+Seules exceptions notables : Paris , Marseille et Nice , do nt les populations stagnent ou [ diminuent ] par rapport au dernier recensement .
+[[Question:MC:SingleAnswer]]
+La verb [ connaissent ] se passe AVANT le verb [ diminuent ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q244]]
+
+[[Question:MC]]
+Considérant que les faits étaient [ constitués ] , le tribunal a condamné Bernard à 5.000 F d'amende .
+Il a , en outre , [ jugé ] recevables les constitutions de partie civile de deux des cinq représentants légaux .
+[[Question:MC:SingleAnswer]]
+La verb [ constitués ] se passe AVANT le verb [ jugé ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q377]]
+
+[[Question:MC]]
+Hans - Joachim Klein , le complice présumé du terroriste Carlos dans la prise d'otages de l'OPEP en 1975 à Vienne , [ devait ] être d' extrader hier soir vers l'Allemagne , a [ annoncé ] le Parquet de Francfort .
+[[Question:MC:SingleAnswer]]
+La relation entre [ devait ] et [ annoncé ] est VAGUE (c'est-à-dire qu'elle ne correspond à aucune des réponses ci-dessus).
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+

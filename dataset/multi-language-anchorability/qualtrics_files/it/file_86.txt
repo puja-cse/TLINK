@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1102]]
+
+[[Question:MC]]
+Questa non avrebbe voluto [impegnarsi] ad accettare una seconda offerta ( più elevata ) come definitiva sia perché impossibilitata sul piano legale sia perché legata a un' esclusiva con la Glaxo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ impegnarsi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1676]]
+
+[[Question:MC]]
+Ed in efetti lo stesso fratello Piero , raggiunto sul cellulare da l' Adige [conferma] di aver trascorso attimi da vera tragedia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ conferma ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1557]]
+
+[[Question:MC]]
+Gavino Angius ha rinviato l' accusa di Giovanardi al mittente : « E' la Cdl - ha detto - con una legge che [obbliga] una donna ad impiantare nel suo utero embrioni malati , ad aver approvato qualcosa di simile a esperimenti nazisti » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ obbliga ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1730]]
+
+[[Question:MC]]
+Dopo il deposito , infatti , il regolamento [prevede] un lasso di tempo di 14 giorni prima della trattazione in Consiglio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ prevede ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q805]]
+
+[[Question:MC]]
+Di Giulio Giorello colpisce la capacità di [comunicare] con immediatezza l' entusiasmo per la conoscenza e la straordinaria foga con cui si dedica alla sua divulgazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ comunicare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1488]]
+
+[[Question:MC]]
+nan [Condannate] a 15 anni di carcere 3 persone persone per aver saccheggiato un negozio a New Orleans dopo l' inondazione dell' uragano Katrina .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Condannate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q535]]
+
+[[Question:MC]]
+La vittima [è] Sinope Faranfa , di 75 anni , morta all' ospedale di Marsciano dove era stata trasportata in condizioni disperate .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1008]]
+
+[[Question:MC]]
+Appoggio e partecipazione attiva alla fiaccolata , a nome di tutta l' arcidiocesi di Trento , è stato [garantito] anche dalla commissione diocesana Giustizia e pace e dall' ufficio diocesano per dialogo interreligioso , oltre che dall' associazione « Pace per Gerusalemme » , che ha indetto per lo stesso giorno un' iniziativa a favore dei prigionieri politici palestinesi in sciopero della fame .
+[[Question:MC:SingleAnswer]]
+Il verbo [ garantito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1281]]
+
+[[Question:MC]]
+Il gemellaggio tra Suzdal e Cles affonda le sue radici ai tempi della seconda guerra mondiale , quando Giacomo Dusini , che in seguito sarebbe [stato] sindaco di Cles , trascorse tre anni di prigionia proprio a Suzdal .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1654]]
+
+[[Question:MC]]
+I giudici si sono [espressi] con un voto di 5-3 sul caso dello yemenita Salim Ahmed Hamdan , un detenuto di Guantanamo che è stato l' autista di Osama bin Laden e ha sfidato la legittimità delle ' Commissioni militari ' create dall' amministrazione Bush .
+[[Question:MC:SingleAnswer]]
+Il verbo [ espressi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1841]]
+
+[[Question:MC]]
+« Ciò che a noi preme - ha spiegato la segretaria generale della Fisac Cgil del Trentino , Rosanna Tranquillini - è fare in modo che il protocollo firmato prima della rottura delle trattative venga [riempito] di contenuti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riempito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2109]]
+
+[[Question:MC]]
+Ma esiste una " caucasicità " trasversale , che parte dalla zona tra i due mari e arriva fino in Sardegna , [passando] dall' Albania .
+[[Question:MC:SingleAnswer]]
+Il verbo [ passando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q343]]
+
+[[Question:MC]]
+« La Condinese mi ha destato davvero un' ottima impressione e [sono] certo che reciterà un ruolo da protagonista .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1570]]
+
+[[Question:MC]]
+Io so cos' [è] la guerra » dice uno dei bambini dell' Accademia militare di Kronstadt che fa da sfondo al primo dei tre episodi del film : « Nostalgia » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1737]]
+
+[[Question:MC]]
+Toccherà a loro tracciare il quadro generale della variante , spiegare gli obiettivi della revisione che si porterà in aula , [illustrare] il percorso compiuto dagli uffici e dalla commissione , presentare i criteri con cui sono state valutate le domande dei privati .
+[[Question:MC:SingleAnswer]]
+Il verbo [ illustrare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1744]]
+
+[[Question:MC]]
+nan [Seguiranno] i consueti 60 giorni per le osservazioni e il ritorno in aula per la definitiva approvazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Seguiranno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q109]]
+
+[[Question:MC]]
+Il valore complessivo dell' operazione , che sarà [completata] entro la fine del 2006 , è di 2,1 miliardi di dollari , in virtù dei 28 dollari in contanti che la prima verserà per ogni azione della seconda - Joe Tucci , Ceo di Emc , ha commentato l' operazione nella conference call di rito sottolineando un concetto su tutti : " Emc si trasforma da società che opera dove le informazioni vivono a società in cui le informazioni vivranno in modo sicuro " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ completata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q569]]
+
+[[Question:MC]]
+HANOI - Il virus della cosiddetta influenza dei polli ha [ucciso] ieri un neonato di 14 mesi in Vietnam .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ucciso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q559]]
+
+[[Question:MC]]
+A Hiroshima la furia di venti non ha [risparmiato] nemmeno uno dei due alberi di paulonia sopravvissuti al bombardamento atomico di Hiroshima nel 1945 e da allora conservati come preziosa testimonianza a fianco del Museo commemorativo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ risparmiato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q452]]
+
+[[Question:MC]]
+E questo è un' altra guerra ancora , la quarta guerra mondiale , che ci coinvolge davvero tutti , perchè noi non sappiamo se [uscendo] da quest' albergo ci succederà qualche cosa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ uscendo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

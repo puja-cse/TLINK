@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q2120]]
+
+[[Question:MC]]
+Nel 1830 un imam islamico , Shamil , proclamò un imanato : uno stato islamico che [oppose] una resistenza unica ai Russi prima di capitolare .
+[[Question:MC:SingleAnswer]]
+Il verbo [ oppose ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q137]]
+
+[[Question:MC]]
+Per crescere il business occorre creare nuovo valore per il lungo termine e [integrare] la componente di sicurezza alla nostra offerta di storage e data management risponde completamente a questo obiettivo " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ integrare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1388]]
+
+[[Question:MC]]
+Forse ci [sono] alcuni ceceni ma anche degli ingusci , degli osseti , probabilmente dei russi e degli ucraini , forse degli arabi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q7]]
+
+[[Question:MC]]
+Bisogna " recuperare il crollo del gettito che c' è stato in questi anni ma non ci sarà nessun aumento delle tasse " - Lo ha detto Visco - All' incontro a Palazzo Chigi con le parti sociali , il viceministro per l' Economia ha aggiunto che il governo " [metterà ] mano al sistema dei rimborsi Iva " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ metterà  ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q447]]
+
+[[Question:MC]]
+« Noi parliamo sempre delle due guerre mondiali , la prima e la seconda , e dimentichiamo che c' [è] stata una terza guerra mondiale , la guerra fredda - spiega il cardinale - Una vera e propria guerra , anche se fuori degli schemi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1742]]
+
+[[Question:MC]]
+Dunque , entro la metà del mese prossimo l' iter della prima adozione [dovrebbe] essere concluso .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovrebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1766]]
+
+[[Question:MC]]
+Il 30 settembre , poi , la commissione urbanistica tornerà a [riunirsi] per discutere proprio tali modifiche .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riunirsi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1365]]
+
+[[Question:MC]]
+Il biglietto dell' autobus è passato da 0,80 a 0,90 euro ; l' aumento medio degli abbonamenti [è] del 10% .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1150]]
+
+[[Question:MC]]
+In realtà in questa tornata di revisione del Prg non si [parlerà] dei destini del polo della rottamazione , per cui la Vela , per il il momento , non corre rischi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ parlerà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q573]]
+
+[[Question:MC]]
+La situazione [deve] essere sorvegliata da vicino : sussistono infatti tutti gli elementi per lo scoppio di una pandemia influenzale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deve ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2210]]
+
+[[Question:MC]]
+nan [E'] impossibile che la Russia organizzi dei tavoli per la trattativa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ E' ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q565]]
+
+[[Question:MC]]
+Il movimento sismico è stato [avvertito] anche a Buenos Aires , area raramente interessata da questo genere di fenomeni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avvertito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2020]]
+
+[[Question:MC]]
+L' indebitamento dopo la cessione della Buffetti e la vendita del palazzo sede della società , a livello consolidato sarebbe comunque [sceso] a livelli più accettabili .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sceso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q784]]
+
+[[Question:MC]]
+Gli agenti delle volanti lo hanno bloccato mentre [cercava] di scappare dopo essersi sbarazzato dell' attrezzo : è stato raggiunto e arrestato per tentato furto aggravato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ cercava ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1059]]
+
+[[Question:MC]]
+Difficile fare pronostici , sono in molti ad ambire ad un successo a Predazzo , in primis i norvegesi che stanno migliorando di gara in gara e che domenica hanno [vinto] la competizione a squadre .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vinto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1021]]
+
+[[Question:MC]]
+Il costo dell' acquisizione dovrebbe superare gli 11 miliardi , cifra che [corrisponde] all' ammontare del patrimonio netto della Hyundai Automobili Italia al 31 dicembre 1992 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ corrisponde ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q846]]
+
+[[Question:MC]]
+Tutto questo , vorrei costasse alla Comunità meno di quanto [spendiamo] attualmente per la Sanità .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spendiamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q311]]
+
+[[Question:MC]]
+Le due favorite della vigilia , Riva del Garda ed Alta Vallagarina hanno esordito [conquistando] i tre punti ; netta l' affermazione dell' undici di Prandi , vittorioso quattro a zero sul campo di Cavrasto , più sofferto il successo dell' Alta Vallagarina che ha dovuto però vedersela con una squadra molto quotata quale la Condinese .
+[[Question:MC:SingleAnswer]]
+Il verbo [ conquistando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q642]]
+
+[[Question:MC]]
+Nello schianto sono rimaste ferite anche tre colleghe di lavoro della giovane lombarda : in rianimazione all' ospedale di Trento è ricoverata Laura Patrizia Uboldi , 26 anni di Carisolo , la giovane che era alla guida della Peugeot 206 uscita di strada ; Nadia Bonapace , 18enne di Roncone , si trova nel reparto di chirurgia ; Arianna Vettori , 17enne di Rovereto era stata [portata] per controlli al Pronto Soccorso di Tione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ portata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1145]]
+
+[[Question:MC]]
+si [chiede] Condini .
+[[Question:MC:SingleAnswer]]
+Il verbo [ chiede ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

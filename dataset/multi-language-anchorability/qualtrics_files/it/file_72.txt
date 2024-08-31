@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q948]]
+
+[[Question:MC]]
+Per Stacy invece i funerali dovrebbero svolgersi lunedì mattina nella chiesa dello stesso quartiere di Liegi dove le piccole sono state [rapite] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rapite ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q911]]
+
+[[Question:MC]]
+Quanto poi ai collaboratori del Direttore Generale , è ovvio che vanno rifiutate posizioni aprioristiche di chi ritiene che solo fuori dal Trentino si [possano] trovare Dirigenti di un certo spessore professionale ; allo stesso modo va rigettata l' ipotesi della promozione della " trentinità " in quanto tale come giudizio di merito .
+[[Question:MC:SingleAnswer]]
+Il verbo [ possano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1615]]
+
+[[Question:MC]]
+BOLOGNA - Con un giro d' affari diretto di 226 miliardi ( 12,00% ) e un utile netto di 1,3 miliardi , la cooperativa emiliana di costruzioni Edilter ha [chiuso] il bilancio 92 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ chiuso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q597]]
+
+[[Question:MC]]
+A Milano l' unità di sangue è stata [scongelata] il 28 luglio e sono state selezionate le staminali che sono state messe in coltura in camera sterile per 15 giorni , moltiplicandone il numero di 60 volte .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scongelata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1118]]
+
+[[Question:MC]]
+Ma è difficile valutare quanto la Wellcome potrà [dettare] le proprie condizioni da una posizione di debolezza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dettare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1069]]
+
+[[Question:MC]]
+E si gira [indicando] il marciapiede di via Vittorio Veneto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ indicando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1893]]
+
+[[Question:MC]]
+E giocoforza i riflettori si [spostano] su di lui .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spostano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1409]]
+
+[[Question:MC]]
+A suo avviso « bisogna costringere Putin ad [adottare] le nostre politiche occidentali nei confronti del terrorismo : quando c' è una presa di ostaggi o un pericolo terroristico , si tenta innanzitutto di salvare gli ostaggi , di isolare i terroristi e non di dar loro il potere di uccidere » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ adottare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1711]]
+
+[[Question:MC]]
+Gli ospiti attualmente [accolti] e inviati dai servizi sociali e dal tribunale per i minorenni superano il centinaio , come pure gli educatori professionali che li seguono nelle oltre quindici realtà in cui si articola la struttura assistenziale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ accolti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q176]]
+
+[[Question:MC]]
+Ma a ben guardare anche in questi casi non si può parlare di esiti clamorosi : che la formazione di Zimelli potesse sbancare Natz era infatti nei numeri visto che già l' anno passato si impose su quel campo con un roboante 5 - 3 e che il suo potenziale offensivo , già strepitoso ( basti ricordare i 115 gol dell' ultimo biennio ) , è ancor più [lievitato] adesso con l' ingaggio dell' interessantissimo rumeno Ionut Alecu , non a caso subito a segno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ lievitato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q397]]
+
+[[Question:MC]]
+La riprova della tensione modaiola è data dal fatto che le proposte degli anni addietro sono [ammucchiate] tristemente in un angolo , sotto la parola « offerta » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ammucchiate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2090]]
+
+[[Question:MC]]
+Ma in Caucaso non ci [furono] mai dei mussulmani molto ferventi , al punto che durante la dominazione sovietica dimenticarono totalmente il « culto di Allah » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ furono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q962]]
+
+[[Question:MC]]
+Le tre maggiori sigle sindacali hanno infatti [indetto] una conferenza stampa per spiegare le ragioni della fiaccolata silenziosa che si terrà domani - giovedì 9 settebre - a partire dalle 19.30 per le vie del centro , e che vedrà la partecipazione di numerose altre associazioni , tra cui le Acli e Azione cattolica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ indetto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1740]]
+
+[[Question:MC]]
+La settimana successiva , dal 5 al 7 ottobre ( ma realisticamente si [sforerà] all' 8 e forse alle sedute seguenti ) toccherà alla fase di discussione e approvazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sforerà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q770]]
+
+[[Question:MC]]
+Si è fatto [conoscere] come « ladro maldestro » : lo scorso marzo si è ribaltato in bicicletta mentre stava scappando con un paio di cassette piene di monetine trafugate da una lavanderia , poi era stato sorpreso all' interno di un tombino con l' intenzione di intrufolarsi nel magazzino di una tabaccheria , infine lo scorso venerdì era stato denunciato perché trovato in possesso di un timbrino trafugato ad un medico , con cui falsificava le ricette .
+[[Question:MC:SingleAnswer]]
+Il verbo [ conoscere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q815]]
+
+[[Question:MC]]
+A Rovereto è stato invitato da " Oriente Occidente " in collaborazione con il " Festivaletteratura " di Mantova per la serie di incontri centrati sul tema dei « Linguaggi » , una nuova sezione inaugurata quest' anno al Festival per [permettere] di dialogare con i protagonisti di differenti discipline , sempre mantenendo fissa l' attenzione sul dialogo tra i mondi dell' Oriente e quelli dell' Occidente .
+[[Question:MC:SingleAnswer]]
+Il verbo [ permettere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1372]]
+
+[[Question:MC]]
+L' adeguamento deliberato nel giugno scorso , dopo l' intesa raggiunta con sindacati , [tiene] conto dell' indice d' inflazione reale dal settembre 2000 all' agosto 2004 pari al 10% , e del costo di produzione del trasporto extraurbano che si è incrementato del 12% , passando da 4.811 lire a 5.410 lire ( 2,79 euro ) al chilometro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tiene ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q735]]
+
+[[Question:MC]]
+Ha consegnato la pistola e si è fatto [arrestare] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ arrestare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q984]]
+
+[[Question:MC]]
+Sull' « esigenza per l' intera cittadinanza di rappresentare l' orrore e lo smarrimento per una tragedia immane , e di dare una risposta forte alla cultura della guerra e ad una politica militarizzata che non porta da nessuna parte » , ha messo invece l' accento Ruggero Purin , segretario provinciale della Cgil : « Al di là del cordoglio e dell' ovvia solidarietà per le vittime - ha [insistito] Purin - questa manifestazione deve essere anche occasione di rilancio di una solidarietà trasversale e della politica come strumento per superare i conflitti » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ insistito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q133]]
+
+[[Question:MC]]
+Non averle a disposizione avrebbe rappresentato per Emc un severo svantaggio , averle significa poterle non [condividere] con altri concorrenti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ condividere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q63]]
+
+[[Question:MC]]
+L' Ast costituisce uno dei principali produttori europei di acciai speciali , [costituito] a seguito della ristrutturazione industriale e societaria del gruppo Ilva .
+[[Question:MC:SingleAnswer]]
+Il verbo [ costituito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1441]]
+
+[[Question:MC]]
+L' operazione , sottolinea il comunicato del gruppo , rientra in un ampio programma di riorganizzazione e semplificazione della catena societaria [mirato] ad avvicinare la società alle holding di controllo , così da garantire una maggior flessibilità operativa e finanziaria .
+[[Question:MC:SingleAnswer]]
+Il verbo [ mirato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2113]]
+
+[[Question:MC]]
+E' un codice d' onore dove la debolezza non è ammessa e ogni torto va [vendicato] » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vendicato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1719]]
+
+[[Question:MC]]
+Verrà [depositata] ufficialmente il prossimo 14 settembre il testo della delibera della variante al piano regolatore .
+[[Question:MC:SingleAnswer]]
+Il verbo [ depositata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q58]]
+
+[[Question:MC]]
+L' istituto di Via Veneto ha infatti formalizzato ieri la cessione del 100,00% del gruppo siderurgico Ast al consorzio Kai , [formato] da Krupp ( 50,00% ) e da una cordata di industriali italiani ( 50,00% ) composta da Agarini , Falck e Riva .
+[[Question:MC:SingleAnswer]]
+Il verbo [ formato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1802]]
+
+[[Question:MC]]
+Il 5 luglio è prevista la seduta comune per [procedere] all' elezione di un Giudice della Corte Costituzionale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ procedere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1140]]
+
+[[Question:MC]]
+« Una proposta opposta - [scrive] il responsabile del Comitato Pro Vela , Fabiano Condini - rispetto alla quella dell' assessorato che intendeva realizzare nella zona un mega polo della rottamazione di quattro ettari » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scrive ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2021]]
+
+[[Question:MC]]
+L' Aula della Camera [inizierà] l' esame della manovra economica correttiva e del Dpef dal 24 luglio : lo ha deciso la conferenza dei capigruppo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ inizierà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q276]]
+
+[[Question:MC]]
+In 100 secondi ha [rispolverato] il suo fiuto firmando il 1 ° gol assoluto del campionato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rispolverato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1703]]
+
+[[Question:MC]]
+Intanto il procuratore di Marsala si è detto convinto che « la piccola è viva » e si [troverebbe] « a Mazara del Vallo o nelle vicinanze » tenuta segregata da qualcuno che vuole « punire » per « motivi personali » i genitori della bimba di quattro anni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ troverebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q854]]
+
+[[Question:MC]]
+Vorrei poter decidere di quali Collaboratori circondarmi , quali apparecchiature acquistare , quale quota di lavoro [portare] avanti e quale tralasciare , quando andare in ferie e quali corsi di aggiornamento seguire .
+[[Question:MC:SingleAnswer]]
+Il verbo [ portare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1652]]
+
+[[Question:MC]]
+Il cda , presieduto da Italo Garbari , [comprende] anche Adriano Trentini , Alessandro Bortolotti , Bruna Marchesoni , Fernando Luciano Imperadori , Giovanni Merz , Giorgio Fracalossi , Giuseppe Faes , Renzo Bonazza , Renzo Dallaserra , Sandro Menestrina , Silvio Carlin , Tullio Grisenti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ comprende ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2201]]
+
+[[Question:MC]]
+« Tutte le proposte di oleodotti [passano] attraverso zone di crisi , ad alto rischio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ passano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1495]]
+
+[[Question:MC]]
+I tre imputati erano stati sorpresi nel settembre scorso all' uscita di un negozio di liquori dopo avere [trafugato] 27 bottiglie di vino , 6 casse di birra ed una cassa di liquori .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trafugato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q341]]
+
+[[Question:MC]]
+Chi [teme] di più per il successo finale ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ teme ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1125]]
+
+[[Question:MC]]
+L' annunciato voto contrario di otto senatori al decreto di rifinanziamento della missione in Afghanistan è " un problema serio , serissimo " che , " considerati i rapporti di forza tra maggioranza e opposizione in Parlamento , in particolare al Senato " , può [rivelarsi] " drammatico " - Lo ha detto il ministro della Difesa Arturo Parisi in un' intervista a - Repubblica Radio - Parisi ha precisato che " il nostro impegno nel secondo semestre è assolutamente identico all' impegno del primo " e quindi non c' è " né potenziamento né depotenziamento " della missione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rivelarsi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q53]]
+
+[[Question:MC]]
+Titolo dell' appuntamento è " Les Reflets d' Ulysse " ed è [ospitato] all' auditorium del Mart .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ospitato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q585]]
+
+[[Question:MC]]
+La speranza , avveratasi , [era] che le staminali geneticamente sane avrebbero prodotto globuli rossi sani anche nel fratello .
+[[Question:MC:SingleAnswer]]
+Il verbo [ era ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2077]]
+
+[[Question:MC]]
+Studiò nella capitale sovietica in seguito all' accordo culturale [firmato] dal presidente Gronchi nel 1960 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ firmato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q937]]
+
+[[Question:MC]]
+Si riappropri la Politica del suo ruolo di guida e dotiamoci di strumenti partecipativi e di verifica che [siano] condivisi per quanto possibile ma pubblici e trasparenti per tutti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ siano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

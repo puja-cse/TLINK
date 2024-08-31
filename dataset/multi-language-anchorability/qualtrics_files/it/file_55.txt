@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q2007]]
+
+[[Question:MC]]
+A Cefis toccherà quindi il compito di rimettere in sesto le finanze del gruppo Varasi che , dopo la fusione tra Maxfin , Fidenza vetraria e Paf realizzata nei primi mesi di quest' anno , ha [trasferito] in Francia nella Sediver il pacchetto di controllo della Santavaleria .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trasferito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1459]]
+
+[[Question:MC]]
+NATZ - è vero che di fronte aveva il Mori dall' attacco stellare , ma partire con uno 0 - 4 non è proprio l' ideale per la credibilità e il morale di una formazione già lo scorso anno costretta a [soffrire] oltremisura per guadagnarsi la salvezza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ soffrire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q724]]
+
+[[Question:MC]]
+Le iniziative sul tavolo per festeggiare la Cgil a Trento riguardano una mostra , un convegno e un filmato che dovrebbero [nascere] dalla collaborazione con il Museo storico di Trento .
+[[Question:MC:SingleAnswer]]
+Il verbo [ nascere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2086]]
+
+[[Question:MC]]
+In realtà questa zona non ha mai [avuto] una cristianizzazione vera e propria .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1526]]
+
+[[Question:MC]]
+A 24 giorni dalla scadenza del termine , i Radicali [indicano] una cifra poco oltre quota 200 mila .
+[[Question:MC:SingleAnswer]]
+Il verbo [ indicano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1219]]
+
+[[Question:MC]]
+Il bilancio dell' operazione è in attivo perché a fronte di una spesa complessiva non certo irrisoria , sono stati [risparmiati] tutti i costi che avrebbe comportato la chiusura prolungata dell' asilo ( lavori di questa entità appaltati dall' ente pubblico possono durare anche un paio di anni ? ) con le collocazioni provvisorie del personale , dei 102 ragazzi ed i disagi per le famiglie .
+[[Question:MC:SingleAnswer]]
+Il verbo [ risparmiati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q455]]
+
+[[Question:MC]]
+Se non ci succederà niente mentre [saliamo] su un autobus , o quando andiamo al bar .
+[[Question:MC:SingleAnswer]]
+Il verbo [ saliamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q944]]
+
+[[Question:MC]]
+Didier Mahy , padre di Nathalie , ha preferito un funerale nella più stretta intimità da tenersi probabilmente sabato mattina , secondo quanto [riferito] dall' avvocato della madre che ora vive con il padre di Stacy .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riferito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q498]]
+
+[[Question:MC]]
+I caldei - spiega Cossiga - sono [stati] sempre fieri sostenitori di Saddam Hussein e ne hanno ricevuto in cambio la protezione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q41]]
+
+[[Question:MC]]
+Il finale riserva una sorpresa che ingloba tutti , che [sorprende] la platea per la sua teatralità e , in qualche modo , si ricollega a delle immagine abbastanza comuni raccolte durante l' infanzia di tutti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sorprende ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1865]]
+
+[[Question:MC]]
+E in serata le fiamme sono [tornate] a minacciare alcuni stabilimenti industriali , in particolare la fabbrica metallurgica Arinox : i vigili del fuoco hanno lottato per ore per allontanare le numerose bombole di idrogeno presenti nello stabilimento .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tornate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q972]]
+
+[[Question:MC]]
+« Quanto [accaduto] a Beslan - ha affermato Pacher - costituisce il superamento di una soglia inimmaginabile , ed è importante che tutta la città , senza divisioni né appartenenze , sia in piazza per ribadire valori che uniscono tutti , nel nome di una civiltà che si ritrova e di principi attorno a cui si costruisce l' idea di cittadinanza » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ accaduto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q110]]
+
+[[Question:MC]]
+Il valore complessivo dell' operazione , che sarà completata entro la fine del 2006 , [è] di 2,1 miliardi di dollari , in virtù dei 28 dollari in contanti che la prima verserà per ogni azione della seconda - Joe Tucci , Ceo di Emc , ha commentato l' operazione nella conference call di rito sottolineando un concetto su tutti : " Emc si trasforma da società che opera dove le informazioni vivono a società in cui le informazioni vivranno in modo sicuro " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1292]]
+
+[[Question:MC]]
+TRENTO - Un progetto organico di aiuti alle famiglie colpite dalla tragedia di Beslan che metta assieme e coordini tutte le iniziative di solidarietà già avviate e quelle programmate , [puntando] in via prioritaria ad assicurare ai bambini e alle bambine che hanno vissuto quella spaventosa esperienza tutti i supporti , materiali e non , necessari per aiutarli a superare il terribile shock subito in quei drammatici giorni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ puntando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1068]]
+
+[[Question:MC]]
+E si [gira] indicando il marciapiede di via Vittorio Veneto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ gira ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1080]]
+
+[[Question:MC]]
+« Questo non è stato un semplice intervento di manutenzione ordinaria - afferma Pacher - ma un' operazione brillante che [implica] un positivo intreccio tra pubblico e privato » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ implica ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1611]]
+
+[[Question:MC]]
+Un film insomma che [cerca] il perdono , la pace , la grazia , quella grazia che ha scritto la regista « É una liberazione totalmente gratuita dalla coazione ad odiare » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ cerca ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q361]]
+
+[[Question:MC]]
+L' ipotesi nasce dopo una giornata trascorsa nelle cartolerie di Trento per « annusare » quali [saranno] le tendenze per quest' anno scolastico 2004 / 2005 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ saranno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1040]]
+
+[[Question:MC]]
+I " Voli d' Estate " entrano nel vivo con le qualificazioni , che decreteranno i migliori 50 atleti che domani si [contenderanno] i punti della quarta tappa del FIS Summer Grand Prix , proposta dal Comitato Nordik Ski Fiemme .
+[[Question:MC:SingleAnswer]]
+Il verbo [ contenderanno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1295]]
+
+[[Question:MC]]
+TRENTO - Un progetto organico di aiuti alle famiglie colpite dalla tragedia di Beslan che metta assieme e coordini tutte le iniziative di solidarietà già avviate e quelle programmate , puntando in via prioritaria ad assicurare ai bambini e alle bambine che hanno vissuto quella spaventosa esperienza tutti i supporti , materiali e non , necessari per [aiutarli] a superare il terribile shock subito in quei drammatici giorni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aiutarli ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

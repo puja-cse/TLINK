@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q77]]
+
+[[Question:MC]]
+Per la privatizzazione di Taranto però , secondo il parere dei sindacati , i tempi [potrebbero] essere destinati ad allungarsi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ potrebbero ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q955]]
+
+[[Question:MC]]
+Anche il Consorzio dei comuni , con il presidente Renzo Anderle , « [unisce] la propria voce a quelle degli amministratori locali ed aderisce - prima tra tutte la fiaccolata di giovedì nella città capoluogo - di cordoglio e di esecrazione per la perdita di tante vite innocenti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ unisce ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1674]]
+
+[[Question:MC]]
+« Dev' essere stato veramente terribile [trovarsi] in mezzo » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trovarsi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q247]]
+
+[[Question:MC]]
+Stesso incremento non risulta invece sulle presenze che aumentano solamente dello 0,9% ( non [sono] ancora disponibili i dati disaggregati per italiani e stranieri ) a dimostrazione che i turisti tendono a ridurre il numero di giornate di vacanza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q727]]
+
+[[Question:MC]]
+In attesa di arrivare al 2006 , Dorigatti , assieme agli altri segretari regionali non rieletti , dovrebbe [uscire] dal direttivo nazionale per far posto ai nuovi leader .
+[[Question:MC:SingleAnswer]]
+Il verbo [ uscire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1752]]
+
+[[Question:MC]]
+L' escamotage di depositare la delibera in tempi separati [permetterà] di evitare l' impaccio del megaemendamento che - nelle intenzioni di parecchi consiglieri - sarebbe stato necessario presentare per riconsiderare tutte le domande rimaste escluse .
+[[Question:MC:SingleAnswer]]
+Il verbo [ permetterà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1330]]
+
+[[Question:MC]]
+« Ecco - conclude Bezzi - , questo ritengo sia il compito primario delle nostre istituzioni autonomiste : [farsi] carico , interpretare il senso di sgomento e insieme la voglia di fare qualcosa dei trentini , per mettere in campo un' azione coordinata capace di raccogliere tutte le sensibilità e le disponibilità della società civile , sociale ed economica del Trentino per contribuire a sanare , per quanto possibile , questa incancellabile ferita alla vita e alla dignità umana » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ farsi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1662]]
+
+[[Question:MC]]
+Non è una scena di un film di fantascienza , ma quanto vissuto nelle scorse ore da milioni di abitanti del sud della Florida , [colpita] , per la seconda volta in un mese , da un violento uragano .
+[[Question:MC:SingleAnswer]]
+Il verbo [ colpita ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q970]]
+
+[[Question:MC]]
+Ad aprire la conferenza stampa il sindaco di Trento , Alberto Pacher , che ha ringraziato i tre sindacati per « aver rappresentato , con l' organizzazione di questa fiaccolata , l' indignazione profonda dei nostri concittadini e la volontà di [ribadire] un no deciso a quello che è un insulto all' umanità » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ribadire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1826]]
+
+[[Question:MC]]
+Ma l' Abi - ha [concluso] Vannucci - ha messo in mostra un' intransigenza inspiegabile , e dunque lo sciopero è una decisione obbligata » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ concluso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1999]]
+
+[[Question:MC]]
+Il ruolo [ricoperto] da Cefis in Premafin sarebbe formalmente , ma almeno per il momento non ufficialmente , assunto da Carlo Ciani che diverrebbe una sorta di manager unico sia di Premafin che di Nuova finanziaria moderna .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricoperto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q938]]
+
+[[Question:MC]]
+Si riappropri la Politica del suo ruolo di guida e dotiamoci di strumenti partecipativi e di verifica che siano [condivisi] per quanto possibile ma pubblici e trasparenti per tutti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ condivisi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q158]]
+
+[[Question:MC]]
+nan [INTESA] PER LO STATUTO
+[[Question:MC:SingleAnswer]]
+Il verbo [ INTESA ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q179]]
+
+[[Question:MC]]
+Neppure lo 0 - 0 del Ger può essere definito impossibile : nella prima uscita stagionale ci [può] stare che una squadra pur con le ambizioni e i mezzi di quella di Ala non riesca a mettere sotto un Salorno incompleto e rivoluzionato , ma non per questo meno stimolato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ può ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1371]]
+
+[[Question:MC]]
+L' adeguamento deliberato nel giugno scorso , dopo l' intesa [raggiunta] con sindacati , tiene conto dell' indice d' inflazione reale dal settembre 2000 all' agosto 2004 pari al 10% , e del costo di produzione del trasporto extraurbano che si è incrementato del 12% , passando da 4.811 lire a 5.410 lire ( 2,79 euro ) al chilometro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ raggiunta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1782]]
+
+[[Question:MC]]
+TRENTO - L' Accademia di Danza Orientale Margarita propone per l' anno Accademico 2004 - 05 i suoi corsi di danza del ventre a cura della maestra e danzatrice Maria Rita Gandra a Riva , Arco , Torbole sul Garda , a [partire] da quest' oggi con la prima lezione dimostrativa e gratuita , con prenotazione telefonica o per e-mail .
+[[Question:MC:SingleAnswer]]
+Il verbo [ partire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1705]]
+
+[[Question:MC]]
+Intanto il procuratore di Marsala si è detto convinto che « la piccola è viva » e si troverebbe « a Mazara del Vallo o nelle vicinanze » tenuta [segregata] da qualcuno che vuole « punire » per « motivi personali » i genitori della bimba di quattro anni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ segregata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1660]]
+
+[[Question:MC]]
+Non [è] una scena di un film di fantascienza , ma quanto vissuto nelle scorse ore da milioni di abitanti del sud della Florida , colpita , per la seconda volta in un mese , da un violento uragano .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1870]]
+
+[[Question:MC]]
+Tutto è iniziato intorno alle 15 : il primo focolaio è stato [avvistato] in località Manierta in una zona coltivata a vigneti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avvistato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1189]]
+
+[[Question:MC]]
+Formula : 18 buche stbl : si è svolto sabato 4 settembre il recupero della gara " European Green Pass Tour 2004 " , il cui circuito prevede ora per i vincitori una finale nazionale ed eventualmente una finalissima internazionale : Renato Tessadri , Giancarlo Agostini , Guido Valcanover e Alessandro Lubian saranno ospiti presso il Brianza Golf Club , mentre Bruno Bensa e Paolo Decaminada [giocheranno] al Modena Golf Club .
+[[Question:MC:SingleAnswer]]
+Il verbo [ giocheranno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

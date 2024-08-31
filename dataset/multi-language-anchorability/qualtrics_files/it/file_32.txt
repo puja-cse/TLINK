@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q462]]
+
+[[Question:MC]]
+« Più volte il Papa ha ricordato che lo statuto dell' Onu [fornisce] tutti i mezzi per affrontare congiuntamente i pericoli che mettono in crisi la stabilità e la sicurezza internazionali .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fornisce ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q224]]
+
+[[Question:MC]]
+Storico perché , in passato , il sindacato di via Brennero non è mai [stato] tenero nei confronti non soltanto dell' istituto ma , più in generale , del sistema formativo , accademico in particolare .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1543]]
+
+[[Question:MC]]
+Ai radicali che hanno deciso di adire le vie legali , Giovanardi ha replicato : « [Sono] allibito perché chi ogni giorno insulta i sentimenti e le convinzioni dei cattolici del nostro paese definendoli oscurantisti e talebani ora vuole intimidire un partito e un parlamentare che esprime una sua opinione che non coincide con quelle radicali » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q69]]
+
+[[Question:MC]]
+La vendita dell' Ast , ha [continuato] Gnutti , è la dimostrazione di questa serietà e con gli stessi criteri - ha concluso - si procederà ora alla cessione dell' Ilp .
+[[Question:MC:SingleAnswer]]
+Il verbo [ continuato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q920]]
+
+[[Question:MC]]
+La politica [deve] quindi dare direttive precise e vigilare sulla loro applicazione , cercando i correttivi a quelle disfunzioni che dieci anni di Aziendalizzazione della Sanità possono avere evidenziato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deve ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1847]]
+
+[[Question:MC]]
+Gianni Dorigatti , segretario provinciale della Fabi ( 2.700 iscritti in provincia di Trento su un totale di 4.000 bancari ) che aderirà allo sciopero , [spiega] che « non si può accettare la posizione dell' Abi che intende lavorare per una netta scissione fra parte economica inconsistente e una parte normativa peraltro mai discussa » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spiega ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q856]]
+
+[[Question:MC]]
+Vorrei poter decidere di quali Collaboratori circondarmi , quali apparecchiature acquistare , quale quota di lavoro portare avanti e quale tralasciare , quando [andare] in ferie e quali corsi di aggiornamento seguire .
+[[Question:MC:SingleAnswer]]
+Il verbo [ andare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1116]]
+
+[[Question:MC]]
+Ma è difficile [valutare] quanto la Wellcome potrà dettare le proprie condizioni da una posizione di debolezza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ valutare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1018]]
+
+[[Question:MC]]
+L' operazione rientra in un piano di ampliamento del potenziale del gruppo Koelliker , tendente ad [arricchire] l' offerta di prodotti automobilistici sul mercato italiano .
+[[Question:MC:SingleAnswer]]
+Il verbo [ arricchire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q364]]
+
+[[Question:MC]]
+nan [Incontriamo] una famiglia tipo : papà , mamma e una bella bambina che lunedì inizierà le scuole elementari .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Incontriamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q648]]
+
+[[Question:MC]]
+La capogruppo Sara assicurazioni , la compagnia dell' Aci , ha [contribuito] ai risultati consolidati con una raccolta premi da lavoro diretto di 575 miliardi , il 15,10% in più rispetto al 91 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ contribuito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1065]]
+
+[[Question:MC]]
+Alberto Pacher , adesso sindaco di Trento , frequentava proprio l' asilo Pedrotti : « Le case c' erano già tutte qui attorno - ricorda mentre [indica] gli edifici che circondano la scuola materna - e noi salivamo da là » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ indica ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q602]]
+
+[[Question:MC]]
+Dal 12 agosto , giorno del doppio trapianto , a oggi , i riscontri via via ottenuti sulle condizioni del piccolo paziente hanno [confortato] le speranze riposte dai ricercatori di Paviaa e Milano .
+[[Question:MC:SingleAnswer]]
+Il verbo [ confortato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q170]]
+
+[[Question:MC]]
+Ma a ben guardare anche in questi casi non si può parlare di esiti clamorosi : che la formazione di Zimelli [potesse] sbancare Natz era infatti nei numeri visto che già l' anno passato si impose su quel campo con un roboante 5 - 3 e che il suo potenziale offensivo , già strepitoso ( basti ricordare i 115 gol dell' ultimo biennio ) , è ancor più lievitato adesso con l' ingaggio dell' interessantissimo rumeno Ionut Alecu , non a caso subito a segno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ potesse ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1806]]
+
+[[Question:MC]]
+ROMA - Il presidente dell' Anci , Leonardo Domenici , chiede ai comuni italiani di ospitare i bambini di Beslan per aiutarli a [dimenticare] l' orrore .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dimenticare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2138]]
+
+[[Question:MC]]
+Questo fu uno dei motivi per cui Stalin fu [spietato] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spietato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q653]]
+
+[[Question:MC]]
+" Le minusvalenze di 13,8 miliardi - spiega la nota - [conseguenti] all' allineamento dei valori mobiliari ai corsi di fine anno , sono state interamente portate a conto economico " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ conseguenti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1592]]
+
+[[Question:MC]]
+Ora la sua famiglia è [composta] da 63 bambini rimasti soli e senza protezione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ composta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2098]]
+
+[[Question:MC]]
+« Ceceni non è il vero nome di quel popolo , glielo hanno appiccicato i Russi : loro si [chiamano] " nokhci , uomini .
+[[Question:MC:SingleAnswer]]
+Il verbo [ chiamano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1595]]
+
+[[Question:MC]]
+E' il piccolo Stato di Inguscezia , la più piccola delle repubbliche della Federazione russa a nord del Caucaso , a [far] da sfondo alla terza testimonianza della regista , « Ricordo » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ far ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q466]]
+
+[[Question:MC]]
+I membri del Consiglio di sicurezza [potrebbero] riunirsi ad esempio per vedere insieme come affrontare il nuovo terrorismo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ potrebbero ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1166]]
+
+[[Question:MC]]
+Tocca quindi all' amministrazione riprendere in mano il gioco [rispondendo] alle richieste della comunità .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rispondendo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1947]]
+
+[[Question:MC]]
+In giro dicono che [sia] merito della tua passione smodata per Papa Winnie ...
+[[Question:MC:SingleAnswer]]
+Il verbo [ sia ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1209]]
+
+[[Question:MC]]
+« É un caso più unico che raro » osserva il primo cittadino , Alberto Pacher , che quell' asilo lo [conosce] bene per averlo frequentato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ conosce ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q786]]
+
+[[Question:MC]]
+Gli agenti delle volanti lo hanno bloccato mentre cercava di scappare dopo essersi [sbarazzato] dell' attrezzo : è stato raggiunto e arrestato per tentato furto aggravato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sbarazzato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q125]]
+
+[[Question:MC]]
+La convinzione di Tucci espressa agli analisti finanziari critici per l' elevato investimento proferito per portarsi a casa Rsa ha quindi toccato la sfera delle enormi potenzialità di questo mercato : " abbiamo acquisito una società che [può] vantare risorse tecnologiche strategiche per servire un mercato molto importante .
+[[Question:MC:SingleAnswer]]
+Il verbo [ può ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1827]]
+
+[[Question:MC]]
+Ma l' Abi - ha concluso Vannucci - ha [messo] in mostra un' intransigenza inspiegabile , e dunque lo sciopero è una decisione obbligata » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ messo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1665]]
+
+[[Question:MC]]
+Valentini , che [è] direttore di un golf club , dopo aver spedito la giovane moglie Cheryl con i figlioletti Liliana ( 6 mesi ) e Alexander ( 3 anni ) sulla costa occidentale della penisola , al riparo dall' uragano , si è barricato all' interno del ristorante del club con altre 300 persone in attesa che la tempesta passasse .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2006]]
+
+[[Question:MC]]
+A Cefis toccherà quindi il compito di rimettere in sesto le finanze del gruppo Varasi che , dopo la fusione tra Maxfin , Fidenza vetraria e Paf [realizzata] nei primi mesi di quest' anno , ha trasferito in Francia nella Sediver il pacchetto di controllo della Santavaleria .
+[[Question:MC:SingleAnswer]]
+Il verbo [ realizzata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1555]]
+
+[[Question:MC]]
+Gavino Angius ha rinviato l' accusa di Giovanardi al mittente : « [E'] la Cdl - ha detto - con una legge che obbliga una donna ad impiantare nel suo utero embrioni malati , ad aver approvato qualcosa di simile a esperimenti nazisti » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ E' ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1280]]
+
+[[Question:MC]]
+Il gemellaggio tra Suzdal e Cles [affonda] le sue radici ai tempi della seconda guerra mondiale , quando Giacomo Dusini , che in seguito sarebbe stato sindaco di Cles , trascorse tre anni di prigionia proprio a Suzdal .
+[[Question:MC:SingleAnswer]]
+Il verbo [ affonda ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q551]]
+
+[[Question:MC]]
+L' anziana madre , che vive a Spoleto , nei giorni scorsi era venuta a casa sua , a Piedicolle , per assistere ed aiutare quella figlia che le [dava] tante preoccupazioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dava ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q857]]
+
+[[Question:MC]]
+Vorrei poter decidere di quali Collaboratori circondarmi , quali apparecchiature acquistare , quale quota di lavoro portare avanti e quale tralasciare , quando andare in ferie e quali corsi di aggiornamento [seguire] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ seguire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q289]]
+
+[[Question:MC]]
+Woods , che era diventato il più giovane numero 1 mondiale della storia del golf , il 15 giugno 1997 , a 21 anni e 24 settimane , è [rimasto] in testa fino a l' altro ieri , per 335 settimane , battendo così il record dell' australiano Greg Norman ( 331 ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rimasto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q949]]
+
+[[Question:MC]]
+In una nota , i Ds « [aderiscono] alla fiaccolata per la pace , contro ogni guerra , contro il terrorismo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aderiscono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q687]]
+
+[[Question:MC]]
+Nel triennio , dal Trentino sono stati [inviati] in Perù oltre 1,8 milioni di euro , di cui quasi la metà a carico dell' amministrazione provinciale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ inviati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1992]]
+
+[[Question:MC]]
+L' ingresso di Cefis in Santavaleria resta subordinato all' accettazione da parte di Varasi del piano predisposto da Mediobanca che potrebbe [essere] a grandi linee simile a quello già realizzato proprio con il gruppo Ligresti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ essere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q226]]
+
+[[Question:MC]]
+Le ultime « esternazioni » di Tosi [risalgono] alla visita al Politecnico innovazione di Milano e , soprattutto , alla Conferenza programmatica di Riva del Garda .
+[[Question:MC:SingleAnswer]]
+Il verbo [ risalgono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1385]]
+
+[[Question:MC]]
+Il famoso filosofo francese condanna senza mezze misure i terroristi di Beslan ( « un' ignobile commando di assassini » ) , ma fa subito un distinguo : « Si dice che si [tratti] di un commando ceceno ma è falso , a quanto si sa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tratti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1100]]
+
+[[Question:MC]]
+In un laconico comunicato la Wellcome ha reso noto che una controproposta era sul tavolo ( pare da parte della Zeneca ) ma si è scontrata con il rifiuto del Wellcome Trust , la fondazione caritatevole che [detiene] il 39,50% del capitale della società .
+[[Question:MC:SingleAnswer]]
+Il verbo [ detiene ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

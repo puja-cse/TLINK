@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1890]]
+
+[[Question:MC]]
+Niente male davvero per un ventunenne , calcisticamente cresciuto nel Val di Gresta e , una volta [passato] al Mori , in grado d' esordire in prima squadra già da sedicenne .
+[[Question:MC:SingleAnswer]]
+Il verbo [ passato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1968]]
+
+[[Question:MC]]
+Se posso [farne] altri due aggiungo Brixen e Alense .
+[[Question:MC:SingleAnswer]]
+Il verbo [ farne ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1926]]
+
+[[Question:MC]]
+E poi [batte] tutti i rigori : non vi crea un po' di invidia tutto questo ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ batte ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q860]]
+
+[[Question:MC]]
+Vorrei che non si decidesse nulla senza prima [consultarmi] e vorrei il posto di lavoro a pochi minuti da casa mia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ consultarmi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q519]]
+
+[[Question:MC]]
+Il secondo livello , scrive Veneziani , è « costituto da un clan di giornalisti che [scrivono] divisi ma colpiscono uniti , elogiando le pellicole politicamente corrette , colmano di elogi chiunque sia in odore di disprezzare Bush , Berlusconi , Croff e le bandane e viceversa pisciano lacrime di commozione per tutti gli amarcord del sessantotto , anni settanta , Radio Alice » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scrivono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1856]]
+
+[[Question:MC]]
+Lo ha riferito la Tv irachena Al-Sharqiya precisando che i rapitori hanno [bloccato] un autobus con a bordo 60 lavoratori e diretto alla raffineria di Baiji , vicino a Tilal Himrin .
+[[Question:MC:SingleAnswer]]
+Il verbo [ bloccato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1993]]
+
+[[Question:MC]]
+L' ingresso di Cefis in Santavaleria resta subordinato all' accettazione da parte di Varasi del piano predisposto da Mediobanca che potrebbe essere a grandi linee simile a quello già [realizzato] proprio con il gruppo Ligresti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ realizzato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1297]]
+
+[[Question:MC]]
+E' quanto [propone] il presidente del Consiglio provinciale di Trento , Giacomo Bezzi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ propone ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q90]]
+
+[[Question:MC]]
+Non ci [sono] garanzie - ha detto - per gli assetti industriali e il futuro dei lavoratori , né si intravvede una risposta di tipo industriale " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q875]]
+
+[[Question:MC]]
+E' evidente , abbandonando le facezie , che il Direttore Generale della Sanità Provinciale può influenzare molti di questi aspetti , sia dalla parte del cittadino utente che per il cittadino dipendente dei Servizi Sanitari , ma vorrei apportare alla discussione la convinzione che chi dirige la Azienda Sanitaria deve [attenersi] alle direttive di chi , per proprio mandato istituzionale , deve farsi carico del Servizio Sanitario nel suo insieme , vale a dire della Politica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ attenersi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q832]]
+
+[[Question:MC]]
+Vorrei [partecipare] alla discussione in atto in questi giorni sul vostro quotidiano in merito alla conferma o meno dell' attuale Direttore Generale della Azienda Sanitaria Provinciale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ partecipare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q627]]
+
+[[Question:MC]]
+Aldo Cotti e Maria Banja erano sposati da alcuni mesi , ma fra loro c' erano tensioni [pare] dovute alla gelosia dell' uomo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ pare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2115]]
+
+[[Question:MC]]
+Ma agli inizi del 1800 la situazione [degenerò] in guerra allorché la Russia tentò di espandersi verso l' oceano Indiano .
+[[Question:MC:SingleAnswer]]
+Il verbo [ degenerò ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q894]]
+
+[[Question:MC]]
+Il Politico deve ascoltare tutti ma è poi fatale che [debba] assumere decisioni , che non possono accontentare tutti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ debba ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1930]]
+
+[[Question:MC]]
+Se tutti pensano a [fermare] lui ci sono più opportunità per gli altri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fermare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q225]]
+
+[[Question:MC]]
+Storico perché , in passato , il sindacato di via Brennero non è mai stato [tenero] nei confronti non soltanto dell' istituto ma , più in generale , del sistema formativo , accademico in particolare .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tenero ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1261]]
+
+[[Question:MC]]
+" " Ricercheremo in maniera coerente - sottolinea Rutelli - il confronto sulla revisione del Titolo V della Costituzione , sulle modifiche alla legge elettorale , sulla riduzione del numero dei parlamentari , e su altre distinte materie che e' possibile condividere , ma senza piu' [far] ricorso a commissioni come la Bicamerale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ far ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q292]]
+
+[[Question:MC]]
+nan [Aveva] sull' auto il lampeggiante
+[[Question:MC:SingleAnswer]]
+Il verbo [ Aveva ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q664]]
+
+[[Question:MC]]
+L' assemblea dei soci della Sara , presieduta da Rosario Alessi ( che ha sostituito nella carica Filippo Carpi de Resmini anche ai vertici di Sara Vita ) , ha [deliberato] in sede straordinaria la fusione per incorporazione della Ala assicurazioni , piccola compagnia specializzata nel ramo tutela giudiziaria .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deliberato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q592]]
+
+[[Question:MC]]
+C' era la possibilità di utilizzare solo l' unità ricca di staminali , ma è stato [deciso] di trapiantarle entrambe , sia l' unità più ricca di cellule « non manipolate » , sia l' altra più povera , ma dopo averla congelata e trasferita alla « Cell Factory » di Milano , per amplificare il numero delle sue cellule .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deciso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

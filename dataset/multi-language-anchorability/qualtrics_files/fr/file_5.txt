@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q153]]
+
+[[Question:MC]]
+Alors que la métropole compte 58.416.500 habitants et les quatre départements d'outre - mer 1.665.500 , les premiers résultats du recensement de mars - avril , qui devraient être affinés d' ici la fin de l'année , [confirment] les tendances observées depuis vingt ans : l' urbanisation , loin de ralentir , connaît une nouvelle accélération .
+[[Question:MC:SingleAnswer]]
+Le verbe [ confirment ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q67]]
+
+[[Question:MC]]
+La présidente du tribunal , Claire Fermaut , a [lu] sa déposition : « L'homme était à terre , son short sur les genoux .
+[[Question:MC:SingleAnswer]]
+Le verbe [ lu ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q135]]
+
+[[Question:MC]]
+L'Union nationale des associations de parents et amis de personnes handicapées mentales ( UNAPEI ) a dénoncé hier le « scandale » des quelques 10 à 15.000 enfants handicapés mentaux , selon son estimation , qui sont obligés de [rester] chez eux faute de scolarisation .
+[[Question:MC:SingleAnswer]]
+Le verbe [ rester ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q278]]
+
+[[Question:MC]]
+Hier soir , les services techniques de la Ville engageaient des travaux pour fermer le local tandis que les pompiers s ' [organisaient] pour effectuer des rondes pendant la nuit afin de déceler toute reprise de feu .
+[[Question:MC:SingleAnswer]]
+Le verbe [ organisaient ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q144]]
+
+[[Question:MC]]
+Le recensement de l'INSEE est formel : la France a vu sa population augmenter de plus de 2 millions d'habitants en 9 ans pour [atteindre] le chiffre de 60.082.000 personnes .
+[[Question:MC:SingleAnswer]]
+Le verbe [ atteindre ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q103]]
+
+[[Question:MC]]
+Sarkozy était hier dans la capitale alsacienne où le matin même une opération contre un réseau de recel et trafic de Hi - Fi et vidéo a permis d' interpeller dix personnes , de [saisir] des armes et 15.000 € .
+[[Question:MC:SingleAnswer]]
+Le verbe [ saisir ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q59]]
+
+[[Question:MC]]
+Les faits qui lui sont reprochés remontent au 27 mai 1998 et se sont [déroulés] dans les bois proches du fort Dorsner à Giromagny .
+[[Question:MC:SingleAnswer]]
+Le verbe [ déroulés ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q168]]
+
+[[Question:MC]]
+A l'inverse , les communes trop excentrées voient leur population [stagner] , voire diminuer .
+[[Question:MC:SingleAnswer]]
+Le verbe [ stagner ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q218]]
+
+[[Question:MC]]
+Il a fallu que les sapeurs - pompiers [cassent] les vitres , découpent le rideau métallique de la porte d'entrée et fassent des ouvertures dans le toit pour pouvoir combattre les flammes .
+[[Question:MC:SingleAnswer]]
+Le verbe [ cassent ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q14]]
+
+[[Question:MC]]
+Un ancien de la Gestapo , Alfons Goetzfrid , a été condamné hier à 10 ans de prison pour complicité dans le meurtre de 17.000 juifs au camp d'extermination de Majdanek en Pologne où 400.000 personnes ont [péri] pendant la seconde guerre mondiale .
+[[Question:MC:SingleAnswer]]
+Le verbe [ péri ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q128]]
+
+[[Question:MC]]
+- Laurent Fabius se dit favorable à un « quinquennat de cohérence » consistant à [aligner] la durée des mandats présidentiel et législatif afin d' éviter une cohabitation .
+[[Question:MC:SingleAnswer]]
+Le verbe [ aligner ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q84]]
+
+[[Question:MC]]
+L'avocate de Bernard , Alexandra Michel , a souligné que son client [avait] conscience du trouble qu'il avait causé aux adolescentes .
+[[Question:MC:SingleAnswer]]
+Le verbe [ avait ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q110]]
+
+[[Question:MC]]
+Il a été [conduit] au centre hospitalier de Belfort .
+[[Question:MC:SingleAnswer]]
+Le verbe [ conduit ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q166]]
+
+[[Question:MC]]
+L'environnement immédiat des grands centres urbains bénéficie logiquement de cet attrait des Français pour les villes : la population des petites unités urbaines de moins de 10.000 habitants progresse plus vite que la moyenne nationale et , à l'intérieur du monde rural , ce sont les communes les plus proches des pôles urbains importants qui [absorbent] l'essentiel de la croissance .
+[[Question:MC:SingleAnswer]]
+Le verbe [ absorbent ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q234]]
+
+[[Question:MC]]
+Le bâtiment , qui [appartient] à la Ville de Belfort , venait de faire l'objet de travaux de rénovation confirme André Kaufmann , adjoint au maire , sur place hier : « La toiture a été complétement refaite à la fin de l'année dernière , ainsi que la façade extérieure et les systèmes de sécurité » , souligne - t - il , estimant le coût de ces travaux à environ 100.000 € .
+[[Question:MC:SingleAnswer]]
+Le verbe [ appartient ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q158]]
+
+[[Question:MC]]
+Après avoir [connu] une baisse globale de leur population entre 1982 et 1990 , la plupart de ces villes renouent désormais avec la croissance .
+[[Question:MC:SingleAnswer]]
+Le verbe [ connu ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q140]]
+
+[[Question:MC]]
+Le président du Conseil représentatif des institutions juives de France Roger Cukierman a créé la polémique lors du traditionnel dîner annuel du CRIF en assimilant antisionisme et antisémitisme et en [dénonçant] une « alliance brun - vert - rouge » .
+[[Question:MC:SingleAnswer]]
+Le verbe [ dénonçant ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q235]]
+
+[[Question:MC]]
+Le bâtiment , qui appartient à la Ville de Belfort , venait de [faire] l'objet de travaux de rénovation confirme André Kaufmann , adjoint au maire , sur place hier : « La toiture a été complétement refaite à la fin de l'année dernière , ainsi que la façade extérieure et les systèmes de sécurité » , souligne - t - il , estimant le coût de ces travaux à environ 100.000 € .
+[[Question:MC:SingleAnswer]]
+Le verbe [ faire ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q223]]
+
+[[Question:MC]]
+Leur matériel respiratoire a été nécessaire pour [entrer] dans la fournaise générée par l' incendie des meubles , mousses et infrastructures en bois du bâtiment .
+[[Question:MC:SingleAnswer]]
+Le verbe [ entrer ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q189]]
+
+[[Question:MC]]
+En fin de réunion , les différents délégués ont décidé de réunir leurs collègues dans les établissements pour s ' opposer à la mise en place des chartes Allègre - Royal , « qui [organisent] la destruction du service public d'enseignement » .
+[[Question:MC:SingleAnswer]]
+Le verbe [ organisent ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+

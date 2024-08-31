@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1400]]
+
+[[Question:MC]]
+Sessantasette anni , feroce critico del comunismo e di tutti gli altri totalitarismi , ex - maoista , il filosofo non [ha] dubbi : « La politica della forza di Putin è fallita .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ha ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1363]]
+
+[[Question:MC]]
+" Aspettiamo una risposta seria " , [afferma] il Segretario di Stato Usa , Rice .
+[[Question:MC:SingleAnswer]]
+Il verbo [ afferma ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q669]]
+
+[[Question:MC]]
+« Quello che iniziamo , finiamo » : è il marchio di fabbrica del Trentino solidale , dei finanziamenti provinciali ai progetti di sviluppo , così come lo definisce l' assessora Iva Berasi che [anticipa] i contenuti della convenzione che il presidente Dellai firmerà oggi con l' alcade della municipalità metropolitana di Lima , Luis Castanéda Lossio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ anticipa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1338]]
+
+[[Question:MC]]
+Nei giorni scorsi , infatti , la Gerolimich del gruppo Cameli ha definito la cessione degli studio alla Profit , società che [fa] capo a Raimondo Lagostena .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q686]]
+
+[[Question:MC]]
+Costruire il futuro del paese è strategico e lo confermano anche due degli interventi generosamente sostenuti dall' amministrazione provinciale : il centro di istruzione per l' occupazione El Buen Pastor e l' istituto di educazione tecnologica di Manchay che , come l' Università Sedes Sapientiae , sono progetti gestiti direttamente dalla Provincia con contributi complessivi , [spalmati] nel triennio 2003 - 2005 , di 530mila euro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spalmati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1481]]
+
+[[Question:MC]]
+nan [E'] quanto ha deciso di scoprire il governo del Jammu e Kashmir dopo che i pellegrini che hanno raggiunto la grotta per il rituale pellegrinaggio , hanno protestato per l' aspetto del lingam , a dir loro troppo piccolo rispetto al passato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ E' ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q607]]
+
+[[Question:MC]]
+Le staminali dei fratellini hanno lavorato e prodotto emoglobina e cellule sane : già a partire dal 28 agosto ( 16 / a giornata dal trapianto ) sono stati [trovati] nel sangue del bambino valori di globuli bianchi ampiamente protettivi rispetto ai rischi di infezione e due giorni dopo si sono documentati i primi segni di significativa produzione di globuli rossi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trovati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q248]]
+
+[[Question:MC]]
+Stesso incremento non risulta invece sulle presenze che aumentano solamente dello 0,9% ( non sono ancora disponibili i dati disaggregati per italiani e stranieri ) a dimostrazione che i turisti [tendono] a ridurre il numero di giornate di vacanza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tendono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q775]]
+
+[[Question:MC]]
+Si è fatto conoscere come « ladro maldestro » : lo scorso marzo si è ribaltato in bicicletta mentre stava scappando con un paio di cassette piene di monetine trafugate da una lavanderia , poi era stato sorpreso all' interno di un tombino con l' intenzione di [intrufolarsi] nel magazzino di una tabaccheria , infine lo scorso venerdì era stato denunciato perché trovato in possesso di un timbrino trafugato ad un medico , con cui falsificava le ricette .
+[[Question:MC:SingleAnswer]]
+Il verbo [ intrufolarsi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q362]]
+
+[[Question:MC]]
+E sulla passerella come a scuola , nessuno [sfugge] alla tentazione di essere « trendy » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sfugge ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2105]]
+
+[[Question:MC]]
+Impossibile da tradurre per un russo o un europeo che [tenta] di dialogare con loro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tenta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1236]]
+
+[[Question:MC]]
+« Noi avevamo qui anche fino a 9 persone - spiega uno degli imprenditori - ma il calendario è stato [stilato] con grande professionalità » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stilato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2028]]
+
+[[Question:MC]]
+I pellegrini , informa una nota degli organizzatori , [sono] complessivamente 544 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1664]]
+
+[[Question:MC]]
+Nell' occhio del ciclone si è trovato fisicamente il trentino Piero Valentini , fratello di don Agostino ( prossimo parroco di Mezzocorona ) , che da anni [vive] a Jupiter , una cittadina vicino alla ben più famosa Palm Beach .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vive ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1287]]
+
+[[Question:MC]]
+Al cimitero di Suzdal , dove sono sepolti molti soldati italiani , il Coro Monte Peller ha eseguito due canzoni : il « Testamento del Capitano » è stata dedicata ai lontani caduti in terra di Russia ; quella del « Signore delle Cime » , invece , è stata [innalzato] alla memoria dei bambini dell' Ossezia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ innalzato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2158]]
+
+[[Question:MC]]
+Di lì a poco , dicembre 1994 , [scoppiò] la guerra .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scoppiò ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2068]]
+
+[[Question:MC]]
+In Caucaso [è] probabile una nuova Yugoslavia e l' unica soluzione , a questo punto , è l' intervento dell' Onu .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2043]]
+
+[[Question:MC]]
+« Questa iniziativa vuole essere una sorta di " breviario " - spiega l' ideatore , Renato Morelli a cui è [affidata] la direzione artistica del festival - in questo caso focalizzato sull' Arco alpino e sulla nuova Europa per interrogarsi sugli altri , sui diversi , sui confini che rompono e si spostano , sulle minoranze anche lontano che diventano presenze vicine e quotidiane » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ affidata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1970]]
+
+[[Question:MC]]
+Lo [so] che non invento niente , ma è così .
+[[Question:MC:SingleAnswer]]
+Il verbo [ so ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q344]]
+
+[[Question:MC]]
+« La Condinese mi ha destato davvero un' ottima impressione e sono certo che [reciterà] un ruolo da protagonista .
+[[Question:MC:SingleAnswer]]
+Il verbo [ reciterà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

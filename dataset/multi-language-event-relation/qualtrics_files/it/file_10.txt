@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q3122]]
+
+[[Question:MC]]
+Sentence: PARIGI - A dispetto della sanguinosa presa di ostaggi a Beslan , Andrè Glucksmann [ ritorna ] alla carica con una nuova , appassionata difesa della causa cecena e [ denuncia ] la « sporca guerra » in corso in quella zona del Caucaso , guerra che ha gia provocato un' immane ecatombe di bambini .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ritorna ] accade DOPO il verbo [ denuncia ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q883]]
+
+[[Question:MC]]
+Sentence 1: « Quello che iniziamo , finiamo » : è il marchio di fabbrica del Trentino solidale , dei finanziamenti provinciali ai progetti di sviluppo , così come lo definisce l' assessora Iva Berasi che [ anticipa ] i contenuti della convenzione che il presidente Dellai firmerà oggi con l' alcade della municipalità metropolitana di Lima , Luis Castanéda Lossio .
+Sentence 2: L' obiettivo dell' intesa ( tre anni la sua durata ) è quello di « porre le basi per una collaborazione fra le parti nei settori dell' istruzione ed educazione , della formazione professionale dei giovani , della formazione imprenditoriale e del consolidamento di microimprese , culturale e sociale » come [ recita ] l' articolo 1 .
+[[Question:MC:SingleAnswer]]
+La relazione tra [ anticipa ] e [ recita ] è VAGA (i.e., nessuna delle precedenti).
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q994]]
+
+[[Question:MC]]
+Sentence 1: E quali testimoni della buona riuscita di alcuni di questi progetti , sono arrivati a Trento due importanti religiosi , accompagnati da monsignor Luigi Bressan : Lino Panizza , vescovo di Carabayllo , che invita le autorità ad intervenire all' ormai prossima inaugurazione del centro El Buen Pastor ( 180 alunni , tra i quali anche alcune ragazze iscritte al corso di falegnameria ) , e Adriano Tomasi , vescovo ausiliario di Lima , che [ annuncia ] il completamento ( forse già a marzo ) dei primi edifici dell' istituto di Manchay destinato a far studiare almeno un migliaio di allievi distribuiti in corsi da sei mesi fino a tre anni .
+Sentence 2: L' università Sedes Sapientiae [ sta ] invece per assegnare le prime lauree ( due le facoltà : scienza della formazione e scienza economiche ) e sta lavorando all' ipotesi di aprire un corso di psicologia che dovrebbe coinvolgere il docente di origini trentine Erminio Gius .
+[[Question:MC:SingleAnswer]]
+Il verbo [ annuncia ] accade PRIMA del verbo [ sta ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3711]]
+
+[[Question:MC]]
+Sentence: Ai radicali che hanno deciso di adire le vie legali , Giovanardi ha [ replicato ] : « Sono [ allibito ] perché chi ogni giorno insulta i sentimenti e le convinzioni dei cattolici del nostro paese definendoli oscurantisti e talebani ora vuole intimidire un partito e un parlamentare che esprime una sua opinione che non coincide con quelle radicali » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ replicato ] accade PRIMA del verbo [ allibito ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2128]]
+
+[[Question:MC]]
+Sentence 1: Ancora una volta [ è ] l' impianto politico - legislativo che fa sì che il Direttore Generale si circondi di collaboratori di fiducia ed è quindi conseguente che la scelta avvenga secondo determinati criteri .
+Sentence 2: La politica deve quindi dare direttive precise e vigilare sulla loro applicazione , cercando i correttivi a quelle disfunzioni che dieci anni di Aziendalizzazione della Sanità [ possono ] avere evidenziato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] accade PRIMA del verbo [ possono ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q74]]
+
+[[Question:MC]]
+Sentence: Il titolo del pezzo , " Escucha mi cantar " , viene direttamante da una canzone messa in chiusura della colonna sonora mentre la struttura della piéce [ è ] un continuo vorticare di tre stanze uguali tra loro , ma nel cui interno si [ svolgono ] delle storie con protagonisti diversi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] accade PRIMA del verbo [ svolgono ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1827]]
+
+[[Question:MC]]
+Sentence: Si è fatto conoscere come « ladro maldestro » : lo scorso marzo si è [ ribaltato ] in bicicletta mentre stava scappando con un paio di cassette piene di monetine trafugate da una lavanderia , poi era stato sorpreso all' interno di un tombino con l' intenzione di intrufolarsi nel magazzino di una tabaccheria , infine lo scorso venerdì era stato [ denunciato ] perché trovato in possesso di un timbrino trafugato ad un medico , con cui falsificava le ricette .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ribaltato ] accade PRIMA del verbo [ denunciato ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q580]]
+
+[[Question:MC]]
+Sentence: Lo stand gastronomico alla partenza della buca 8 , la riuscita [ grigliata ] al termine delle 18 buche e la formula della gara , una 4 palle la migliore stableford a coppie ( senza pertanto la preoccupazione per la " virgola " ) , sono state le tre carte vincenti del Tesino Golf Club e della ditta " OK CASA " , che hanno già concordato di ripetere l' iniziativa nel 2005 ( [ fissando ] l' appuntamento ormai tradizionale per la prima domenica di settembre ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ grigliata ] accade SIMULTANEAMENTE con il verbo [ fissando ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q202]]
+
+[[Question:MC]]
+Sentence 1: Ad [ aprire ] la conferenza stampa il sindaco di Trento , Alberto Pacher , che ha ringraziato i tre sindacati per « aver rappresentato , con l' organizzazione di questa fiaccolata , l' indignazione profonda dei nostri concittadini e la volontà di ribadire un no deciso a quello che è un insulto all' umanità » .
+Sentence 2: « Quanto accaduto a Beslan - ha affermato Pacher - costituisce il superamento di una soglia inimmaginabile , ed è importante che tutta la città , senza divisioni né appartenenze , sia in piazza per ribadire valori che [ uniscono ] tutti , nel nome di una civiltà che si ritrova e di principi attorno a cui si costruisce l' idea di cittadinanza » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aprire ] accade PRIMA del verbo [ uniscono ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q656]]
+
+[[Question:MC]]
+Sentence 1: SALORNO - dopo le traversie di agosto , [ leggasi ] la rinuncia di Sonato e l' abbandono di Michelon , i giallorossi parevano caduti in crisi di identità e di morale .
+Sentence 2: E' vero che una rondine non fa primavera , ma il punto ottenuto con pieno merito sul campo dell' Alense dimostra che la determinazione e l' impegno sono [ tornati ] a livelli rassicuranti .
+[[Question:MC:SingleAnswer]]
+La relazione tra [ leggasi ] e [ tornati ] è VAGA (i.e., nessuna delle precedenti).
+[[Choices]]
+Sì
+NO
+NON SO
+

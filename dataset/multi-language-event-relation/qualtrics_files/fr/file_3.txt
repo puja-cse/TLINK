@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q254]]
+
+[[Question:MC]]
+Près de deux tiers des Français ( 65 % ) se disent plutôt optimistes ( 56 % ) ou très optimistes ( 9 % ) en [ pensant ] à l' avenir , selon un sondage sur le moral des Français à la rentrée de septembre [ réalisé ] par l'IFOP pour Ouest - France .
+[[Question:MC:SingleAnswer]]
+La verb [ pensant ] se passe AVANT le verb [ réalisé ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q198]]
+
+[[Question:MC]]
+Bernard affirme qu'en se promenant , il a [ chuté ] et s ' est [ retrouvé ] à terre , la braguette ouverte .
+[[Question:MC:SingleAnswer]]
+La verb [ chuté ] se passe AVANT le verb [ retrouvé ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q235]]
+
+[[Question:MC]]
+L'avocate de Bernard , Alexandra Michel , a souligné que son client [ avait ] conscience du trouble qu'il avait causé aux adolescentes .
+« Il a [ eu ] un fantasme qu'il n ' a pas su maîtriser » , souligne - t - elle dans une plaidoirie qui constituait sa première intervention devant le tribunal correctionnel de Belfort .
+[[Question:MC:SingleAnswer]]
+La verb [ avait ] se passe APRÈS le verb [ eu ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q391]]
+
+[[Question:MC]]
+Un haut dirigeant séparatiste kurde , Semdim Sakik , reconnu coupable de la mort de 283 personnes dans 191 attentats [ perpétrés ] par le PKK et [ accusé ] de séparatisme , a été condamné à mort hier par un tribunal turc .
+[[Question:MC:SingleAnswer]]
+La verb [ perpétrés ] se passe APRÈS le verb [ accusé ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q47]]
+
+[[Question:MC]]
+A leur arrivée devant le 10 , rue Paul - Bert à Belfort , les sapeurs - pompiers se sont rapidement [ trouvés ] face à un incendie d'importance .
+Le feu avait [ couvé ] et une épaisse fumée s ' était concentrée sur les deux étages de l'entrepôt du Secours populaire .
+[[Question:MC:SingleAnswer]]
+La verb [ trouvés ] se passe AVANT le verb [ couvé ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q274]]
+
+[[Question:MC]]
+Le rapport en question , [ remis ] à M. Boutros Boutros - Ghali , secrétaire général de la francophonie , dresse un constat très sévère de la gestion de l'AUF , en [ jugeant ] « impératif de créer une nouvelle agence universitaire sur du solide » .
+[[Question:MC:SingleAnswer]]
+La verb [ remis ] se passe AVANT le verb [ jugeant ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q420]]
+
+[[Question:MC]]
+Les Unionistes protestants ont même [ décliné ] sa dernière invitation .
+L'UUP continue d' [ exiger ] un désarmement de l'IRA avant la formation du gouvernement .
+[[Question:MC:SingleAnswer]]
+La verb [ décliné ] se passe AVANT le verb [ exiger ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q122]]
+
+[[Question:MC]]
+Avertie par des voisines , Juliette Carpezat s ' est précipitée en chaussons dans la rue lorsqu ' elle a su que le Secours populaire brûlait : « Je suis [ passée ] à midi devant en [ rentrant ] de la pharmacie .
+[[Question:MC:SingleAnswer]]
+La verb [ passée ] se passe AVANT le verb [ rentrant ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q414]]
+
+[[Question:MC]]
+Il a [ concédé ] avoir aidé à recharger des armes des bourreaux .
+Tony Blair , le Premier ministre britannique a [ achevé ] hier deux jours de négociations avec les dirigeants d'Irlande du Nord , sans réussir à surmonter le blocage persistant sur la formation de l'exécutif .
+[[Question:MC:SingleAnswer]]
+La verb [ concédé ] se passe AVANT le verb [ achevé ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q350]]
+
+[[Question:MC]]
+_ Les Utah Jazz , dauphins des Chicago Bulls depuis deux ans et favoris pour la succession [ ouverte ] par la retraite de Michael Jordan , ont ouvert par une victoire à domicile sur Portland leur demi - finale de la conférence ouest mardi soir à Salt Lake City .
+Les Jazz , après avoir frôlé l' élimination au premier tour , se sont [ imposés ] 93 à 83 avec 25 points et 12 rebonds de Karl Malone , avant de recevoir les Portland Trail Blazers une seconde fois , ce soir , dans la série au meilleur des sept matches .
+[[Question:MC:SingleAnswer]]
+La verb [ ouverte ] se passe AVANT le verb [ imposés ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+

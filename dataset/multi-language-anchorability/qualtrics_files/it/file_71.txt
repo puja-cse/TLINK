@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q24]]
+
+[[Question:MC]]
+É come guardare una giostra e ad ogni spicchio di passaggio si [vedono] alcuni fotogrammi di vita trascorsi a riempire sprazzi di solitudine o incontri d' alcova .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vedono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2164]]
+
+[[Question:MC]]
+Qui è nato il terrorismo ceceno , quello che ha fatto [saltare] in aria i condomini a Volgodonsk .
+[[Question:MC:SingleAnswer]]
+Il verbo [ saltare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1354]]
+
+[[Question:MC]]
+Il G8 [invita] israeliani e palestinesi ad evitare misure che pregiudicherebbero lo status dei Territori e chiede il rilascio del soldato rapito .
+[[Question:MC:SingleAnswer]]
+Il verbo [ invita ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q279]]
+
+[[Question:MC]]
+NORTON ( Stati Uniti ) - Si volta pagina nel golf : un giocatore delle isole Figi , Vijay Singh , ha [strappato] a 41 anni la corona al fin qui imbattibile americano Tiger Woods , l' uomo che più a lungo nella storia ha conservato il numero uno nella classifica mondiale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ strappato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1194]]
+
+[[Question:MC]]
+Lo stand gastronomico alla partenza della buca 8 , la riuscita [grigliata] al termine delle 18 buche e la formula della gara , una 4 palle la migliore stableford a coppie ( senza pertanto la preoccupazione per la " virgola " ) , sono state le tre carte vincenti del Tesino Golf Club e della ditta " OK CASA " , che hanno già concordato di ripetere l' iniziativa nel 2005 ( fissando l' appuntamento ormai tradizionale per la prima domenica di settembre ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ grigliata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1473]]
+
+[[Question:MC]]
+In particolare sono [confluite] nella finanziaria le quote detenute in Centrobanca , nell' Istituto Centrale delle Banche Popolari , nell' Unione fiduciaria , in Factorit e Italease , in Gestielle ( fondi comuni ) e nelle società del gruppo Arca ( Arca Spa , Arca merchant , Arca Vita e Arca Gpa ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ confluite ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1005]]
+
+[[Question:MC]]
+Necessità , quella di « portare in bambini in piazza » , che è stata sottolineata anche da Walter Alotti ( segreteria Uil ) , « perché capiscano quello che sta accadendo e perché vengano [riaffermati] i valori della vita e della fiducia nelle nuove generazioni » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riaffermati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q314]]
+
+[[Question:MC]]
+Vittoria netta per il Villazzano di Alberto Betta che a Gabbiolo [impiega] poco più di dieci minuti per archiviare la pratica La Rovere .
+[[Question:MC:SingleAnswer]]
+Il verbo [ impiega ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q981]]
+
+[[Question:MC]]
+Sull' « esigenza per l' intera cittadinanza di rappresentare l' orrore e lo smarrimento per una tragedia immane , e di [dare] una risposta forte alla cultura della guerra e ad una politica militarizzata che non porta da nessuna parte » , ha messo invece l' accento Ruggero Purin , segretario provinciale della Cgil : « Al di là del cordoglio e dell' ovvia solidarietà per le vittime - ha insistito Purin - questa manifestazione deve essere anche occasione di rilancio di una solidarietà trasversale e della politica come strumento per superare i conflitti » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2182]]
+
+[[Question:MC]]
+I tasselli storici compongono una immagine non molto dissimile dalla Palestina attuale : territori contesi , religioni ed etnie diverse , impossibilità di [dialogare] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dialogare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1888]]
+
+[[Question:MC]]
+Altri 19 li aveva infilati nel triennio precedente per un totale che [dice] di 36 reti in nemmeno cento gare d' Eccellenza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dice ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1197]]
+
+[[Question:MC]]
+Lo stand gastronomico alla partenza della buca 8 , la riuscita grigliata al termine delle 18 buche e la formula della gara , una 4 palle la migliore stableford a coppie ( senza pertanto la preoccupazione per la " virgola " ) , sono state le tre carte vincenti del Tesino Golf Club e della ditta " OK CASA " , che hanno già concordato di [ripetere] l' iniziativa nel 2005 ( fissando l' appuntamento ormai tradizionale per la prima domenica di settembre ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ripetere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1254]]
+
+[[Question:MC]]
+Lo ribadisce , in un' intervista [rilasciata] al " Corriere della Sera " , il vicepremier e ministro per i Beni culturali Francesco Rutelli , per il quale " " bisogna seguire la linea Ciampi per allargare la maggioranza " " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rilasciata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1509]]
+
+[[Question:MC]]
+Le candidature , infatti , rappresentano le tre frange più rappresentative , quella meranese che punta su Manfred König , quella pusterese che sostiene Walter Ausserhofer , marito della senatrice Helga Thaler , e quella bolzanina dove [brilla] la candidatura di Peter Gliera , appoggiato da tutta la Stella alpina cittadina .
+[[Question:MC:SingleAnswer]]
+Il verbo [ brilla ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1903]]
+
+[[Question:MC]]
+Diciamo che [possiamo] puntare al podio se solo sappiamo mantenere la concentazione e condizione giusta .
+[[Question:MC:SingleAnswer]]
+Il verbo [ possiamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1212]]
+
+[[Question:MC]]
+« L' esperienza di questi lavori - spiega il presidente della Scuola Alessandro Rossi , esperto in appalti pubblici - [è] un segnale importante : è la dimostrazione che quando pubblico e privato vogliono collaborare possono realizzare interventi significativi ed in tempi estremamente rapidi » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1669]]
+
+[[Question:MC]]
+« Non sono [riuscito] a contattarlo per 3 giorni » spiegava ieri don Valentino , che a luglio era andato in visita al fratello .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riuscito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q334]]
+
+[[Question:MC]]
+Dove deve [crescere] maggiormente la sua squadra ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ crescere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q216]]
+
+[[Question:MC]]
+ROMA - Affrontare alle radici il problema all' origine della strage di Beslan , che [è] un problema di conflitti interetnici di varia natura : è l' invito della Caritas italiana .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1700]]
+
+[[Question:MC]]
+Il padre della piccola ieri ha [lanciato] un nuovo accorato appello ai rapitori .
+[[Question:MC:SingleAnswer]]
+Il verbo [ lanciato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

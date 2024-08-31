@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q976]]
+
+[[Question:MC]]
+« Quanto accaduto a Beslan - ha affermato Pacher - costituisce il superamento di una soglia inimmaginabile , ed è importante che tutta la città , senza divisioni né appartenenze , sia in piazza per [ribadire] valori che uniscono tutti , nel nome di una civiltà che si ritrova e di principi attorno a cui si costruisce l' idea di cittadinanza » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ribadire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1538]]
+
+[[Question:MC]]
+Ma a tener banco [è] lo scontro politico tra i referendari e il ministro Carlo Giovanardi , per il manifesto dell' Udc secondo cui quei quesiti « li avrebbero firmati anche i nazisti » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q6]]
+
+[[Question:MC]]
+Bisogna " recuperare il crollo del gettito che c' è stato in questi anni ma non ci sarà nessun aumento delle tasse " - Lo ha detto Visco - All' incontro a Palazzo Chigi con le parti sociali , il viceministro per l' Economia ha [aggiunto] che il governo " metterà mano al sistema dei rimborsi Iva " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aggiunto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1534]]
+
+[[Question:MC]]
+Ieri ha firmato anche D' Alema , mentre Fassino ha [dichiarato] che « è meglio puntare su una nuova legge » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dichiarato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1490]]
+
+[[Question:MC]]
+Il giudice ha [applicato] il massimo della pena ( dai 3 ai 15 anni ) spiegando di voler dare un esempio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ applicato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q136]]
+
+[[Question:MC]]
+Per crescere il business occorre [creare] nuovo valore per il lungo termine e integrare la componente di sicurezza alla nostra offerta di storage e data management risponde completamente a questo obiettivo " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ creare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1803]]
+
+[[Question:MC]]
+ROMA - Il presidente dell' Anci , Leonardo Domenici , [chiede] ai comuni italiani di ospitare i bambini di Beslan per aiutarli a dimenticare l' orrore .
+[[Question:MC:SingleAnswer]]
+Il verbo [ chiede ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2171]]
+
+[[Question:MC]]
+C' [è] chi dice che i terroristi l' abbiano scelta perché hanno trovato dei funzionari da corrompere .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1556]]
+
+[[Question:MC]]
+Gavino Angius ha rinviato l' accusa di Giovanardi al mittente : « E' la Cdl - ha [detto] - con una legge che obbliga una donna ad impiantare nel suo utero embrioni malati , ad aver approvato qualcosa di simile a esperimenti nazisti » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ detto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1530]]
+
+[[Question:MC]]
+Il comitato promotore ( di cui fanno parte anche esponenti laici e Ds ) [farà] il punto domani sui numeri e annuncerà i « referendum days » , una mobilitazione generale per accelerare la raccolta delle firme nei prossimi due fine settimana .
+[[Question:MC:SingleAnswer]]
+Il verbo [ farà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q148]]
+
+[[Question:MC]]
+nan [Chiuso] il primo trimestre fiscale 2006 in crescita rispetto allo stesso periodo dell' anno precedente sia alla voce ricavi ( saliti del 14,00% a 2,55 miliardi di dollari ) sia sul piano degli utili netti ( arrivati a 272,5 milioni con un incremento del 50,00% ) , Emc ha già confermato anche le modalità con le quali verranno assorbiti gli asset di Rsa : quest' ultima opererà infatti come Information Security Division della casa madre e avrà l' head quarter a Bedford , nel Massachuttes , sede storica della società , mentre l' attuale presidente e Ceodi Rsa , Art Coviello , assumerà la carica di executive vice president di Emc e presidente della nuova divisione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Chiuso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q468]]
+
+[[Question:MC]]
+I membri del Consiglio di sicurezza potrebbero riunirsi ad esempio per [vedere] insieme come affrontare il nuovo terrorismo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vedere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q25]]
+
+[[Question:MC]]
+É come guardare una giostra e ad ogni spicchio di passaggio si vedono alcuni fotogrammi di vita trascorsi a [riempire] sprazzi di solitudine o incontri d' alcova .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riempire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q131]]
+
+[[Question:MC]]
+Non averle a disposizione avrebbe rappresentato per Emc un severo svantaggio , averle [significa] poterle non condividere con altri concorrenti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ significa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q146]]
+
+[[Question:MC]]
+Dopo le scalate a Documentum ( content management ) e VMware ( software per la virtualizzazione ) , la casa americana sembra in effetti aver calato un altro asso importante per [continuare] a giocare un ruolo di primo piano sullo scacchiere internazionale nel campo delle soluzioni destinate alle architetture informative delle grandi aziende .
+[[Question:MC:SingleAnswer]]
+Il verbo [ continuare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2165]]
+
+[[Question:MC]]
+Come risposta Putin [dichiarò] la guerra che continua fino ad oggi »
+[[Question:MC:SingleAnswer]]
+Il verbo [ dichiarò ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q697]]
+
+[[Question:MC]]
+E quali testimoni della buona riuscita di alcuni di questi progetti , sono arrivati a Trento due importanti religiosi , accompagnati da monsignor Luigi Bressan : Lino Panizza , vescovo di Carabayllo , che invita le autorità ad [intervenire] all' ormai prossima inaugurazione del centro El Buen Pastor ( 180 alunni , tra i quali anche alcune ragazze iscritte al corso di falegnameria ) , e Adriano Tomasi , vescovo ausiliario di Lima , che annuncia il completamento ( forse già a marzo ) dei primi edifici dell' istituto di Manchay destinato a far studiare almeno un migliaio di allievi distribuiti in corsi da sei mesi fino a tre anni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ intervenire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1253]]
+
+[[Question:MC]]
+Lo [ribadisce] , in un' intervista rilasciata al " Corriere della Sera " , il vicepremier e ministro per i Beni culturali Francesco Rutelli , per il quale " " bisogna seguire la linea Ciampi per allargare la maggioranza " " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ribadisce ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q471]]
+
+[[Question:MC]]
+Ma io credo che [sarebbe] necessario andare al di là del perimetro dei membri permanenti e a rotazione del Consiglio di sicurezza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sarebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1250]]
+
+[[Question:MC]]
+La superficie totale è stata [portata] a 1.800 metri ( 250 in più ) con la realizzazione di bagni e spogliatoi per i dipendenti , il raddoppio della cucina e l' ampliamento della mensa ( + 70 mq ) e di ognuna delle cinque aule ( adesso 60 mq , mentre prima la media era di 42 ) nonché la sistemazione dell' ampio parco alberato e la creazione di un parco botanico per i bambini .
+[[Question:MC:SingleAnswer]]
+Il verbo [ portata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

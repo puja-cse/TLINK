@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1271]]
+
+[[Question:MC]]
+Tutte le manifestazioni indette per i giorni di lutto nazionale sono state [cancellate] , compreso il concerto che il nostro Coro Monte Peller doveva tenere a Mosca .
+[[Question:MC:SingleAnswer]]
+Il verbo [ cancellate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1278]]
+
+[[Question:MC]]
+La stessa capitale , che era addobbata a festa per le celebrazioni dell' anniversario della sua fondazione , nelle giornate dedicate al ricordo delle centinaia e centinaia di bambini e di adulti trucidati in Ossezia si è [presentata] avvolta da un silenzio irreale , da una tristezza profonda .
+[[Question:MC:SingleAnswer]]
+Il verbo [ presentata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q412]]
+
+[[Question:MC]]
+nan [Passano] gli anni , ma non il successo degli zaini Seven .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Passano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2008]]
+
+[[Question:MC]]
+In contemporanea con l' uscita di Cefis da Premafin , negli ambienti finanziari milanesi , si [dà] per scontato il rientro , seppur con compiti non operativi , di Salvatore Ligresti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1699]]
+
+[[Question:MC]]
+A questa persona ci rivolgiamo per chiedere di farci [riavere] a casa Denise » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riavere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q512]]
+
+[[Question:MC]]
+E Veneziani ne illustra i tre livelli : il primo , « agisce in platea ... la manovalanza intellettuale di Cosa nostra fischia ministri e direttori di mostra , tutto ciò che [odora] di Rai , Medus , Cinecittà » , sono quelli che « battono le mani appena arriva qualcuno a rappresentare in pellicola la loro ideologia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ odora ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q19]]
+
+[[Question:MC]]
+Il titolo del pezzo , " Escucha mi cantar " , viene direttamante da una canzone messa in chiusura della colonna sonora mentre la struttura della piéce [è] un continuo vorticare di tre stanze uguali tra loro , ma nel cui interno si svolgono delle storie con protagonisti diversi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q605]]
+
+[[Question:MC]]
+Le staminali dei fratellini hanno lavorato e [prodotto] emoglobina e cellule sane : già a partire dal 28 agosto ( 16 / a giornata dal trapianto ) sono stati trovati nel sangue del bambino valori di globuli bianchi ampiamente protettivi rispetto ai rischi di infezione e due giorni dopo si sono documentati i primi segni di significativa produzione di globuli rossi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ prodotto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q884]]
+
+[[Question:MC]]
+Il Politico deve dire al Direttore Generale quale sia la strada da percorrere e deve porre in essere verifiche che gli [consentano] di avere informazioni di ritorno per correggere eventuali digressioni dal programma .
+[[Question:MC:SingleAnswer]]
+Il verbo [ consentano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q44]]
+
+[[Question:MC]]
+Come stile creativo , quello di Botelho , [è] un teatro danza di terza generazione molto attento alle qualità descrittive del gesto ed è abitato da ottimi danzatori capaci anche di essere attori .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q257]]
+
+[[Question:MC]]
+Il fenomeno è destinato a creare problemi a tanti , dai medici all' industria dell' abbigliamento , e [rende] fra l' altro inutilizzabili le tabelle ufficiali di crescita infantile , usate dai pediatri per valutare lo sviluppo fisico .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rende ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1501]]
+
+[[Question:MC]]
+Nella riunione del consiglio d' amministrazione della Fondazione che si è tenuta ieri non si è arrivati ad una intesa per cui tutto è [rinviato] a martedì prossimo quando sarà necessario « tirare le fila del discorso » come ha spiegato il presidente della Fondazione , Gerhard Brandstätter , lui stesso candidato di punta per la successione di Amonn .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rinviato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q768]]
+
+[[Question:MC]]
+Il proiettile che l' ha condannata a morte è stato quello esploso verso l' inguine , che molto probabilmente ha reciso l' arteria femorale e che l' ha raggiunta appena fuori della porta , con i vicini che , dall' abitazione di fronte , [assistevano] increduli alla scena .
+[[Question:MC:SingleAnswer]]
+Il verbo [ assistevano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1859]]
+
+[[Question:MC]]
+GENOVA - Un anziano morto carbonizzato , una collina [devastata] dal fuoco , case , campeggi , alberghi e un maneggio evacuati .
+[[Question:MC:SingleAnswer]]
+Il verbo [ devastata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1974]]
+
+[[Question:MC]]
+MILANO - Anche il gruppo Varasi [ricorre] alle cure di Enrico Cuccia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricorre ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q792]]
+
+[[Question:MC]]
+Come ampiamente [anticipato] dalla stampa spagnola , il premier Jose' Luis Rodriguez Zapatero ha annunciato oggi che verranno avviate trattative con i separatisti dell' Eta - - " Vi annuncio che il governo avviera' negoziati con l' Eta " , ha dichiarato il leader socialista in una conferenza stampa a Madrid - - " La democrazia non paghera' nessun prezzo politico per la pace " " , ha aggiunto il premier , replicando indirettamente alle critiche dell' opposizione , contraria a qualunque dialogo con l' organizzazione terroristica - Per questa ragione , ha quindi spiegato , il dialogo verra' avviato " " conservando il principio che le questioni politiche si devono risolvere con i rappresentanti del popolo " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ anticipato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1153]]
+
+[[Question:MC]]
+I residenti , però , tornano alla carica per [tutelarsi] per l' avvenire , nel caso in cui , qualche successivo passaggio urbanistico ( magari all' interno di una revisione per opere pubbliche ) , si decidesse di modificare la destinazione di quei terreni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tutelarsi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2178]]
+
+[[Question:MC]]
+Durante le deportazioni ci furono [trasportati] i Ceceni , ed ora l' Ingushezia cecena rivendica tutta la regione di Prigorodnj , dove è appunto il teatro della strage » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trasportati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1989]]
+
+[[Question:MC]]
+L' ingresso di Cefis in Santavaleria resta [subordinato] all' accettazione da parte di Varasi del piano predisposto da Mediobanca che potrebbe essere a grandi linee simile a quello già realizzato proprio con il gruppo Ligresti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ subordinato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q765]]
+
+[[Question:MC]]
+Il proiettile che l' ha condannata a morte è [stato] quello esploso verso l' inguine , che molto probabilmente ha reciso l' arteria femorale e che l' ha raggiunta appena fuori della porta , con i vicini che , dall' abitazione di fronte , assistevano increduli alla scena .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

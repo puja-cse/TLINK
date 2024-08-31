@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1836]]
+
+[[Question:MC]]
+« Ciò che a noi [preme] - ha spiegato la segretaria generale della Fisac Cgil del Trentino , Rosanna Tranquillini - è fare in modo che il protocollo firmato prima della rottura delle trattative venga riempito di contenuti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ preme ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q640]]
+
+[[Question:MC]]
+Nello schianto sono rimaste ferite anche tre colleghe di lavoro della giovane lombarda : in rianimazione all' ospedale di Trento è ricoverata Laura Patrizia Uboldi , 26 anni di Carisolo , la giovane che [era] alla guida della Peugeot 206 uscita di strada ; Nadia Bonapace , 18enne di Roncone , si trova nel reparto di chirurgia ; Arianna Vettori , 17enne di Rovereto era stata portata per controlli al Pronto Soccorso di Tione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ era ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1793]]
+
+[[Question:MC]]
+IL rivano aveva già sconfitto il sudamericano al torneo di Bergamo ( 7 - 6 6 - 4 ) e ora [attende] il vincitore tra il n. 1 Mutis e Santopadre .
+[[Question:MC:SingleAnswer]]
+Il verbo [ attende ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q350]]
+
+[[Question:MC]]
+« A grandi linee non ci [sono] state grosse sorprese .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1328]]
+
+[[Question:MC]]
+« Ecco - [conclude] Bezzi - , questo ritengo sia il compito primario delle nostre istituzioni autonomiste : farsi carico , interpretare il senso di sgomento e insieme la voglia di fare qualcosa dei trentini , per mettere in campo un' azione coordinata capace di raccogliere tutte le sensibilità e le disponibilità della società civile , sociale ed economica del Trentino per contribuire a sanare , per quanto possibile , questa incancellabile ferita alla vita e alla dignità umana » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ conclude ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q757]]
+
+[[Question:MC]]
+Pare certo comunque che i colpi esplosi dalla pistola siano [stati] quattro , in rapida successione e tutti a segno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1942]]
+
+[[Question:MC]]
+Vorrei confermare i 15 gol , [sarebbe] un grande successo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sarebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q281]]
+
+[[Question:MC]]
+Lo storico sorpasso è [avvenuto] l' altro ieri al torneo di Norton , nel Massachusetts , dove Singh - già in testa dopo il 3 ° turno - ha resistito alla rimonta di Woods concludendo con tre punti di vantaggio sull' americano e sull' australiano Adam Scott .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avvenuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1891]]
+
+[[Question:MC]]
+Niente male davvero per un ventunenne , calcisticamente cresciuto nel Val di Gresta e , una volta passato al Mori , in grado d' [esordire] in prima squadra già da sedicenne .
+[[Question:MC:SingleAnswer]]
+Il verbo [ esordire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1048]]
+
+[[Question:MC]]
+Dopo gli allenamenti ( ore 18 ) , oggi gli atleti [avranno] a disposizione un solo salto per raggiungere la qualificazione , quella in cui sperano anche i quattro azzurri Marco Beltrame , Giancarlo Adami , Sebastian Colloredo e Stefano Chiapolino .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avranno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q843]]
+
+[[Question:MC]]
+Come Trentino , vorrei avere i migliori servizi dai migliori professionisti sanitari , a disposizione 24 ore su 24 ; questi Servizi li vorrei disponibili , sia per le urgenze che per gli interventi programmabili , nei tempi da me ritenuti adeguati ; vorrei la massima disponibilità d' animo e di tempo di tutti gli operatori sanitari ; il cibo e la sistemazione logistica dovrebbero essere non solo di mio gradimento ma consentirmi anche di poter [scegliere] tra varie opzioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scegliere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1566]]
+
+[[Question:MC]]
+É « I 3 stati della Melancholia » della regista finlandese Pirjo Honkasalo [presentato] ieri a Venezia per la sezione « Orizzonti » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ presentato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1810]]
+
+[[Question:MC]]
+« Sono certo che i colleghi sindaci in questo momento così tragico vorranno aiutare i bambini sopravvissuti , ad [alleviare] , se mai fosse possibile , il dolore » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ alleviare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q916]]
+
+[[Question:MC]]
+Ancora una volta è l' impianto politico - legislativo che [fa] sì che il Direttore Generale si circondi di collaboratori di fiducia ed è quindi conseguente che la scelta avvenga secondo determinati criteri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q144]]
+
+[[Question:MC]]
+Dopo le scalate a Documentum ( content management ) e VMware ( software per la virtualizzazione ) , la casa americana [sembra] in effetti aver calato un altro asso importante per continuare a giocare un ruolo di primo piano sullo scacchiere internazionale nel campo delle soluzioni destinate alle architetture informative delle grandi aziende .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sembra ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1606]]
+
+[[Question:MC]]
+Ma è ancora un bambino ad [essere] protagonista : le canzoni cantate da Risto Joost , un giovane controtenore dell' Estonia , sono musicate su testi scritti da un bimbo - cadetto di soli undici anni , uno dei cadetti dell' accademia di Kronstadt e sono cantate in russo e in ceceno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ essere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q338]]
+
+[[Question:MC]]
+« Sicuramente abbiamo qualche problemino che dovremo cercare di [risolvere] al più presto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ risolvere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q604]]
+
+[[Question:MC]]
+Le staminali dei fratellini hanno [lavorato] e prodotto emoglobina e cellule sane : già a partire dal 28 agosto ( 16 / a giornata dal trapianto ) sono stati trovati nel sangue del bambino valori di globuli bianchi ampiamente protettivi rispetto ai rischi di infezione e due giorni dopo si sono documentati i primi segni di significativa produzione di globuli rossi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ lavorato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q933]]
+
+[[Question:MC]]
+Per governare una macchina imponente come la Sanità Trentina c' è bisogno anche di [conoscerne] i diversi aspetti e la rivoluzione continua ai vertici dirigenziali non va in questa direzione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ conoscerne ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q668]]
+
+[[Question:MC]]
+« Quello che iniziamo , finiamo » : è il marchio di fabbrica del Trentino solidale , dei finanziamenti provinciali ai progetti di sviluppo , così come lo [definisce] l' assessora Iva Berasi che anticipa i contenuti della convenzione che il presidente Dellai firmerà oggi con l' alcade della municipalità metropolitana di Lima , Luis Castanéda Lossio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ definisce ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

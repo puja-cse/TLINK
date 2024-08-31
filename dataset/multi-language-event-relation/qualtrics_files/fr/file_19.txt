@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q164]]
+
+[[Question:MC]]
+L'avantage du Premier ministre dans les sondages est si fragile qu'il [ rend ] tout pronostic impossible .
+Lionel Jospin a cependant [ traité ] le sujet sensible de l'insécurité hier soir au meeting de Tours .
+[[Question:MC:SingleAnswer]]
+La verb [ rend ] se passe AVANT le verb [ traité ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q60]]
+
+[[Question:MC]]
+Il a [ fallu ] que les sapeurs - pompiers cassent les vitres , découpent le rideau métallique de la porte d'entrée et [ fassent ] des ouvertures dans le toit pour pouvoir combattre les flammes .
+[[Question:MC:SingleAnswer]]
+La verb [ fallu ] se passe AVANT le verb [ fassent ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q105]]
+
+[[Question:MC]]
+[ Avertie ] par des voisines , Juliette Carpezat s ' est précipitée en chaussons dans la rue lorsqu ' elle a [ su ] que le Secours populaire brûlait : « Je suis passée à midi devant en rentrant de la pharmacie .
+[[Question:MC:SingleAnswer]]
+La verb [ Avertie ] se passe APRÈS le verb [ su ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q351]]
+
+[[Question:MC]]
+_ Les Utah Jazz , dauphins des Chicago Bulls depuis deux ans et favoris pour la succession [ ouverte ] par la retraite de Michael Jordan , ont ouvert par une victoire à domicile sur Portland leur demi - finale de la conférence ouest mardi soir à Salt Lake City .
+Les Jazz , après avoir frôlé l' élimination au premier tour , se sont imposés 93 à 83 avec 25 points et 12 rebonds de Karl Malone , avant de [ recevoir ] les Portland Trail Blazers une seconde fois , ce soir , dans la série au meilleur des sept matches .
+[[Question:MC:SingleAnswer]]
+La verb [ ouverte ] se passe AVANT le verb [ recevoir ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q6]]
+
+[[Question:MC]]
+Un chauffeur de bus de 38 ans a été [ pris ] à partie et [ agressé ] par deux individus , hier vers 18 h , place de la Mairie à Valdoie .
+[[Question:MC:SingleAnswer]]
+La verb [ pris ] se passe AVANT le verb [ agressé ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q157]]
+
+[[Question:MC]]
+Les consignes de sécurité ont eu raison de la compétition : elle a été [ annulée ] .
+Hier soir , les services techniques de la Ville [ engageaient ] des travaux pour fermer le local tandis que les pompiers s ' organisaient pour effectuer des rondes pendant la nuit afin de déceler toute reprise de feu .
+[[Question:MC:SingleAnswer]]
+La verb [ annulée ] se passe AVANT le verb [ engageaient ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q323]]
+
+[[Question:MC]]
+Seules exceptions notables : Paris , Marseille et Nice , do nt les populations [ stagnent ] ou [ diminuent ] par rapport au dernier recensement .
+[[Question:MC:SingleAnswer]]
+La verb [ stagnent ] se passe APRÈS le verb [ diminuent ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q190]]
+
+[[Question:MC]]
+Bernard [ affirme ] qu'en se promenant , il a [ chuté ] et s ' est retrouvé à terre , la braguette ouverte .
+[[Question:MC:SingleAnswer]]
+La verb [ affirme ] se passe AVANT le verb [ chuté ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q179]]
+
+[[Question:MC]]
+Les faits qui lui sont reprochés [ remontent ] au 27 mai 1998 et se sont déroulés dans les bois proches du fort Dorsner à Giromagny .
+Bernard [ affirme ] qu'en se promenant , il a chuté et s ' est retrouvé à terre , la braguette ouverte .
+[[Question:MC:SingleAnswer]]
+La relation entre [ remontent ] et [ affirme ] est VAGUE (c'est-à-dire qu'elle ne correspond à aucune des réponses ci-dessus).
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q349]]
+
+[[Question:MC]]
+_ Les Utah Jazz , dauphins des Chicago Bulls depuis deux ans et favoris pour la succession [ ouverte ] par la retraite de Michael Jordan , ont ouvert par une victoire à domicile sur Portland leur demi - finale de la conférence ouest mardi soir à Salt Lake City .
+Les Jazz , après avoir [ frôlé ] l' élimination au premier tour , se sont imposés 93 à 83 avec 25 points et 12 rebonds de Karl Malone , avant de recevoir les Portland Trail Blazers une seconde fois , ce soir , dans la série au meilleur des sept matches .
+[[Question:MC:SingleAnswer]]
+La verb [ ouverte ] se passe EN MÊME TEMPS que le verb [ frôlé ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+

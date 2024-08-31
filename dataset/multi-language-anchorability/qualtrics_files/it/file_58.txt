@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1274]]
+
+[[Question:MC]]
+Tutte le manifestazioni indette per i giorni di lutto nazionale sono state cancellate , compreso il concerto che il nostro Coro Monte Peller doveva [tenere] a Mosca .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tenere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q710]]
+
+[[Question:MC]]
+Bruno Dorigatti , ex segretario provinciale della Cgil , non diventerà coordinatore regionale del sindacato , ruolo che era stato [ipotizzato] per valorizzare l' esperienza di uno dei sindacalisti di razza della provincia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ipotizzato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q993]]
+
+[[Question:MC]]
+Per questo il silenzio di questa fiaccolata dovrà essere assordante , perché [cresca] la cultura del dialogo e della pace .
+[[Question:MC:SingleAnswer]]
+Il verbo [ cresca ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1593]]
+
+[[Question:MC]]
+Ora la sua famiglia è composta da 63 bambini [rimasti] soli e senza protezione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rimasti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q791]]
+
+[[Question:MC]]
+Ieri mattina il giovane è stato processato per direttissima : dovrà [rimanere] in carcere per 4 mesi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rimanere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q524]]
+
+[[Question:MC]]
+Il secondo livello , scrive Veneziani , è « costituto da un clan di giornalisti che scrivono divisi ma colpiscono uniti , elogiando le pellicole politicamente corrette , colmano di elogi chiunque sia in odore di [disprezzare] Bush , Berlusconi , Croff e le bandane e viceversa pisciano lacrime di commozione per tutti gli amarcord del sessantotto , anni settanta , Radio Alice » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ disprezzare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2063]]
+
+[[Question:MC]]
+nan [Propongono] una fusione tra l' improvvisazione jazzistica e la tradizione musicale paraliturgica della Sardegna invece i " Boghes and Voices " ( giovedì 9 settembre alla Chiesa Arcipretale di Pergine , ore 21 ) mentre venerdì 10 ( in Piazza Municipio ) spazio ai suoni tzigani di Alessandro Neves Gabrieli e del suo gruppo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Propongono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q186]]
+
+[[Question:MC]]
+Dagli altri campi le note più significative [riguardano] Albiano e Vallagarina capaci di sfruttare al meglio il turno interno per piegare rivali ostiche quali Rovereto e Merano .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riguardano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1982]]
+
+[[Question:MC]]
+E Mediobanca avrebbe già individuato anche il pilota cui [affidare] il compito del rilancio : in pole position c' è Giorgio Cefis , destinato ad assumere la carica di amministratore delegato e di presidente della Santavaleria mentre Varasi lascerebbe ogni incarico operativo pur mantenendo il ruolo di principale azionista .
+[[Question:MC:SingleAnswer]]
+Il verbo [ affidare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q736]]
+
+[[Question:MC]]
+« [Appariva] lucido , conscio di quello che aveva fatto » - ha raccontato un militare .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Appariva ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1423]]
+
+[[Question:MC]]
+L' operazione , si legge in una nota , è stata approvata dai consigli di amministrazione delle società coinvolte e [prevede] la distribuzione agli azionisti minori della Sme ( il 95,59% è controllato da Schemaventuno e il 4,00% dal gruppo bancario San Paolo di Torino ) di 12 azioni ordinarie Schemaventuno ogni 5 Sme possedute .
+[[Question:MC:SingleAnswer]]
+Il verbo [ prevede ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1483]]
+
+[[Question:MC]]
+E' quanto ha deciso di [scoprire] il governo del Jammu e Kashmir dopo che i pellegrini che hanno raggiunto la grotta per il rituale pellegrinaggio , hanno protestato per l' aspetto del lingam , a dir loro troppo piccolo rispetto al passato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scoprire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1612]]
+
+[[Question:MC]]
+Un film insomma che cerca il perdono , la pace , la grazia , quella grazia che ha [scritto] la regista « É una liberazione totalmente gratuita dalla coazione ad odiare » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scritto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2041]]
+
+[[Question:MC]]
+« Questa iniziativa vuole [essere] una sorta di " breviario " - spiega l' ideatore , Renato Morelli a cui è affidata la direzione artistica del festival - in questo caso focalizzato sull' Arco alpino e sulla nuova Europa per interrogarsi sugli altri , sui diversi , sui confini che rompono e si spostano , sulle minoranze anche lontano che diventano presenze vicine e quotidiane » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ essere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q731]]
+
+[[Question:MC]]
+MONTECALVOLI - Ha sparato alla moglie , uccidendola e poi ha [atteso] i Carabinieri sulla soglia di casa , fumando una sigaretta .
+[[Question:MC:SingleAnswer]]
+Il verbo [ atteso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1332]]
+
+[[Question:MC]]
+« Ecco - conclude Bezzi - , questo ritengo sia il compito primario delle nostre istituzioni autonomiste : farsi carico , interpretare il senso di sgomento e insieme la voglia di [fare] qualcosa dei trentini , per mettere in campo un' azione coordinata capace di raccogliere tutte le sensibilità e le disponibilità della società civile , sociale ed economica del Trentino per contribuire a sanare , per quanto possibile , questa incancellabile ferita alla vita e alla dignità umana » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q487]]
+
+[[Question:MC]]
+Infina il cardinale di Napoli , Michele Giordano , chiede che « La scuola sia il terreno in cui cominciare a tessere i fili di una civiltà di pace e di amore » , [basata] sul rispetto della vita umana e la solidarietà tra le persone .
+[[Question:MC:SingleAnswer]]
+Il verbo [ basata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q803]]
+
+[[Question:MC]]
+Come ampiamente anticipato dalla stampa spagnola , il premier Jose' Luis Rodriguez Zapatero ha annunciato oggi che verranno avviate trattative con i separatisti dell' Eta - - " Vi annuncio che il governo avviera' negoziati con l' Eta " , ha dichiarato il leader socialista in una conferenza stampa a Madrid - - " La democrazia non paghera' nessun prezzo politico per la pace " " , ha aggiunto il premier , replicando indirettamente alle critiche dell' opposizione , contraria a qualunque dialogo con l' organizzazione terroristica - Per questa ragione , ha quindi spiegato , il dialogo verra' avviato " " conservando il principio che le questioni politiche si devono [risolvere] con i rappresentanti del popolo " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ risolvere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1616]]
+
+[[Question:MC]]
+Bilancio sul quale il cda [esprime] un giudizio complessivamente positivo , in considerazione della grave crisi che ha investito il settore delle costruzioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ esprime ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q74]]
+
+[[Question:MC]]
+" Questa è una giornata importante per l' Iri - ha [sottolineato] Michele Tedeschi , presidente di via Veneto - Stiamo privatizzando nella massima trasparenza e tenendo contro degli interessi di Iri , imprese e dipendenti " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sottolineato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

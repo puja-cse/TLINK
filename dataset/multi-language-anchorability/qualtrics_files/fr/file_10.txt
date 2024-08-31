@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q249]]
+
+[[Question:MC]]
+nan [Avertie] par des voisines , Juliette Carpezat s ' est précipitée en chaussons dans la rue lorsqu ' elle a su que le Secours populaire brûlait : « Je suis passée à midi devant en rentrant de la pharmacie .
+[[Question:MC:SingleAnswer]]
+Le verbe [ Avertie ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q77]]
+
+[[Question:MC]]
+Nous l'avons [découvert] à terre , le short baissé » .
+[[Question:MC:SingleAnswer]]
+Le verbe [ découvert ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q136]]
+
+[[Question:MC]]
+Pour l'UNAPEI , les 20 mesures [annoncées] par la ministre de l'Education Nationale Ségolène Royal dans son plan d'intégration des handicapés à l'école « sont toutes acceptables mais insuffisantes , notamment faute de moyens » .
+[[Question:MC:SingleAnswer]]
+Le verbe [ annoncées ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q194]]
+
+[[Question:MC]]
+Les Jazz , après avoir frôlé l' élimination au premier tour , se sont imposés 93 à 83 avec 25 points et 12 rebonds de Karl Malone , avant de [recevoir] les Portland Trail Blazers une seconde fois , ce soir , dans la série au meilleur des sept matches .
+[[Question:MC:SingleAnswer]]
+Le verbe [ recevoir ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q86]]
+
+[[Question:MC]]
+« Il a [eu] un fantasme qu'il n ' a pas su maîtriser » , souligne - t - elle dans une plaidoirie qui constituait sa première intervention devant le tribunal correctionnel de Belfort .
+[[Question:MC:SingleAnswer]]
+Le verbe [ eu ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q276]]
+
+[[Question:MC]]
+Hier soir , les services techniques de la Ville [engageaient] des travaux pour fermer le local tandis que les pompiers s ' organisaient pour effectuer des rondes pendant la nuit afin de déceler toute reprise de feu .
+[[Question:MC:SingleAnswer]]
+Le verbe [ engageaient ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q114]]
+
+[[Question:MC]]
+Pauline , en vacances avec sa famille au domaine Saint - Jacques , a été transportée à l'hôpital de Hautepierre à Strasbourg , après avoir [coulé] dans le grand bassin de la piscine couverte du site .
+[[Question:MC:SingleAnswer]]
+Le verbe [ coulé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q45]]
+
+[[Question:MC]]
+Près de deux tiers des Français ( 65 % ) se [disent] plutôt optimistes ( 56 % ) ou très optimistes ( 9 % ) en pensant à l' avenir , selon un sondage sur le moral des Français à la rentrée de septembre réalisé par l'IFOP pour Ouest - France .
+[[Question:MC:SingleAnswer]]
+Le verbe [ disent ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q190]]
+
+[[Question:MC]]
+_ Les Utah Jazz , dauphins des Chicago Bulls depuis deux ans et favoris pour la succession [ouverte] par la retraite de Michael Jordan , ont ouvert par une victoire à domicile sur Portland leur demi - finale de la conférence ouest mardi soir à Salt Lake City .
+[[Question:MC:SingleAnswer]]
+Le verbe [ ouverte ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q41]]
+
+[[Question:MC]]
+Tous les coureurs du footing lenoncourtois disponibles , ont rendez - vous dimanche matin à Val - et - Châtillon , pour [disputer] la journée finale du trophée sport - loisirs .
+[[Question:MC:SingleAnswer]]
+Le verbe [ disputer ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q91]]
+
+[[Question:MC]]
+nan [Considérant] que les faits étaient constitués , le tribunal a condamné Bernard à 5.000 F d'amende .
+[[Question:MC:SingleAnswer]]
+Le verbe [ Considérant ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q216]]
+
+[[Question:MC]]
+Le feu avait couvé et une épaisse fumée s ' était [concentrée] sur les deux étages de l'entrepôt du Secours populaire .
+[[Question:MC:SingleAnswer]]
+Le verbe [ concentrée ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q154]]
+
+[[Question:MC]]
+Alors que la métropole compte 58.416.500 habitants et les quatre départements d'outre - mer 1.665.500 , les premiers résultats du recensement de mars - avril , qui devraient être affinés d' ici la fin de l'année , confirment les tendances [observées] depuis vingt ans : l' urbanisation , loin de ralentir , connaît une nouvelle accélération .
+[[Question:MC:SingleAnswer]]
+Le verbe [ observées ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q233]]
+
+[[Question:MC]]
+Il n ' y avait personne non plus à l'intérieur du hangar que le Secours populaire [utilise] depuis un quart de siècle pour l'accueil ainsi que la vente et le stockage de ses objets , meubles et vêtements .
+[[Question:MC:SingleAnswer]]
+Le verbe [ utilise ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q252]]
+
+[[Question:MC]]
+Avertie par des voisines , Juliette Carpezat s ' est précipitée en chaussons dans la rue lorsqu ' elle a su que le Secours populaire [brûlait] : « Je suis passée à midi devant en rentrant de la pharmacie .
+[[Question:MC:SingleAnswer]]
+Le verbe [ brûlait ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q224]]
+
+[[Question:MC]]
+Leur matériel respiratoire a été nécessaire pour entrer dans la fournaise [générée] par l' incendie des meubles , mousses et infrastructures en bois du bâtiment .
+[[Question:MC:SingleAnswer]]
+Le verbe [ générée ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q48]]
+
+[[Question:MC]]
+L'optimisme des Français [enregistre] une hausse de 10 points par rapport à l'année dernière à la même époque .
+[[Question:MC:SingleAnswer]]
+Le verbe [ enregistre ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q18]]
+
+[[Question:MC]]
+Tony Blair , le Premier ministre britannique a [achevé] hier deux jours de négociations avec les dirigeants d'Irlande du Nord , sans réussir à surmonter le blocage persistant sur la formation de l'exécutif .
+[[Question:MC:SingleAnswer]]
+Le verbe [ achevé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q8]]
+
+[[Question:MC]]
+Un haut dirigeant séparatiste kurde , Semdim Sakik , reconnu coupable de la mort de 283 personnes dans 191 attentats [perpétrés] par le PKK et accusé de séparatisme , a été condamné à mort hier par un tribunal turc .
+[[Question:MC:SingleAnswer]]
+Le verbe [ perpétrés ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q143]]
+
+[[Question:MC]]
+Le recensement de l'INSEE est formel : la France a vu sa population [augmenter] de plus de 2 millions d'habitants en 9 ans pour atteindre le chiffre de 60.082.000 personnes .
+[[Question:MC:SingleAnswer]]
+Le verbe [ augmenter ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+

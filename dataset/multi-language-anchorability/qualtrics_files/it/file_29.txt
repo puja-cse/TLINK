@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1604]]
+
+[[Question:MC]]
+Tutte le dolorose vicende narrate in questo bellissimo documentario sono [sostenute] dalla musica della giovane compositrice finlandese Sanna Salmenkallio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sostenute ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1734]]
+
+[[Question:MC]]
+Toccherà a loro [tracciare] il quadro generale della variante , spiegare gli obiettivi della revisione che si porterà in aula , illustrare il percorso compiuto dagli uffici e dalla commissione , presentare i criteri con cui sono state valutate le domande dei privati .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tracciare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q349]]
+
+[[Question:MC]]
+Pronostici rispettati o c' è qualche risultato che non si [aspettava] in questa prima giornata ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ aspettava ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q828]]
+
+[[Question:MC]]
+A pochi mesi dalla scadenza del contratto del direttore generale dell' Azienda sanitaria si è [accesa] la dicussione tra favorevoli e contrari alla riconferma di Carlo Favaretti , designato dalla giunta provinciale cinque anni fa al termine di una selezione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ accesa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1738]]
+
+[[Question:MC]]
+Toccherà a loro tracciare il quadro generale della variante , spiegare gli obiettivi della revisione che si porterà in aula , illustrare il percorso compiuto dagli uffici e dalla commissione , [presentare] i criteri con cui sono state valutate le domande dei privati .
+[[Question:MC:SingleAnswer]]
+Il verbo [ presentare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1789]]
+
+[[Question:MC]]
+Fra le ragazze , ottavi [raggiunti] solo da Bressan e Miori , vincitrici con punteggi severi sulle nostre Galvan e Merola .
+[[Question:MC:SingleAnswer]]
+Il verbo [ raggiunti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1457]]
+
+[[Question:MC]]
+NATZ - è vero che di fronte aveva il Mori dall' attacco stellare , ma partire con uno 0 - 4 non [è] proprio l' ideale per la credibilità e il morale di una formazione già lo scorso anno costretta a soffrire oltremisura per guadagnarsi la salvezza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q422]]
+
+[[Question:MC]]
+Da quest' anno sembrano aver preso piede i trolly , molto indicati a chi deve [fare] molta strada a piedi e non vuole rimanere schiacciato sotto il peso dei libri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1958]]
+
+[[Question:MC]]
+Però il sabato sera il buon calciatore [va] a dormire presto vero ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ va ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2106]]
+
+[[Question:MC]]
+Impossibile da tradurre per un russo o un europeo che tenta di [dialogare] con loro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dialogare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q954]]
+
+[[Question:MC]]
+C' è bisogno che la comunità internazionale ritrovi la sua unità per combattere al meglio il terrorismo internazionale , senza dimenticare che non c' [è] solo l' opzione militare ma la politica , il dialogo e la ragione » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2179]]
+
+[[Question:MC]]
+Durante le deportazioni ci furono trasportati i Ceceni , ed ora l' Ingushezia cecena [rivendica] tutta la regione di Prigorodnj , dove è appunto il teatro della strage » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rivendica ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q582]]
+
+[[Question:MC]]
+La malattia in Italia interessa un numero di pazienti che [oscilla] fra 5 e 8 mila individui .
+[[Question:MC:SingleAnswer]]
+Il verbo [ oscilla ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1666]]
+
+[[Question:MC]]
+Valentini , che è direttore di un golf club , dopo aver [spedito] la giovane moglie Cheryl con i figlioletti Liliana ( 6 mesi ) e Alexander ( 3 anni ) sulla costa occidentale della penisola , al riparo dall' uragano , si è barricato all' interno del ristorante del club con altre 300 persone in attesa che la tempesta passasse .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spedito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q887]]
+
+[[Question:MC]]
+La parte operativa della Dirigenza [va] guidata dalla parte politica che ha il delicato compito di rendere compatibili le diverse richieste , talora contrastanti , dei cittadini nei confronti della Sanità Pubblica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ va ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q659]]
+
+[[Question:MC]]
+Nel 92 la Sara Vita ha [raccolto] premi per 25,4 miliardi e chiuso il bilancio con un utile di 92 milioni ; le riserve tecniche al lordo del lavoro ceduto risultano pari a 90,4 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ raccolto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1386]]
+
+[[Question:MC]]
+Il famoso filosofo francese condanna senza mezze misure i terroristi di Beslan ( « un' ignobile commando di assassini » ) , ma fa subito un distinguo : « Si dice che si tratti di un commando ceceno ma [è] falso , a quanto si sa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q336]]
+
+[[Question:MC]]
+« Sicuramente abbiamo qualche problemino che [dovremo] cercare di risolvere al più presto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovremo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1812]]
+
+[[Question:MC]]
+Anche recupero del potere d' acquisto delle retribuzioni , rivendicazione di migliori condizioni di lavoro e volontà di [rinsaldare] il rapporto di fiducia con le imprese e i risparmiatori .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rinsaldare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q398]]
+
+[[Question:MC]]
+Pur con prezzi altamente competitivi , gli zaini dei « vecchi » personaggi dei cartoni animati non [interessano] più .
+[[Question:MC:SingleAnswer]]
+Il verbo [ interessano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

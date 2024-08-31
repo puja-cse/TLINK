@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q303]]
+
+[[Question:MC]]
+Sentence: Due proposte , pare [ avanzate ] dalla britannica Zeneca e dalla svizzera Roche , sono infatti [ svanite ] come neve al sole nelle ultime ore .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avanzate ] accade PRIMA del verbo [ svanite ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q832]]
+
+[[Question:MC]]
+Sentence: Come ampiamente [ anticipato ] dalla stampa spagnola , il premier Jose' Luis Rodriguez Zapatero ha annunciato oggi che verranno avviate trattative con i separatisti dell' Eta - - " Vi [ annuncio ] che il governo avviera' negoziati con l' Eta " , ha dichiarato il leader socialista in una conferenza stampa a Madrid - - " La democrazia non paghera' nessun prezzo politico per la pace " " , ha aggiunto il premier , replicando indirettamente alle critiche dell' opposizione , contraria a qualunque dialogo con l' organizzazione terroristica - Per questa ragione , ha quindi spiegato , il dialogo verra' avviato " " conservando il principio che le questioni politiche si devono risolvere con i rappresentanti del popolo " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ anticipato ] accade PRIMA del verbo [ annuncio ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1653]]
+
+[[Question:MC]]
+Sentence 1: MILANO - Si chiamerà Gruppo Gs la nuova azienda che [ nascerà ] dalla fusione di Sme e Gs nella controllante Schemaventuno , la società partecipata dai gruppi Del Vecchio , Edizione ( Benetton ) e Movenpick che ha rilevato la ex finanziaria alimentare dell' Iri .
+Sentence 2: L' operazione , si legge in una nota , è stata approvata dai consigli di amministrazione delle società coinvolte e prevede la distribuzione agli azionisti minori della Sme ( il 95,59% è [ controllato ] da Schemaventuno e il 4,00% dal gruppo bancario San Paolo di Torino ) di 12 azioni ordinarie Schemaventuno ogni 5 Sme possedute .
+[[Question:MC:SingleAnswer]]
+Il verbo [ nascerà ] accade PRIMA del verbo [ controllato ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q987]]
+
+[[Question:MC]]
+Sentence: E quali testimoni della buona riuscita di alcuni di questi progetti , sono arrivati a Trento due importanti religiosi , accompagnati da monsignor Luigi Bressan : Lino Panizza , vescovo di Carabayllo , che [ invita ] le autorità ad intervenire all' ormai prossima inaugurazione del centro El Buen Pastor ( 180 alunni , tra i quali anche alcune ragazze iscritte al corso di falegnameria ) , e Adriano Tomasi , vescovo ausiliario di Lima , che annuncia il completamento ( forse già a marzo ) dei primi edifici dell' istituto di Manchay [ destinato ] a far studiare almeno un migliaio di allievi distribuiti in corsi da sei mesi fino a tre anni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ invita ] accade PRIMA del verbo [ destinato ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3376]]
+
+[[Question:MC]]
+Sentence 1: C' era la possibilità di utilizzare solo l' unità ricca di staminali , ma è stato deciso di trapiantarle entrambe , sia l' unità più ricca di cellule « non manipolate » , sia l' altra più povera , ma dopo averla [ congelata ] e trasferita alla « Cell Factory » di Milano , per amplificare il numero delle sue cellule .
+Sentence 2: A Milano l' unità di sangue è stata scongelata il 28 luglio e sono state selezionate le staminali che sono state messe in coltura in camera sterile per 15 giorni , [ moltiplicandone ] il numero di 60 volte .
+[[Question:MC:SingleAnswer]]
+Il verbo [ congelata ] accade DOPO il verbo [ moltiplicandone ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3620]]
+
+[[Question:MC]]
+Sentence 1: Anche se abbiamo sentito [ chiamarli ] « Zen » ( il numero 7 seguito dalla « en » finale può effettivamente essere confuso con una zeta ) , la loro fama rimane costante .
+Sentence 2: In genere , lo zaino base si [ aggira ] sui 64 euro e 90 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ chiamarli ] accade PRIMA del verbo [ aggira ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1808]]
+
+[[Question:MC]]
+Sentence: Si è [ fatto ] conoscere come « ladro maldestro » : lo scorso marzo si è ribaltato in bicicletta mentre stava scappando con un paio di cassette piene di monetine [ trafugate ] da una lavanderia , poi era stato sorpreso all' interno di un tombino con l' intenzione di intrufolarsi nel magazzino di una tabaccheria , infine lo scorso venerdì era stato denunciato perché trovato in possesso di un timbrino trafugato ad un medico , con cui falsificava le ricette .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fatto ] accade SIMULTANEAMENTE con il verbo [ trafugate ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3528]]
+
+[[Question:MC]]
+Sentence 1: I " Voli d' Estate " entrano nel vivo con le qualificazioni , che decreteranno i migliori 50 atleti che domani si [ contenderanno ] i punti della quarta tappa del FIS Summer Grand Prix , proposta dal Comitato Nordik Ski Fiemme .
+Sentence 2: La Coppa del Mondo estiva di salto con gli sci lo scorso weekend ha celebrato la terza prova in Polonia registrando una nuova vittoria del fuoriclasse Adam Malysz , il quale ha [ centrato ] così tre vittorie in tre gare .
+[[Question:MC:SingleAnswer]]
+Il verbo [ contenderanno ] accade PRIMA del verbo [ centrato ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3765]]
+
+[[Question:MC]]
+Sentence: Emesse 70 ordinanze di custodia cautelare , [ supportate ] da migliaia di intercettazioni ambientali e telefoniche , dichiarazioni di collaboratori di giustizia e testimonianze di una trentina di imprenditori e commercianti vittime dell' usura che , messi alle strette dagli investigatori , hanno ammesso di essere in mano agli usurai [ fornendo ] le indicazioni necessarie per giungere alla loro identificazione e all' arresto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ supportate ] accade PRIMA del verbo [ fornendo ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q295]]
+
+[[Question:MC]]
+Sentence 1: Il takeover , del valore di 9 miliardi di sterline ( oltre 24mila miliardi di lire ) ha visto la strada spianata dopo che la Wellcome ha [ riconosciuto ] di non potere presentare alcuna controfferta alternativa .
+Sentence 2: Due proposte , [ pare ] avanzate dalla britannica Zeneca e dalla svizzera Roche , sono infatti svanite come neve al sole nelle ultime ore .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riconosciuto ] accade DOPO il verbo [ pare ].
+[[Choices]]
+Sì
+NO
+NON SO
+

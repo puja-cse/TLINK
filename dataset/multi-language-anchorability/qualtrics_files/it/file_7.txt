@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1227]]
+
+[[Question:MC]]
+La quadratura del cerchio è stata ottenuta grazie alla disponibilità , praticamente in tempo reale , dei fondi pubblici ( ed anche all' aiuto della Cassa Rurale di Aldeno e Cadine ) : « Abbiamo potuto così mantenere un rapporto fiduciario con le imprese che avevano la garanzia di venire [pagate] in tempi proporzionali alla velocità di esecuzione » aggiunge Rossi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ pagate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1037]]
+
+[[Question:MC]]
+PREDAZZO - Comincia oggi pomeriggio a Predazzo la kermesse dello ski jumping , la spettacolare disciplina dello sci nordico che si [pratica] anche d' estate sugli speciali trampolini rivestiti di materiale plastico .
+[[Question:MC:SingleAnswer]]
+Il verbo [ pratica ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2148]]
+
+[[Question:MC]]
+I sopravvissuti [poterono] tornare in patria solo dopo il 20 ° congresso del partito comunista , dove Nikita Chruschev nel 1956 denunciò le colpe di Stalin .
+[[Question:MC:SingleAnswer]]
+Il verbo [ poterono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1355]]
+
+[[Question:MC]]
+Il G8 invita israeliani e palestinesi ad [evitare] misure che pregiudicherebbero lo status dei Territori e chiede il rilascio del soldato rapito .
+[[Question:MC:SingleAnswer]]
+Il verbo [ evitare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1811]]
+
+[[Question:MC]]
+« Sono certo che i colleghi sindaci in questo momento così tragico vorranno aiutare i bambini sopravvissuti , ad alleviare , se mai [fosse] possibile , il dolore » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fosse ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1825]]
+
+[[Question:MC]]
+Fermarsi ora [è] una sciocchezza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2197]]
+
+[[Question:MC]]
+« La soluzione non verrà di certo dalla Russia di Valdimir Putin che non dialoga più neanche con i ceceni moderati e ha [promesso] ancora più durezza in futuro » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ promesso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2075]]
+
+[[Question:MC]]
+Nato a Piacenza nel 1938 , [fu] uno dei pochi italiani all' università di Mosca durante la guerra fredda .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fu ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q340]]
+
+[[Question:MC]]
+Soprattutto nella fase offensiva dobbiamo [crescere] parecchio » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ crescere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2091]]
+
+[[Question:MC]]
+Ma in Caucaso non ci furono mai dei mussulmani molto ferventi , al punto che durante la dominazione sovietica [dimenticarono] totalmente il « culto di Allah » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dimenticarono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1537]]
+
+[[Question:MC]]
+Ma a [tener] banco è lo scontro politico tra i referendari e il ministro Carlo Giovanardi , per il manifesto dell' Udc secondo cui quei quesiti « li avrebbero firmati anche i nazisti » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tener ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1799]]
+
+[[Question:MC]]
+Nella sua lettera , il capo dello Stato [sottolinea] l' esigenza di convergenze in grado di " superare le demarcazioni tra maggioranza e opposizione " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sottolinea ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q375]]
+
+[[Question:MC]]
+Ci sarebbe da comprare anche una bustina a parte , ma [manca] quella della stessa tonalità .
+[[Question:MC:SingleAnswer]]
+Il verbo [ manca ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q164]]
+
+[[Question:MC]]
+Nel nuovo Senato va [dato] spazio a rappresentanze paritarie , con un collegamento agli organi politici delle Regioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q392]]
+
+[[Question:MC]]
+Sia da parte delle mamme , quando i figlioletti sono piccoli , sia da parte delle ragazzine più grandicelle che [fanno] acquisti da sole .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fanno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q184]]
+
+[[Question:MC]]
+Il bello , e difficile , sarà continuare con questa carica di motivazioni e concentrazione per [ripetere] magari ( la storia ha avuto aspetti simili ) il miracolo del Comano dell' anno scorso .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ripetere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1866]]
+
+[[Question:MC]]
+E in serata le fiamme sono tornate a [minacciare] alcuni stabilimenti industriali , in particolare la fabbrica metallurgica Arinox : i vigili del fuoco hanno lottato per ore per allontanare le numerose bombole di idrogeno presenti nello stabilimento .
+[[Question:MC:SingleAnswer]]
+Il verbo [ minacciare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1959]]
+
+[[Question:MC]]
+Però il sabato sera il buon calciatore va a [dormire] presto vero ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ dormire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1858]]
+
+[[Question:MC]]
+I sequestratori hanno dato alle fiamme l' autobus e si sono poi [dileguati] con gli ostaggi a bordo di altre vetture .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dileguati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2168]]
+
+[[Question:MC]]
+Ma c' è un particolare ancora che non si [spiega] se non guardando indietro : perché proprio la scuola di Beslan ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ spiega ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

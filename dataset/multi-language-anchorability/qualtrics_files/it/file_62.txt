@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q353]]
+
+[[Question:MC]]
+Non mi aspettavo che il Calcio Bleggio subisse quattro gol in casa , ma evidentemente hanno [pagato] qualche assenza di troppo » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ pagato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q821]]
+
+[[Question:MC]]
+Lo stesso percorso che il coreografo americano Bud Blumenthal ha sviluppato in due suggestivi spettacoli , entrambi in programma al festival roveretano e dei quali aveva [parlato] soltanto la sera prima nella stessa sede .
+[[Question:MC:SingleAnswer]]
+Il verbo [ parlato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1123]]
+
+[[Question:MC]]
+L' annunciato voto contrario di otto senatori al decreto di rifinanziamento della missione in Afghanistan è " un problema serio , serissimo " che , " [considerati] i rapporti di forza tra maggioranza e opposizione in Parlamento , in particolare al Senato " , può rivelarsi " drammatico " - Lo ha detto il ministro della Difesa Arturo Parisi in un' intervista a - Repubblica Radio - Parisi ha precisato che " il nostro impegno nel secondo semestre è assolutamente identico all' impegno del primo " e quindi non c' è " né potenziamento né depotenziamento " della missione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ considerati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q723]]
+
+[[Question:MC]]
+Le iniziative sul tavolo per festeggiare la Cgil a Trento riguardano una mostra , un convegno e un filmato che [dovrebbero] nascere dalla collaborazione con il Museo storico di Trento .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovrebbero ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q796]]
+
+[[Question:MC]]
+Come ampiamente anticipato dalla stampa spagnola , il premier Jose' Luis Rodriguez Zapatero ha annunciato oggi che verranno avviate trattative con i separatisti dell' Eta - - " Vi annuncio che il governo avviera' negoziati con l' Eta " , ha [dichiarato] il leader socialista in una conferenza stampa a Madrid - - " La democrazia non paghera' nessun prezzo politico per la pace " " , ha aggiunto il premier , replicando indirettamente alle critiche dell' opposizione , contraria a qualunque dialogo con l' organizzazione terroristica - Per questa ragione , ha quindi spiegato , il dialogo verra' avviato " " conservando il principio che le questioni politiche si devono risolvere con i rappresentanti del popolo " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dichiarato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2156]]
+
+[[Question:MC]]
+Nel 1993 , dopo la caduta del muro di Berlino , l' unico generale di origine cecena riuscito ad [entrare] nell' esercito russo , proclamò l' indipendenza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ entrare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q852]]
+
+[[Question:MC]]
+Vorrei poter decidere di quali Collaboratori [circondarmi] , quali apparecchiature acquistare , quale quota di lavoro portare avanti e quale tralasciare , quando andare in ferie e quali corsi di aggiornamento seguire .
+[[Question:MC:SingleAnswer]]
+Il verbo [ circondarmi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1914]]
+
+[[Question:MC]]
+Ah non c' è dubbio , è un grossissimo vantaggio avere davanti uno come lui , che [è] indiscutibilmente il migliore attaccante della regione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q617]]
+
+[[Question:MC]]
+NAPOLI - Una giovane donna con in braccio il figlioletto di tre anni si è [lanciata] dal balcone della sua abitazione in una zona popolare di Napoli .
+[[Question:MC:SingleAnswer]]
+Il verbo [ lanciata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1670]]
+
+[[Question:MC]]
+« Non sono riuscito a [contattarlo] per 3 giorni » spiegava ieri don Valentino , che a luglio era andato in visita al fratello .
+[[Question:MC:SingleAnswer]]
+Il verbo [ contattarlo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1437]]
+
+[[Question:MC]]
+La Sme , reduce da un' Opa conclusa il 5 agosto che ha portato la quota Schemaventuno ai livelli attuali , è [destinata] a essere cancellata dal listino della Borsa valori italiana .
+[[Question:MC:SingleAnswer]]
+Il verbo [ destinata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q748]]
+
+[[Question:MC]]
+Un divieto che la moglie voleva fare rispettare e sul quale l' uomo [era] invece scettico .
+[[Question:MC:SingleAnswer]]
+Il verbo [ era ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1540]]
+
+[[Question:MC]]
+Ai radicali che hanno [deciso] di adire le vie legali , Giovanardi ha replicato : « Sono allibito perché chi ogni giorno insulta i sentimenti e le convinzioni dei cattolici del nostro paese definendoli oscurantisti e talebani ora vuole intimidire un partito e un parlamentare che esprime una sua opinione che non coincide con quelle radicali » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deciso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q488]]
+
+[[Question:MC]]
+nan [Ricordando] la « vile e spietata aggressione di Beslan » , il cardinale Michele Giordano rivolge questo auspicio agli studenti napoletani , sostiene che « alla violenza delle guerre , del terrorismo , dell' intolleranza va contrapposta , cominciando proprio dai giovani , una cultura di segno opposto » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Ricordando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1267]]
+
+[[Question:MC]]
+« L' eccidio di Beslan - ha [raccontato] al telefono l' assessore provinciale Franco Panizza , che guida il gruppo dei trentini , assieme a rappresentanti di alcune amministrazioni municipali della Valle di Non e della Val di Sole - ha messo al tappeto un' intera nazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ raccontato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q929]]
+
+[[Question:MC]]
+Pensare che il licenziamento dell' attuale Direttore Generale [rappresenti] la magica soluzione dei problemi della Sanità è una illusione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rappresenti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q619]]
+
+[[Question:MC]]
+Il convivente della donna ha [riferito] alla polizia che da qualche tempo la sua compagna soffriva di crisi depressive .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riferito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q865]]
+
+[[Question:MC]]
+Qualcuno può realmente [credere] che tutto quanto sopra esposto sia realizzabile o meno a seconda delle caratteristiche e delle propensioni del Direttore Generale ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ credere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1149]]
+
+[[Question:MC]]
+Alla luce della decisione dell' assessore Andreatta di prendere in considerazione le richieste presentate entro il 30 giugno di quest' anno alla Vela pretendono che pure le loro istanze vengano [dibattute] in commissione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dibattute ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q425]]
+
+[[Question:MC]]
+Da quest' anno sembrano aver preso piede i trolly , molto indicati a chi deve fare molta strada a piedi e non vuole rimanere [schiacciato] sotto il peso dei libri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ schiacciato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

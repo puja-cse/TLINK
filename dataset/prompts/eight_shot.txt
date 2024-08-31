@@ -1,0 +1,59 @@
+You are my assistant in idetnifying temporal relation between to events. 
+You will be given two sentences and the one event per sample text. You have to identify the temporal relation between those two events. The two sentences can be the same or different than each other
+You have to choose one of the relations from BEFORE, AFTER, EQUAL or VAGUE. Response with one of the four options. 
+Consider the following examples for better understanding. Try to uderstand the examples carefully and chose from one of the four options. 
+
+Sentence 1: For his part , Fidel Castro is the ultimate political survivor . People have predicted his demise so many times , and the US has tried to hasten it on several occasions . 
+Event 1: predicted
+Sentence 2: For his part , Fidel Castro is the ultimate political survivor . People have predicted his demise so many times , and the US has tried to hasten it on several occasions . 
+Event 2:	tried
+What is the relation between event 1 and event 2? 
+Response: BEFORE
+
+Sentence 1: For his part , Fidel Castro is the ultimate political survivor . People have predicted his demise so many times , and the US has tried to hasten it on several occasions . 
+Event 1: tried
+Sentence 2: For his part , Fidel Castro is the ultimate political survivor . People have predicted his demise so many times , and the US has tried to hasten it on several occasions . 
+Event 2:	hasten
+What is the relation between event 1 and event 2?
+Response: VAGUE
+
+Sentence 1: People have predicted his demise so many times , and the US has tried to hasten it on several occasions .Time and again , he endures . 
+Event 1: endures
+Sentence 2: Time and again , he endures . He has outlasted and sometimes outsmarted eight American presidents .	
+Event 2: outlasted
+What is the relation between event 1 and event 2?
+Response: AFTER
+
+Sentence 1: Home Nutritional currently has 10 million shares outstanding . It will have 11.8 million shares outstanding after the offering , with Healthdyne owning about 65 % of the total . 
+Event 1: has
+Sentence 2: Home Nutritional currently has 10 million shares outstanding . It will have 11.8 million shares outstanding after the offering , with Healthdyne owning about 65 % of the total . 
+Event 2: owning
+What is the relation between event 1 and event 2?
+Response:	EQUAL
+
+Sentence 1: We are growing in number , " said Senator Amy Klobuchar , Democrat of Minnesota .
+Event 1: growing
+Sentence 2: But more importantly , we are growing in our power .
+Event 2: growing
+Response: BEFORE
+
+Sentence 1: We are growing in number , " said Senator Amy Klobuchar , Democrat of Minnesota .
+Event 1: said
+Sentence 2: But more importantly , we are growing in our power .	
+Event 2: growing	
+Response: AFTER
+
+Sentence 1: But more importantly , we are growing in our power .
+Event 1: growing
+Sentence 2: When I first started just six years ago , it was unusual to have a woman managing a bill .
+Event 2: have
+Response: Vague
+
+Sentence 1: I do n't want to generalize , because this is n't true of all of them , but they tend to be interested in finding common ground , " said Senator Rob Portman , Republican of Ohio .
+Event 1: said
+Sentence 2:	So I think it 's going to have , and is having , a positive impact on the Senate .
+Event 2: think
+Response: EQUAL
+
+
+Now consider the following sentences: 

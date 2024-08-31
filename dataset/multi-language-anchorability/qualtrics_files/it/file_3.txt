@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1422]]
+
+[[Question:MC]]
+L' operazione , si legge in una nota , è stata approvata dai consigli di amministrazione delle società [coinvolte] e prevede la distribuzione agli azionisti minori della Sme ( il 95,59% è controllato da Schemaventuno e il 4,00% dal gruppo bancario San Paolo di Torino ) di 12 azioni ordinarie Schemaventuno ogni 5 Sme possedute .
+[[Question:MC:SingleAnswer]]
+Il verbo [ coinvolte ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q43]]
+
+[[Question:MC]]
+Il finale riserva una sorpresa che ingloba tutti , che sorprende la platea per la sua teatralità e , in qualche modo , si ricollega a delle immagine abbastanza comuni [raccolte] durante l' infanzia di tutti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ raccolte ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2]]
+
+[[Question:MC]]
+Bisogna " [recuperare] il crollo del gettito che c' è stato in questi anni ma non ci sarà nessun aumento delle tasse " - Lo ha detto Visco - All' incontro a Palazzo Chigi con le parti sociali , il viceministro per l' Economia ha aggiunto che il governo " metterà mano al sistema dei rimborsi Iva " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ recuperare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1384]]
+
+[[Question:MC]]
+Il famoso filosofo francese condanna senza mezze misure i terroristi di Beslan ( « un' ignobile commando di assassini » ) , ma fa subito un distinguo : « Si [dice] che si tratti di un commando ceceno ma è falso , a quanto si sa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dice ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2040]]
+
+[[Question:MC]]
+« Questa iniziativa [vuole] essere una sorta di " breviario " - spiega l' ideatore , Renato Morelli a cui è affidata la direzione artistica del festival - in questo caso focalizzato sull' Arco alpino e sulla nuova Europa per interrogarsi sugli altri , sui diversi , sui confini che rompono e si spostano , sulle minoranze anche lontano che diventano presenze vicine e quotidiane » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vuole ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q636]]
+
+[[Question:MC]]
+Sono stabili ma sempre gravi le condizioni di Susanna Franzoni , la 19enne di Varese ricoverata al neurochirurgico di Bolzano per i traumi riportati nell' incidente [avvenuto] domenica all' alba a Pinzolo , quado un' auto è carambolata contro un muro nel centro del paese .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avvenuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1973]]
+
+[[Question:MC]]
+Ovviamente senza [tirare] in ballo il mio Mori ...
+[[Question:MC:SingleAnswer]]
+Il verbo [ tirare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q42]]
+
+[[Question:MC]]
+Il finale riserva una sorpresa che ingloba tutti , che sorprende la platea per la sua teatralità e , in qualche modo , si [ricollega] a delle immagine abbastanza comuni raccolte durante l' infanzia di tutti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricollega ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q59]]
+
+[[Question:MC]]
+L' istituto di Via Veneto ha infatti formalizzato ieri la cessione del 100,00% del gruppo siderurgico Ast al consorzio Kai , formato da Krupp ( 50,00% ) e da una cordata di industriali italiani ( 50,00% ) [composta] da Agarini , Falck e Riva .
+[[Question:MC:SingleAnswer]]
+Il verbo [ composta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q608]]
+
+[[Question:MC]]
+Le staminali dei fratellini hanno lavorato e prodotto emoglobina e cellule sane : già a partire dal 28 agosto ( 16 / a giornata dal trapianto ) sono stati trovati nel sangue del bambino valori di globuli bianchi ampiamente protettivi rispetto ai rischi di infezione e due giorni dopo si sono [documentati] i primi segni di significativa produzione di globuli rossi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ documentati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1377]]
+
+[[Question:MC]]
+PARIGI - A dispetto della sanguinosa presa di ostaggi a Beslan , Andrè Glucksmann ritorna alla carica con una nuova , appassionata difesa della causa cecena e denuncia la « sporca guerra » in corso in quella zona del Caucaso , guerra che ha gia [provocato] un' immane ecatombe di bambini .
+[[Question:MC:SingleAnswer]]
+Il verbo [ provocato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1340]]
+
+[[Question:MC]]
+La dismissione è avvenuta nell' ambito delle procedure di liquidazione del gruppo Cameli e - [segnala] un comunicato della società acquirente - " ha permesso il salvataggio di oltre il 60,00% dei posti di lavoro della Bravo " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ segnala ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1881]]
+
+[[Question:MC]]
+Ferrando non ce l' ha fatta : avvolto da una densa nube nera e dal fumo , è rimasto [intrappolato] nelle fiamme .
+[[Question:MC:SingleAnswer]]
+Il verbo [ intrappolato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2084]]
+
+[[Question:MC]]
+Ci permette di [addentrarci] nella complessità della situazione del Caucaso .
+[[Question:MC:SingleAnswer]]
+Il verbo [ addentrarci ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q717]]
+
+[[Question:MC]]
+Ora , per Dorigatti si [apre] la strada della permanenza , fino al prossimo congresso della Cgil , tra due anni , all' interno dell' organizzazione , per la quale ha preso in mano , recentemente , i compiti relativi alla celebrazione del centenario della Confederazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ apre ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q649]]
+
+[[Question:MC]]
+L' Rc auto è [salita] del 14,50% , l' auto rischi diversi del 19,90% e gli altri rami danni del 13,7 per cento .
+[[Question:MC:SingleAnswer]]
+Il verbo [ salita ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q396]]
+
+[[Question:MC]]
+La riprova della tensione modaiola è [data] dal fatto che le proposte degli anni addietro sono ammucchiate tristemente in un angolo , sotto la parola « offerta » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ data ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1709]]
+
+[[Question:MC]]
+É [articolato] in una breve presentazione dell' attività , le varie strutture tipo dei gruppi famiglia , i centri aperti e i centri di aggregazione giovanile presenti sul territorio provinciale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ articolato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1007]]
+
+[[Question:MC]]
+I tre sindacati invitano inoltre tutte le scuole a [proporre] , per il primo giorno di lezioni , una riflessione sulla guerra e sul valore della pace .
+[[Question:MC:SingleAnswer]]
+Il verbo [ proporre ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1283]]
+
+[[Question:MC]]
+E sulla scia di questo ricordo si è [snodata] la visita della delegazione trentina .
+[[Question:MC:SingleAnswer]]
+Il verbo [ snodata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

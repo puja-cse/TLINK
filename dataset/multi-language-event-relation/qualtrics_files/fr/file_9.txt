@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q0]]
+
+[[Question:MC]]
+Le président du Conseil représentatif des institutions juives de France Roger Cukierman a [ créé ] la polémique lors du traditionnel dîner annuel du CRIF en [ assimilant ] antisionisme et antisémitisme et en dénonçant une « alliance brun - vert - rouge » .
+[[Question:MC:SingleAnswer]]
+La verb [ créé ] se passe APRÈS le verb [ assimilant ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q285]]
+
+[[Question:MC]]
+Secourue rapidement , son cœur est [ reparti ] , mais elle n'avait pas repris conscience lors de son admission à l'hôpital , où elle est décédée .
+Les gendarmes d'Obernai [ enquêtent ] .
+[[Question:MC:SingleAnswer]]
+La verb [ reparti ] se passe APRÈS le verb [ enquêtent ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q103]]
+
+[[Question:MC]]
+Nous ne mettions plus rien à l'étage car les planchers sont trop vieux » , [ détaille ] - t - il .
+Avertie par des voisines , Juliette Carpezat s ' est précipitée en chaussons dans la rue lorsqu ' elle a su que le Secours populaire brûlait : « Je suis passée à midi devant en [ rentrant ] de la pharmacie .
+[[Question:MC:SingleAnswer]]
+La verb [ détaille ] se passe AVANT le verb [ rentrant ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q87]]
+
+[[Question:MC]]
+Le bâtiment , qui appartient à la Ville de Belfort , venait de [ faire ] l'objet de travaux de rénovation confirme André Kaufmann , adjoint au maire , sur place hier : « La toiture a été complétement refaite à la fin de l'année dernière , ainsi que la façade extérieure et les systèmes de sécurité » , [ souligne ] - t - il , estimant le coût de ces travaux à environ 100.000 € .
+[[Question:MC:SingleAnswer]]
+La relation entre [ faire ] et [ souligne ] est VAGUE (c'est-à-dire qu'elle ne correspond à aucune des réponses ci-dessus).
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q266]]
+
+[[Question:MC]]
+Dans un point de vue [ paru ] dans « Le Monde » , le président socialiste de l'Assemblée nationale juge que la cohabitation comporte « trois inconvénients » : elle « ne facilite pas le traitement des problèmes de long terme » , « [ dilue ] la notion - même de responsabilité politique » et « fait le lit des abstentionnistes et des votes marginaux » .
+[[Question:MC:SingleAnswer]]
+La verb [ paru ] se passe AVANT le verb [ dilue ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q224]]
+
+[[Question:MC]]
+Plaintes ont ensuite été [ déposées ] à la gendarmerie de Giromagny qui a [ ouverte ] une enquête .
+[[Question:MC:SingleAnswer]]
+La verb [ déposées ] se passe AVANT le verb [ ouverte ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q143]]
+
+[[Question:MC]]
+Et pour cause : la fumée a recouvert le quartier , faisant [ sortir ] les curieux , et le sinistre a [ interrompu ] le concours de pétanque organisée par l'association des Portugais de Belfort .
+[[Question:MC:SingleAnswer]]
+La verb [ sortir ] se passe EN MÊME TEMPS que le verb [ interrompu ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q233]]
+
+[[Question:MC]]
+L'avocate de Bernard , Alexandra Michel , a [ souligné ] que son client avait conscience du trouble qu'il avait causé aux adolescentes .
+« Il a eu un fantasme qu'il n ' a pas su maîtriser » , [ souligne ] - t - elle dans une plaidoirie qui constituait sa première intervention devant le tribunal correctionnel de Belfort .
+[[Question:MC:SingleAnswer]]
+La verb [ souligné ] se passe APRÈS le verb [ souligne ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q406]]
+
+[[Question:MC]]
+Un ancien de la Gestapo , Alfons Goetzfrid , a été [ condamné ] hier à 10 ans de prison pour complicité dans le meurtre de 17.000 juifs au camp d'extermination de Majdanek en Pologne où 400.000 personnes ont péri pendant la seconde guerre mondiale .
+Il a [ concédé ] avoir aidé à recharger des armes des bourreaux .
+[[Question:MC:SingleAnswer]]
+La verb [ condamné ] se passe AVANT le verb [ concédé ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q250]]
+
+[[Question:MC]]
+Les Français [ retrouvent ] l'optimisme .
+Près de deux tiers des Français ( 65 % ) se disent plutôt optimistes ( 56 % ) ou très optimistes ( 9 % ) en pensant à l' avenir , selon un sondage sur le moral des Français à la rentrée de septembre [ réalisé ] par l'IFOP pour Ouest - France .
+[[Question:MC:SingleAnswer]]
+La verb [ retrouvent ] se passe AVANT le verb [ réalisé ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+

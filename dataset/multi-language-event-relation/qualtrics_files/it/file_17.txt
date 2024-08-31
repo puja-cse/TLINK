@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q2772]]
+
+[[Question:MC]]
+Sentence 1: Da lì ci [ sono ] soltanto 4 chilometri dal confine con la Cecenia e si sentono le esplosioni in lontananza .
+Sentence 2: Alcune delle famiglie sfollate vivono in vecchie fattorie semidistrutte e [ tentano ] una qualche forma di vita allevando capre , pregando , sperando .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] accade PRIMA del verbo [ tentano ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2856]]
+
+[[Question:MC]]
+Sentence: [ Fermarsi ] ora [ è ] una sciocchezza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Fermarsi ] accade PRIMA del verbo [ è ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3212]]
+
+[[Question:MC]]
+Sentence 1: L' Ast [ costituisce ] uno dei principali produttori europei di acciai speciali , costituito a seguito della ristrutturazione industriale e societaria del gruppo Ilva .
+Sentence 2: Il ministro dell' Industria Vito Gnutti ha espresso soddisfazione per la definitiva conclusione della vendita , sottolineando come " quando le cose sono ben [ fatte ] e soprattutto sono impostate seriamente anche i nostri partners europei lo riconoscono " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ costituisce ] accade PRIMA del verbo [ fatte ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3224]]
+
+[[Question:MC]]
+Sentence 1: Il ministro dell' Industria Vito Gnutti ha [ espresso ] soddisfazione per la definitiva conclusione della vendita , sottolineando come " quando le cose sono ben fatte e soprattutto sono impostate seriamente anche i nostri partners europei lo riconoscono " .
+Sentence 2: La vendita dell' Ast , ha [ continuato ] Gnutti , è la dimostrazione di questa serietà e con gli stessi criteri - ha concluso - si procederà ora alla cessione dell' Ilp .
+[[Question:MC:SingleAnswer]]
+Il verbo [ espresso ] accade PRIMA del verbo [ continuato ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3841]]
+
+[[Question:MC]]
+Sentence: Questi , in sintesi , i risultati [ registrati ] nell' esercizio 92 dal gruppo Sara assicurazioni , [ approvato ] ieri dall' assemblea dei soci .
+[[Question:MC:SingleAnswer]]
+Il verbo [ registrati ] accade DOPO il verbo [ approvato ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1031]]
+
+[[Question:MC]]
+Sentence: A Rovereto è stato invitato da " Oriente Occidente " in collaborazione con il " Festivaletteratura " di Mantova per la serie di incontri centrati sul tema dei « Linguaggi » , una nuova sezione [ inaugurata ] quest' anno al Festival per permettere di dialogare con i protagonisti di differenti discipline , sempre [ mantenendo ] fissa l' attenzione sul dialogo tra i mondi dell' Oriente e quelli dell' Occidente .
+[[Question:MC:SingleAnswer]]
+Il verbo [ inaugurata ] accade DOPO il verbo [ mantenendo ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2070]]
+
+[[Question:MC]]
+Sentence: Un autoarticolato carico di immondizia ieri pomeriggio si è [ ribaltato ] su un fianco sulla strada che dalla Vela [ porta ] alla discarica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ribaltato ] accade PRIMA del verbo [ porta ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2226]]
+
+[[Question:MC]]
+Sentence 1: Sono stabili ma sempre gravi le condizioni di Susanna Franzoni , la 19enne di Varese [ ricoverata ] al neurochirurgico di Bolzano per i traumi riportati nell' incidente avvenuto domenica all' alba a Pinzolo , quado un' auto è carambolata contro un muro nel centro del paese .
+Sentence 2: Nello schianto sono rimaste ferite anche tre colleghe di lavoro della giovane lombarda : in rianimazione all' ospedale di Trento è ricoverata Laura Patrizia Uboldi , 26 anni di Carisolo , la giovane che [ era ] alla guida della Peugeot 206 uscita di strada ; Nadia Bonapace , 18enne di Roncone , si trova nel reparto di chirurgia ; Arianna Vettori , 17enne di Rovereto era stata portata per controlli al Pronto Soccorso di Tione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricoverata ] accade PRIMA del verbo [ era ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1004]]
+
+[[Question:MC]]
+Sentence: L' università Sedes Sapientiae [ sta ] invece per [ assegnare ] le prime lauree ( due le facoltà : scienza della formazione e scienza economiche ) e sta lavorando all' ipotesi di aprire un corso di psicologia che dovrebbe coinvolgere il docente di origini trentine Erminio Gius .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sta ] accade PRIMA del verbo [ assegnare ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q72]]
+
+[[Question:MC]]
+Sentence 1: Il titolo del pezzo , " Escucha mi cantar " , viene direttamante da una canzone [ messa ] in chiusura della colonna sonora mentre la struttura della piéce è un continuo vorticare di tre stanze uguali tra loro , ma nel cui interno si svolgono delle storie con protagonisti diversi .
+Sentence 2: É come guardare una giostra e ad ogni spicchio di passaggio si vedono alcuni fotogrammi di vita trascorsi a [ riempire ] sprazzi di solitudine o incontri d' alcova .
+[[Question:MC:SingleAnswer]]
+Il verbo [ messa ] accade PRIMA del verbo [ riempire ].
+[[Choices]]
+Sì
+NO
+NON SO
+

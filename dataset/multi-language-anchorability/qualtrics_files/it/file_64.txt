@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q561]]
+
+[[Question:MC]]
+BUENOS AIRES - Una scossa di terremoto di magnitudo 6,5 sulla scala Richter ha [colpito] ieri una vastissima regione centrale dell' Argentina , causando il decesso di un' anziana , qualche bambino ferito , panico generalizzato e moderati danni materiali .
+[[Question:MC:SingleAnswer]]
+Il verbo [ colpito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1165]]
+
+[[Question:MC]]
+Tocca quindi all' amministrazione [riprendere] in mano il gioco rispondendo alle richieste della comunità .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riprendere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2101]]
+
+[[Question:MC]]
+Si [cantano] le gesta degli eroi in guerra , si esalta il coraggio e la vittoria .
+[[Question:MC:SingleAnswer]]
+Il verbo [ cantano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q445]]
+
+[[Question:MC]]
+« Noi [parliamo] sempre delle due guerre mondiali , la prima e la seconda , e dimentichiamo che c' è stata una terza guerra mondiale , la guerra fredda - spiega il cardinale - Una vera e propria guerra , anche se fuori degli schemi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ parliamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q8]]
+
+[[Question:MC]]
+Il tempo del tutto esaurito è [andato] in scena , lunedì , al Festival Oriente Occidente .
+[[Question:MC:SingleAnswer]]
+Il verbo [ andato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1462]]
+
+[[Question:MC]]
+MILANO - Banca Intesa , il gruppo creditizio che [controlla] la Btb , chiude il semestre con un balzo dell' utile netto consolidato a 876 milioni ( + 23% rispetto allo stesso periodo del 2003 ) e con un utile netto della capogruppo di 869 milioni , in rialzo sui 674 milioni al 30 giugno 2003 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ controlla ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1038]]
+
+[[Question:MC]]
+I " Voli d' Estate " [entrano] nel vivo con le qualificazioni , che decreteranno i migliori 50 atleti che domani si contenderanno i punti della quarta tappa del FIS Summer Grand Prix , proposta dal Comitato Nordik Ski Fiemme .
+[[Question:MC:SingleAnswer]]
+Il verbo [ entrano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1610]]
+
+[[Question:MC]]
+Ma è ancora un bambino ad essere protagonista : le canzoni cantate da Risto Joost , un giovane controtenore dell' Estonia , sono musicate su testi scritti da un bimbo - cadetto di soli undici anni , uno dei cadetti dell' accademia di Kronstadt e sono [cantate] in russo e in ceceno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ cantate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q244]]
+
+[[Question:MC]]
+La crescita complessiva degli arrivi è stata del 6,5% , ma quella degli italiani ( + 8,3% ) è [risultata] quasi quadrupla rispetto all' incremento degli stranieri ( + 2,3% sempre rispetto al luglio del 2003 ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ risultata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1562]]
+
+[[Question:MC]]
+Maura Cossutta ( Pdci ) ha chiesto « le immediate dimissioni di un ministro indegno della storia democratica del nostro Paese » ed ha invitato tutte le parlamentari e i parlamentari democratici a [sottoscriverle] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sottoscriverle ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1978]]
+
+[[Question:MC]]
+Secondo quanto si [sostiene] negli ambienti finanziari milanesi , sarebbe già pronto un piano di rientro dell' indebitamento del gruppo esposto nei confronti del sistema bancario per circa 400 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sostiene ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q417]]
+
+[[Question:MC]]
+Anche se abbiamo sentito chiamarli « Zen » ( il numero 7 seguito dalla « en » finale può effettivamente essere confuso con una zeta ) , la loro fama [rimane] costante .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rimane ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2074]]
+
+[[Question:MC]]
+Dal 2002 vive in Trentino per una « pensione » in fervida attività , [proseguendo] le sue analisi da giornalista e scrittore .
+[[Question:MC:SingleAnswer]]
+Il verbo [ proseguendo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1822]]
+
+[[Question:MC]]
+« La proclamazione dello sciopero - ha precisato Elena Vannucci , segretaria nazionale Fiba Cisl - deriva dalla chiusura totale da parte dell' Abi , che si è dimostrata non disposta a [trattare] dopo che si era raggiunta una buona piattaforma di accordo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trattare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1092]]
+
+[[Question:MC]]
+Da tempo la Wellcome , che aveva ritenuto insufficiente l' offerta della Glaxo , era freneticamente a caccia di un " cavaliere bianco " che potesse [rilanciare] sul prezzo della Glaxo e aveva consigliato i propri azionisti ad attendere un' alternativa più attraente .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rilanciare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1946]]
+
+[[Question:MC]]
+In giro [dicono] che sia merito della tua passione smodata per Papa Winnie ...
+[[Question:MC:SingleAnswer]]
+Il verbo [ dicono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q645]]
+
+[[Question:MC]]
+nan [Contrassegnato] da significativi progressi nella raccolta premi , il 92 ha visto - sottolinea una nota - anche un miglioramento dei saldi tecnici rispetto all' anno precedente .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Contrassegnato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q253]]
+
+[[Question:MC]]
+Hamas accusa Israele di aver pianificato l' arresto dei vertici di Hamas " " sin dal risultato delle elezioni palestinesi " " dello scorso gennaio - Il rapimento del colono in Cisgiordania " " e' stato usato solo come pretesto " " per l' arresto di deputati e ministri palestinesi , ha [denunciato] il portavoce del governo , Ahmed Bahar .
+[[Question:MC:SingleAnswer]]
+Il verbo [ denunciato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q261]]
+
+[[Question:MC]]
+Lo rileva una ricerca dell' università di Adelaide , [condotta] su un campione di 5000 adolescenti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ condotta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1546]]
+
+[[Question:MC]]
+Ai radicali che hanno deciso di adire le vie legali , Giovanardi ha replicato : « Sono allibito perché chi ogni giorno insulta i sentimenti e le convinzioni dei cattolici del nostro paese definendoli oscurantisti e talebani ora [vuole] intimidire un partito e un parlamentare che esprime una sua opinione che non coincide con quelle radicali » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vuole ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q34]]
+
+[[Question:MC]]
+Come quei totem delle preghiere tibetane che vengono continuamente girati , oppure come in una lanterna magica dai tanti clic scorre sotto gli occhi della spettatore l' intreccio di tre vicende distinte e [percepite] come tali da chi le vede .
+[[Question:MC:SingleAnswer]]
+Il verbo [ percepite ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1945]]
+
+[[Question:MC]]
+Ma c' [è] un segreto dietro i tuoi centri a ripetizione ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1839]]
+
+[[Question:MC]]
+« Ciò che a noi preme - ha spiegato la segretaria generale della Fisac Cgil del Trentino , Rosanna Tranquillini - è [fare] in modo che il protocollo firmato prima della rottura delle trattative venga riempito di contenuti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q504]]
+
+[[Question:MC]]
+Ora - prosegue Cossiga - vorrebbero apparire quali perseguitati mentre invece [sono] dei commercianti di alcol e , quindi , esercitano una attività in contrasto con i dettami del Corano » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1817]]
+
+[[Question:MC]]
+Una decisione dolorosa , che , pur nella consapevolezza « di [arrecare] disagi con le astensione dal lavoro » , è ritenuta dai sindacati necessaria .
+[[Question:MC:SingleAnswer]]
+Il verbo [ arrecare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q541]]
+
+[[Question:MC]]
+R.S. [lavorava] in banca , ma aveva dovuto lasciare questo impiego per le sempre più gravi crisi depressive delle quali soffriva .
+[[Question:MC:SingleAnswer]]
+Il verbo [ lavorava ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q32]]
+
+[[Question:MC]]
+Come quei totem delle preghiere tibetane che vengono continuamente [girati] , oppure come in una lanterna magica dai tanti clic scorre sotto gli occhi della spettatore l' intreccio di tre vicende distinte e percepite come tali da chi le vede .
+[[Question:MC:SingleAnswer]]
+Il verbo [ girati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q538]]
+
+[[Question:MC]]
+La figlia , R.S. , di 44 anni , sposata , senza figli , è stata bloccata dai carabinieri mentre [usciva] di casa , tutta insanguinata , ed in stato confusionale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ usciva ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1316]]
+
+[[Question:MC]]
+La tradizionale , straordinaria sensibilità dei trentini ha avuto modo di esprimersi già nelle prime ore dopo la tragedia , con l' avvio di iniziative capaci di esprimere lo sgomento e l' orrore per i fatti di Beslan : ma ora a mio avviso è giunto il momento di organizzare e dare sistematicità ai diffusi sentimenti dei trentini che [vogliono] dare una testimonianza tangibile della loro vicinanza a quella sventurata popolazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vogliono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q576]]
+
+[[Question:MC]]
+su sette partite [giocate] ben cinque hanno fatto registrare il successo della formazione ospite .
+[[Question:MC:SingleAnswer]]
+Il verbo [ giocate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2031]]
+
+[[Question:MC]]
+Il ritorno è [previsto] per martedì 14 settembre alle 11.59 alla stazione ferroviaria di Rovereto e alle 12.25 alla stazione di Trento .
+[[Question:MC:SingleAnswer]]
+Il verbo [ previsto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q111]]
+
+[[Question:MC]]
+Il valore complessivo dell' operazione , che sarà completata entro la fine del 2006 , è di 2,1 miliardi di dollari , in virtù dei 28 dollari in contanti che la prima [verserà] per ogni azione della seconda - Joe Tucci , Ceo di Emc , ha commentato l' operazione nella conference call di rito sottolineando un concetto su tutti : " Emc si trasforma da società che opera dove le informazioni vivono a società in cui le informazioni vivranno in modo sicuro " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ verserà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2155]]
+
+[[Question:MC]]
+Nel 1993 , dopo la caduta del muro di Berlino , l' unico generale di origine cecena [riuscito] ad entrare nell' esercito russo , proclamò l' indipendenza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riuscito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q254]]
+
+[[Question:MC]]
+Rispetto a dieci anni fa gli adolescenti australiani [sono] più alti dei loro coetanei di circa 2 centimetri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q758]]
+
+[[Question:MC]]
+Il primo mentre la donna [cercava] di chiedere aiuto , al telefono .
+[[Question:MC:SingleAnswer]]
+Il verbo [ cercava ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2005]]
+
+[[Question:MC]]
+A Cefis toccherà quindi il compito di [rimettere] in sesto le finanze del gruppo Varasi che , dopo la fusione tra Maxfin , Fidenza vetraria e Paf realizzata nei primi mesi di quest' anno , ha trasferito in Francia nella Sediver il pacchetto di controllo della Santavaleria .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rimettere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q255]]
+
+[[Question:MC]]
+Il fenomeno è [destinato] a creare problemi a tanti , dai medici all' industria dell' abbigliamento , e rende fra l' altro inutilizzabili le tabelle ufficiali di crescita infantile , usate dai pediatri per valutare lo sviluppo fisico .
+[[Question:MC:SingleAnswer]]
+Il verbo [ destinato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1772]]
+
+[[Question:MC]]
+Ntv non ha spiegato come ne sia [entrata] in possesso .
+[[Question:MC:SingleAnswer]]
+Il verbo [ entrata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1899]]
+
+[[Question:MC]]
+Non tanto per me quanto per la squadra che [è] competitiva e può aspirare ad un campionato di vertice .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q876]]
+
+[[Question:MC]]
+E' evidente , abbandonando le facezie , che il Direttore Generale della Sanità Provinciale può influenzare molti di questi aspetti , sia dalla parte del cittadino utente che per il cittadino dipendente dei Servizi Sanitari , ma vorrei apportare alla discussione la convinzione che chi dirige la Azienda Sanitaria deve attenersi alle direttive di chi , per proprio mandato istituzionale , [deve] farsi carico del Servizio Sanitario nel suo insieme , vale a dire della Politica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deve ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

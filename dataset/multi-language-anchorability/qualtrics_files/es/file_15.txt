@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q13]]
+
+[[Question:MC]]
+De los 3,27 millones de parados , un total de 1,15 millones se han visto obligados a [ abandonar ] involuntariamente su trabajo .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [abandonar] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q175]]
+
+[[Question:MC]]
+Nadie que [ conozca ] las políticas y los problemas que aquejan al sector pesquero puede mostrarse sorprendido de la actitud marroquí .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [conozca] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q288]]
+
+[[Question:MC]]
+Y los informativos , responsables de testimoniar esa realidad , tratan de convertirla en espectáculo , tomando de la ficción los aspectos supuestamente más atractivos para el espectador , [ incluidas ] las escenas escabrosas .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [incluidas] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q398]]
+
+[[Question:MC]]
+Al menos 23 millones de minas están enterradas en el Desierto Occidental de Egipto desde la segunda Guerra Mundial , mientras que hay más de otros tres millones de artefactos similares en el Sinaí y a lo largo del Canal de Suez desde las guerras árabe-israelíes de 1956 , 1967 y 1973 , [ señaló ] .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [señaló] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q409]]
+
+[[Question:MC]]
+Microsoft [ contraatacó ] ayer en su alegato final contra la propuesta del Gobierno de EEUU de dividir la compañía en dos y aseguró que la petición es " vaga , ambigua y deficiente " .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [contraatacó] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q96]]
+
+[[Question:MC]]
+Djordjevic reconoció además que se siente un azulgrana más - - " aquí he [ puesto ] mis raíces , he comprado una casa , he vivido el club , los colores , y me siento un culé más " - - después de estas tres temporadas , pero añadió que ese sentimiento no tiene por qué influir en su decisión .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [puesto] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q427]]
+
+[[Question:MC]]
+A las virtuales nuevas compañías , una dedicada al sistema operativo Windows y otra a las aplicaciones , como Office , se [ sumaría ] una nueva empresa sólo para el navegador de Internet Explorer .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [sumaría] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q442]]
+
+[[Question:MC]]
+Pese a sus argumentaciones , Microsoft se ha [ resignado ] a alterar sus prácticas comerciales .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [resignado] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q417]]
+
+[[Question:MC]]
+" Cuando un requerimiento judicial [ es ] tan ambiguo que desafía toda comprensión , éste es nulo e inaplicable " , dice el documento de Microsoft presentado al juez .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [es] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q18]]
+
+[[Question:MC]]
+El Gobierno prevé que los próximos meses sean malos en materia de empleo , ya que espera que se incorporen al mercado laboral los nuevos licenciados en las universidades debido a que el año escolar [ acaba ] de terminar .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [acaba] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q251]]
+
+[[Question:MC]]
+Se [ confía ] en que los ciudadanos evalúen las ventajas de " no tener que dar vueltas hasta encontrar un sitio libre " .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [confía] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q371]]
+
+[[Question:MC]]
+Isomura apuntó que Pekín no tenía por qué ser la favorita , porque tanto Osaka como las demás tienen proyectos importantes y [ son ] grandes ciudades .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [son] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q301]]
+
+[[Question:MC]]
+El Ejecutivo portugués quería también [ saludar ] de esta forma el nacimiento de una generación euro .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [saludar] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q269]]
+
+[[Question:MC]]
+El Comité de Apelación [ estudiará ] el recurso contra la decisión de la Comisión Disciplinaria , que el pasado 24 de enero suspendió con cuatro meses a Guardiola y con cinco a Stam .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [estudiará] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q234]]
+
+[[Question:MC]]
+Can'Oriac , la Creu de Barber y la Via Alexandra , tres populosos barrios de la periferia de Sabadell , podrían contar con párkings subterráneos si se confirma que los equipamientos [ son ] viables .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [son] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q197]]
+
+[[Question:MC]]
+¿ Cómo explicarles entonces que el mar tiene varios dueños y que a partir de la frontera de aquella ola el pescado ya no [ es ] tuyo ? .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [es] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q206]]
+
+[[Question:MC]]
+Por desgracia , el mar ya no es libre , y su riqueza se agota o [ cae ] en manos de los depredadores : que más da que lleven traje y corbata o chilaba y turbante .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [cae] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q294]]
+
+[[Question:MC]]
+El Gobierno de Portugal decidió [ abrir ] una cuenta de ahorro con 50 euros ( 8.319 pesetas ) a los bebés nacidos el 1 de enero del 2002 , según anunció el lunes , 31 de diciembre , el ministro de Economía portugués , Guilherme d'Oliveira Martins .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [abrir] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q250]]
+
+[[Question:MC]]
+El concejal insistió en que las inversiones en todos los proyectos dependerán de que " los vecinos opten a [ adquirir ] plazas con una concesión de 50 años " .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [adquirir] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q449]]
+
+[[Question:MC]]
+En esa situación , sus recursos podrían [ tramitarse ] en tribunales de apelación o pasar al Tribunal Supremo , opción viable para los grandes casos de monopolio .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [tramitarse] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+

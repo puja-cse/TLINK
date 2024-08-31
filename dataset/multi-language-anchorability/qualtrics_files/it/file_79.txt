@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1112]]
+
+[[Question:MC]]
+In un tentativo di minimizzare i danni , il consiglio della Wellcome ha reso noto ieri di avere [ricevuto] garanzie che la fusione tra le due società , che daranno vita al nuovo gruppo Glaxo-Wellcome , seguirà criteri di " correttezza e obiettività " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricevuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q890]]
+
+[[Question:MC]]
+La parte operativa della Dirigenza va guidata dalla parte politica che ha il delicato compito di [rendere] compatibili le diverse richieste , talora contrastanti , dei cittadini nei confronti della Sanità Pubblica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rendere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1105]]
+
+[[Question:MC]]
+Questa non avrebbe voluto impegnarsi ad accettare una seconda offerta ( più elevata ) come definitiva sia perché impossibilitata sul piano legale sia perché [legata] a un' esclusiva con la Glaxo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ legata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q926]]
+
+[[Question:MC]]
+nan [E'] questo un processo ancora incompiuto , con aspetti sia generali che locali ( ruolo degli ospedali , integrazione tra di loro e con il territorio , rappresentatività dei lavoratori , verifica dell' operato della Direzione Generale solo per citarne alcuni ) ancora in attesa di una soluzione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ E' ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1139]]
+
+[[Question:MC]]
+Chiedono , in attesa della realizzazione di un parco fluviale dell' Adige collegato al biotopo ( come previsto da una delibera del Consiglio comunale del 2001 ) , di istituire una fascia di verde di tutela lungo l' argine destro del fiume , in modo da [scongiurare] qualsiasi possibilità di edificazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scongiurare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2143]]
+
+[[Question:MC]]
+« Stalin , da buon georgiano , aveva un astio particolare per quelli che dal suo punto di vista erano solo dei rozzi montanari - racconta Bensi - la deportazione in Siberia fu organizzata a [partire] dal 1944 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ partire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q28]]
+
+[[Question:MC]]
+Kylie Walters e Asier Zabaleta [sono] una coppia impegnata a soddisfare impeti focosi e scoppi di gelosi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2070]]
+
+[[Question:MC]]
+nan [Esistono] delle complesse ragioni per la crisi del Caucaso , ma la strage nella scuola di Beslan è una questione patologica , da mettere in mano a degli psichiatri , inspiegabile dal punto di vista politico , razionale e umano .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Esistono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q811]]
+
+[[Question:MC]]
+Giorello è laureato in filosofia e matematica ; da tempo collabora con il " Corriere della Sera " ed è un saggista molto apprezzato , autore di diversi libri - l' ultimo dei quali " Prometeo , Ulisse e Gilgamesh " è appena stato [presentato] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ presentato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q868]]
+
+[[Question:MC]]
+E' evidente , [abbandonando] le facezie , che il Direttore Generale della Sanità Provinciale può influenzare molti di questi aspetti , sia dalla parte del cittadino utente che per il cittadino dipendente dei Servizi Sanitari , ma vorrei apportare alla discussione la convinzione che chi dirige la Azienda Sanitaria deve attenersi alle direttive di chi , per proprio mandato istituzionale , deve farsi carico del Servizio Sanitario nel suo insieme , vale a dire della Politica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ abbandonando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1168]]
+
+[[Question:MC]]
+« Riteniamo opportuno - [scrivono] i richiedenti nella richiesta di variante al Prg inviata al sindaco Pacher - che tutta l' area verde posta a nord di Vela ( Laghetti ) , per il suo elevato e originale valore paesaggistico e ambientale , debba essere trasformata in un parco , un polo della natura , per tutta la città » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scrivono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q3]]
+
+[[Question:MC]]
+Bisogna " recuperare il crollo del gettito che c' [è] stato in questi anni ma non ci sarà nessun aumento delle tasse " - Lo ha detto Visco - All' incontro a Palazzo Chigi con le parti sociali , il viceministro per l' Economia ha aggiunto che il governo " metterà mano al sistema dei rimborsi Iva " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q150]]
+
+[[Question:MC]]
+Chiuso il primo trimestre fiscale 2006 in crescita rispetto allo stesso periodo dell' anno precedente sia alla voce ricavi ( saliti del 14,00% a 2,55 miliardi di dollari ) sia sul piano degli utili netti ( arrivati a 272,5 milioni con un incremento del 50,00% ) , Emc ha già [confermato] anche le modalità con le quali verranno assorbiti gli asset di Rsa : quest' ultima opererà infatti come Information Security Division della casa madre e avrà l' head quarter a Bedford , nel Massachuttes , sede storica della società , mentre l' attuale presidente e Ceodi Rsa , Art Coviello , assumerà la carica di executive vice president di Emc e presidente della nuova divisione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ confermato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q822]]
+
+[[Question:MC]]
+La presenza del filosofo al festival [è] una interessante contaminazione dei temi trattati .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1934]]
+
+[[Question:MC]]
+In quanto ai rigori è giusto che li batta lui che [è] uno specialista , a me piace segnare su azione e mi va benissimo così .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2039]]
+
+[[Question:MC]]
+Si tratta di un particolare festival di letteratura , musica , multimedialità e danza organizzato dalla Regione Trentino Alto Adige e dal Comune di Pergine che guarda alle minoranze per [andare] oltre ogni confine .
+[[Question:MC:SingleAnswer]]
+Il verbo [ andare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q205]]
+
+[[Question:MC]]
+Il trauma cranico [riportato] nella caduta fortunatamente non è grave .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riportato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1478]]
+
+[[Question:MC]]
+" Con tale iniziativa " si legge in una nota " si è inteso avviare un' azione di coordinamento e integrazione [adottando] uno strumento più agile per la realizzazione di tutte le possibili iniziative future in un mercato in continua evoluzione " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ adottando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2180]]
+
+[[Question:MC]]
+Durante le deportazioni ci furono trasportati i Ceceni , ed ora l' Ingushezia cecena rivendica tutta la regione di Prigorodnj , dove [è] appunto il teatro della strage » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q433]]
+
+[[Question:MC]]
+Dopo un periodo di calo , anche gli l' Invicta ( 68 euro ) sembra fare nuovamente capolino fra gli scaffali , mentre , dopo aver dominato gli anni Novanta , il diario - agenda Smemoranda ( 12 euro ) sembra essere entrato in un periodo di stanca , tanto che in una libreria lo abbiamo [trovato] in vendita con il 20% di sconto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trovato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

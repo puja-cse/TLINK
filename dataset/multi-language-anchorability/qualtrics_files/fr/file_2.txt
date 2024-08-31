@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q109]]
+
+[[Question:MC]]
+Les pompiers ont secouru David Dietlin , [blessé] légèrement , à la hauteur du 37 , rue de la Libération , dans un accident entre une auto et un deux roues .
+[[Question:MC:SingleAnswer]]
+Le verbe [ blessé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q248]]
+
+[[Question:MC]]
+Nous ne mettions plus rien à l'étage car les planchers sont trop vieux » , [détaille] - t - il .
+[[Question:MC:SingleAnswer]]
+Le verbe [ détaille ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q115]]
+
+[[Question:MC]]
+Secourue rapidement , son cœur est [reparti] , mais elle n'avait pas repris conscience lors de son admission à l'hôpital , où elle est décédée .
+[[Question:MC:SingleAnswer]]
+Le verbe [ reparti ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q175]]
+
+[[Question:MC]]
+Bill Clinton a annoncé qu'il [mettra] son veto à une réduction d'impôts de 792 milliards de dollars sur dix ans adoptée par le Congrès à majorité républicaine .
+[[Question:MC:SingleAnswer]]
+Le verbe [ mettra ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q155]]
+
+[[Question:MC]]
+Alors que la métropole compte 58.416.500 habitants et les quatre départements d'outre - mer 1.665.500 , les premiers résultats du recensement de mars - avril , qui devraient être affinés d' ici la fin de l'année , confirment les tendances observées depuis vingt ans : l' urbanisation , loin de [ralentir] , connaît une nouvelle accélération .
+[[Question:MC:SingleAnswer]]
+Le verbe [ ralentir ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q184]]
+
+[[Question:MC]]
+« L' allongement de la pré - rentrée n ' a pas de véritables justifications » , ont - ils souligné , « et ne [contribue] en rien à l' amélioration de l'encadrement pédagogique des élèves .
+[[Question:MC:SingleAnswer]]
+Le verbe [ contribue ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q96]]
+
+[[Question:MC]]
+Mais ils n'ont pas demandé de dommages et intérêts , [souhaitant] que justice soit faite .
+[[Question:MC:SingleAnswer]]
+Le verbe [ souhaitant ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q76]]
+
+[[Question:MC]]
+« Il nous a demandé de le [suivre] .
+[[Question:MC:SingleAnswer]]
+Le verbe [ suivre ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q1]]
+
+[[Question:MC]]
+Vaclav Havel , le président tchèque qui [souffre] depuis mardi d'une affection virale des voies respiratoires , a dû être hospitalisé hier soir , après une « détérioration de l'état de santé » , selon le porte - parole .
+[[Question:MC:SingleAnswer]]
+Le verbe [ souffre ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q16]]
+
+[[Question:MC]]
+Il a concédé avoir [aidé] à recharger des armes des bourreaux .
+[[Question:MC:SingleAnswer]]
+Le verbe [ aidé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q89]]
+
+[[Question:MC]]
+« Il a eu un fantasme qu'il n ' a pas su maîtriser » , [souligne] - t - elle dans une plaidoirie qui constituait sa première intervention devant le tribunal correctionnel de Belfort .
+[[Question:MC:SingleAnswer]]
+Le verbe [ souligne ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q221]]
+
+[[Question:MC]]
+Il a fallu que les sapeurs - pompiers cassent les vitres , découpent le rideau métallique de la porte d'entrée et fassent des ouvertures dans le toit pour [pouvoir] combattre les flammes .
+[[Question:MC:SingleAnswer]]
+Le verbe [ pouvoir ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q200]]
+
+[[Question:MC]]
+Deux gardiens de la paix , qui [tentaient] de s ' interposer , ont été légèrement blessés à leur tour .
+[[Question:MC:SingleAnswer]]
+Le verbe [ tentaient ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q122]]
+
+[[Question:MC]]
+Le rapport en question , [remis] à M. Boutros Boutros - Ghali , secrétaire général de la francophonie , dresse un constat très sévère de la gestion de l'AUF , en jugeant « impératif de créer une nouvelle agence universitaire sur du solide » .
+[[Question:MC:SingleAnswer]]
+Le verbe [ remis ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q99]]
+
+[[Question:MC]]
+Le premier des 28 Groupements d'Intervention Régionaux [composé] de policiers , gendarmes , douaniers et agents du fisc pour lutter contre les réseaux de délinquance , sera installé à Strasbourg demain .
+[[Question:MC:SingleAnswer]]
+Le verbe [ composé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q239]]
+
+[[Question:MC]]
+Le bâtiment , qui appartient à la Ville de Belfort , venait de faire l'objet de travaux de rénovation confirme André Kaufmann , adjoint au maire , sur place hier : « La toiture a été complétement refaite à la fin de l'année dernière , ainsi que la façade extérieure et les systèmes de sécurité » , souligne - t - il , [estimant] le coût de ces travaux à environ 100.000 € .
+[[Question:MC:SingleAnswer]]
+Le verbe [ estimant ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q163]]
+
+[[Question:MC]]
+Seules exceptions notables : Paris , Marseille et Nice , do nt les populations stagnent ou [diminuent] par rapport au dernier recensement .
+[[Question:MC:SingleAnswer]]
+Le verbe [ diminuent ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q49]]
+
+[[Question:MC]]
+L'espoir est le mot qui qualifie le mieux l'état d'esprit de 30 % des personnes [interrogées] ( en augmentation de 8 points par rapport à août 2001 ) , devant l'inquiétude ( 21 % , en baisse de 9 points ) , l'attente ( 18 % ) , et l'optimisme ( 12 % ) .
+[[Question:MC:SingleAnswer]]
+Le verbe [ interrogées ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q111]]
+
+[[Question:MC]]
+Une Alsacienne de 6 ans se [noie] .
+[[Question:MC:SingleAnswer]]
+Le verbe [ noie ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q104]]
+
+[[Question:MC]]
+Le nouveau ministre de l'intérieur se [rend] aujourd ' hui au centre de Sangatte où transitent des milliers d'immigrés sans papier .
+[[Question:MC:SingleAnswer]]
+Le verbe [ rend ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+

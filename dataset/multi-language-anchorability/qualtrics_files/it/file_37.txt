@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q967]]
+
+[[Question:MC]]
+Ad [aprire] la conferenza stampa il sindaco di Trento , Alberto Pacher , che ha ringraziato i tre sindacati per « aver rappresentato , con l' organizzazione di questa fiaccolata , l' indignazione profonda dei nostri concittadini e la volontà di ribadire un no deciso a quello che è un insulto all' umanità » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aprire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1681]]
+
+[[Question:MC]]
+Per fortuna a casa mia i danni sono stati piuttosto limitati : solo la piscina è stata [colpita] e andrà fatta riparare » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ colpita ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q725]]
+
+[[Question:MC]]
+In attesa di [arrivare] al 2006 , Dorigatti , assieme agli altri segretari regionali non rieletti , dovrebbe uscire dal direttivo nazionale per far posto ai nuovi leader .
+[[Question:MC:SingleAnswer]]
+Il verbo [ arrivare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2054]]
+
+[[Question:MC]]
+Se poi si [cambia] l' accento del logo di questo festival - ha sottolineato Morelli - in minoranzerò , si passa da uno sguardo indietro , ad uno in avanti , al futuro alle nuove prospettive e contaminazioni di multimedialità e minoranze dove la tradizione si coniuga con l' innovazione » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ cambia ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2023]]
+
+[[Question:MC]]
+Il 17 luglio [inizierà] invece l' esame delle mozioni e del provvedimento sulla proroga delle missioni militari all' estero .
+[[Question:MC:SingleAnswer]]
+Il verbo [ inizierà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1468]]
+
+[[Question:MC]]
+A tre settimane dalle delibere di fusione tra la Popolare e il Banco di San Geminiano e San Prospero , l' istituto presieduto da Giorgio Zanotto ha [costituito] ieri la Holding di partecipazioni finanziarie Popolare di Verona-San Geminiano e San Prospero , cui sono state conferite le partecipazioni strumentali possedute dalle due banche .
+[[Question:MC:SingleAnswer]]
+Il verbo [ costituito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q290]]
+
+[[Question:MC]]
+Woods , che era diventato il più giovane numero 1 mondiale della storia del golf , il 15 giugno 1997 , a 21 anni e 24 settimane , è rimasto in testa fino a l' altro ieri , per 335 settimane , [battendo] così il record dell' australiano Greg Norman ( 331 ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ battendo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2009]]
+
+[[Question:MC]]
+Ligresti , che da mesi [trascorre] più tempo in Costa Azzurra che a Milano , tornerebbe ad avere una presenza più assidua al vertice del gruppo anche in considerazione del fatto che il piano di ristrutturazione dell' indebitamento , a conti fatti , all' ingegnere siciliano sarebbe costato 600 miliardi di aumenti di capitale e altri 400 miliardi di rinunce crediti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trascorre ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1656]]
+
+[[Question:MC]]
+I giudici si sono espressi con un voto di 5-3 sul caso dello yemenita Salim Ahmed Hamdan , un detenuto di Guantanamo che è stato l' autista di Osama bin Laden e ha [sfidato] la legittimità delle ' Commissioni militari ' create dall' amministrazione Bush .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sfidato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1461]]
+
+[[Question:MC]]
+TRENTO - Sarà [presentato] giovedì prossimo dal presidente Mario Calamati , nella Sala Moggioli di Palazzo Bassetti , il bilancio sociale della Banca di Trento e Bolzano , « La Banca di Trento e Bolzano e il Territorio » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ presentato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q892]]
+
+[[Question:MC]]
+Il Politico deve [ascoltare] tutti ma è poi fatale che debba assumere decisioni , che non possono accontentare tutti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ascoltare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q100]]
+
+[[Question:MC]]
+Ma la mancata chiarezza sul nuovo acquirente di Ilp , secondo molti di loro , rende più difficile sia dare una valutazione serena dell' Ise sia [preparare] una struttura finanziaria adeguata per le offerte .
+[[Question:MC:SingleAnswer]]
+Il verbo [ preparare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q331]]
+
+[[Question:MC]]
+La partita di domenica ha confermato che dobbiamo ancora [lavorare] molto » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ lavorare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q983]]
+
+[[Question:MC]]
+Sull' « esigenza per l' intera cittadinanza di rappresentare l' orrore e lo smarrimento per una tragedia immane , e di dare una risposta forte alla cultura della guerra e ad una politica militarizzata che non porta da nessuna parte » , ha [messo] invece l' accento Ruggero Purin , segretario provinciale della Cgil : « Al di là del cordoglio e dell' ovvia solidarietà per le vittime - ha insistito Purin - questa manifestazione deve essere anche occasione di rilancio di una solidarietà trasversale e della politica come strumento per superare i conflitti » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ messo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1362]]
+
+[[Question:MC]]
+" [Aspettiamo] una risposta seria " , afferma il Segretario di Stato Usa , Rice .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Aspettiamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1396]]
+
+[[Question:MC]]
+Glucksmann disegna degli scenari apocalittici : « Quando si è capaci di sparare sui bambini si è capaci di [mandare] un aereo contro una centrale nucleare e in questo caso la nube non si fermerà alle frontiere della Russia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ mandare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1098]]
+
+[[Question:MC]]
+In un laconico comunicato la Wellcome ha reso noto che una controproposta era sul tavolo ( [pare] da parte della Zeneca ) ma si è scontrata con il rifiuto del Wellcome Trust , la fondazione caritatevole che detiene il 39,50% del capitale della società .
+[[Question:MC:SingleAnswer]]
+Il verbo [ pare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1779]]
+
+[[Question:MC]]
+C' [è] anche , incorniciata da una porta , una donna del commando velata e interamente vestita di nero .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q13]]
+
+[[Question:MC]]
+Con la platea [riempita] fino all' ultima poltrona è stato allestito lunedì all' auditorium del Mart " Escucha mi cantar " , penultimo lavoro del coreografo brasiliano trapiantato in Svizzera .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riempita ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1452]]
+
+[[Question:MC]]
+Si possono comunque consolare i biancocelesti guardando la statistica : negli ultimi due anni a vincere il campionato è stata proprio la squadra che all' esordio aveva [affrontato] il Salorno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ affrontato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

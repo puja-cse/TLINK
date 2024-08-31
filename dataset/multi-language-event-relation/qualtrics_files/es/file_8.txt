@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q117]]
+
+[[Question:MC]]
+De los 3,27 millones de parados , un total de 1,15 millones se han visto obligados a [ abandonar ] involuntariamente su trabajo .
+El Gobierno prevé que los próximos meses sean malos en materia de empleo , ya que espera que se incorporen al mercado laboral los nuevos licenciados en las universidades debido a que el año escolar [ acaba ] de terminar .
+[[Question:MC:SingleAnswer]]
+El verbo [ abandonar ] pasa DESPUÉS del verbo [ acaba ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q472]]
+
+[[Question:MC]]
+El base yugoslavo admitió ayer , en la rueda de prensa de su despedida como azulgrana , que ha recibido una llamada del técnico italiano Sergio Scariolo , el próximo preparador madridista , [ interesándose ] por su futuro .
+Scariolo es la apuesta de la directiva que [ preside ] Lorenzo Sanz para reconstruir el proyecto del básquet blanco , que la próxima temporada recibirá una fuerte inyección económica , para competir con posibilidades tanto en la Liga ACB como en la Euroliga .
+[[Question:MC:SingleAnswer]]
+El verbo [ interesándose ] pasa ANTES que el verbo [ preside ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q261]]
+
+[[Question:MC]]
+Isomura [ apuntó ] que Pekín no tenía por qué ser la favorita , porque tanto Osaka como las demás tienen proyectos importantes y son grandes ciudades .
+El alcalde de Osaka [ fundamentó ] sus opciones en el gran plan de reurbanización que se culminará en el año 2007 , las modernas infraestructuras de telecomunicaciones , la protección del medio ambiente , la seguridad y lo atractivo del proyecto , cuyas instalaciones ya están en buena parte construidas y que tendrán su centro neurálgico en tres islas .
+[[Question:MC:SingleAnswer]]
+El verbo [ apuntó ] pasa DESPUÉS del verbo [ fundamentó ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q595]]
+
+[[Question:MC]]
+" Creo que se [ equivocan ] , pero es una opinión personal " , señaló Djordjevic , desmintiendo que haya tenido ningún problema con García Reneses , con quien se [ reunió ] ayer durante media hora .
+[[Question:MC:SingleAnswer]]
+El verbo [ equivocan ] pasa DESPUÉS del verbo [ reunió ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q429]]
+
+[[Question:MC]]
+Con esta normativa , el Gobierno intenta reducir las más de 4.000 muertes que cada año se producen en los yacimientos de carbón del país , la mayoría de los cuales [ operan ] sin las mínimas medidas de seguridad , debido sobre todo a los malos resultados del sector , y algunos incluso son ilegales .
+La falta de inversión en equipos de seguridad se une a la actitud de los directivos , que obligan a los obreros a trabajar hasta 12 ó 14 horas diarias por salarios de miseria y [ ocultan ] a las autoridades los accidentes que se producen .
+[[Question:MC:SingleAnswer]]
+El verbo [ operan ] pasa DESPUÉS del verbo [ ocultan ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q385]]
+
+[[Question:MC]]
+Pero nada de esto pasará hasta que comprendamos que nuestras redes - - telefónicas , informáticas , narcóticas - - [ son ] sólo derivaciones inciertas de aquellas que el hombre usaba para vivir cuando el mar [ era ] uno y daba para todos .
+[[Question:MC:SingleAnswer]]
+El verbo [ son ] pasa DESPUÉS del verbo [ era ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q291]]
+
+[[Question:MC]]
+Mikako Kotani , medallista olímpica y componente de la Ejecutiva del OBC , natural de Tokio pero cuya madre [ es ] de Osaka , ensalzó la amabilidad del pueblo de esta ciudad , que " adora el deporte " y [ tiene ] " un gran deseo de amistad " , al margen de " mucha energía a disposición de los Juegos " .
+[[Question:MC:SingleAnswer]]
+El verbo [ es ] pasa ANTES que el verbo [ tiene ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q71]]
+
+[[Question:MC]]
+El caso , que [ dura ] ya más de dos años , [ surgió ] como consecuencia de la demanda presentada por el gobierno federal y los ejecutivos de 19 estados , que al final han quedado en 17 .
+[[Question:MC:SingleAnswer]]
+El verbo [ dura ] pasa ANTES que el verbo [ surgió ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q296]]
+
+[[Question:MC]]
+Mikako Kotani , medallista olímpica y componente de la Ejecutiva del OBC , natural de Tokio pero cuya madre [ es ] de Osaka , ensalzó la amabilidad del pueblo de esta ciudad , que " adora el deporte " y tiene " un gran deseo de amistad " , al margen de " mucha energía a disposición de los Juegos " .
+Yushiro Yagi , presidente del Comité Olímpico Japonés ( JOC ) , aclaró que pese a que su país ya ha sido escenario de Juegos Olímpicos confía en que ese aprendizaje les sirva para albergar otros con garantías y añadió que " la candidatura de Osaka [ es ] muy sólida y dispone de todo lo necesario " .
+[[Question:MC:SingleAnswer]]
+El verbo [ es ] pasa ANTES que el verbo [ es ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q364]]
+
+[[Question:MC]]
+Rasgarse ahora las vestiduras por la firmeza negociadora de nuestro vecino del sur , dejando caer en la opinión pública una cifra de afectados claramente hinchada , al objeto de responsabilizar a Marruecos del daño social , [ constituye ] una muestra de la peor política posible : culpar a los otros por lo que [ debimos ] haber hecho y no tuvimos la voluntad , ni la inteligencia , ni el coraje , de acometer .
+[[Question:MC:SingleAnswer]]
+El verbo [ constituye ] pasa ANTES que el verbo [ debimos ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+

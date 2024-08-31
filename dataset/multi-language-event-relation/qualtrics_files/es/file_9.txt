@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q46]]
+
+[[Question:MC]]
+Los abogados del gigante del software , en su última oportunidad de dulcificar la próxima decisión del juez de distrito que [ lleva ] el caso antimonopolio , Thomas P. Jackson , reclamaron un plazo de 12 meses para proceder a una eventual segregación de la empresa .
+" Cuando un requerimiento judicial es tan ambiguo que desafía toda comprensión , éste [ es ] nulo e inaplicable " , dice el documento de Microsoft presentado al juez .
+[[Question:MC:SingleAnswer]]
+La relación entre [ lleva ] y [ es ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q2]]
+
+[[Question:MC]]
+Egipto [ necesita ] más de 250 millones de dólares para eliminar los campos de minas de distintos tipos que se encuentran en diferentes zonas de este país , dijo el ministro egipcio de Asuntos Exteriores , Amro Musa .
+Al menos 23 millones de minas están enterradas en el Desierto Occidental de Egipto desde la segunda Guerra Mundial , mientras que [ hay ] más de otros tres millones de artefactos similares en el Sinaí y a lo largo del Canal de Suez desde las guerras árabe-israelíes de 1956 , 1967 y 1973 , señaló .
+[[Question:MC:SingleAnswer]]
+El verbo [ necesita ] pasa DESPUÉS del verbo [ hay ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q686]]
+
+[[Question:MC]]
+Aíto [ comentó ] que le ha costado mucho dar este paso - - " son decisiones muy difíciles y no soy insensible como muchos se creen " - - y [ mostró ] su deseo de cerrar cuanto antes la renovación de Roger Esteller , uno de los jugadores con los que el club negocia un nuevo contrato , junto al estadounidense Derrick Alston .
+[[Question:MC:SingleAnswer]]
+El verbo [ comentó ] pasa DESPUÉS del verbo [ mostró ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q278]]
+
+[[Question:MC]]
+También [ resaltó ] como hechos clave para el futuro de la candidatura la experiencia organizativa de torneos deportivos y culturales ( Exposición Mundial de 1970 ) , la estabilidad política y la fuerza financiera .
+Tras [ opinar ] que la disputa del Mundial de fútbol 2002 , coorganizado por Japón y Corea del Sur , será un factor favorable , indicó que las inversiones " no rebasarán , por ejemplo , el nivel de Atlanta " .
+[[Question:MC:SingleAnswer]]
+El verbo [ resaltó ] pasa DESPUÉS del verbo [ opinar ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q543]]
+
+[[Question:MC]]
+Djordjevic reconoció además que se siente un azulgrana más - - " aquí he puesto mis raíces , he comprado una casa , he [ vivido ] el club , los colores , y me [ siento ] un culé más " - - después de estas tres temporadas , pero añadió que ese sentimiento no tiene por qué influir en su decisión .
+[[Question:MC:SingleAnswer]]
+El verbo [ vivido ] pasa ANTES que el verbo [ siento ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q759]]
+
+[[Question:MC]]
+Es la mayor caída en siete meses y supone un indicio de que el mercado inmobiliario de EEUU puede estar desacelerándose , tras [ subir ] el 5,8% en marzo .
+El encarecimiento de las hipotecas ha contribuido a [ frenar ] las ventas , ya que el tipo de interés a 30 años es del 8,62% , un punto más que hace un año .
+[[Question:MC:SingleAnswer]]
+El verbo [ subir ] pasa ANTES que el verbo [ frenar ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q326]]
+
+[[Question:MC]]
+Yushiro Yagi , pr[ es ]idente del Comité Olímpico Japonés ( JOC ) , aclaró que pese a que su país ya ha [ sido ] escenario de Juegos Olímpicos confía en que ese aprendizaje les sirva para albergar otros con garantías y añadió que " la candidatura de Osaka es muy sólida y dispone de todo lo necesario " .
+[[Question:MC:SingleAnswer]]
+El verbo [ sido ] pasa DESPUÉS del verbo [ es ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q670]]
+
+[[Question:MC]]
+El preparador barcelonista calificó la decisión como " un salto al vacío " al no tener cerrada la operación del escolta francés Antoine Rigaudeau , su probable sustituto , pero [ indicó ] que este riesgo era necesario para no perjudicar a Sasha a la hora de negociar nuevas ofertas .
+Aíto comentó que le ha costado mucho [ dar ] este paso - - " son decisiones muy difíciles y no soy insensible como muchos se creen " - - y mostró su deseo de cerrar cuanto antes la renovación de Roger Esteller , uno de los jugadores con los que el club negocia un nuevo contrato , junto al estadounidense Derrick Alston .
+[[Question:MC:SingleAnswer]]
+El verbo [ indicó ] pasa ANTES que el verbo [ dar ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q498]]
+
+[[Question:MC]]
+" Nos hemos ido [ llamando ] para felicitarnos por nuestros éxitos " , se [ limitó ] a descubrir .
+[[Question:MC:SingleAnswer]]
+La relación entre [ llamando ] y [ limitó ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q65]]
+
+[[Question:MC]]
+El juez [ llegó ] a [ plantear ] la posibilidad de dividir la compañía en tres , como solicitaban algunos de los competidores del grupo presidido por Bill Gates .
+[[Question:MC:SingleAnswer]]
+La relación entre [ llegó ] y [ plantear ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+

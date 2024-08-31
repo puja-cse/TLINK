@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q223]]
+
+[[Question:MC]]
+TRENTO - [É] una firma praticamente storica quella che i presidenti Flavio Tosi e Gianni Bonvicini apporranno , questa mattina alle 11 , in calce alla « convenzione quadro per la ricerca scientifica e tecnologica » tra Artigiani e Itc - Irst .
+[[Question:MC:SingleAnswer]]
+Il verbo [ É ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1564]]
+
+[[Question:MC]]
+Un rigoroso documentario sulla guerra cecena vista dai più piccoli , un documento sulla « vulnerabilità » della mente dei bambinì e sull' incapacità degli adulti di [far] fronte all' odio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ far ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q339]]
+
+[[Question:MC]]
+Soprattutto nella fase offensiva [dobbiamo] crescere parecchio » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dobbiamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1634]]
+
+[[Question:MC]]
+Quattro pachistani musulmani , condannati a morte per lo stupro collettivo di una giovane cristiana , sono stati [impiccati] oggi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ impiccati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1368]]
+
+[[Question:MC]]
+Il biglietto di corsa semplice è aumentata mediamente del 5% ; l' aumento degli abbonamenti [è] dell' 11% .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q284]]
+
+[[Question:MC]]
+Ex insegnante di golf , specialità alla quale si è [avvicinato] da caddy , Singh aveva vinto il mese scorso , per la seconda volta in carriera dopo il 1998 , il campionato Pga , ultimo torneo del Grande Slam di Golf , diventando il più anziano vincitore della prova e conquistando , al posto del sudafricano Ernie Els , il secondo posto nella classifica mondiale dietro Woods .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avvicinato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1356]]
+
+[[Question:MC]]
+Il G8 invita israeliani e palestinesi ad evitare misure che [pregiudicherebbero] lo status dei Territori e chiede il rilascio del soldato rapito .
+[[Question:MC:SingleAnswer]]
+Il verbo [ pregiudicherebbero ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1359]]
+
+[[Question:MC]]
+Sull' Iran , i ministri degli esteri , attendono una risposta alle proposte avanzate per il 5 luglio , quando Solana [incontrerà] Larijani , negoziatore iraniano sul nucleare .
+[[Question:MC:SingleAnswer]]
+Il verbo [ incontrerà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1245]]
+
+[[Question:MC]]
+« La velocità di esecuzione - conferma Rossi - non ha [inciso] sulla qualità , perché il direttore lavori è stato un riferimento costante in cantiere per le aziende » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ inciso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1689]]
+
+[[Question:MC]]
+L' eroina della rivoluzione arancione , Yulia Tymoschenko è di nuovo primo ministro dell' Ucraina - La candidatura della Tynmoshenko è stata sostenuta dalla sua lista e dal partito del presidente Viktor Yushenko , che ora [dovrà] sottoporre la candidatura al verdetto finale del Parlamento .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovrà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q86]]
+
+[[Question:MC]]
+Biondo ha [aggiunto] che l' Iri ha riferito l' esistenza di due offerte per l' Ilp : quella guidata dal gruppo Riva e quella di Lucchini .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aggiunto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q968]]
+
+[[Question:MC]]
+Ad aprire la conferenza stampa il sindaco di Trento , Alberto Pacher , che ha [ringraziato] i tre sindacati per « aver rappresentato , con l' organizzazione di questa fiaccolata , l' indignazione profonda dei nostri concittadini e la volontà di ribadire un no deciso a quello che è un insulto all' umanità » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ringraziato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1424]]
+
+[[Question:MC]]
+L' operazione , si legge in una nota , è stata approvata dai consigli di amministrazione delle società coinvolte e prevede la distribuzione agli azionisti minori della Sme ( il 95,59% è [controllato] da Schemaventuno e il 4,00% dal gruppo bancario San Paolo di Torino ) di 12 azioni ordinarie Schemaventuno ogni 5 Sme possedute .
+[[Question:MC:SingleAnswer]]
+Il verbo [ controllato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1456]]
+
+[[Question:MC]]
+NATZ - è vero che di fronte aveva il Mori dall' attacco stellare , ma [partire] con uno 0 - 4 non è proprio l' ideale per la credibilità e il morale di una formazione già lo scorso anno costretta a soffrire oltremisura per guadagnarsi la salvezza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ partire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q503]]
+
+[[Question:MC]]
+Ora - prosegue Cossiga - vorrebbero apparire quali [perseguitati] mentre invece sono dei commercianti di alcol e , quindi , esercitano una attività in contrasto con i dettami del Corano » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ perseguitati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q232]]
+
+[[Question:MC]]
+In realtà , è un' intesa che [arriva] al termine di un percorso di « avvicinamento » durante il quale sono già state avviate forme di cooperazione soprattutto attraverso il Ceii ( Centro Europeo di Impresa e Innovazione ) ed il Conit , il consorzio del terziario di sviluppo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ arriva ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q421]]
+
+[[Question:MC]]
+Da quest' anno sembrano aver preso piede i trolly , molto indicati a chi [deve] fare molta strada a piedi e non vuole rimanere schiacciato sotto il peso dei libri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deve ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q451]]
+
+[[Question:MC]]
+E questo è un' altra guerra ancora , la quarta guerra mondiale , che ci coinvolge davvero tutti , perchè noi non [sappiamo] se uscendo da quest' albergo ci succederà qualche cosa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sappiamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q477]]
+
+[[Question:MC]]
+Martino rifiuta l' idea che [sia] in atto uno scontro di civiltà : « E' in atto uno scontro all' interno di ogni civiltà , fra chi è sul versante del diritto , del dialogo , della convivenza e della giustizia e chi è integralista , dovunque esso sia , perchè di integralismo non c' è solo quello islamico » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sia ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2162]]
+
+[[Question:MC]]
+Qui è [nato] il terrorismo ceceno , quello che ha fatto saltare in aria i condomini a Volgodonsk .
+[[Question:MC:SingleAnswer]]
+Il verbo [ nato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

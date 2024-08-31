@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q85]]
+
+[[Question:MC]]
+Le bâtiment , qui appartient à la Ville de Belfort , venait de [ faire ] l'objet de travaux de rénovation [ confirme ] André Kaufmann , adjoint au maire , sur place hier : « La toiture a été complétement refaite à la fin de l'année dernière , ainsi que la façade extérieure et les systèmes de sécurité » , souligne - t - il , estimant le coût de ces travaux à environ 100.000 € .
+[[Question:MC:SingleAnswer]]
+La verb [ faire ] se passe APRÈS le verb [ confirme ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q433]]
+
+[[Question:MC]]
+Aux Pays - Bas , l'hypothèse de législatives anticipées à l'automne [ semblait ] tenir la corde hier , au lendemain de la démission du gouvernement du Premier ministre travailliste Wim Kok .
+Une ultime tentative de replâtrage de la coalition sortante [ formée ] par les Travailliste ( PvdA ) , les Libéraux du VVD ( droite ) et les Réformistes du D66 ( centre - gauche ) - démissionnaires - , serait vouée à l' échec .
+[[Question:MC:SingleAnswer]]
+La relation entre [ semblait ] et [ formée ] est VAGUE (c'est-à-dire qu'elle ne correspond à aucune des réponses ci-dessus).
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q11]]
+
+[[Question:MC]]
+Deux gardiens de la paix , qui [ tentaient ] de s ' interposer , ont été légèrement [ blessés ] à leur tour .
+[[Question:MC:SingleAnswer]]
+La verb [ tentaient ] se passe AVANT le verb [ blessés ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q180]]
+
+[[Question:MC]]
+Les faits qui lui sont reprochés [ remontent ] au 27 mai 1998 et se sont déroulés dans les bois proches du fort Dorsner à Giromagny .
+Bernard affirme qu'en se [ promenant ] , il a chuté et s ' est retrouvé à terre , la braguette ouverte .
+[[Question:MC:SingleAnswer]]
+La verb [ remontent ] se passe AVANT le verb [ promenant ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q315]]
+
+[[Question:MC]]
+Environ 80 % des Français [ habitent ] désormais dans une zone urbaine ou péri - urbaine et les grandes villes de plus de 100.000 habitants sont les principales bénéficiaires de la croissance démographique .
+Après avoir [ connu ] une baisse globale de leur population entre 1982 et 1990 , la plupart de ces villes renouent désormais avec la croissance .
+[[Question:MC:SingleAnswer]]
+La verb [ habitent ] se passe APRÈS le verb [ connu ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q113]]
+
+[[Question:MC]]
+Avertie par des voisines , Juliette Carpezat s ' est [ précipitée ] en chaussons dans la rue lorsqu ' elle a su que le Secours populaire brûlait : « Je suis passée à midi devant en [ rentrant ] de la pharmacie .
+[[Question:MC:SingleAnswer]]
+La verb [ précipitée ] se passe AVANT le verb [ rentrant ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q97]]
+
+[[Question:MC]]
+Le bâtiment était [ fermé ] depuis .
+A l'intérieur , c ' était plein à environ 75 % pour l'espace brocante et il y [ avait ] environ trois tonnes de linge .
+[[Question:MC:SingleAnswer]]
+La relation entre [ fermé ] et [ avait ] est VAGUE (c'est-à-dire qu'elle ne correspond à aucune des réponses ci-dessus).
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q28]]
+
+[[Question:MC]]
+Le premier des 28 Groupements d'Intervention Régionaux [ composé ] de policiers , gendarmes , douaniers et agents du fisc pour lutter contre les réseaux de délinquance , sera [ installé ] à Strasbourg demain .
+[[Question:MC:SingleAnswer]]
+La verb [ composé ] se passe AVANT le verb [ installé ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q411]]
+
+[[Question:MC]]
+Un ancien de la Gestapo , Alfons Goetzfrid , a été condamné hier à 10 ans de prison pour complicité dans le meurtre de 17.000 juifs au camp d'extermination de Majdanek en Pologne où 400.000 personnes ont [ péri ] pendant la seconde guerre mondiale .
+Il a concédé avoir aidé à [ recharger ] des armes des bourreaux .
+[[Question:MC:SingleAnswer]]
+La verb [ péri ] se passe APRÈS le verb [ recharger ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q359]]
+
+[[Question:MC]]
+Les Jazz , après avoir frôlé l' élimination au premier tour , se sont [ imposés ] 93 à 83 avec 25 points et 12 rebonds de Karl Malone , avant de [ recevoir ] les Portland Trail Blazers une seconde fois , ce soir , dans la série au meilleur des sept matches .
+[[Question:MC:SingleAnswer]]
+La verb [ imposés ] se passe EN MÊME TEMPS que le verb [ recevoir ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+

@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q470]]
+
+[[Question:MC]]
+Sentence: « Questa iniziativa vuole essere una sorta di " breviario " - [ spiega ] l' ideatore , Renato Morelli a cui è affidata la direzione artistica del festival - in questo caso [ focalizzato ] sull' Arco alpino e sulla nuova Europa per interrogarsi sugli altri , sui diversi , sui confini che rompono e si spostano , sulle minoranze anche lontano che diventano presenze vicine e quotidiane » .
+[[Question:MC:SingleAnswer]]
+La relazione tra [ spiega ] e [ focalizzato ] è VAGA (i.e., nessuna delle precedenti).
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1736]]
+
+[[Question:MC]]
+Sentence: La Sme , reduce da un' Opa conclusa il 5 agosto che ha [ portato ] la quota Schemaventuno ai livelli attuali , è [ destinata ] a essere cancellata dal listino della Borsa valori italiana .
+[[Question:MC:SingleAnswer]]
+La relazione tra [ portato ] e [ destinata ] è VAGA (i.e., nessuna delle precedenti).
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1971]]
+
+[[Question:MC]]
+Sentence 1: Il bilancio dell' operazione è in attivo perché a fronte di una spesa complessiva non certo irrisoria , sono stati risparmiati tutti i costi che avrebbe [ comportato ] la chiusura prolungata dell' asilo ( lavori di questa entità appaltati dall' ente pubblico possono durare anche un paio di anni ? ) con le collocazioni provvisorie del personale , dei 102 ragazzi ed i disagi per le famiglie .
+Sentence 2: La quadratura del cerchio è stata ottenuta grazie alla disponibilità , praticamente in tempo reale , dei fondi pubblici ( ed anche all' aiuto della Cassa Rurale di Aldeno e Cadine ) : « Abbiamo potuto così mantenere un rapporto fiduciario con le imprese che [ avevano ] la garanzia di venire pagate in tempi proporzionali alla velocità di esecuzione » aggiunge Rossi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ comportato ] accade PRIMA del verbo [ avevano ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q141]]
+
+[[Question:MC]]
+Sentence 1: Il finale [ riserva ] una sorpresa che ingloba tutti , che sorprende la platea per la sua teatralità e , in qualche modo , si ricollega a delle immagine abbastanza comuni raccolte durante l' infanzia di tutti .
+Sentence 2: Come stile creativo , quello di Botelho , è un teatro danza di terza generazione molto attento alle qualità descrittive del gesto ed è [ abitato ] da ottimi danzatori capaci anche di essere attori .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riserva ] accade PRIMA del verbo [ abitato ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3625]]
+
+[[Question:MC]]
+Sentence 1: Da quest' anno [ sembrano ] aver preso piede i trolly , molto indicati a chi deve fare molta strada a piedi e non vuole rimanere schiacciato sotto il peso dei libri .
+Sentence 2: Il costo [ è ] in linea con quello di uno zaino normale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sembrano ] accade DOPO il verbo [ è ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q385]]
+
+[[Question:MC]]
+Sentence 1: Soprattutto da quando l' uomo aveva [ avuto ] problemi di salute e i medici gli avevano consigliato di smettere di fumare .
+Sentence 2: Un divieto che la moglie voleva fare rispettare e sul quale l' uomo [ era ] invece scettico .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avuto ] accade DOPO il verbo [ era ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3222]]
+
+[[Question:MC]]
+Sentence: Il ministro dell' Industria Vito Gnutti ha [ espresso ] soddisfazione per la definitiva conclusione della vendita , sottolineando come " quando le cose sono ben fatte e soprattutto sono [ impostate ] seriamente anche i nostri partners europei lo riconoscono " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ espresso ] accade PRIMA del verbo [ impostate ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2573]]
+
+[[Question:MC]]
+Sentence: TOKYO - Giornata da tregenda ieri in Giappone [ colpito ] dal tifone Songda che ha spazzato le regioni sud-occcidentali del Paese con venti di oltre 200 chilometri orari , [ seminando ] morte e distruzione sulla terraferma e in mare , e travolgendo tesori sacri per l' arte e la coscienza storica del mondo intero .
+[[Question:MC:SingleAnswer]]
+Il verbo [ colpito ] accade DOPO il verbo [ seminando ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1418]]
+
+[[Question:MC]]
+Sentence 1: « Stalin , da buon georgiano , aveva un astio particolare per quelli che dal suo punto di vista erano solo dei rozzi montanari - [ racconta ] Bensi - la deportazione in Siberia fu organizzata a partire dal 1944 .
+Sentence 2: Per il trasporto usarono carri merci dove [ finivano ] uomini donne e bambini , molti morirono già durante il viaggio » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ racconta ] accade PRIMA del verbo [ finivano ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q136]]
+
+[[Question:MC]]
+Sentence: Il finale [ riserva ] una sorpresa che [ ingloba ] tutti , che sorprende la platea per la sua teatralità e , in qualche modo , si ricollega a delle immagine abbastanza comuni raccolte durante l' infanzia di tutti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riserva ] accade DOPO il verbo [ ingloba ].
+[[Choices]]
+Sì
+NO
+NON SO
+

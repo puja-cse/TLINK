@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q127]]
+
+[[Question:MC]]
+- Laurent Fabius se dit favorable à un « quinquennat de cohérence » [consistant] à aligner la durée des mandats présidentiel et législatif afin d' éviter une cohabitation .
+[[Question:MC:SingleAnswer]]
+Le verbe [ consistant ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q24]]
+
+[[Question:MC]]
+M. Blair a [donné] jusqu'au 30 juin aux responsables catholiques et protestants pour débloquer ce dossier .
+[[Question:MC:SingleAnswer]]
+Le verbe [ donné ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q201]]
+
+[[Question:MC]]
+Deux gardiens de la paix , qui tentaient de s ' [interposer] , ont été légèrement blessés à leur tour .
+[[Question:MC:SingleAnswer]]
+Le verbe [ interposer ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q171]]
+
+[[Question:MC]]
+Seules les banlieues ne profitent pas de l'attrait des villes : leur croissance , de 0,41 % par an en moyenne entre 1990 et 1999 , s ' est [ralentie] par rapport au recensement précédent .
+[[Question:MC:SingleAnswer]]
+Le verbe [ ralentie ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q116]]
+
+[[Question:MC]]
+Secourue rapidement , son cœur est reparti , mais elle n'avait pas [repris] conscience lors de son admission à l'hôpital , où elle est décédée .
+[[Question:MC:SingleAnswer]]
+Le verbe [ repris ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q125]]
+
+[[Question:MC]]
+Le rapport en question , remis à M. Boutros Boutros - Ghali , secrétaire général de la francophonie , dresse un constat très sévère de la gestion de l'AUF , en jugeant « impératif de [créer] une nouvelle agence universitaire sur du solide » .
+[[Question:MC:SingleAnswer]]
+Le verbe [ créer ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q246]]
+
+[[Question:MC]]
+A l'intérieur , c ' était plein à environ 75 % pour l'espace brocante et il y [avait] environ trois tonnes de linge .
+[[Question:MC:SingleAnswer]]
+Le verbe [ avait ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q191]]
+
+[[Question:MC]]
+_ Les Utah Jazz , dauphins des Chicago Bulls depuis deux ans et favoris pour la succession ouverte par la retraite de Michael Jordan , ont [ouvert] par une victoire à domicile sur Portland leur demi - finale de la conférence ouest mardi soir à Salt Lake City .
+[[Question:MC:SingleAnswer]]
+Le verbe [ ouvert ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q71]]
+
+[[Question:MC]]
+Cette thèse est d'ailleurs [confirmée] par trois autres autres adolescentes , Jessica , Jennifer et Nadia , qui l'ont rencontré environ une heure plus tard .
+[[Question:MC:SingleAnswer]]
+Le verbe [ confirmée ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q254]]
+
+[[Question:MC]]
+Avertie par des voisines , Juliette Carpezat s ' est précipitée en chaussons dans la rue lorsqu ' elle a su que le Secours populaire brûlait : « Je suis passée à midi devant en [rentrant] de la pharmacie .
+[[Question:MC:SingleAnswer]]
+Le verbe [ rentrant ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q229]]
+
+[[Question:MC]]
+La toiture a été [préservée] .
+[[Question:MC:SingleAnswer]]
+Le verbe [ préservée ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q271]]
+
+[[Question:MC]]
+Le boulodrome , en effet , est [installé] dans le même corps de bâtiment que le Secours populaire .
+[[Question:MC:SingleAnswer]]
+Le verbe [ installé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q61]]
+
+[[Question:MC]]
+Bernard affirme qu'en se [promenant] , il a chuté et s ' est retrouvé à terre , la braguette ouverte .
+[[Question:MC:SingleAnswer]]
+Le verbe [ promenant ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q273]]
+
+[[Question:MC]]
+A l'heure du sinistre , près une centaine de personnes se trouvait dans le boulodrome ou trente triplettes [engageaient] leur troisième partie .
+[[Question:MC:SingleAnswer]]
+Le verbe [ engageaient ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q34]]
+
+[[Question:MC]]
+Aux Pays - Bas , l'hypothèse de législatives anticipées à l'automne [semblait] tenir la corde hier , au lendemain de la démission du gouvernement du Premier ministre travailliste Wim Kok .
+[[Question:MC:SingleAnswer]]
+Le verbe [ semblait ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q31]]
+
+[[Question:MC]]
+Toutefois , il doit [trouver] l'homme qui prendra sous sa coupe l'économie et les finances du pays , dossier délicat qui a officiellement causé la perte d'Evgueni Primakov .
+[[Question:MC:SingleAnswer]]
+Le verbe [ trouver ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q151]]
+
+[[Question:MC]]
+Alors que la métropole compte 58.416.500 habitants et les quatre départements d'outre - mer 1.665.500 , les premiers résultats du recensement de mars - avril , qui [devraient] être affinés d' ici la fin de l'année , confirment les tendances observées depuis vingt ans : l' urbanisation , loin de ralentir , connaît une nouvelle accélération .
+[[Question:MC:SingleAnswer]]
+Le verbe [ devraient ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q183]]
+
+[[Question:MC]]
+« L' allongement de la pré - rentrée n ' a pas de véritables justifications » , ont - ils [souligné] , « et ne contribue en rien à l' amélioration de l'encadrement pédagogique des élèves .
+[[Question:MC:SingleAnswer]]
+Le verbe [ souligné ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q44]]
+
+[[Question:MC]]
+Les Français [retrouvent] l'optimisme .
+[[Question:MC:SingleAnswer]]
+Le verbe [ retrouvent ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q39]]
+
+[[Question:MC]]
+A l'affiche , une comédie de Francis Veber , « Le dîner de cons » [interprétée] par le théâtre de La Roële de Villers - lès - Nancy .
+[[Question:MC:SingleAnswer]]
+Le verbe [ interprétée ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+

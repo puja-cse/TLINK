@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q659]]
+
+[[Question:MC]]
+Sentence 1: SALORNO - dopo le traversie di agosto , leggasi la rinuncia di Sonato e l' abbandono di Michelon , i giallorossi [ parevano ] caduti in crisi di identità e di morale .
+Sentence 2: E' vero che una rondine non fa primavera , ma il punto [ ottenuto ] con pieno merito sul campo dell' Alense dimostra che la determinazione e l' impegno sono tornati a livelli rassicuranti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ parevano ] accade DOPO il verbo [ ottenuto ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1108]]
+
+[[Question:MC]]
+Sentence 1: L' ingresso di Cefis in Santavaleria resta [ subordinato ] all' accettazione da parte di Varasi del piano predisposto da Mediobanca che potrebbe essere a grandi linee simile a quello già realizzato proprio con il gruppo Ligresti .
+Sentence 2: Cefis , vice presidente operativo della Premafin , [ lascerebbe ] la carica attualmente ricoperta nella holding di Salvatore Ligresti avendo esaurito il compito affidatogli proprio da Mediobanca al momento dell' avvio del piano di ristrutturazione del debito del gruppo che fa capo al costruttore e finanziere siciliano .
+[[Question:MC:SingleAnswer]]
+Il verbo [ subordinato ] accade PRIMA del verbo [ lascerebbe ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3367]]
+
+[[Question:MC]]
+Sentence: C' era la possibilità di utilizzare solo l' unità ricca di staminali , ma è stato [ deciso ] di trapiantarle entrambe , sia l' unità più ricca di cellule « non manipolate » , sia l' altra più povera , ma dopo averla congelata e [ trasferita ] alla « Cell Factory » di Milano , per amplificare il numero delle sue cellule .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deciso ] accade DOPO il verbo [ trasferita ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3876]]
+
+[[Question:MC]]
+Sentence: Le riserve premi ( 222,5 miliardi ) e le riserve sinistri ( 655,6 miliardi ) [ risultano ] interamente [ coperte ] dagli investimenti , che hanno raggiunto 1092 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ risultano ] accade PRIMA del verbo [ coperte ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2274]]
+
+[[Question:MC]]
+Sentence 1: La dismissione è [ avvenuta ] nell' ambito delle procedure di liquidazione del gruppo Cameli e - segnala un comunicato della società acquirente - " ha permesso il salvataggio di oltre il 60,00% dei posti di lavoro della Bravo " .
+Sentence 2: La Profit accentrerà nella struttura immobiliare della Bravo Productions ( che ha sede a Milano e [ ha ] una superficie utile di circa 7500 metri quadri ) diverse attività operative .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avvenuta ] accade PRIMA del verbo [ ha ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3310]]
+
+[[Question:MC]]
+Sentence: [ Era ] con un altro contadino che alla vista delle fiamme è riuscito a scappare e a [ mettersi ] in salvo .
+[[Question:MC:SingleAnswer]]
+La relazione tra [ Era ] e [ mettersi ] è VAGA (i.e., nessuna delle precedenti).
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3770]]
+
+[[Question:MC]]
+Sentence: Emesse 70 ordinanze di custodia cautelare , supportate da migliaia di intercettazioni ambientali e telefoniche , dichiarazioni di collaboratori di giustizia e testimonianze di una trentina di imprenditori e commercianti vittime dell' usura che , messi alle strette dagli investigatori , hanno [ ammesso ] di essere in mano agli usurai [ fornendo ] le indicazioni necessarie per giungere alla loro identificazione e all' arresto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ammesso ] accade DOPO il verbo [ fornendo ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1185]]
+
+[[Question:MC]]
+Sentence 1: Si tratta di punti d' oro soprattutto per le assenze che entrambe [ accusavano ] : Mulchande , Fantelli , Nicolodi , Valentini i rossoneri di Memmo , Malcangio Corradini e Contini i biancorossi di Melone .
+Sentence 2: In tema di assenze pesanti qualcosa lamenta pure la Benacense che nel big - match di Ponte Arche ha dovuto rinunciare a due stoccatori come Delnegro e Cosa risultando piuttosto [ spuntata ] al cospetto del reparto arretrato tradizionalmente più forte del torneo , quello del Comano Fiavè .
+[[Question:MC:SingleAnswer]]
+Il verbo [ accusavano ] accade PRIMA del verbo [ spuntata ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q926]]
+
+[[Question:MC]]
+Sentence: Costruire il futuro del paese è strategico e lo [ confermano ] anche due degli interventi generosamente sostenuti dall' amministrazione provinciale : il centro di istruzione per l' occupazione El Buen Pastor e l' istituto di educazione tecnologica di Manchay che , come l' Università Sedes Sapientiae , [ sono ] progetti gestiti direttamente dalla Provincia con contributi complessivi , spalmati nel triennio 2003 - 2005 , di 530mila euro .
+[[Question:MC:SingleAnswer]]
+La relazione tra [ confermano ] e [ sono ] è VAGA (i.e., nessuna delle precedenti).
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2764]]
+
+[[Question:MC]]
+Sentence 1: Ora la sua famiglia è composta da 63 bambini [ rimasti ] soli e senza protezione .
+Sentence 2: E' il piccolo Stato di Inguscezia , la più piccola delle repubbliche della Federazione russa a nord del Caucaso , a [ far ] da sfondo alla terza testimonianza della regista , « Ricordo » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rimasti ] accade SIMULTANEAMENTE con il verbo [ far ].
+[[Choices]]
+Sì
+NO
+NON SO
+

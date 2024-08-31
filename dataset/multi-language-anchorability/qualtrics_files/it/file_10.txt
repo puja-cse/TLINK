@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q316]]
+
+[[Question:MC]]
+Le due reti dalla distanza di Fontana e l' incornata di Floriani non hanno [lasciato] scampo a Bevilacqua .
+[[Question:MC:SingleAnswer]]
+Il verbo [ lasciato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1214]]
+
+[[Question:MC]]
+« L' esperienza di questi lavori - spiega il presidente della Scuola Alessandro Rossi , esperto in appalti pubblici - è un segnale importante : è la dimostrazione che quando pubblico e privato [vogliono] collaborare possono realizzare interventi significativi ed in tempi estremamente rapidi » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vogliono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q702]]
+
+[[Question:MC]]
+E quali testimoni della buona riuscita di alcuni di questi progetti , sono arrivati a Trento due importanti religiosi , accompagnati da monsignor Luigi Bressan : Lino Panizza , vescovo di Carabayllo , che invita le autorità ad intervenire all' ormai prossima inaugurazione del centro El Buen Pastor ( 180 alunni , tra i quali anche alcune ragazze iscritte al corso di falegnameria ) , e Adriano Tomasi , vescovo ausiliario di Lima , che annuncia il completamento ( forse già a marzo ) dei primi edifici dell' istituto di Manchay destinato a far studiare almeno un migliaio di allievi [distribuiti] in corsi da sei mesi fino a tre anni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ distribuiti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q76]]
+
+[[Question:MC]]
+" Questa è una giornata importante per l' Iri - ha sottolineato Michele Tedeschi , presidente di via Veneto - Stiamo privatizzando nella massima trasparenza e [tenendo] contro degli interessi di Iri , imprese e dipendenti " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tenendo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1527]]
+
+[[Question:MC]]
+nan [Vuol] dire che serviranno almeno 20 mila firme al giorno da qui al 30 settembre .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Vuol ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1198]]
+
+[[Question:MC]]
+Lo stand gastronomico alla partenza della buca 8 , la riuscita grigliata al termine delle 18 buche e la formula della gara , una 4 palle la migliore stableford a coppie ( senza pertanto la preoccupazione per la " virgola " ) , sono state le tre carte vincenti del Tesino Golf Club e della ditta " OK CASA " , che hanno già concordato di ripetere l' iniziativa nel 2005 ( [fissando] l' appuntamento ormai tradizionale per la prima domenica di settembre ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fissando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q444]]
+
+[[Question:MC]]
+E' quanto [sostiene] il cardinale Renato Raffaele Martino , Presidente del Pontificio Consiglio « Justitia et Pax » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sostiene ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q936]]
+
+[[Question:MC]]
+Si riappropri la Politica del suo ruolo di guida e [dotiamoci] di strumenti partecipativi e di verifica che siano condivisi per quanto possibile ma pubblici e trasparenti per tutti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dotiamoci ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q500]]
+
+[[Question:MC]]
+Ora - [prosegue] Cossiga - vorrebbero apparire quali perseguitati mentre invece sono dei commercianti di alcol e , quindi , esercitano una attività in contrasto con i dettami del Corano » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ prosegue ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1878]]
+
+[[Question:MC]]
+Ferrando non ce l' [ha] fatta : avvolto da una densa nube nera e dal fumo , è rimasto intrappolato nelle fiamme .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ha ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1221]]
+
+[[Question:MC]]
+Il bilancio dell' operazione è in attivo perché a fronte di una spesa complessiva non certo irrisoria , sono stati risparmiati tutti i costi che avrebbe comportato la chiusura prolungata dell' asilo ( lavori di questa entità appaltati dall' ente pubblico [possono] durare anche un paio di anni ? ) con le collocazioni provvisorie del personale , dei 102 ragazzi ed i disagi per le famiglie .
+[[Question:MC:SingleAnswer]]
+Il verbo [ possono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q167]]
+
+[[Question:MC]]
+Ma a ben [guardare] anche in questi casi non si può parlare di esiti clamorosi : che la formazione di Zimelli potesse sbancare Natz era infatti nei numeri visto che già l' anno passato si impose su quel campo con un roboante 5 - 3 e che il suo potenziale offensivo , già strepitoso ( basti ricordare i 115 gol dell' ultimo biennio ) , è ancor più lievitato adesso con l' ingaggio dell' interessantissimo rumeno Ionut Alecu , non a caso subito a segno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ guardare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q746]]
+
+[[Question:MC]]
+Un divieto che la moglie voleva [fare] rispettare e sul quale l' uomo era invece scettico .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q259]]
+
+[[Question:MC]]
+Il fenomeno è destinato a creare problemi a tanti , dai medici all' industria dell' abbigliamento , e rende fra l' altro inutilizzabili le tabelle ufficiali di crescita infantile , usate dai pediatri per [valutare] lo sviluppo fisico .
+[[Question:MC:SingleAnswer]]
+Il verbo [ valutare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q105]]
+
+[[Question:MC]]
+Per il Consorzio [guidato] dal presidente Renzo Anderle si tratta di un motivo di soddisfazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ guidato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q753]]
+
+[[Question:MC]]
+I fotogrammi della serata di sangue vissuta nella palazzina di Montecalvoli di Santa Maria a Monte , dove i due coniugi abitavano da soli , sono stati ricostruiti dagli investigatori con dovizia di particolari , anche se per [saperne] di più bisognerà attendere l' esame autoptico sul corpo della donna e la perizia balistica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ saperne ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1691]]
+
+[[Question:MC]]
+MAZARA - « Chi [ha] in mano la nostra bambina , forse può avere anche lei una figlia , e può dunque comprendere il nostro stato d' animo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ha ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1848]]
+
+[[Question:MC]]
+Gianni Dorigatti , segretario provinciale della Fabi ( 2.700 iscritti in provincia di Trento su un totale di 4.000 bancari ) che aderirà allo sciopero , spiega che « non si [può] accettare la posizione dell' Abi che intende lavorare per una netta scissione fra parte economica inconsistente e una parte normativa peraltro mai discussa » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ può ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1728]]
+
+[[Question:MC]]
+In questo modo si [riuscirà] a « guadagnare » una settimana per la discussione in aula .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riuscirà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q759]]
+
+[[Question:MC]]
+Il primo mentre la donna cercava di [chiedere] aiuto , al telefono .
+[[Question:MC:SingleAnswer]]
+Il verbo [ chiedere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

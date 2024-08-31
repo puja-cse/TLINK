@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q635]]
+
+[[Question:MC]]
+" La aportación de Sasha ha sido muy positiva , pero [ creo ] que se ha cumplido el ciclo previsto cuando fichó " , [ indicó ] , por su parte , García Reneses para explicar la decisión de no hacerle ninguna oferta de renovación .
+[[Question:MC:SingleAnswer]]
+El verbo [ creo ] pasa DESPUÉS del verbo [ indicó ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q55]]
+
+[[Question:MC]]
+" Cuando un requerimiento judicial [ es ] tan ambiguo que desafía toda comprensión , éste es nulo e inaplicable " , dice el documento de Microsoft presentado al juez .
+El viernes pasado , el Gobierno [ entregó ] al juez una copia detallada de su propuesta para acabar con el monopolio de Microsoft .
+[[Question:MC:SingleAnswer]]
+La relación entre [ es ] y [ entregó ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q287]]
+
+[[Question:MC]]
+Tras opinar que la disputa del Mundial de fútbol 2002 , coorganizado por Japón y Corea del Sur , será un factor favorable , [ indicó ] que las inversiones " no rebasarán , por ejemplo , el nivel de Atlanta " .
+Mikako Kotani , medallista olímpica y componente de la Ejecutiva del OBC , natural de Tokio pero cuya madre es de Osaka , ensalzó la amabilidad del pueblo de esta ciudad , que " [ adora ] el deporte " y tiene " un gran deseo de amistad " , al margen de " mucha energía a disposición de los Juegos " .
+[[Question:MC:SingleAnswer]]
+El verbo [ indicó ] pasa ANTES que el verbo [ adora ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q35]]
+
+[[Question:MC]]
+Microsoft [ contraatacó ] ayer en su alegato final contra la propu[ es ]ta del Gobierno de EEUU de dividir la compañía en dos y aseguró que la petición es " vaga , ambigua y deficiente " .
+[[Question:MC:SingleAnswer]]
+El verbo [ contraatacó ] pasa ANTES que el verbo [ es ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q681]]
+
+[[Question:MC]]
+El preparador barcelonista calificó la decisión como " un salto al vacío " al no tener cerrada la operación del escolta francés Antoine Rigaudeau , su probable sustituto , pero indicó que este riesgo [ era ] necesario para no perjudicar a Sasha a la hora de negociar nuevas ofertas .
+Aíto comentó que le ha costado mucho dar este paso - - " son decisiones muy difíciles y no soy insensible como muchos se creen " - - y mostró su deseo de cerrar cuanto antes la renovación de Roger Esteller , uno de los jugadores con los que el club [ negocia ] un nuevo contrato , junto al estadounidense Derrick Alston .
+[[Question:MC:SingleAnswer]]
+El verbo [ era ] pasa DESPUÉS del verbo [ negocia ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q365]]
+
+[[Question:MC]]
+Rasgarse ahora las vestiduras por la firmeza negociadora de nuestro vecino del sur , dejando caer en la opinión pública una cifra de afectados claramente hinchada , al objeto de responsabilizar a Marruecos del daño social , [ constituye ] una muestra de la peor política posible : culpar a los otros por lo que debimos haber [ hecho ] y no tuvimos la voluntad , ni la inteligencia , ni el coraje , de acometer .
+[[Question:MC:SingleAnswer]]
+El verbo [ constituye ] pasa ANTES que el verbo [ hecho ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q662]]
+
+[[Question:MC]]
+El preparador barcelonista [ calificó ] la decisión como " un salto al vacío " al no tener cerrada la operación del escolta francés Antoine Rigaudeau , su probable sustituto , pero indicó que este riesgo era necesario para no perjudicar a Sasha a la hora de negociar nuevas ofertas .
+Aíto comentó que le ha costado mucho [ dar ] este paso - - " son decisiones muy difíciles y no soy insensible como muchos se creen " - - y mostró su deseo de cerrar cuanto antes la renovación de Roger Esteller , uno de los jugadores con los que el club negocia un nuevo contrato , junto al estadounidense Derrick Alston .
+[[Question:MC:SingleAnswer]]
+El verbo [ calificó ] pasa ANTES que el verbo [ dar ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q642]]
+
+[[Question:MC]]
+" La aportación de Sasha ha sido muy positiva , pero creo que se ha [ cumplido ] el ciclo previsto cuando fichó " , indicó , por su parte , García Reneses para [ explicar ] la decisión de no hacerle ninguna oferta de renovación .
+[[Question:MC:SingleAnswer]]
+El verbo [ cumplido ] pasa ANTES que el verbo [ explicar ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q417]]
+
+[[Question:MC]]
+Con esta normativa , el Gobierno [ intenta ] reducir las más de 4.000 muertes que cada año se producen en los yacimientos de carbón del país , la mayoría de los cuales operan sin las mínimas medidas de seguridad , debido sobre todo a los malos resultados del sector , y algunos incluso son ilegales .
+La falta de inversión en equipos de seguridad se une a la actitud de los directivos , que [ obligan ] a los obreros a trabajar hasta 12 ó 14 horas diarias por salarios de miseria y ocultan a las autoridades los accidentes que se producen .
+[[Question:MC:SingleAnswer]]
+El verbo [ intenta ] pasa ANTES que el verbo [ obligan ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q636]]
+
+[[Question:MC]]
+" La aportación de Sasha ha sido muy positiva , pero [ creo ] que se ha cumplido el ciclo previsto cuando fichó " , indicó , por su parte , García Reneses para [ explicar ] la decisión de no hacerle ninguna oferta de renovación .
+[[Question:MC:SingleAnswer]]
+El verbo [ creo ] pasa ANTES que el verbo [ explicar ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+

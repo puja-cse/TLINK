@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1938]]
+
+[[Question:MC]]
+Quest' anno quale [dovrebbe] essere l' obbiettivo ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovrebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2108]]
+
+[[Question:MC]]
+Ma esiste una " caucasicità " trasversale , che parte dalla zona tra i due mari e [arriva] fino in Sardegna , passando dall' Albania .
+[[Question:MC:SingleAnswer]]
+Il verbo [ arriva ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q750]]
+
+[[Question:MC]]
+I fotogrammi della serata di sangue [vissuta] nella palazzina di Montecalvoli di Santa Maria a Monte , dove i due coniugi abitavano da soli , sono stati ricostruiti dagli investigatori con dovizia di particolari , anche se per saperne di più bisognerà attendere l' esame autoptico sul corpo della donna e la perizia balistica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vissuta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q696]]
+
+[[Question:MC]]
+E quali testimoni della buona riuscita di alcuni di questi progetti , sono arrivati a Trento due importanti religiosi , accompagnati da monsignor Luigi Bressan : Lino Panizza , vescovo di Carabayllo , che [invita] le autorità ad intervenire all' ormai prossima inaugurazione del centro El Buen Pastor ( 180 alunni , tra i quali anche alcune ragazze iscritte al corso di falegnameria ) , e Adriano Tomasi , vescovo ausiliario di Lima , che annuncia il completamento ( forse già a marzo ) dei primi edifici dell' istituto di Manchay destinato a far studiare almeno un migliaio di allievi distribuiti in corsi da sei mesi fino a tre anni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ invita ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2036]]
+
+[[Question:MC]]
+Il gioco è quello che attraversa " Minoranzèro " il festival sottolineato dalle parole " Breviario europeo sugli altri oltre il confine " che si [svolgerà] da domani , mercoledì 8 , all' 11 settembre a Pergine .
+[[Question:MC:SingleAnswer]]
+Il verbo [ svolgerà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1055]]
+
+[[Question:MC]]
+Difficile [fare] pronostici , sono in molti ad ambire ad un successo a Predazzo , in primis i norvegesi che stanno migliorando di gara in gara e che domenica hanno vinto la competizione a squadre .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1466]]
+
+[[Question:MC]]
+MILANO - Procede a ritmo spedito la riorganizzazione del gruppo Popolare di Verona , che dal prossimo disimpegno dall' Ambroveneto [ricaverà] oltre 200 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricaverà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2122]]
+
+[[Question:MC]]
+Ad [essere] meno ostili nei confronti dei dominatori furono alcuni caucasici del nord , tra cui , appunto , gli Ossiti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ essere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q861]]
+
+[[Question:MC]]
+Vorrei che non si decidesse nulla senza prima consultarmi e [vorrei] il posto di lavoro a pochi minuti da casa mia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vorrei ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1807]]
+
+[[Question:MC]]
+« [Sono] certo che i colleghi sindaci in questo momento così tragico vorranno aiutare i bambini sopravvissuti , ad alleviare , se mai fosse possibile , il dolore » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q182]]
+
+[[Question:MC]]
+Neppure lo 0 - 0 del Ger può essere definito impossibile : nella prima uscita stagionale ci può stare che una squadra pur con le ambizioni e i mezzi di quella di Ala non riesca a [mettere] sotto un Salorno incompleto e rivoluzionato , ma non per questo meno stimolato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ mettere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q36]]
+
+[[Question:MC]]
+Ma per la velocità del [vorticare] del palco , sembra che nel racconto si sovrappongono i tempi e le emozioni rappresentate .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vorticare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1465]]
+
+[[Question:MC]]
+MILANO - [Procede] a ritmo spedito la riorganizzazione del gruppo Popolare di Verona , che dal prossimo disimpegno dall' Ambroveneto ricaverà oltre 200 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Procede ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2213]]
+
+[[Question:MC]]
+Solo l' internazionalizzazione del conflitto può [porre] fine alla violenza : l' Onu - purtroppo non c' è di meglio per ora - può evitare altre stragi » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ porre ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2167]]
+
+[[Question:MC]]
+Ma c' [è] un particolare ancora che non si spiega se non guardando indietro : perché proprio la scuola di Beslan ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q898]]
+
+[[Question:MC]]
+Il mandato [deve] essere chiaro ed altrettanto espliciti gli strumenti di misurazione dei risultati .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deve ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1023]]
+
+[[Question:MC]]
+La Hyundai Automobili Italia , che ha sede a Torino , ha [chiuso] il 92 con un fatturato consolidato di 175,4 miliardi e ha venduto 11501 vetture attraverso 138 concessionari .
+[[Question:MC:SingleAnswer]]
+Il verbo [ chiuso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1873]]
+
+[[Question:MC]]
+In quel momento Pietro Ferrando , 69 anni , si [trovava] nei campi vicino a casa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trovava ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q120]]
+
+[[Question:MC]]
+Storage più sicurezza , quindi , per presentarsi alle grandi aziende con un' offerta in grado di gestire l' intero ciclo di vita dei flussi informativi [originati] dalle attività di business e quindi prendersi cura dei dati critici di queste ultime anche attraverso applicazioni di identity e access management e tecnologie avanzate di crittografia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ originati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1629]]
+
+[[Question:MC]]
+Il portafoglio lavori si attesta sui 628 miliardi e , secondo una nota diffusa dalla società , " rappresenta una potenzialità produttiva che [consente] a Edilter di affrontare serenamente il futuro , a condizione che vengano riattivati i flussi finanziari sulle opere pubbliche , oggi quasi dappertutto rallentati e in qualche caso bloccati " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ consente ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

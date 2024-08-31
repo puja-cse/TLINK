@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q169]]
+
+[[Question:MC]]
+Sentence 1: Oggi vanno in scena i riflessi degli infiniti Ulissi coreografati da Bud Blumenthal , autore quarantacinquenne [ arrivato ] tardi alla danza ma che da allora non l' ha mai lasciata .
+Sentence 2: Titolo dell' appuntamento [ è ] " Les Reflets d' Ulysse " ed è ospitato all' auditorium del Mart .
+[[Question:MC:SingleAnswer]]
+Il verbo [ arrivato ] accade DOPO il verbo [ è ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2213]]
+
+[[Question:MC]]
+Sentence: [ Sono ] stabili ma sempre gravi le condizioni di Susanna Franzoni , la 19enne di Varese ricoverata al neurochirurgico di Bolzano per i traumi [ riportati ] nell' incidente avvenuto domenica all' alba a Pinzolo , quado un' auto è carambolata contro un muro nel centro del paese .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Sono ] accade SIMULTANEAMENTE con il verbo [ riportati ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1564]]
+
+[[Question:MC]]
+Sentence: Il portafoglio lavori si attesta sui 628 miliardi e , secondo una nota diffusa dalla società , " [ rappresenta ] una potenzialità produttiva che consente a Edilter di affrontare serenamente il futuro , a condizione che vengano riattivati i flussi finanziari sulle opere pubbliche , oggi quasi dappertutto [ rallentati ] e in qualche caso bloccati " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rappresenta ] accade PRIMA del verbo [ rallentati ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2517]]
+
+[[Question:MC]]
+Sentence 1: Storage più sicurezza , quindi , per presentarsi alle grandi aziende con un' offerta in grado di gestire l' intero ciclo di vita dei flussi informativi [ originati ] dalle attività di business e quindi prendersi cura dei dati critici di queste ultime anche attraverso applicazioni di identity e access management e tecnologie avanzate di crittografia .
+Sentence 2: La convinzione di Tucci espressa agli analisti finanziari critici per l' elevato investimento proferito per portarsi a casa Rsa ha quindi [ toccato ] la sfera delle enormi potenzialità di questo mercato : " abbiamo acquisito una società che può vantare risorse tecnologiche strategiche per servire un mercato molto importante .
+[[Question:MC:SingleAnswer]]
+Il verbo [ originati ] accade PRIMA del verbo [ toccato ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2272]]
+
+[[Question:MC]]
+Sentence 1: La dismissione è [ avvenuta ] nell' ambito delle procedure di liquidazione del gruppo Cameli e - segnala un comunicato della società acquirente - " ha permesso il salvataggio di oltre il 60,00% dei posti di lavoro della Bravo " .
+Sentence 2: La Profit [ accentrerà ] nella struttura immobiliare della Bravo Productions ( che ha sede a Milano e ha una superficie utile di circa 7500 metri quadri ) diverse attività operative .
+[[Question:MC:SingleAnswer]]
+La relazione tra [ avvenuta ] e [ accentrerà ] è VAGA (i.e., nessuna delle precedenti).
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1650]]
+
+[[Question:MC]]
+Sentence 1: MILANO - Si chiamerà Gruppo Gs la nuova azienda che [ nascerà ] dalla fusione di Sme e Gs nella controllante Schemaventuno , la società partecipata dai gruppi Del Vecchio , Edizione ( Benetton ) e Movenpick che ha rilevato la ex finanziaria alimentare dell' Iri .
+Sentence 2: L' operazione , si legge in una nota , è stata [ approvata ] dai consigli di amministrazione delle società coinvolte e prevede la distribuzione agli azionisti minori della Sme ( il 95,59% è controllato da Schemaventuno e il 4,00% dal gruppo bancario San Paolo di Torino ) di 12 azioni ordinarie Schemaventuno ogni 5 Sme possedute .
+[[Question:MC:SingleAnswer]]
+Il verbo [ nascerà ] accade PRIMA del verbo [ approvata ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q714]]
+
+[[Question:MC]]
+Sentence: Mai forse come in questa occasione - [ continua ] Bezzi - è emerso il lato oscuro della crudeltà di cui sono talvolta capaci gli esseri umani e la memoria [ torna ] alle tragedie epocali del Novecento , ai misfatti del nazismo e dello stalinismo , con gli eccidi di intere popolazioni » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ continua ] accade PRIMA del verbo [ torna ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2222]]
+
+[[Question:MC]]
+Sentence: Sono stabili ma sempre gravi le condizioni di Susanna Franzoni , la 19enne di Varese [ ricoverata ] al neurochirurgico di Bolzano per i traumi riportati nell' incidente [ avvenuto ] domenica all' alba a Pinzolo , quado un' auto è carambolata contro un muro nel centro del paese .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricoverata ] accade DOPO il verbo [ avvenuto ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q563]]
+
+[[Question:MC]]
+Sentence: Formula : 18 buche stbl : si è svolto sabato 4 settembre il recupero della gara " European Green Pass Tour 2004 " , il cui circuito prevede ora per i vincitori una finale nazionale ed eventualmente una finalissima internazionale : Renato Tessadri , Giancarlo Agostini , Guido Valcanover e Alessandro Lubian [ saranno ] ospiti presso il Brianza Golf Club , mentre Bruno Bensa e Paolo Decaminada [ giocheranno ] al Modena Golf Club .
+[[Question:MC:SingleAnswer]]
+Il verbo [ saranno ] accade DOPO il verbo [ giocheranno ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1918]]
+
+[[Question:MC]]
+Sentence 1: Il risultato è quello che è stato [ presentato ] ieri mattina : la ristrutturazione e l' ampliamento della Scuola Materna privata equiparata « P. Pedrotti » di Trento , la più vecchia del capoluogo , completata in cento giorni con un investimento complessivo di 2,3 milioni di euro .
+Sentence 2: « É un caso più unico che raro » [ osserva ] il primo cittadino , Alberto Pacher , che quell' asilo lo conosce bene per averlo frequentato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ presentato ] accade PRIMA del verbo [ osserva ].
+[[Choices]]
+Sì
+NO
+NON SO
+

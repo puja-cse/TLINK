@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q29]]
+
+[[Question:MC]]
+Le premier des 28 Groupements d'Intervention Régionaux [ composé ] de policiers , gendarmes , douaniers et agents du fisc pour lutter contre les réseaux de délinquance , sera installé à Strasbourg demain .
+Sarkozy était hier dans la capitale alsacienne où le matin même une opération contre un réseau de recel et trafic de Hi - Fi et vidéo a [ permis ] d' interpeller dix personnes , de saisir des armes et 15.000 € .
+[[Question:MC:SingleAnswer]]
+La verb [ composé ] se passe AVANT le verb [ permis ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q413]]
+
+[[Question:MC]]
+Il a [ concédé ] avoir aidé à [ recharger ] des armes des bourreaux .
+[[Question:MC:SingleAnswer]]
+La verb [ concédé ] se passe AVANT le verb [ recharger ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q209]]
+
+[[Question:MC]]
+Cette thèse est d'ailleurs [ confirmée ] par trois autres autres adolescentes , Jessica , Jennifer et Nadia , qui l'ont [ rencontré ] environ une heure plus tard .
+[[Question:MC:SingleAnswer]]
+La relation entre [ confirmée ] et [ rencontré ] est VAGUE (c'est-à-dire qu'elle ne correspond à aucune des réponses ci-dessus).
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q427]]
+
+[[Question:MC]]
+A Moscou , le nouveau Premier ministre russe Sergueï Stépachine , [ confirmé ] par les députés de la Douma , a [ annoncé ] qu'il garderait « l'ossature » du précédent gouvernement .
+[[Question:MC:SingleAnswer]]
+La relation entre [ confirmé ] et [ annoncé ] est VAGUE (c'est-à-dire qu'elle ne correspond à aucune des réponses ci-dessus).
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q124]]
+
+[[Question:MC]]
+Avertie par des voisines , Juliette Carpezat s ' est précipitée en chaussons dans la rue lorsqu ' elle a su que le Secours populaire brûlait : « Je suis passée à midi devant en [ rentrant ] de la pharmacie .
+Il n ' y avait rien d'anormal » , [ explique ] cette habitante du quartier , bénévole au « Secours pop » depuis douze ans .
+[[Question:MC:SingleAnswer]]
+La verb [ rentrant ] se passe AVANT le verb [ explique ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q146]]
+
+[[Question:MC]]
+Et pour cause : la fumée a recouvert le quartier , faisant sortir les curieux , et le sinistre a [ interrompu ] le concours de pétanque [ organisée ] par l'association des Portugais de Belfort .
+[[Question:MC:SingleAnswer]]
+La verb [ interrompu ] se passe AVANT le verb [ organisée ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q236]]
+
+[[Question:MC]]
+L'avocate de Bernard , Alexandra Michel , a souligné que son client [ avait ] conscience du trouble qu'il avait causé aux adolescentes .
+« Il a eu un fantasme qu'il n ' a pas su maîtriser » , [ souligne ] - t - elle dans une plaidoirie qui constituait sa première intervention devant le tribunal correctionnel de Belfort .
+[[Question:MC:SingleAnswer]]
+La verb [ avait ] se passe AVANT le verb [ souligne ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q158]]
+
+[[Question:MC]]
+Les consignes de sécurité ont eu raison de la compétition : elle a été [ annulée ] .
+Hier soir , les services techniques de la Ville engageaient des travaux pour fermer le local tandis que les pompiers s ' [ organisaient ] pour effectuer des rondes pendant la nuit afin de déceler toute reprise de feu .
+[[Question:MC:SingleAnswer]]
+La verb [ annulée ] se passe AVANT le verb [ organisaient ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q185]]
+
+[[Question:MC]]
+Les faits qui lui sont reprochés remontent au 27 mai 1998 et se sont [ déroulés ] dans les bois proches du fort Dorsner à Giromagny .
+Bernard affirme qu'en se [ promenant ] , il a chuté et s ' est retrouvé à terre , la braguette ouverte .
+[[Question:MC:SingleAnswer]]
+La verb [ déroulés ] se passe APRÈS le verb [ promenant ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q92]]
+
+[[Question:MC]]
+Le bâtiment , qui appartient à la Ville de Belfort , venait de faire l'objet de travaux de rénovation confirme André Kaufmann , adjoint au maire , sur place hier : « La toiture a été complétement [ refaite ] à la fin de l'année dernière , ainsi que la façade extérieure et les systèmes de sécurité » , [ souligne ] - t - il , estimant le coût de ces travaux à environ 100.000 € .
+[[Question:MC:SingleAnswer]]
+La verb [ refaite ] se passe AVANT le verb [ souligne ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+

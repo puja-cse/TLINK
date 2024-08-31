@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1137]]
+
+[[Question:MC]]
+Chiedono , in attesa della realizzazione di un parco fluviale dell' Adige collegato al biotopo ( come [previsto] da una delibera del Consiglio comunale del 2001 ) , di istituire una fascia di verde di tutela lungo l' argine destro del fiume , in modo da scongiurare qualsiasi possibilità di edificazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ previsto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1240]]
+
+[[Question:MC]]
+« Mi [complimento] per il risultato : per i tempi ma anche per i modi » commenta Pacher , intervenuto all' inaugurazione assieme ai colleghi di giunta Andrea Rudari e Renato Pegoretti ( la Provincia , invece , è stata rappresentata dall' assessore Silvano Grisenti e dal collega Tiziano Salvaterra ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ complimento ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1006]]
+
+[[Question:MC]]
+I tre sindacati [invitano] inoltre tutte le scuole a proporre , per il primo giorno di lezioni , una riflessione sulla guerra e sul valore della pace .
+[[Question:MC:SingleAnswer]]
+Il verbo [ invitano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2064]]
+
+[[Question:MC]]
+Sabato 11 ( Piazza Municipio - ore 21,30 ) concerto del Coro istriano " Marco Garbin " di Rovigo [prsentato] da Gianluigi Sacco mentre la stessa sera ma al Teatro Tenda ( inizio ore 20.30 ) spettacolo multimediale " Yol " dedicato alle musiche e alle culture balcaniche , ebraiche e zingare dell' Est Europa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ prsentato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1161]]
+
+[[Question:MC]]
+« A nome del comitato - insiste - chiedo che anche le nostre domande vengano quantomeno esaminate , [auspicando] per altro un esito favorevole » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ auspicando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q830]]
+
+[[Question:MC]]
+nan [Ospitiamo] oggi un intervento di Daniele Orrico , primario di neurologia all' ospedale S. Chiara di Trento .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Ospitiamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q521]]
+
+[[Question:MC]]
+Il secondo livello , scrive Veneziani , è « costituto da un clan di giornalisti che scrivono divisi ma colpiscono uniti , [elogiando] le pellicole politicamente corrette , colmano di elogi chiunque sia in odore di disprezzare Bush , Berlusconi , Croff e le bandane e viceversa pisciano lacrime di commozione per tutti gli amarcord del sessantotto , anni settanta , Radio Alice » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ elogiando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1307]]
+
+[[Question:MC]]
+« La condanna di questi atti efferati e la mobilitazione di tutti contro questo terrorismo cieco e brutale che cancella ogni limite ed annulla i tabù più consolidati - [prosegue] Bezzi - devono accompagnarsi con concrete iniziative di solidarietà verso gli abitanti della sfortunata città dell' Ossezia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ prosegue ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1020]]
+
+[[Question:MC]]
+Il costo dell' acquisizione dovrebbe [superare] gli 11 miliardi , cifra che corrisponde all' ammontare del patrimonio netto della Hyundai Automobili Italia al 31 dicembre 1992 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ superare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q885]]
+
+[[Question:MC]]
+Il Politico deve dire al Direttore Generale quale sia la strada da percorrere e deve porre in essere verifiche che gli consentano di [avere] informazioni di ritorno per correggere eventuali digressioni dal programma .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1324]]
+
+[[Question:MC]]
+Perchè , quindi - si chiede il presidente del Consiglio provinciale - non dare vita ad un progetto organico di aiuti - « Il Trentino per Beslan » - che metta assieme e coordini tutte le iniziative di solidarietà già avviate e quelle programmate , puntando in via prioritaria ad [assicurare] ai bambini e alle bambine che hanno vissuto quella spaventosa esperienza tutti i supporti , materiali e non , necessari per aiutarli a superare il terribile shock subito in quei drammatici giorni ? » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ assicurare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1009]]
+
+[[Question:MC]]
+Appoggio e partecipazione attiva alla fiaccolata , a nome di tutta l' arcidiocesi di Trento , è stato garantito anche dalla commissione diocesana Giustizia e pace e dall' ufficio diocesano per dialogo interreligioso , oltre che dall' associazione « Pace per Gerusalemme » , che ha [indetto] per lo stesso giorno un' iniziativa a favore dei prigionieri politici palestinesi in sciopero della fame .
+[[Question:MC:SingleAnswer]]
+Il verbo [ indetto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q907]]
+
+[[Question:MC]]
+Quanto poi ai collaboratori del Direttore Generale , [è] ovvio che vanno rifiutate posizioni aprioristiche di chi ritiene che solo fuori dal Trentino si possano trovare Dirigenti di un certo spessore professionale ; allo stesso modo va rigettata l' ipotesi della promozione della " trentinità " in quanto tale come giudizio di merito .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1894]]
+
+[[Question:MC]]
+Come lo [vivi] questo momento di gloria ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ vivi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1521]]
+
+[[Question:MC]]
+La raccolta indiretta [risulta] pari a quasi 2.804 milioni di euro ( fine giugno 2004 ) , rispetto ai 2.523 milioni di euro di fine semestre 2003 ( + 11,14% ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ risulta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1507]]
+
+[[Question:MC]]
+Le candidature , infatti , rappresentano le tre frange più rappresentative , quella meranese che [punta] su Manfred König , quella pusterese che sostiene Walter Ausserhofer , marito della senatrice Helga Thaler , e quella bolzanina dove brilla la candidatura di Peter Gliera , appoggiato da tutta la Stella alpina cittadina .
+[[Question:MC:SingleAnswer]]
+Il verbo [ punta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q363]]
+
+[[Question:MC]]
+E sulla passerella come a scuola , nessuno sfugge alla tentazione di [essere] « trendy » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ essere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1255]]
+
+[[Question:MC]]
+Lo ribadisce , in un' intervista rilasciata al " Corriere della Sera " , il vicepremier e ministro per i Beni culturali Francesco Rutelli , per il quale " " [bisogna] seguire la linea Ciampi per allargare la maggioranza " " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ bisogna ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1756]]
+
+[[Question:MC]]
+L' escamotage di depositare la delibera in tempi separati permetterà di evitare l' impaccio del megaemendamento che - nelle intenzioni di parecchi consiglieri - sarebbe stato necessario presentare per [riconsiderare] tutte le domande rimaste escluse .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riconsiderare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q734]]
+
+[[Question:MC]]
+Ha consegnato la pistola e si è [fatto] arrestare .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fatto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

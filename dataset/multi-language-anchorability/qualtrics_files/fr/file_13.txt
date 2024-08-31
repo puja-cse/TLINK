@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q57]]
+
+[[Question:MC]]
+Les faits qui lui sont [reprochés] remontent au 27 mai 1998 et se sont déroulés dans les bois proches du fort Dorsner à Giromagny .
+[[Question:MC:SingleAnswer]]
+Le verbe [ reprochés ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q23]]
+
+[[Question:MC]]
+L'UUP continue d' [exiger] un désarmement de l'IRA avant la formation du gouvernement .
+[[Question:MC:SingleAnswer]]
+Le verbe [ exiger ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q87]]
+
+[[Question:MC]]
+« Il a eu un fantasme qu'il n ' a pas [su] maîtriser » , souligne - t - elle dans une plaidoirie qui constituait sa première intervention devant le tribunal correctionnel de Belfort .
+[[Question:MC:SingleAnswer]]
+Le verbe [ su ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q38]]
+
+[[Question:MC]]
+Dans le cadre du festival de théâtre de l'Association « Aux actes citoyens » de Tomblaine et en collaboration avec le Can ' art d'Art - sur - Meurthe , l'AFRL [propose] une soirée théâtre le jeudi 23 mai , à 20 h 30 , à la salle polyvalente du village .
+[[Question:MC:SingleAnswer]]
+Le verbe [ propose ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q130]]
+
+[[Question:MC]]
+Dans un point de vue [paru] dans « Le Monde » , le président socialiste de l'Assemblée nationale juge que la cohabitation comporte « trois inconvénients » : elle « ne facilite pas le traitement des problèmes de long terme » , « dilue la notion - même de responsabilité politique » et « fait le lit des abstentionnistes et des votes marginaux » .
+[[Question:MC:SingleAnswer]]
+Le verbe [ paru ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q250]]
+
+[[Question:MC]]
+Avertie par des voisines , Juliette Carpezat s ' est [précipitée] en chaussons dans la rue lorsqu ' elle a su que le Secours populaire brûlait : « Je suis passée à midi devant en rentrant de la pharmacie .
+[[Question:MC:SingleAnswer]]
+Le verbe [ précipitée ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q186]]
+
+[[Question:MC]]
+En fin de réunion , les différents délégués ont [décidé] de réunir leurs collègues dans les établissements pour s ' opposer à la mise en place des chartes Allègre - Royal , « qui organisent la destruction du service public d'enseignement » .
+[[Question:MC:SingleAnswer]]
+Le verbe [ décidé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q4]]
+
+[[Question:MC]]
+Hans - Joachim Klein , le complice présumé du terroriste Carlos dans la prise d'otages de l'OPEP en 1975 à Vienne , [devait] être d' extrader hier soir vers l'Allemagne , a annoncé le Parquet de Francfort .
+[[Question:MC:SingleAnswer]]
+Le verbe [ devait ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q101]]
+
+[[Question:MC]]
+Sarkozy était hier dans la capitale alsacienne où le matin même une opération contre un réseau de recel et trafic de Hi - Fi et vidéo a [permis] d' interpeller dix personnes , de saisir des armes et 15.000 € .
+[[Question:MC:SingleAnswer]]
+Le verbe [ permis ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q159]]
+
+[[Question:MC]]
+Après avoir connu une baisse globale de leur population entre 1982 et 1990 , la plupart de ces villes [renouent] désormais avec la croissance .
+[[Question:MC:SingleAnswer]]
+Le verbe [ renouent ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q108]]
+
+[[Question:MC]]
+Les pompiers ont [secouru] David Dietlin , blessé légèrement , à la hauteur du 37 , rue de la Libération , dans un accident entre une auto et un deux roues .
+[[Question:MC:SingleAnswer]]
+Le verbe [ secouru ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q56]]
+
+[[Question:MC]]
+Bernard , de Giromagny , [comparaissait] hier devant le tribunal correctionnel de Belfort pour deux affaires d'exhibition sexuelle .
+[[Question:MC:SingleAnswer]]
+Le verbe [ comparaissait ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q137]]
+
+[[Question:MC]]
+Pour l'UNAPEI , il [manque] 250 postes d'instituteurs spécialisés .
+[[Question:MC:SingleAnswer]]
+Le verbe [ manque ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q141]]
+
+[[Question:MC]]
+Cette déclaration a [provoqué] le départ du nouveau secrétaire national des Verts Gilles Lemaire .
+[[Question:MC:SingleAnswer]]
+Le verbe [ provoqué ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q269]]
+
+[[Question:MC]]
+Et pour cause : la fumée a recouvert le quartier , faisant sortir les curieux , et le sinistre a [interrompu] le concours de pétanque organisée par l'association des Portugais de Belfort .
+[[Question:MC:SingleAnswer]]
+Le verbe [ interrompu ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q52]]
+
+[[Question:MC]]
+Cependant , si 56 % des personnes interrogées font confiance au gouvernement Raffarin en matière de lutte contre l'insécurité , 71 % ne lui [font] pas confiance en matière d'augmentation du pouvoir d'achat et 64 % en matière de lutte contre le chômage .
+[[Question:MC:SingleAnswer]]
+Le verbe [ font ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q55]]
+
+[[Question:MC]]
+Les faits qui lui sont reprochés ont [eu] lieu le 27 mai 1998 , dans les bois à proximité du fort Dorsner .
+[[Question:MC:SingleAnswer]]
+Le verbe [ eu ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q268]]
+
+[[Question:MC]]
+Et pour cause : la fumée a recouvert le quartier , faisant [sortir] les curieux , et le sinistre a interrompu le concours de pétanque organisée par l'association des Portugais de Belfort .
+[[Question:MC:SingleAnswer]]
+Le verbe [ sortir ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q230]]
+
+[[Question:MC]]
+Il n ' y [avait] personne à l'intérieur à ce moment là .
+[[Question:MC:SingleAnswer]]
+Le verbe [ avait ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q182]]
+
+[[Question:MC]]
+Hier à 10 h , une dizaine de délégués de la FNEC FP Force Ouvrière ont appelé leurs collègues à [boycotter] la deuxième journée de pré - rentrée .
+[[Question:MC:SingleAnswer]]
+Le verbe [ boycotter ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+

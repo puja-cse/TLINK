@@ -1,0 +1,102 @@
+[[AdvancedFormat]]
+
+[[Block: Q235]]
+
+[[Question:MC]]
+El ayuntamiento ya [ dispone ] de datos sobre la Via Alexandra , donde según el concejal de Via Pública , Joan Carles Sánchez , hay 260 vecinos interesados en adquirir plazas .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [dispone] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q276]]
+
+[[Question:MC]]
+El catalán [ tendrá ] una tercera oportunidad , la próxima semana , en el torneo de Bogotá .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [tendrá] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q184]]
+
+[[Question:MC]]
+Rasgarse ahora las vestiduras por la firmeza negociadora de nuestro vecino del sur , dejando [ caer ] en la opinión pública una cifra de afectados claramente hinchada , al objeto de responsabilizar a Marruecos del daño social , constituye una muestra de la peor política posible : culpar a los otros por lo que debimos haber hecho y no tuvimos la voluntad , ni la inteligencia , ni el coraje , de acometer .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [caer] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q376]]
+
+[[Question:MC]]
+También [ resaltó ] como hechos clave para el futuro de la candidatura la experiencia organizativa de torneos deportivos y culturales ( Exposición Mundial de 1970 ) , la estabilidad política y la fuerza financiera .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [resaltó] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q334]]
+
+[[Question:MC]]
+" Aquellos que no cumplan esta normativa serán juzgados e incluso podrían sufrir un castigo penal " , según la regulación aprobada por el primer ministro Zhu Rongji , que [ entrará ] en vigor el primero de diciembre .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [entrará] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q369]]
+
+[[Question:MC]]
+Isomura apuntó que Pekín no tenía por qué [ ser ] la favorita , porque tanto Osaka como las demás tienen proyectos importantes y son grandes ciudades .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [ser] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q27]]
+
+[[Question:MC]]
+El descenso de los precios se [ debió ] a la debilidad del consumo interno , que aún se resiente de la crisis económica , y a la apreciación del yen .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [debió] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q236]]
+
+[[Question:MC]]
+El ayuntamiento ya dispone de datos sobre la Via Alexandra , donde según el concejal de Via Pública , Joan Carles Sánchez , [ hay ] 260 vecinos interesados en adquirir plazas .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [hay] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q387]]
+
+[[Question:MC]]
+Yushiro Yagi , presidente del Comité Olímpico Japonés ( JOC ) , aclaró que pese a que su país ya ha sido escenario de Juegos Olímpicos [ confía ] en que ese aprendizaje les sirva para albergar otros con garantías y añadió que " la candidatura de Osaka es muy sólida y dispone de todo lo necesario " .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [confía] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q58]]
+
+[[Question:MC]]
+La cerrazón del poder federal puede [ generar ] un incremento del descontento nacionalista en Quebec , pero difícilmente llegará a crear dentro de esta legislatura las condiciones ganadoras para que haya un referendo sobre la independencia con garantías de éxito .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [generar] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+

@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q481]]
+
+[[Question:MC]]
+Scariolo es la apuesta de la directiva que preside Lorenzo Sanz para reconstruir el proyecto del básquet blanco , que la próxima temporada [ recibirá ] una fuerte inyección económica , para competir con posibilidades tanto en la Liga ACB como en la Euroliga .
+" Ni lo confirmo , ni lo desmiento , como en la casa real ; es una posibilidad " , [ fue ] el críptico comentario de Lorenzo Sanz Durán , hijo del presidente blanco , que está a cargo de la sección de básquet .
+[[Question:MC:SingleAnswer]]
+El verbo [ recibirá ] pasa DESPUÉS del verbo [ fue ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q548]]
+
+[[Question:MC]]
+Djordjevic reconoció además que se siente un azulgrana más - - " aquí he puesto mis raíces , he comprado una casa , he vivido el club , los colores , y me [ siento ] un culé más " - - después de estas tres temporadas , pero [ añadió ] que ese sentimiento no tiene por qué influir en su decisión .
+[[Question:MC:SingleAnswer]]
+El verbo [ siento ] pasa ANTES que el verbo [ añadió ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q572]]
+
+[[Question:MC]]
+El internacional yugoslavo quiso despedirse [ agradeciendo ] el apoyo de todos , afición , técnicos , jugadores e incluso de los rivales .
+" Su respaldo en estos últimos meses ha sido muy importante para superar el problema que vive mi país " , [ admitió ] , para añadir que se marcha sin ningún rencor contra el técnico por su decisión .
+[[Question:MC:SingleAnswer]]
+El verbo [ agradeciendo ] pasa ANTES que el verbo [ admitió ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q27]]
+
+[[Question:MC]]
+" La ayuda que nos han enviado la comunidad internacional y los países involucrados en la guerra de Al Alamin , en el Desierto Occidental , ( Gran Bretaña , Alemania e Italia ) [ es ] muy limitada " , dijo Musa .
+Especialistas de las Fuerzas Armadas egipcias afirman que hasta finales de 1999 han [ eliminado ] más de dos millones de minas .
+[[Question:MC:SingleAnswer]]
+El verbo [ es ] pasa DESPUÉS del verbo [ eliminado ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q589]]
+
+[[Question:MC]]
+" [ Creo ] que se equivocan , pero es una opinión personal " , señaló Djordjevic , desmintiendo que haya tenido ningún problema con García Reneses , con quien se [ reunió ] ayer durante media hora .
+[[Question:MC:SingleAnswer]]
+El verbo [ Creo ] pasa ANTES que el verbo [ reunió ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q4]]
+
+[[Question:MC]]
+Egipto necesita más de 250 millones de dólares para eliminar los campos de minas de distintos tipos que se [ encuentran ] en diferentes zonas de este país , [ dijo ] el ministro egipcio de Asuntos Exteriores , Amro Musa .
+[[Question:MC:SingleAnswer]]
+La relación entre [ encuentran ] y [ dijo ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q368]]
+
+[[Question:MC]]
+Rasgarse ahora las vestiduras por la firmeza negociadora de nuestro vecino del sur , dejando caer en la opinión pública una cifra de afectados claramente hinchada , al objeto de responsabilizar a Marruecos del daño social , constituye una muestra de la peor política posible : culpar a los otros por lo que [ debimos ] haber hecho y no tuvimos la voluntad , ni la inteligencia , ni el coraje , de acometer .
+La lógica de los pescadores [ es ] irrefutable .
+[[Question:MC:SingleAnswer]]
+El verbo [ debimos ] pasa ANTES que el verbo [ es ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q229]]
+
+[[Question:MC]]
+Josep Mil , secretario de la Oficina de Dinamización del Centro , recordó ayer que [ ejecutar ] el paralizado plan de aparcamientos " [ es ] básico por una cuestión de calidad ambiental y de movilidad " .
+[[Question:MC:SingleAnswer]]
+La relación entre [ ejecutar ] y [ es ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q252]]
+
+[[Question:MC]]
+Takafumi Isomura , alcalde de Osaka y presidente del Comité de la Candidatura ( OBC ) , [ explicó ] hoy en Sydney que Pekín puede tener la ventaja de que China nunca ha acogido unos Juegos pero que no deben compararse culturalmente ambos países porque cada uno se ha [ desarrollado ] por su lado .
+[[Question:MC:SingleAnswer]]
+El verbo [ explicó ] pasa ANTES que el verbo [ desarrollado ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q744]]
+
+[[Question:MC]]
+" Creo que hemos hecho una oferta competitiva , que está dentro del nivel del mercado " , [ aseguró ] ayer el gerente del club , Antonio Maceiras , sobre la negociación con Esteller , el capitán del equipo .
+" Me gustaría quedarme , pero la oferta que me han hecho , no es suficientemente competitiva " , [ indicó ] , por su parte , el jugador .
+[[Question:MC:SingleAnswer]]
+El verbo [ aseguró ] pasa ANTES que el verbo [ indicó ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+

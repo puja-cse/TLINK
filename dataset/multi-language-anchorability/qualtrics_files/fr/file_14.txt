@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q147]]
+
+[[Question:MC]]
+A l'aube de l'an 2000 , la France a dépassé le cap symbolique des 60 millions d'habitants : sa population s ' [établissait] le 8 mars dernier à 60.082.000 habitants , soit 2.008.000 de plus par rapport au recensement de 1990 .
+[[Question:MC:SingleAnswer]]
+Le verbe [ établissait ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q139]]
+
+[[Question:MC]]
+Le président du Conseil représentatif des institutions juives de France Roger Cukierman a créé la polémique lors du traditionnel dîner annuel du CRIF en [assimilant] antisionisme et antisémitisme et en dénonçant une « alliance brun - vert - rouge » .
+[[Question:MC:SingleAnswer]]
+Le verbe [ assimilant ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q100]]
+
+[[Question:MC]]
+Le premier des 28 Groupements d'Intervention Régionaux composé de policiers , gendarmes , douaniers et agents du fisc pour lutter contre les réseaux de délinquance , sera [installé] à Strasbourg demain .
+[[Question:MC:SingleAnswer]]
+Le verbe [ installé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q174]]
+
+[[Question:MC]]
+Bill Clinton a [annoncé] qu'il mettra son veto à une réduction d'impôts de 792 milliards de dollars sur dix ans adoptée par le Congrès à majorité républicaine .
+[[Question:MC:SingleAnswer]]
+Le verbe [ annoncé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q267]]
+
+[[Question:MC]]
+Et pour cause : la fumée a recouvert le quartier , [faisant] sortir les curieux , et le sinistre a interrompu le concours de pétanque organisée par l'association des Portugais de Belfort .
+[[Question:MC:SingleAnswer]]
+Le verbe [ faisant ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q259]]
+
+[[Question:MC]]
+Seul baume à son cœur , une partie des vêtements ne paraissait pas trop touchée : « Il va falloir les [mettre] en lieu sûr .
+[[Question:MC:SingleAnswer]]
+Le verbe [ mettre ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q85]]
+
+[[Question:MC]]
+L'avocate de Bernard , Alexandra Michel , a souligné que son client avait conscience du trouble qu'il avait [causé] aux adolescentes .
+[[Question:MC:SingleAnswer]]
+Le verbe [ causé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q227]]
+
+[[Question:MC]]
+L' intervention a été [dirigée] sur place , depuis le poste de commandement mobile .
+[[Question:MC:SingleAnswer]]
+Le verbe [ dirigée ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q265]]
+
+[[Question:MC]]
+L' intervention des sapeurs - pompiers s ' est [déroulée] sous les yeux d'un public nombreux .
+[[Question:MC:SingleAnswer]]
+Le verbe [ déroulée ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q13]]
+
+[[Question:MC]]
+Un ancien de la Gestapo , Alfons Goetzfrid , a été [condamné] hier à 10 ans de prison pour complicité dans le meurtre de 17.000 juifs au camp d'extermination de Majdanek en Pologne où 400.000 personnes ont péri pendant la seconde guerre mondiale .
+[[Question:MC:SingleAnswer]]
+Le verbe [ condamné ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q198]]
+
+[[Question:MC]]
+Un chauffeur de bus de 38 ans a été [pris] à partie et agressé par deux individus , hier vers 18 h , place de la Mairie à Valdoie .
+[[Question:MC:SingleAnswer]]
+Le verbe [ pris ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q36]]
+
+[[Question:MC]]
+Une ultime tentative de replâtrage de la coalition sortante [formée] par les Travailliste ( PvdA ) , les Libéraux du VVD ( droite ) et les Réformistes du D66 ( centre - gauche ) - démissionnaires - , serait vouée à l' échec .
+[[Question:MC:SingleAnswer]]
+Le verbe [ formée ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q197]]
+
+[[Question:MC]]
+Ils [font] maintenant figure de favoris pour une place en finale de conférence Est. .
+[[Question:MC:SingleAnswer]]
+Le verbe [ font ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q195]]
+
+[[Question:MC]]
+De leur côté , les New York Knicks , tombeurs au premier tour de Miami , numéro un à l'est , sont [allés] s ' imposer 100 à 92 à Atlanta , grâce à 34 points d'Allen Houston et 31 de Latrell Sprewell .
+[[Question:MC:SingleAnswer]]
+Le verbe [ allés ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q212]]
+
+[[Question:MC]]
+Il a [fallu] rapidement se rendre à l'évidence : il ne s ' agissait pas d'un feu de cheminée .
+[[Question:MC:SingleAnswer]]
+Le verbe [ fallu ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q121]]
+
+[[Question:MC]]
+- Le conseil d'administration de l'Agence universitaire de la francophonie ( AUF ) a décidé de [porter] plainte pour diffamation à la suite de la publication d'un rapport d'évaluation sur l'organisation .
+[[Question:MC:SingleAnswer]]
+Le verbe [ porter ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q247]]
+
+[[Question:MC]]
+Nous ne [mettions] plus rien à l'étage car les planchers sont trop vieux » , détaille - t - il .
+[[Question:MC:SingleAnswer]]
+Le verbe [ mettions ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q237]]
+
+[[Question:MC]]
+Le bâtiment , qui appartient à la Ville de Belfort , venait de faire l'objet de travaux de rénovation confirme André Kaufmann , adjoint au maire , sur place hier : « La toiture a été complétement [refaite] à la fin de l'année dernière , ainsi que la façade extérieure et les systèmes de sécurité » , souligne - t - il , estimant le coût de ces travaux à environ 100.000 € .
+[[Question:MC:SingleAnswer]]
+Le verbe [ refaite ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q72]]
+
+[[Question:MC]]
+Cette thèse est d'ailleurs confirmée par trois autres autres adolescentes , Jessica , Jennifer et Nadia , qui l'ont [rencontré] environ une heure plus tard .
+[[Question:MC:SingleAnswer]]
+Le verbe [ rencontré ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q138]]
+
+[[Question:MC]]
+Le président du Conseil représentatif des institutions juives de France Roger Cukierman a [créé] la polémique lors du traditionnel dîner annuel du CRIF en assimilant antisionisme et antisémitisme et en dénonçant une « alliance brun - vert - rouge » .
+[[Question:MC:SingleAnswer]]
+Le verbe [ créé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+

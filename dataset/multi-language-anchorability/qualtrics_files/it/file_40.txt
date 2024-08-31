@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q478]]
+
+[[Question:MC]]
+Martino rifiuta l' idea che sia in atto uno scontro di civiltà : « [E'] in atto uno scontro all' interno di ogni civiltà , fra chi è sul versante del diritto , del dialogo , della convivenza e della giustizia e chi è integralista , dovunque esso sia , perchè di integralismo non c' è solo quello islamico » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ E' ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q756]]
+
+[[Question:MC]]
+nan [Pare] certo comunque che i colpi esplosi dalla pistola siano stati quattro , in rapida successione e tutti a segno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Pare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q788]]
+
+[[Question:MC]]
+Gli agenti delle volanti lo hanno bloccato mentre cercava di scappare dopo essersi sbarazzato dell' attrezzo : è stato raggiunto e [arrestato] per tentato furto aggravato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ arrestato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1741]]
+
+[[Question:MC]]
+La settimana successiva , dal 5 al 7 ottobre ( ma realisticamente si sforerà all' 8 e forse alle sedute seguenti ) [toccherà] alla fase di discussione e approvazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ toccherà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2110]]
+
+[[Question:MC]]
+nan [E'] un codice d' onore dove la debolezza non è ammessa e ogni torto va vendicato » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ E' ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q915]]
+
+[[Question:MC]]
+Ancora una volta [è] l' impianto politico - legislativo che fa sì che il Direttore Generale si circondi di collaboratori di fiducia ed è quindi conseguente che la scelta avvenga secondo determinati criteri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q174]]
+
+[[Question:MC]]
+Ma a ben guardare anche in questi casi non si può parlare di esiti clamorosi : che la formazione di Zimelli potesse sbancare Natz era infatti nei numeri visto che già l' anno passato si impose su quel campo con un roboante 5 - 3 e che il suo potenziale offensivo , già strepitoso ( [basti] ricordare i 115 gol dell' ultimo biennio ) , è ancor più lievitato adesso con l' ingaggio dell' interessantissimo rumeno Ionut Alecu , non a caso subito a segno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ basti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q523]]
+
+[[Question:MC]]
+Il secondo livello , scrive Veneziani , è « costituto da un clan di giornalisti che scrivono divisi ma colpiscono uniti , elogiando le pellicole politicamente corrette , colmano di elogi chiunque [sia] in odore di disprezzare Bush , Berlusconi , Croff e le bandane e viceversa pisciano lacrime di commozione per tutti gli amarcord del sessantotto , anni settanta , Radio Alice » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sia ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1628]]
+
+[[Question:MC]]
+Il portafoglio lavori si attesta sui 628 miliardi e , secondo una nota diffusa dalla società , " [rappresenta] una potenzialità produttiva che consente a Edilter di affrontare serenamente il futuro , a condizione che vengano riattivati i flussi finanziari sulle opere pubbliche , oggi quasi dappertutto rallentati e in qualche caso bloccati " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rappresenta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1312]]
+
+[[Question:MC]]
+La tradizionale , straordinaria sensibilità dei trentini ha avuto modo di esprimersi già nelle prime ore dopo la tragedia , con l' avvio di iniziative capaci di [esprimere] lo sgomento e l' orrore per i fatti di Beslan : ma ora a mio avviso è giunto il momento di organizzare e dare sistematicità ai diffusi sentimenti dei trentini che vogliono dare una testimonianza tangibile della loro vicinanza a quella sventurata popolazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ esprimere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q127]]
+
+[[Question:MC]]
+La convinzione di Tucci espressa agli analisti finanziari critici per l' elevato investimento proferito per portarsi a casa Rsa ha quindi toccato la sfera delle enormi potenzialità di questo mercato : " abbiamo acquisito una società che può vantare risorse tecnologiche strategiche per [servire] un mercato molto importante .
+[[Question:MC:SingleAnswer]]
+Il verbo [ servire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1832]]
+
+[[Question:MC]]
+I bancari , infatti , chiedono che si [tenga] conto dell' inflazione reale , mentre l' Abi pretende che si faccia riferimento all' inflazione programmata dal governo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tenga ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1447]]
+
+[[Question:MC]]
+Si [possono] comunque consolare i biancocelesti guardando la statistica : negli ultimi due anni a vincere il campionato è stata proprio la squadra che all' esordio aveva affrontato il Salorno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ possono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2097]]
+
+[[Question:MC]]
+« Ceceni non è il vero nome di quel popolo , glielo hanno [appiccicato] i Russi : loro si chiamano " nokhci , uomini .
+[[Question:MC:SingleAnswer]]
+Il verbo [ appiccicato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q467]]
+
+[[Question:MC]]
+I membri del Consiglio di sicurezza potrebbero [riunirsi] ad esempio per vedere insieme come affrontare il nuovo terrorismo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riunirsi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q718]]
+
+[[Question:MC]]
+Ora , per Dorigatti si apre la strada della permanenza , fino al prossimo congresso della Cgil , tra due anni , all' interno dell' organizzazione , per la quale ha [preso] in mano , recentemente , i compiti relativi alla celebrazione del centenario della Confederazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ preso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1576]]
+
+[[Question:MC]]
+I bambini russi reclutati nell' Accademia , nella piccola isola di fronte San Pietroburgo , sono tutti piccoli abbandonati , orfani , figli di alcolizzati , che hanno subito violenze , bambini che Putin vuole [trasformare] in piccoli soldati ripristinando la vecchia caserma zarista .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trasformare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1369]]
+
+[[Question:MC]]
+L' ultima modifica sostanziale delle tariffe [risaliva] all' anno 2000 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ risaliva ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q812]]
+
+[[Question:MC]]
+nan [Dirige] inoltre la collana " Scienze e idee " edita da Cortina .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Dirige ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q891]]
+
+[[Question:MC]]
+Il Politico [deve] ascoltare tutti ma è poi fatale che debba assumere decisioni , che non possono accontentare tutti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deve ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

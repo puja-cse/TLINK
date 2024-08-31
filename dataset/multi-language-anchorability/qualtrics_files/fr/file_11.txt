@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q210]]
+
+[[Question:MC]]
+La cérémonie a [eu] lieu à Rotorua , en Nouvelle - Zélande , le 28 août .
+[[Question:MC:SingleAnswer]]
+Le verbe [ eu ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q199]]
+
+[[Question:MC]]
+Un chauffeur de bus de 38 ans a été pris à partie et [agressé] par deux individus , hier vers 18 h , place de la Mairie à Valdoie .
+[[Question:MC:SingleAnswer]]
+Le verbe [ agressé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q74]]
+
+[[Question:MC]]
+« Il était derrière un arbre » , dit - elle dans sa déposition [lue] par le juge unique .
+[[Question:MC:SingleAnswer]]
+Le verbe [ lue ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q169]]
+
+[[Question:MC]]
+A l'inverse , les communes trop excentrées voient leur population stagner , voire [diminuer] .
+[[Question:MC:SingleAnswer]]
+Le verbe [ diminuer ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q165]]
+
+[[Question:MC]]
+L'environnement immédiat des grands centres urbains bénéficie logiquement de cet attrait des Français pour les villes : la population des petites unités urbaines de moins de 10.000 habitants [progresse] plus vite que la moyenne nationale et , à l'intérieur du monde rural , ce sont les communes les plus proches des pôles urbains importants qui absorbent l'essentiel de la croissance .
+[[Question:MC:SingleAnswer]]
+Le verbe [ progresse ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q192]]
+
+[[Question:MC]]
+Les Jazz , après avoir [frôlé] l' élimination au premier tour , se sont imposés 93 à 83 avec 25 points et 12 rebonds de Karl Malone , avant de recevoir les Portland Trail Blazers une seconde fois , ce soir , dans la série au meilleur des sept matches .
+[[Question:MC:SingleAnswer]]
+Le verbe [ frôlé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q92]]
+
+[[Question:MC]]
+Considérant que les faits étaient [constitués] , le tribunal a condamné Bernard à 5.000 F d'amende .
+[[Question:MC:SingleAnswer]]
+Le verbe [ constitués ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q78]]
+
+[[Question:MC]]
+Nous l'avons découvert à terre , le short [baissé] » .
+[[Question:MC:SingleAnswer]]
+Le verbe [ baissé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q25]]
+
+[[Question:MC]]
+M. Blair a donné jusqu'au 30 juin aux responsables catholiques et protestants pour [débloquer] ce dossier .
+[[Question:MC:SingleAnswer]]
+Le verbe [ débloquer ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q170]]
+
+[[Question:MC]]
+Seules les banlieues ne [profitent] pas de l'attrait des villes : leur croissance , de 0,41 % par an en moyenne entre 1990 et 1999 , s ' est ralentie par rapport au recensement précédent .
+[[Question:MC:SingleAnswer]]
+Le verbe [ profitent ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q105]]
+
+[[Question:MC]]
+Le nouveau ministre de l'intérieur se rend aujourd ' hui au centre de Sangatte où [transitent] des milliers d'immigrés sans papier .
+[[Question:MC:SingleAnswer]]
+Le verbe [ transitent ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q149]]
+
+[[Question:MC]]
+Entre 1990 et 1999 , la croissance démographique moyenne est de 0,38 % par an , soit un léger ralentissement par rapport à la période 1982 - 1990 , note l'Institut national de la statistique et des études économiques , qui s ' [attendait] à une hausse un peu plus importante .
+[[Question:MC:SingleAnswer]]
+Le verbe [ attendait ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q164]]
+
+[[Question:MC]]
+L'environnement immédiat des grands centres urbains [bénéficie] logiquement de cet attrait des Français pour les villes : la population des petites unités urbaines de moins de 10.000 habitants progresse plus vite que la moyenne nationale et , à l'intérieur du monde rural , ce sont les communes les plus proches des pôles urbains importants qui absorbent l'essentiel de la croissance .
+[[Question:MC:SingleAnswer]]
+Le verbe [ bénéficie ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q21]]
+
+[[Question:MC]]
+Les Unionistes protestants ont même [décliné] sa dernière invitation .
+[[Question:MC:SingleAnswer]]
+Le verbe [ décliné ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q3]]
+
+[[Question:MC]]
+Vaclav Havel , le président tchèque qui souffre depuis mardi d'une affection virale des voies respiratoires , a dû être [hospitalisé] hier soir , après une « détérioration de l'état de santé » , selon le porte - parole .
+[[Question:MC:SingleAnswer]]
+Le verbe [ hospitalisé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q263]]
+
+[[Question:MC]]
+Si on laisse cela en l'état , ils vont être pillés » , soupirait - elle alors que les pompiers [engageaient] les premières opérations de ventilation , d'étayage et de déblais .
+[[Question:MC:SingleAnswer]]
+Le verbe [ engageaient ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q152]]
+
+[[Question:MC]]
+Alors que la métropole compte 58.416.500 habitants et les quatre départements d'outre - mer 1.665.500 , les premiers résultats du recensement de mars - avril , qui devraient être [affinés] d' ici la fin de l'année , confirment les tendances observées depuis vingt ans : l' urbanisation , loin de ralentir , connaît une nouvelle accélération .
+[[Question:MC:SingleAnswer]]
+Le verbe [ affinés ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q172]]
+
+[[Question:MC]]
+La bibliothèque sera [fermée] en juillet et rouvrira ses portes en août , uniquement le mercredi .
+[[Question:MC:SingleAnswer]]
+Le verbe [ fermée ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q150]]
+
+[[Question:MC]]
+Alors que la métropole [compte] 58.416.500 habitants et les quatre départements d'outre - mer 1.665.500 , les premiers résultats du recensement de mars - avril , qui devraient être affinés d' ici la fin de l'année , confirment les tendances observées depuis vingt ans : l' urbanisation , loin de ralentir , connaît une nouvelle accélération .
+[[Question:MC:SingleAnswer]]
+Le verbe [ compte ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q280]]
+
+[[Question:MC]]
+Hier soir , les services techniques de la Ville engageaient des travaux pour fermer le local tandis que les pompiers s ' organisaient pour effectuer des rondes pendant la nuit afin de [déceler] toute reprise de feu .
+[[Question:MC:SingleAnswer]]
+Le verbe [ déceler ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+

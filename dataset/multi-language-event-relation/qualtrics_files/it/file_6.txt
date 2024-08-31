@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q2939]]
+
+[[Question:MC]]
+Sentence: « La tragedia osseta si [ colloca ] nello scenario del Caucaso , che vede [ convivere ] ceceni , ingusci , osseti , georgiani , daghestani , azeri , armeni e altre popolazioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ colloca ] accade DOPO il verbo [ convivere ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2183]]
+
+[[Question:MC]]
+Sentence 1: In entrambi i casi aveva [ chiesto ] maggiore collaborazione anche con le piccole imprese .
+Sentence 2: Sollecitazioni che avevano , in parte , [ trovato ] sponde importanti nella giunta provinciale e che erano poi culminate in un incontro ufficiale di una delegazione di via Brennero alla sede dell' Itc .
+[[Question:MC:SingleAnswer]]
+Il verbo [ chiesto ] accade DOPO il verbo [ trovato ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1590]]
+
+[[Question:MC]]
+Sentence: Il secondo livello , [ scrive ] Veneziani , è « costituto da un clan di giornalisti che scrivono divisi ma [ colpiscono ] uniti , elogiando le pellicole politicamente corrette , colmano di elogi chiunque sia in odore di disprezzare Bush , Berlusconi , Croff e le bandane e viceversa pisciano lacrime di commozione per tutti gli amarcord del sessantotto , anni settanta , Radio Alice » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scrive ] accade PRIMA del verbo [ colpiscono ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1703]]
+
+[[Question:MC]]
+Sentence 1: Le azioni Schemaventuno necessarie saranno fornite pro quota dagli attuali azionisti , così da mantenere , ha spiegato un portavoce , gli attuali equilibri che [ vedono ] Edizione e Del Vecchio in posizione paritetica ( 47,50% ) con Movenpick in minoranza ( 5,00% ) .
+Sentence 2: Ai fini della fusione , che sarà sottoposta il 27 settembre alle assemblee degli azionisti , la Sme , che controlla il 100,00% della società di grande distribuzione Gs , è stata [ valutata ] 1500 miliardi , mentre la Schemaventuno , che ha come unica attività la partecipazione nella stessa Sme , è stata stimata 692 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vedono ] accade DOPO il verbo [ valutata ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q931]]
+
+[[Question:MC]]
+Sentence: Costruire il futuro del paese è strategico e lo confermano anche due degli interventi generosamente [ sostenuti ] dall' amministrazione provinciale : il centro di istruzione per l' occupazione El Buen Pastor e l' istituto di educazione tecnologica di Manchay che , come l' Università Sedes Sapientiae , sono progetti [ gestiti ] direttamente dalla Provincia con contributi complessivi , spalmati nel triennio 2003 - 2005 , di 530mila euro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sostenuti ] accade DOPO il verbo [ gestiti ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2480]]
+
+[[Question:MC]]
+Sentence: Bisogna " recuperare il crollo del gettito che c' è stato in questi anni ma non ci sarà nessun aumento delle tasse " - Lo ha [ detto ] Visco - All' incontro a Palazzo Chigi con le parti sociali , il viceministro per l' Economia ha [ aggiunto ] che il governo " metterà mano al sistema dei rimborsi Iva " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ detto ] accade DOPO il verbo [ aggiunto ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1039]]
+
+[[Question:MC]]
+Sentence 1: Lunedì sera ( durante il sesto incontro previsto da un programma versatile che ha visto , tra gli altri , Amelia Rudolph , Franco Rella , Shen Wei e Bud Blumenthal ) Giulio Giorello ha [ presentato ] " Le metamorfosi di Ulisse " , un viaggio dentro il mito e le sue trasformazioni .
+Sentence 2: Lo stesso percorso che il coreografo americano Bud Blumenthal ha [ sviluppato ] in due suggestivi spettacoli , entrambi in programma al festival roveretano e dei quali aveva parlato soltanto la sera prima nella stessa sede .
+[[Question:MC:SingleAnswer]]
+Il verbo [ presentato ] accade DOPO il verbo [ sviluppato ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q682]]
+
+[[Question:MC]]
+Sentence: TRENTO - Un progetto organico di aiuti alle famiglie [ colpite ] dalla tragedia di Beslan che metta assieme e coordini tutte le iniziative di solidarietà già avviate e quelle programmate , puntando in via prioritaria ad assicurare ai bambini e alle bambine che hanno [ vissuto ] quella spaventosa esperienza tutti i supporti , materiali e non , necessari per aiutarli a superare il terribile shock subito in quei drammatici giorni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ colpite ] accade PRIMA del verbo [ vissuto ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2543]]
+
+[[Question:MC]]
+Sentence 1: L' information security , stando a recenti indagini di alcuni analisti americani , è la priorità numero uno per i Cio e il 75,00% delle aziende Usa [ soffre ] ogni anno di perdite consistenti di dati : questo il terreno d' azione in cui Emc vuole mettere a frutto l' acquisizione di Rsa .
+Sentence 2: Dopo le scalate a Documentum ( content management ) e VMware ( software per la virtualizzazione ) , la casa americana sembra in effetti aver [ calato ] un altro asso importante per continuare a giocare un ruolo di primo piano sullo scacchiere internazionale nel campo delle soluzioni destinate alle architetture informative delle grandi aziende .
+[[Question:MC:SingleAnswer]]
+Il verbo [ soffre ] accade DOPO il verbo [ calato ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2370]]
+
+[[Question:MC]]
+Sentence 1: I genitori di Stacy e Nathalie , le due bambine trovate uccise ieri , hanno [ deciso ] di celebrare funerali separati .
+Sentence 2: Didier Mahy , padre di Nathalie , ha preferito un funerale nella più stretta intimità da tenersi probabilmente sabato mattina , secondo quanto riferito dall' avvocato della madre che ora [ vive ] con il padre di Stacy .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deciso ] accade PRIMA del verbo [ vive ].
+[[Choices]]
+Sì
+NO
+NON SO
+

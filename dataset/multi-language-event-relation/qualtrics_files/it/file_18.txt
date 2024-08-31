@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q3184]]
+
+[[Question:MC]]
+Sentence 1: Si tratta di un gruppuscolo che si è installato nel disordine [ creato ] dal pompiere piromane Putin » .
+Sentence 2: Glucksmann disegna degli scenari apocalittici : « Quando si è capaci di sparare sui bambini si [ è ] capaci di mandare un aereo contro una centrale nucleare e in questo caso la nube non si fermerà alle frontiere della Russia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ creato ] accade DOPO il verbo [ è ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q672]]
+
+[[Question:MC]]
+Sentence 1: E' vero che una rondine non fa primavera , ma il punto [ ottenuto ] con pieno merito sul campo dell' Alense dimostra che la determinazione e l' impegno sono tornati a livelli rassicuranti .
+Sentence 2: FERRARI - il bomberino rossonero [ mancava ] da sei mesi per un brutto infortunio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ottenuto ] accade PRIMA del verbo [ mancava ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q819]]
+
+[[Question:MC]]
+Sentence 1: Era in cura , le venivano [ somministrati ] anche dei farmaci , ma apparentemente senza risultati .
+Sentence 2: L' anziana madre , che vive a Spoleto , nei giorni scorsi era [ venuta ] a casa sua , a Piedicolle , per assistere ed aiutare quella figlia che le dava tante preoccupazioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ somministrati ] accade PRIMA del verbo [ venuta ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3275]]
+
+[[Question:MC]]
+Sentence: Ieri i concorrenti [ rimasti ] in gara hanno [ presentato ] le loro offerte vincolanti in busta chiusa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rimasti ] accade PRIMA del verbo [ presentato ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1266]]
+
+[[Question:MC]]
+Sentence: TRENTO - Un set di grande equilibrio , più nulla da fare nel secondo : Davide Volpe ( nella foto ) ha [ messo ] addosso un po' di brividi a Markus Innerebner , ma è stato poi l' altoatesino a [ qualificarsi ] per gli ottavi dell' open del Ct Trento , imitato in ciò da Patrick Prader e David Complojer .
+[[Question:MC:SingleAnswer]]
+Il verbo [ messo ] accade PRIMA del verbo [ qualificarsi ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q810]]
+
+[[Question:MC]]
+Sentence 1: R.S. lavorava in banca , ma aveva dovuto [ lasciare ] questo impiego per le sempre più gravi crisi depressive delle quali soffriva .
+Sentence 2: [ Era ] in cura , le venivano somministrati anche dei farmaci , ma apparentemente senza risultati .
+[[Question:MC:SingleAnswer]]
+Il verbo [ lasciare ] accade PRIMA del verbo [ Era ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2442]]
+
+[[Question:MC]]
+Sentence 1: Il costo dell' acquisizione dovrebbe superare gli 11 miliardi , cifra che [ corrisponde ] all' ammontare del patrimonio netto della Hyundai Automobili Italia al 31 dicembre 1992 .
+Sentence 2: La Hyundai Automobili Italia , che ha sede a Torino , ha chiuso il 92 con un fatturato consolidato di 175,4 miliardi e ha [ venduto ] 11501 vetture attraverso 138 concessionari .
+[[Question:MC:SingleAnswer]]
+Il verbo [ corrisponde ] accade PRIMA del verbo [ venduto ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2221]]
+
+[[Question:MC]]
+Sentence: Sono stabili ma sempre gravi le condizioni di Susanna Franzoni , la 19enne di Varese [ ricoverata ] al neurochirurgico di Bolzano per i traumi [ riportati ] nell' incidente avvenuto domenica all' alba a Pinzolo , quado un' auto è carambolata contro un muro nel centro del paese .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricoverata ] accade PRIMA del verbo [ riportati ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q670]]
+
+[[Question:MC]]
+Sentence: E' vero che una rondine non fa primavera , ma il punto [ ottenuto ] con pieno merito sul campo dell' Alense [ dimostra ] che la determinazione e l' impegno sono tornati a livelli rassicuranti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ottenuto ] accade SIMULTANEAMENTE con il verbo [ dimostra ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q554]]
+
+[[Question:MC]]
+Sentence: Formula : 18 buche stbl : si è [ svolto ] sabato 4 settembre il recupero della gara " European Green Pass Tour 2004 " , il cui circuito [ prevede ] ora per i vincitori una finale nazionale ed eventualmente una finalissima internazionale : Renato Tessadri , Giancarlo Agostini , Guido Valcanover e Alessandro Lubian saranno ospiti presso il Brianza Golf Club , mentre Bruno Bensa e Paolo Decaminada giocheranno al Modena Golf Club .
+[[Question:MC:SingleAnswer]]
+Il verbo [ svolto ] accade PRIMA del verbo [ prevede ].
+[[Choices]]
+Sì
+NO
+NON SO
+

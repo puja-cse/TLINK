@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q2001]]
+
+[[Question:MC]]
+Il ruolo ricoperto da Cefis in Premafin sarebbe formalmente , ma almeno per il momento non ufficialmente , assunto da Carlo Ciani che [diverrebbe] una sorta di manager unico sia di Premafin che di Nuova finanziaria moderna .
+[[Question:MC:SingleAnswer]]
+Il verbo [ diverrebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q404]]
+
+[[Question:MC]]
+La tendenza di quest' anno [favorisce] quelle case d' abbigliamento che hanno deciso di buttarsi sugli articoli scolastici .
+[[Question:MC:SingleAnswer]]
+Il verbo [ favorisce ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q424]]
+
+[[Question:MC]]
+Da quest' anno sembrano aver preso piede i trolly , molto indicati a chi deve fare molta strada a piedi e non vuole [rimanere] schiacciato sotto il peso dei libri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rimanere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1963]]
+
+[[Question:MC]]
+Chi lo [vince] questo campionato ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ vince ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q581]]
+
+[[Question:MC]]
+La malattia in Italia [interessa] un numero di pazienti che oscilla fra 5 e 8 mila individui .
+[[Question:MC:SingleAnswer]]
+Il verbo [ interessa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q383]]
+
+[[Question:MC]]
+Molto pratico il padre : « Magari ci [vediamo] fra tre anni » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vediamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2159]]
+
+[[Question:MC]]
+Il resto [è] cronaca dei giorni nostri , un' escalation di violenza » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q114]]
+
+[[Question:MC]]
+Il valore complessivo dell' operazione , che sarà completata entro la fine del 2006 , è di 2,1 miliardi di dollari , in virtù dei 28 dollari in contanti che la prima verserà per ogni azione della seconda - Joe Tucci , Ceo di Emc , ha commentato l' operazione nella conference call di rito sottolineando un concetto su tutti : " Emc si [trasforma] da società che opera dove le informazioni vivono a società in cui le informazioni vivranno in modo sicuro " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trasforma ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q507]]
+
+[[Question:MC]]
+Alla Mostra « ho visto all' opera l' associazione clandestina e internazionale Cosa Nostra » , [scrive] il consigliere Rai Marcello Veneziani su un quotidiano nazionale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scrive ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q286]]
+
+[[Question:MC]]
+Ex insegnante di golf , specialità alla quale si è avvicinato da caddy , Singh aveva vinto il mese scorso , per la seconda volta in carriera dopo il 1998 , il campionato Pga , ultimo torneo del Grande Slam di Golf , [diventando] il più anziano vincitore della prova e conquistando , al posto del sudafricano Ernie Els , il secondo posto nella classifica mondiale dietro Woods .
+[[Question:MC:SingleAnswer]]
+Il verbo [ diventando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1322]]
+
+[[Question:MC]]
+Perchè , quindi - si chiede il presidente del Consiglio provinciale - non dare vita ad un progetto organico di aiuti - « Il Trentino per Beslan » - che metta assieme e coordini tutte le iniziative di solidarietà già avviate e quelle [programmate] , puntando in via prioritaria ad assicurare ai bambini e alle bambine che hanno vissuto quella spaventosa esperienza tutti i supporti , materiali e non , necessari per aiutarli a superare il terribile shock subito in quei drammatici giorni ? » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ programmate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1398]]
+
+[[Question:MC]]
+Ci [sono] molti caucasici sparpagliati per la grande Russia e in grado di dirottare un aereo » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q991]]
+
+[[Question:MC]]
+Per questo il silenzio di questa fiaccolata [dovrà] essere assordante , perché cresca la cultura del dialogo e della pace .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovrà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q263]]
+
+[[Question:MC]]
+nan [E'] il caso di Antino ( Merano ) che al Ger ha parato anche le mosche , di Postal ( Albiano ) che ha detto no a ripetizione agli avanti del Rovereto , e di Fontana ( Vallagarina ) che con una straordinaria prodezza ha messo in cassaforte la vittoria biancorossa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ E' ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q250]]
+
+[[Question:MC]]
+Hamas [accusa] Israele di aver pianificato l' arresto dei vertici di Hamas " " sin dal risultato delle elezioni palestinesi " " dello scorso gennaio - Il rapimento del colono in Cisgiordania " " e' stato usato solo come pretesto " " per l' arresto di deputati e ministri palestinesi , ha denunciato il portavoce del governo , Ahmed Bahar .
+[[Question:MC:SingleAnswer]]
+Il verbo [ accusa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q594]]
+
+[[Question:MC]]
+C' era la possibilità di utilizzare solo l' unità ricca di staminali , ma è stato deciso di trapiantarle entrambe , sia l' unità più ricca di cellule « non manipolate » , sia l' altra più povera , ma dopo averla [congelata] e trasferita alla « Cell Factory » di Milano , per amplificare il numero delle sue cellule .
+[[Question:MC:SingleAnswer]]
+Il verbo [ congelata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1565]]
+
+[[Question:MC]]
+nan [É] « I 3 stati della Melancholia » della regista finlandese Pirjo Honkasalo presentato ieri a Venezia per la sezione « Orizzonti » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ É ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q273]]
+
+[[Question:MC]]
+E' vero che una rondine non fa primavera , ma il punto ottenuto con pieno merito sul campo dell' Alense [dimostra] che la determinazione e l' impegno sono tornati a livelli rassicuranti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dimostra ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1956]]
+
+[[Question:MC]]
+Non scriverlo , ma sai quante volte ho [segnato] dopo una serata in discoteca con questi ritmi ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ segnato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2055]]
+
+[[Question:MC]]
+Se poi si cambia l' accento del logo di questo festival - ha [sottolineato] Morelli - in minoranzerò , si passa da uno sguardo indietro , ad uno in avanti , al futuro alle nuove prospettive e contaminazioni di multimedialità e minoranze dove la tradizione si coniuga con l' innovazione » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sottolineato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

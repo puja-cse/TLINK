@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q2256]]
+
+[[Question:MC]]
+Sentence: Nello schianto sono rimaste ferite anche tre colleghe di lavoro della giovane lombarda : in rianimazione all' ospedale di Trento è ricoverata Laura Patrizia Uboldi , 26 anni di Carisolo , la giovane che era alla guida della Peugeot 206 uscita di strada ; Nadia Bonapace , 18enne di Roncone , si [ trova ] nel reparto di chirurgia ; Arianna Vettori , 17enne di Rovereto era stata [ portata ] per controlli al Pronto Soccorso di Tione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trova ] accade PRIMA del verbo [ portata ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2563]]
+
+[[Question:MC]]
+Sentence: Chiuso il primo trimestre fiscale 2006 in crescita rispetto allo stesso periodo dell' anno precedente sia alla voce ricavi ( saliti del 14,00% a 2,55 miliardi di dollari ) sia sul piano degli utili netti ( [ arrivati ] a 272,5 milioni con un incremento del 50,00% ) , Emc ha già confermato anche le modalità con le quali verranno assorbiti gli asset di Rsa : quest' ultima [ opererà ] infatti come Information Security Division della casa madre e avrà l' head quarter a Bedford , nel Massachuttes , sede storica della società , mentre l' attuale presidente e Ceodi Rsa , Art Coviello , assumerà la carica di executive vice president di Emc e presidente della nuova divisione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ arrivati ] accade PRIMA del verbo [ opererà ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3234]]
+
+[[Question:MC]]
+Sentence: Il ministro dell' Industria Vito Gnutti ha espresso soddisfazione per la definitiva conclusione della vendita , sottolineando come " quando le cose sono ben [ fatte ] e soprattutto sono impostate seriamente anche i nostri partners europei lo [ riconoscono ] " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fatte ] accade PRIMA del verbo [ riconoscono ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q726]]
+
+[[Question:MC]]
+Sentence 1: Mai forse come in questa occasione - continua Bezzi - è emerso il lato oscuro della crudeltà di cui [ sono ] talvolta capaci gli esseri umani e la memoria torna alle tragedie epocali del Novecento , ai misfatti del nazismo e dello stalinismo , con gli eccidi di intere popolazioni » .
+Sentence 2: « La condanna di questi atti efferati e la mobilitazione di tutti contro questo terrorismo cieco e brutale che cancella ogni limite ed annulla i tabù più consolidati - [ prosegue ] Bezzi - devono accompagnarsi con concrete iniziative di solidarietà verso gli abitanti della sfortunata città dell' Ossezia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] accade PRIMA del verbo [ prosegue ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2099]]
+
+[[Question:MC]]
+Sentence: Non è pensabile che il lavoro del Direttore Generale venga valutato solo in prossimità della scadenza del mandato ; la Politica dovrebbe avere un costante ritorno di quanto avviene nella Azienda Sanitaria sia da parte di chi ne [ produce ] i Servizi che da parte di chi ne [ fruisce ] .
+[[Question:MC:SingleAnswer]]
+La relazione tra [ produce ] e [ fruisce ] è VAGA (i.e., nessuna delle precedenti).
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1796]]
+
+[[Question:MC]]
+Sentence 1: A quanto pare , il niet arrivato dagli ambienti bolzanini , restii ad avere una persona non bilingue in un ruolo così delicato , ha fatto [ saltare ] l' operazione .
+Sentence 2: Ora , per Dorigatti si apre la strada della permanenza , fino al prossimo congresso della Cgil , tra due anni , all' interno dell' organizzazione , per la quale ha [ preso ] in mano , recentemente , i compiti relativi alla celebrazione del centenario della Confederazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ saltare ] accade SIMULTANEAMENTE con il verbo [ preso ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1252]]
+
+[[Question:MC]]
+Sentence: Il gemellaggio tra Suzdal e Cles affonda le sue radici ai tempi della seconda guerra mondiale , quando Giacomo Dusini , che in seguito sarebbe [ stato ] sindaco di Cles , [ trascorse ] tre anni di prigionia proprio a Suzdal .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stato ] accade PRIMA del verbo [ trascorse ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q3031]]
+
+[[Question:MC]]
+Sentence 1: Le due favorite della vigilia , Riva del Garda ed Alta Vallagarina hanno esordito [ conquistando ] i tre punti ; netta l' affermazione dell' undici di Prandi , vittorioso quattro a zero sul campo di Cavrasto , più sofferto il successo dell' Alta Vallagarina che ha dovuto però vedersela con una squadra molto quotata quale la Condinese .
+Sentence 2: Vittoria netta per il Villazzano di Alberto Betta che a Gabbiolo [ impiega ] poco più di dieci minuti per archiviare la pratica La Rovere .
+[[Question:MC:SingleAnswer]]
+Il verbo [ conquistando ] accade DOPO il verbo [ impiega ].
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q2675]]
+
+[[Question:MC]]
+Sentence 1: Ricordando la « vile e spietata aggressione di Beslan » , il cardinale Michele Giordano [ rivolge ] questo auspicio agli studenti napoletani , sostiene che « alla violenza delle guerre , del terrorismo , dell' intolleranza va contrapposta , cominciando proprio dai giovani , una cultura di segno opposto » .
+Sentence 2: Inoltre il presidente Cossiga osserva : « Registro con vera gioia la " conversione " del Card . Martino ad una posizione più moderata nei confronto degli Usa e di Israele e più ferma nei confronti dell' estremismo islamico , come cattolico mi vergogno che il vescovo caldeo di Baghdad [ faccia ] parte della gerarchia cattolica .
+[[Question:MC:SingleAnswer]]
+La relazione tra [ rivolge ] e [ faccia ] è VAGA (i.e., nessuna delle precedenti).
+[[Choices]]
+Sì
+NO
+NON SO
+
+[[Block: Q1814]]
+
+[[Question:MC]]
+Sentence 1: Si è [ fatto ] conoscere come « ladro maldestro » : lo scorso marzo si è ribaltato in bicicletta mentre stava scappando con un paio di cassette piene di monetine trafugate da una lavanderia , poi era stato sorpreso all' interno di un tombino con l' intenzione di intrufolarsi nel magazzino di una tabaccheria , infine lo scorso venerdì era stato denunciato perché trovato in possesso di un timbrino trafugato ad un medico , con cui falsificava le ricette .
+Sentence 2: Marco Cacucci , 23 anni , nato a Milano ma da anni a Trento senza fissa dimora , [ è ] una vecchia conoscenza di polizia e carabinieri .
+[[Question:MC:SingleAnswer]]
+La relazione tra [ fatto ] e [ è ] è VAGA (i.e., nessuna delle precedenti).
+[[Choices]]
+Sì
+NO
+NON SO
+

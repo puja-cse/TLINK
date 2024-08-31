@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q179]]
+
+[[Question:MC]]
+Pero el asombro [ es ] inevitable cuando se observa la pasividad de los gobiernos españoles ante la necesidad de reducir unas flotas de pesca sobredimensionadas , con exceso de potencia , exceso de años y condiciones de seguridad bajo mínimos .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [es] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q188]]
+
+[[Question:MC]]
+Rasgarse ahora las vestiduras por la firmeza negociadora de nuestro vecino del sur , dejando caer en la opinión pública una cifra de afectados claramente hinchada , al objeto de responsabilizar a Marruecos del daño social , constituye una muestra de la peor política posible : culpar a los otros por lo que [ debimos ] haber hecho y no tuvimos la voluntad , ni la inteligencia , ni el coraje , de acometer .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [debimos] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q332]]
+
+[[Question:MC]]
+" Aquellos que no cumplan esta normativa serán juzgados e incluso [ podrían ] sufrir un castigo penal " , según la regulación aprobada por el primer ministro Zhu Rongji , que entrará en vigor el primero de diciembre .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [podrían] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q210]]
+
+[[Question:MC]]
+Así lo ven los pescadores , y sus argumentos , romos en jurídica y política , no [ presentan ] fisuras morales .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [presentan] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q152]]
+
+[[Question:MC]]
+" Creo que hemos [ hecho ] una oferta competitiva , que está dentro del nivel del mercado " , aseguró ayer el gerente del club , Antonio Maceiras , sobre la negociación con Esteller , el capitán del equipo .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [hecho] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q261]]
+
+[[Question:MC]]
+Josep Mil , secretario de la Oficina de Dinamización del Centro , recordó ayer que [ ejecutar ] el paralizado plan de aparcamientos " es básico por una cuestión de calidad ambiental y de movilidad " .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [ejecutar] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q289]]
+
+[[Question:MC]]
+Como una bocanada de aire clarificador se [ agradece ] la lista de recomendaciones del Consell de l'Audiovisual de Catalunya .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [agradece] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q88]]
+
+[[Question:MC]]
+Ambos [ coincidieron ] en Italia , en su etapa en la Fortitudo , y desde entonces han mantenido contactos regulares .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [coincidieron] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q192]]
+
+[[Question:MC]]
+La lógica de los pescadores [ es ] irrefutable .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [es] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q119]]
+
+[[Question:MC]]
+" Creo que se equivocan , pero es una opinión personal " , [ señaló ] Djordjevic , desmintiendo que haya tenido ningún problema con García Reneses , con quien se reunió ayer durante media hora .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [señaló] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q65]]
+
+[[Question:MC]]
+El base considera que el Barça se equivoca con su marcha , pero [ dice ] que se despide sin rencor .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [dice] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q392]]
+
+[[Question:MC]]
+Yushiro Yagi , presidente del Comité Olímpico Japonés ( JOC ) , aclaró que pese a que su país ya ha sido escenario de Juegos Olímpicos confía en que ese aprendizaje les sirva para albergar otros con garantías y añadió que " la candidatura de Osaka es muy sólida y [ dispone ] de todo lo necesario " .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [dispone] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q6]]
+
+[[Question:MC]]
+Este es el nivel de paro más alto desde la segunda guerra mundial y los expertos prevén que [ siga ] aumentando en los próximos meses .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [siga] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q378]]
+
+[[Question:MC]]
+Tras opinar que la disputa del Mundial de fútbol 2002 , coorganizado por Japón y Corea del Sur , [ será ] un factor favorable , indicó que las inversiones " no rebasarán , por ejemplo , el nivel de Atlanta " .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [será] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q162]]
+
+[[Question:MC]]
+Es la mayor caída en siete meses y [ supone ] un indicio de que el mercado inmobiliario de EEUU puede estar desacelerándose , tras subir el 5,8% en marzo .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [supone] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q426]]
+
+[[Question:MC]]
+El juez llegó a plantear la posibilidad de dividir la compañía en tres , como [ solicitaban ] algunos de los competidores del grupo presidido por Bill Gates .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [solicitaban] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q243]]
+
+[[Question:MC]]
+Los jóvenes [ anotaban ] la movilidad , los vehículos aparcados legal e ilegalmente y la predisposición de vecinos y usuarios a comprar plazas en un hipotético párking .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [anotaban] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q168]]
+
+[[Question:MC]]
+El encarecimiento de las hipotecas ha contribuido a frenar las ventas , ya que el tipo de interés a 30 años [ es ] del 8,62% , un punto más que hace un año .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [es] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q148]]
+
+[[Question:MC]]
+Aíto comentó que le ha costado mucho dar este paso - - " son decisiones muy difíciles y no soy insensible como muchos se creen " - - y [ mostró ] su deseo de cerrar cuanto antes la renovación de Roger Esteller , uno de los jugadores con los que el club negocia un nuevo contrato , junto al estadounidense Derrick Alston .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [mostró] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q131]]
+
+[[Question:MC]]
+" La aportación de Sasha ha sido muy positiva , pero creo que se ha [ cumplido ] el ciclo previsto cuando fichó " , indicó , por su parte , García Reneses para explicar la decisión de no hacerle ninguna oferta de renovación .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [cumplido] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+

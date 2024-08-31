@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q264]]
+
+[[Question:MC]]
+#NAME? [ dit ] favorable à un « quinquennat de cohérence » consistant à aligner la durée des mandats présidentiel et législatif afin d' éviter une cohabitation .
+Dans un point de vue paru dans « Le Monde » , le président socialiste de l'Assemblée nationale juge que la cohabitation comporte « trois inconvénients » : elle « ne facilite pas le traitement des problèmes de long terme » , « [ dilue ] la notion - même de responsabilité politique » et « fait le lit des abstentionnistes et des votes marginaux » .
+[[Question:MC:SingleAnswer]]
+La verb [ dit ] se passe AVANT le verb [ dilue ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q415]]
+
+[[Question:MC]]
+Il a concédé avoir [ aidé ] à [ recharger ] des armes des bourreaux .
+[[Question:MC:SingleAnswer]]
+La verb [ aidé ] se passe APRÈS le verb [ recharger ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q287]]
+
+[[Question:MC]]
+Hier à 10 h , une dizaine de délégués de la FNEC FP Force Ouvrière ont [ appelé ] leurs collègues à boycotter la deuxième journée de pré - rentrée .
+« L' allongement de la pré - rentrée n ' a pas de véritables justifications » , ont - ils [ souligné ] , « et ne contribue en rien à l' amélioration de l'encadrement pédagogique des élèves .
+[[Question:MC:SingleAnswer]]
+La verb [ appelé ] se passe AVANT le verb [ souligné ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q106]]
+
+[[Question:MC]]
+[ Avertie ] par des voisines , Juliette Carpezat s ' est précipitée en chaussons dans la rue lorsqu ' elle a su que le Secours populaire [ brûlait ] : « Je suis passée à midi devant en rentrant de la pharmacie .
+[[Question:MC:SingleAnswer]]
+La verb [ Avertie ] se passe AVANT le verb [ brûlait ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q171]]
+
+[[Question:MC]]
+Les faits qui lui sont [ reprochés ] [ remontent ] au 27 mai 1998 et se sont déroulés dans les bois proches du fort Dorsner à Giromagny .
+[[Question:MC:SingleAnswer]]
+La relation entre [ reprochés ] et [ remontent ] est VAGUE (c'est-à-dire qu'elle ne correspond à aucune des réponses ci-dessus).
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q325]]
+
+[[Question:MC]]
+Seules exceptions notables : Paris , Marseille et Nice , do nt les populations [ stagnent ] ou diminuent par rapport au dernier recensement .
+L'environnement immédiat des grands centres urbains bénéficie logiquement de cet attrait des Français pour les villes : la population des petites unités urbaines de moins de 10.000 habitants [ progresse ] plus vite que la moyenne nationale et , à l'intérieur du monde rural , ce sont les communes les plus proches des pôles urbains importants qui absorbent l'essentiel de la croissance .
+[[Question:MC:SingleAnswer]]
+La verb [ stagnent ] se passe APRÈS le verb [ progresse ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q280]]
+
+[[Question:MC]]
+Pauline , en vacances avec sa famille au domaine Saint - Jacques , a été [ transportée ] à l'hôpital de Hautepierre à Strasbourg , après avoir coulé dans le grand bassin de la piscine couverte du site .
+Secourue rapidement , son cœur est [ reparti ] , mais elle n'avait pas repris conscience lors de son admission à l'hôpital , où elle est décédée .
+[[Question:MC:SingleAnswer]]
+La verb [ transportée ] se passe AVANT le verb [ reparti ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q81]]
+
+[[Question:MC]]
+Le bâtiment , qui [ appartient ] à la Ville de Belfort , venait de faire l'objet de travaux de rénovation [ confirme ] André Kaufmann , adjoint au maire , sur place hier : « La toiture a été complétement refaite à la fin de l'année dernière , ainsi que la façade extérieure et les systèmes de sécurité » , souligne - t - il , estimant le coût de ces travaux à environ 100.000 € .
+[[Question:MC:SingleAnswer]]
+La verb [ appartient ] se passe APRÈS le verb [ confirme ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q201]]
+
+[[Question:MC]]
+Bernard affirme qu'en se promenant , il a chuté et s ' est [ retrouvé ] à terre , la braguette [ ouverte ] .
+[[Question:MC:SingleAnswer]]
+La verb [ retrouvé ] se passe AVANT le verb [ ouverte ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q10]]
+
+[[Question:MC]]
+Un chauffeur de bus de 38 ans a été pris à partie et [ agressé ] par deux individus , hier vers 18 h , place de la Mairie à Valdoie .
+Deux gardiens de la paix , qui tentaient de s ' interposer , ont été légèrement [ blessés ] à leur tour .
+[[Question:MC:SingleAnswer]]
+La verb [ agressé ] se passe AVANT le verb [ blessés ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+

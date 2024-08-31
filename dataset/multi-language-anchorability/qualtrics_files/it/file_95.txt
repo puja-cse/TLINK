@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q2202]]
+
+[[Question:MC]]
+Ecco la necessità di [normalizzare] il Caucaso da parte dell' ex Unione Sovietica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ normalizzare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q663]]
+
+[[Question:MC]]
+L' assemblea dei soci della Sara , presieduta da Rosario Alessi ( che ha [sostituito] nella carica Filippo Carpi de Resmini anche ai vertici di Sara Vita ) , ha deliberato in sede straordinaria la fusione per incorporazione della Ala assicurazioni , piccola compagnia specializzata nel ramo tutela giudiziaria .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sostituito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q808]]
+
+[[Question:MC]]
+Giorello è [laureato] in filosofia e matematica ; da tempo collabora con il " Corriere della Sera " ed è un saggista molto apprezzato , autore di diversi libri - l' ultimo dei quali " Prometeo , Ulisse e Gilgamesh " è appena stato presentato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ laureato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1918]]
+
+[[Question:MC]]
+E' il punto di riferimento centrale e già questo crea spazi e agevola di molto il compito di chi si [deve] inserire sui lati , come spetta a me.
+[[Question:MC:SingleAnswer]]
+Il verbo [ deve ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2073]]
+
+[[Question:MC]]
+Dal 2002 [vive] in Trentino per una « pensione » in fervida attività , proseguendo le sue analisi da giornalista e scrittore .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vive ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1442]]
+
+[[Question:MC]]
+L' operazione , sottolinea il comunicato del gruppo , rientra in un ampio programma di riorganizzazione e semplificazione della catena societaria mirato ad [avvicinare] la società alle holding di controllo , così da garantire una maggior flessibilità operativa e finanziaria .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avvicinare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q842]]
+
+[[Question:MC]]
+Come Trentino , vorrei avere i migliori servizi dai migliori professionisti sanitari , a disposizione 24 ore su 24 ; questi Servizi li vorrei disponibili , sia per le urgenze che per gli interventi programmabili , nei tempi da me ritenuti adeguati ; vorrei la massima disponibilità d' animo e di tempo di tutti gli operatori sanitari ; il cibo e la sistemazione logistica dovrebbero essere non solo di mio gradimento ma consentirmi anche di [poter] scegliere tra varie opzioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ poter ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1917]]
+
+[[Question:MC]]
+E' il punto di riferimento centrale e già questo crea spazi e [agevola] di molto il compito di chi si deve inserire sui lati , come spetta a me.
+[[Question:MC:SingleAnswer]]
+Il verbo [ agevola ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q319]]
+
+[[Question:MC]]
+Parte bene la neo promossa Azzurra che grazie alle marcature di Flores e Fabbri mette a segno a Cavalese quella che può forse essere [considerata] come la sorpresa principale della giornata .
+[[Question:MC:SingleAnswer]]
+Il verbo [ considerata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q613]]
+
+[[Question:MC]]
+Emesse 70 ordinanze di custodia cautelare , supportate da migliaia di intercettazioni ambientali e telefoniche , dichiarazioni di collaboratori di giustizia e testimonianze di una trentina di imprenditori e commercianti vittime dell' usura che , messi alle strette dagli investigatori , hanno ammesso di [essere] in mano agli usurai fornendo le indicazioni necessarie per giungere alla loro identificazione e all' arresto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ essere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1758]]
+
+[[Question:MC]]
+L' escamotage di depositare la delibera in tempi separati permetterà di evitare l' impaccio del megaemendamento che - nelle intenzioni di parecchi consiglieri - sarebbe stato necessario presentare per riconsiderare tutte le domande rimaste [escluse] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ escluse ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q855]]
+
+[[Question:MC]]
+Vorrei poter decidere di quali Collaboratori circondarmi , quali apparecchiature acquistare , quale quota di lavoro portare avanti e quale [tralasciare] , quando andare in ferie e quali corsi di aggiornamento seguire .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tralasciare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1821]]
+
+[[Question:MC]]
+« La proclamazione dello sciopero - ha precisato Elena Vannucci , segretaria nazionale Fiba Cisl - deriva dalla chiusura totale da parte dell' Abi , che si è [dimostrata] non disposta a trattare dopo che si era raggiunta una buona piattaforma di accordo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dimostrata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2173]]
+
+[[Question:MC]]
+C' è chi dice che i terroristi l' abbiano [scelta] perché hanno trovato dei funzionari da corrompere .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scelta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1017]]
+
+[[Question:MC]]
+L' operazione [rientra] in un piano di ampliamento del potenziale del gruppo Koelliker , tendente ad arricchire l' offerta di prodotti automobilistici sul mercato italiano .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rientra ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1107]]
+
+[[Question:MC]]
+Il termine per rilanciare sull' offerta della Glaxo [scadeva] alle 15 Gmt di oggi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scadeva ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q405]]
+
+[[Question:MC]]
+La tendenza di quest' anno favorisce quelle case d' abbigliamento che hanno [deciso] di buttarsi sugli articoli scolastici .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deciso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q12]]
+
+[[Question:MC]]
+É sicuramente ben riuscita , grazie ad una precisa addizionale d' inventiva , la rilettura dei quadri di Edward Hopper [fatta] da Guilherme Botelho per l' appuntamento serale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fatta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q611]]
+
+[[Question:MC]]
+Emesse 70 ordinanze di custodia cautelare , supportate da migliaia di intercettazioni ambientali e telefoniche , dichiarazioni di collaboratori di giustizia e testimonianze di una trentina di imprenditori e commercianti vittime dell' usura che , [messi] alle strette dagli investigatori , hanno ammesso di essere in mano agli usurai fornendo le indicazioni necessarie per giungere alla loro identificazione e all' arresto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ messi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q22]]
+
+[[Question:MC]]
+nan [É] come guardare una giostra e ad ogni spicchio di passaggio si vedono alcuni fotogrammi di vita trascorsi a riempire sprazzi di solitudine o incontri d' alcova .
+[[Question:MC:SingleAnswer]]
+Il verbo [ É ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1401]]
+
+[[Question:MC]]
+Sessantasette anni , feroce critico del comunismo e di tutti gli altri totalitarismi , ex - maoista , il filosofo non ha dubbi : « La politica della forza di Putin è [fallita] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fallita ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q381]]
+
+[[Question:MC]]
+La commessa ammicca e dice : « Se il prossimo anno [verrete] prima , avrete più scelta » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ verrete ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1185]]
+
+[[Question:MC]]
+Un' anticipazione del numero che sarà in edicola domani rivela che " durante la visita di Prodi a Mosca , il presidente di Zao Banca Intesa , Fallico , ha [auspicato] l' appoggio del governo all' operazione : una nuova compagnia aerea competitiva e fortemente favorita nello sviluppo del traffico aereo , cargo e passeggeri , soprattutto per le rotte eurasiatiche " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ auspicato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1205]]
+
+[[Question:MC]]
+Il risultato è quello che è stato [presentato] ieri mattina : la ristrutturazione e l' ampliamento della Scuola Materna privata equiparata « P. Pedrotti » di Trento , la più vecchia del capoluogo , completata in cento giorni con un investimento complessivo di 2,3 milioni di euro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ presentato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1208]]
+
+[[Question:MC]]
+« É un caso più unico che raro » [osserva] il primo cittadino , Alberto Pacher , che quell' asilo lo conosce bene per averlo frequentato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ osserva ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1119]]
+
+[[Question:MC]]
+Secondo gli analisti , infatti , uno dei vantaggi che [deriverebbero] dalla fusione consisterebbe proprio in un drastico ridimensionamento dei costi , stimato tra i 500 milioni e il miliardo di sterline l' anno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deriverebbero ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1596]]
+
+[[Question:MC]]
+Da lì ci [sono] soltanto 4 chilometri dal confine con la Cecenia e si sentono le esplosioni in lontananza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q162]]
+
+[[Question:MC]]
+Della riforma del federalismo va [applicato] alle autonomie solo ogni intervento migliorativo rispetto alle condizioni attuali .
+[[Question:MC:SingleAnswer]]
+Il verbo [ applicato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1851]]
+
+[[Question:MC]]
+Gianni Dorigatti , segretario provinciale della Fabi ( 2.700 iscritti in provincia di Trento su un totale di 4.000 bancari ) che aderirà allo sciopero , spiega che « non si può accettare la posizione dell' Abi che intende [lavorare] per una netta scissione fra parte economica inconsistente e una parte normativa peraltro mai discussa » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ lavorare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q188]]
+
+[[Question:MC]]
+Dagli altri campi le note più significative riguardano Albiano e Vallagarina capaci di sfruttare al meglio il turno interno per [piegare] rivali ostiche quali Rovereto e Merano .
+[[Question:MC:SingleAnswer]]
+Il verbo [ piegare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1058]]
+
+[[Question:MC]]
+Difficile fare pronostici , sono in molti ad ambire ad un successo a Predazzo , in primis i norvegesi che stanno [migliorando] di gara in gara e che domenica hanno vinto la competizione a squadre .
+[[Question:MC:SingleAnswer]]
+Il verbo [ migliorando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1768]]
+
+[[Question:MC]]
+A meno che per quella data non siano ancora [rimaste] sul tavolo le spinose questioni dei sottotetti e dei nuovi indici di edificabilità .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rimaste ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q203]]
+
+[[Question:MC]]
+Un bimbo di tre anni di Riccione , in vacanza con i parenti a Molveno , è caduto ieri mattina dallo scivolo del parco , [battendo] la testa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ battendo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q931]]
+
+[[Question:MC]]
+Per [governare] una macchina imponente come la Sanità Trentina c' è bisogno anche di conoscerne i diversi aspetti e la rivoluzione continua ai vertici dirigenziali non va in questa direzione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ governare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2170]]
+
+[[Question:MC]]
+« Non [è] assolutamente casuale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q886]]
+
+[[Question:MC]]
+Il Politico deve dire al Direttore Generale quale sia la strada da percorrere e deve porre in essere verifiche che gli consentano di avere informazioni di ritorno per [correggere] eventuali digressioni dal programma .
+[[Question:MC:SingleAnswer]]
+Il verbo [ correggere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1392]]
+
+[[Question:MC]]
+Glucksmann [disegna] degli scenari apocalittici : « Quando si è capaci di sparare sui bambini si è capaci di mandare un aereo contro una centrale nucleare e in questo caso la nube non si fermerà alle frontiere della Russia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ disegna ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1133]]
+
+[[Question:MC]]
+In ogni caso le 250 richieste [presentate] dai residenti della Vela ( e non solo ) arrivate in questi mesi al Comune sono il segnale più evidente della contrarietà di una comunità intera al progetto di realizzazione a nord dell' abitato ( nell' area dei Laghetti ) di un polo della rottamazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ presentate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1560]]
+
+[[Question:MC]]
+Maura Cossutta ( Pdci ) ha [chiesto] « le immediate dimissioni di un ministro indegno della storia democratica del nostro Paese » ed ha invitato tutte le parlamentari e i parlamentari democratici a sottoscriverle .
+[[Question:MC:SingleAnswer]]
+Il verbo [ chiesto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1485]]
+
+[[Question:MC]]
+E' quanto ha deciso di scoprire il governo del Jammu e Kashmir dopo che i pellegrini che hanno raggiunto la grotta per il rituale pellegrinaggio , hanno [protestato] per l' aspetto del lingam , a dir loro troppo piccolo rispetto al passato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ protestato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

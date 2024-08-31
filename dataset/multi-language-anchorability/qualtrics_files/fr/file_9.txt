@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q222]]
+
+[[Question:MC]]
+Il a fallu que les sapeurs - pompiers cassent les vitres , découpent le rideau métallique de la porte d'entrée et fassent des ouvertures dans le toit pour pouvoir [combattre] les flammes .
+[[Question:MC:SingleAnswer]]
+Le verbe [ combattre ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q124]]
+
+[[Question:MC]]
+Le rapport en question , remis à M. Boutros Boutros - Ghali , secrétaire général de la francophonie , dresse un constat très sévère de la gestion de l'AUF , en [jugeant] « impératif de créer une nouvelle agence universitaire sur du solide » .
+[[Question:MC:SingleAnswer]]
+Le verbe [ jugeant ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q219]]
+
+[[Question:MC]]
+Il a fallu que les sapeurs - pompiers cassent les vitres , [découpent] le rideau métallique de la porte d'entrée et fassent des ouvertures dans le toit pour pouvoir combattre les flammes .
+[[Question:MC:SingleAnswer]]
+Le verbe [ découpent ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q177]]
+
+[[Question:MC]]
+Le texte [prévoit] des réductions d'impôts pour un montant de 791,9 milliards de dollars sur 10 ans , pour redistribuer aux Américains une partie des excédents budgétaires , qui pourraient atteindre 3.000 milliards d' ici à dix ans .
+[[Question:MC:SingleAnswer]]
+Le verbe [ prévoit ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q274]]
+
+[[Question:MC]]
+Les consignes de sécurité ont [eu] raison de la compétition : elle a été annulée .
+[[Question:MC:SingleAnswer]]
+Le verbe [ eu ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q65]]
+
+[[Question:MC]]
+D'après lui , c'est dans cette position que deux jeunes filles , Jessica et Sandrine , l'ont [découvert] .
+[[Question:MC:SingleAnswer]]
+Le verbe [ découvert ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q58]]
+
+[[Question:MC]]
+Les faits qui lui sont reprochés [remontent] au 27 mai 1998 et se sont déroulés dans les bois proches du fort Dorsner à Giromagny .
+[[Question:MC:SingleAnswer]]
+Le verbe [ remontent ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q179]]
+
+[[Question:MC]]
+Le texte prévoit des réductions d'impôts pour un montant de 791,9 milliards de dollars sur 10 ans , pour redistribuer aux Américains une partie des excédents budgétaires , qui [pourraient] atteindre 3.000 milliards d' ici à dix ans .
+[[Question:MC:SingleAnswer]]
+Le verbe [ pourraient ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q83]]
+
+[[Question:MC]]
+L'avocate de Bernard , Alexandra Michel , a [souligné] que son client avait conscience du trouble qu'il avait causé aux adolescentes .
+[[Question:MC:SingleAnswer]]
+Le verbe [ souligné ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q17]]
+
+[[Question:MC]]
+Il a concédé avoir aidé à [recharger] des armes des bourreaux .
+[[Question:MC:SingleAnswer]]
+Le verbe [ recharger ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q11]]
+
+[[Question:MC]]
+Cela [laisse] présager une sentence identique pour le leader kurde Abdullah Ocalan .
+[[Question:MC:SingleAnswer]]
+Le verbe [ laisse ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q97]]
+
+[[Question:MC]]
+Mais ils n'ont pas demandé de dommages et intérêts , souhaitant que justice soit [faite] .
+[[Question:MC:SingleAnswer]]
+Le verbe [ faite ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q241]]
+
+[[Question:MC]]
+Jean - Claude Viailly , responsable des ventes , regardait avec la larme à l'œil les pompiers [dégager] les restes de son bureau et de sa brocante : « Nous sommes trois à être salariés ici .
+[[Question:MC:SingleAnswer]]
+Le verbe [ dégager ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q28]]
+
+[[Question:MC]]
+A Moscou , le nouveau Premier ministre russe Sergueï Stépachine , confirmé par les députés de la Douma , a [annoncé] qu'il garderait « l'ossature » du précédent gouvernement .
+[[Question:MC:SingleAnswer]]
+Le verbe [ annoncé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q123]]
+
+[[Question:MC]]
+Le rapport en question , remis à M. Boutros Boutros - Ghali , secrétaire général de la francophonie , [dresse] un constat très sévère de la gestion de l'AUF , en jugeant « impératif de créer une nouvelle agence universitaire sur du solide » .
+[[Question:MC:SingleAnswer]]
+Le verbe [ dresse ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q256]]
+
+[[Question:MC]]
+Il n ' y avait rien d'anormal » , [explique] cette habitante du quartier , bénévole au « Secours pop » depuis douze ans .
+[[Question:MC:SingleAnswer]]
+Le verbe [ explique ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q133]]
+
+[[Question:MC]]
+L'Union nationale des associations de parents et amis de personnes handicapées mentales ( UNAPEI ) a [dénoncé] hier le « scandale » des quelques 10 à 15.000 enfants handicapés mentaux , selon son estimation , qui sont obligés de rester chez eux faute de scolarisation .
+[[Question:MC:SingleAnswer]]
+Le verbe [ dénoncé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q81]]
+
+[[Question:MC]]
+Plaintes ont ensuite été déposées à la gendarmerie de Giromagny qui a [ouverte] une enquête .
+[[Question:MC:SingleAnswer]]
+Le verbe [ ouverte ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q131]]
+
+[[Question:MC]]
+Dans un point de vue paru dans « Le Monde » , le président socialiste de l'Assemblée nationale juge que la cohabitation comporte « trois inconvénients » : elle « ne facilite pas le traitement des problèmes de long terme » , « [dilue] la notion - même de responsabilité politique » et « fait le lit des abstentionnistes et des votes marginaux » .
+[[Question:MC:SingleAnswer]]
+Le verbe [ dilue ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q156]]
+
+[[Question:MC]]
+Alors que la métropole compte 58.416.500 habitants et les quatre départements d'outre - mer 1.665.500 , les premiers résultats du recensement de mars - avril , qui devraient être affinés d' ici la fin de l'année , confirment les tendances observées depuis vingt ans : l' urbanisation , loin de ralentir , [connaît] une nouvelle accélération .
+[[Question:MC:SingleAnswer]]
+Le verbe [ connaît ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+

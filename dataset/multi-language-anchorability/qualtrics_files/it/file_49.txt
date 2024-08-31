@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q820]]
+
+[[Question:MC]]
+Lo stesso percorso che il coreografo americano Bud Blumenthal ha [sviluppato] in due suggestivi spettacoli , entrambi in programma al festival roveretano e dei quali aveva parlato soltanto la sera prima nella stessa sede .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sviluppato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q544]]
+
+[[Question:MC]]
+R.S. lavorava in banca , ma aveva dovuto lasciare questo impiego per le sempre più gravi crisi depressive delle quali [soffriva] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ soffriva ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q302]]
+
+[[Question:MC]]
+Scendeva dal passo del Manghen in motocicletta , è caduto in curva e si è scontrato con un' auto [guidata] da una dona di Borgo Valsugana .
+[[Question:MC:SingleAnswer]]
+Il verbo [ guidata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q185]]
+
+[[Question:MC]]
+Il bello , e difficile , sarà continuare con questa carica di motivazioni e concentrazione per ripetere magari ( la storia ha [avuto] aspetti simili ) il miracolo del Comano dell' anno scorso .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1679]]
+
+[[Question:MC]]
+« L' uragano non ha fatto morti , ma c' [è] ancora un milione di persone senza acqua e senza luce .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q719]]
+
+[[Question:MC]]
+A Trento , come in tutta Italia , tra due anni sarà [festeggiato] il secolo del sindacato più antico e maggiormente rappresentativo in Italia , con i suoi oltre cinque milioni e mezzo d' iscritti , tra lavoratori , pensionati e giovani che entrano nel mondo del lavoro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ festeggiato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q847]]
+
+[[Question:MC]]
+Come dipendente della Azienda , [vorrei] venisse riconosciuto , in termini di merito , di gratificazione economica , di progressione di carriera , l' impegno da me profuso nello svolgimento del mio lavoro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vorrei ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q881]]
+
+[[Question:MC]]
+Il Politico deve dire al Direttore Generale quale sia la strada da [percorrere] e deve porre in essere verifiche che gli consentano di avere informazioni di ritorno per correggere eventuali digressioni dal programma .
+[[Question:MC:SingleAnswer]]
+Il verbo [ percorrere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q317]]
+
+[[Question:MC]]
+Parte bene la neo promossa Azzurra che grazie alle marcature di Flores e Fabbri [mette] a segno a Cavalese quella che può forse essere considerata come la sorpresa principale della giornata .
+[[Question:MC:SingleAnswer]]
+Il verbo [ mette ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1677]]
+
+[[Question:MC]]
+Ed in efetti lo stesso fratello Piero , raggiunto sul cellulare da l' Adige conferma di aver [trascorso] attimi da vera tragedia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trascorso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1184]]
+
+[[Question:MC]]
+Un' anticipazione del numero che sarà in edicola domani [rivela] che " durante la visita di Prodi a Mosca , il presidente di Zao Banca Intesa , Fallico , ha auspicato l' appoggio del governo all' operazione : una nuova compagnia aerea competitiva e fortemente favorita nello sviluppo del traffico aereo , cargo e passeggeri , soprattutto per le rotte eurasiatiche " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rivela ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q495]]
+
+[[Question:MC]]
+Inoltre il presidente Cossiga osserva : « Registro con vera gioia la " conversione " del Card . Martino ad una posizione più moderata nei confronto degli Usa e di Israele e più ferma nei confronti dell' estremismo islamico , come cattolico mi [vergogno] che il vescovo caldeo di Baghdad faccia parte della gerarchia cattolica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vergogno ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q9]]
+
+[[Question:MC]]
+Ed è [stato] anche un pienone legato all' euforia frizzante e propiziatoria per le migliori giornate dei festival .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2000]]
+
+[[Question:MC]]
+Il ruolo ricoperto da Cefis in Premafin sarebbe formalmente , ma almeno per il momento non ufficialmente , [assunto] da Carlo Ciani che diverrebbe una sorta di manager unico sia di Premafin che di Nuova finanziaria moderna .
+[[Question:MC:SingleAnswer]]
+Il verbo [ assunto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q914]]
+
+[[Question:MC]]
+Quanto poi ai collaboratori del Direttore Generale , è ovvio che vanno rifiutate posizioni aprioristiche di chi ritiene che solo fuori dal Trentino si possano trovare Dirigenti di un certo spessore professionale ; allo stesso modo va [rigettata] l' ipotesi della promozione della " trentinità " in quanto tale come giudizio di merito .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rigettata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2129]]
+
+[[Question:MC]]
+« Nel '17 , [approfittando] della confusione della rivoluzione Russa , i popoli del Caucaso tentarono la strada dell' indipendenza : la Russia represse aspramente » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ approfittando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1011]]
+
+[[Question:MC]]
+Quanto alle previsione di partecipazione , i sindacati si attendono 3 - 4mila persone , anche se , ha [confessato] Nicola Ferrante , « ci auguriamo che saranno dieci o ventimila » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ confessato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2094]]
+
+[[Question:MC]]
+Difficile comunque parlare di popolazioni caucasiche in blocco , bisognerebbe [fare] delle lunghe distinzioni tra Kabardini - Balkari , Cirassici e Karacia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q807]]
+
+[[Question:MC]]
+Allievo di Ludovico Geymonat , [è] attualmente titolare della cattedra di Filosofia della scienza presso l' Università degli Studi della sua Milano .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1746]]
+
+[[Question:MC]]
+Poi , affinché gli interventi inseriti nella variante [possano] effettivamente venire realizzati , servirà il « visto » della giunta provinciale , che ha a disposizione un anno per leggere tutta la documentazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ possano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1646]]
+
+[[Question:MC]]
+E' prevista anche un' escursione nei boschi della zona per raccogliere esemplari di specie botaniche che verranno poi classificate e [conservate] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ conservate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2132]]
+
+[[Question:MC]]
+Tutti i territori vennero [riconquistati] con la forza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riconquistati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q4]]
+
+[[Question:MC]]
+Bisogna " recuperare il crollo del gettito che c' è stato in questi anni ma non ci [sarà] nessun aumento delle tasse " - Lo ha detto Visco - All' incontro a Palazzo Chigi con le parti sociali , il viceministro per l' Economia ha aggiunto che il governo " metterà mano al sistema dei rimborsi Iva " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sarà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q634]]
+
+[[Question:MC]]
+Sono stabili ma sempre gravi le condizioni di Susanna Franzoni , la 19enne di Varese [ricoverata] al neurochirurgico di Bolzano per i traumi riportati nell' incidente avvenuto domenica all' alba a Pinzolo , quado un' auto è carambolata contro un muro nel centro del paese .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricoverata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1587]]
+
+[[Question:MC]]
+Una città distrutta e deserta ; pochi bambini si [aggirano] tra le macerie e giocano alla guerra .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aggirano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1727]]
+
+[[Question:MC]]
+In pratica , il 14 ne verrà presentata una parte , mentre entro il 21 sarà [consegnata] agli uffici del Consiglio l' integrazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ consegnata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q282]]
+
+[[Question:MC]]
+Lo storico sorpasso è avvenuto l' altro ieri al torneo di Norton , nel Massachusetts , dove Singh - già in testa dopo il 3 ° turno - ha [resistito] alla rimonta di Woods concludendo con tre punti di vantaggio sull' americano e sull' australiano Adam Scott .
+[[Question:MC:SingleAnswer]]
+Il verbo [ resistito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1350]]
+
+[[Question:MC]]
+Ci [sono] poi Bravo Productions e New Programma Video per la produzione televisiva , mentre nell' home video sono attive Domovideo e Vhr .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q975]]
+
+[[Question:MC]]
+« Quanto accaduto a Beslan - ha affermato Pacher - costituisce il superamento di una soglia inimmaginabile , ed [è] importante che tutta la città , senza divisioni né appartenenze , sia in piazza per ribadire valori che uniscono tutti , nel nome di una civiltà che si ritrova e di principi attorno a cui si costruisce l' idea di cittadinanza » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1050]]
+
+[[Question:MC]]
+Dopo gli allenamenti ( ore 18 ) , oggi gli atleti avranno a disposizione un solo salto per raggiungere la qualificazione , quella in cui [sperano] anche i quattro azzurri Marco Beltrame , Giancarlo Adami , Sebastian Colloredo e Stefano Chiapolino .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sperano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1342]]
+
+[[Question:MC]]
+La Profit [accentrerà] nella struttura immobiliare della Bravo Productions ( che ha sede a Milano e ha una superficie utile di circa 7500 metri quadri ) diverse attività operative .
+[[Question:MC:SingleAnswer]]
+Il verbo [ accentrerà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q373]]
+
+[[Question:MC]]
+Ci [sarebbe] da comprare anche una bustina a parte , ma manca quella della stessa tonalità .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sarebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q482]]
+
+[[Question:MC]]
+Martino rifiuta l' idea che sia in atto uno scontro di civiltà : « E' in atto uno scontro all' interno di ogni civiltà , fra chi è sul versante del diritto , del dialogo , della convivenza e della giustizia e chi è integralista , dovunque esso sia , perchè di integralismo non c' [è] solo quello islamico » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q88]]
+
+[[Question:MC]]
+Secondo Biondo , " nessuna delle due offerte [è] in grado di offrire garanzie per una seria privatizzazione della Ilva Laminati Piani .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1380]]
+
+[[Question:MC]]
+Senza immagini , senza emozioni » , accusa Glucksmann ed [è] sprezzante nei confronti della « politica della forza » voluta dal « pompiere piromane Putin » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q632]]
+
+[[Question:MC]]
+Nell' appartamento in cui è avvenuto l' omicidio c' era anche una connazionale della vittima , che con lei avrebbe dovuto [far] ritorno in Ucraina .
+[[Question:MC:SingleAnswer]]
+Il verbo [ far ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1395]]
+
+[[Question:MC]]
+Glucksmann disegna degli scenari apocalittici : « Quando si è capaci di sparare sui bambini si [è] capaci di mandare un aereo contro una centrale nucleare e in questo caso la nube non si fermerà alle frontiere della Russia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1692]]
+
+[[Question:MC]]
+MAZARA - « Chi ha in mano la nostra bambina , forse [può] avere anche lei una figlia , e può dunque comprendere il nostro stato d' animo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ può ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1393]]
+
+[[Question:MC]]
+Glucksmann disegna degli scenari apocalittici : « Quando si [è] capaci di sparare sui bambini si è capaci di mandare un aereo contro una centrale nucleare e in questo caso la nube non si fermerà alle frontiere della Russia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q850]]
+
+[[Question:MC]]
+Vorrei [poter] decidere di quali Collaboratori circondarmi , quali apparecchiature acquistare , quale quota di lavoro portare avanti e quale tralasciare , quando andare in ferie e quali corsi di aggiornamento seguire .
+[[Question:MC:SingleAnswer]]
+Il verbo [ poter ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

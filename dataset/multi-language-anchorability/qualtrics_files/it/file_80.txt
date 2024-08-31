@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q690]]
+
+[[Question:MC]]
+nan [Sarebbe] questo il segreto del successo ( « Quel che iniziamo , finiamo » , appunto ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Sarebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1701]]
+
+[[Question:MC]]
+Intanto il procuratore di Marsala si è [detto] convinto che « la piccola è viva » e si troverebbe « a Mazara del Vallo o nelle vicinanze » tenuta segregata da qualcuno che vuole « punire » per « motivi personali » i genitori della bimba di quattro anni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ detto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1266]]
+
+[[Question:MC]]
+É stata accolta da un' atmosfera comprensibilmente triste la delegazione della Valle di Non che in questi giorni è in visita in Russia per [rinnovare] il gemellaggio tra Cles e Suzdal , il più importante centro religioso della Russia sud-orientale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rinnovare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1605]]
+
+[[Question:MC]]
+Ma [è] ancora un bambino ad essere protagonista : le canzoni cantate da Risto Joost , un giovane controtenore dell' Estonia , sono musicate su testi scritti da un bimbo - cadetto di soli undici anni , uno dei cadetti dell' accademia di Kronstadt e sono cantate in russo e in ceceno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q945]]
+
+[[Question:MC]]
+Didier Mahy , padre di Nathalie , ha preferito un funerale nella più stretta intimità da tenersi probabilmente sabato mattina , secondo quanto riferito dall' avvocato della madre che ora [vive] con il padre di Stacy .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vive ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q360]]
+
+[[Question:MC]]
+L' ipotesi nasce dopo una giornata trascorsa nelle cartolerie di Trento per « [annusare] » quali saranno le tendenze per quest' anno scolastico 2004 / 2005 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ annusare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1723]]
+
+[[Question:MC]]
+La conferenza dei capigruppo riunitasi ieri sera a palazzo Thun ha infatti deciso ( su proposta di Tullio Buffa ) di [concedere] all' assessore Andreatta e alla commissione urbanistica la proroga di una settimana per completare il lavoro di definizione delle domande da accogliere .
+[[Question:MC:SingleAnswer]]
+Il verbo [ concedere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1506]]
+
+[[Question:MC]]
+Le candidature , infatti , [rappresentano] le tre frange più rappresentative , quella meranese che punta su Manfred König , quella pusterese che sostiene Walter Ausserhofer , marito della senatrice Helga Thaler , e quella bolzanina dove brilla la candidatura di Peter Gliera , appoggiato da tutta la Stella alpina cittadina .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rappresentano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1649]]
+
+[[Question:MC]]
+L' iscrizione [è] gratuita ed aperta a tutti con possibilità di pranzo al sacco o presso il rifugio al prezzo di 10 euro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1489]]
+
+[[Question:MC]]
+Condannate a 15 anni di carcere 3 persone persone per aver [saccheggiato] un negozio a New Orleans dopo l' inondazione dell' uragano Katrina .
+[[Question:MC:SingleAnswer]]
+Il verbo [ saccheggiato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1218]]
+
+[[Question:MC]]
+Il bilancio dell' operazione [è] in attivo perché a fronte di una spesa complessiva non certo irrisoria , sono stati risparmiati tutti i costi che avrebbe comportato la chiusura prolungata dell' asilo ( lavori di questa entità appaltati dall' ente pubblico possono durare anche un paio di anni ? ) con le collocazioni provvisorie del personale , dei 102 ragazzi ed i disagi per le famiglie .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q27]]
+
+[[Question:MC]]
+Suntuoso il danzatore Joseph Trefeli che con l' aria da macho latino si prepara a chissà quale uscita per poi [avere] dei continui ripensamenti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1561]]
+
+[[Question:MC]]
+Maura Cossutta ( Pdci ) ha chiesto « le immediate dimissioni di un ministro indegno della storia democratica del nostro Paese » ed ha [invitato] tutte le parlamentari e i parlamentari democratici a sottoscriverle .
+[[Question:MC:SingleAnswer]]
+Il verbo [ invitato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q268]]
+
+[[Question:MC]]
+SALORNO - dopo le traversie di agosto , leggasi la rinuncia di Sonato e l' abbandono di Michelon , i giallorossi [parevano] caduti in crisi di identità e di morale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ parevano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1389]]
+
+[[Question:MC]]
+Si [tratta] di un gruppuscolo che si è installato nel disordine creato dal pompiere piromane Putin » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tratta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1379]]
+
+[[Question:MC]]
+Senza immagini , senza emozioni » , [accusa] Glucksmann ed è sprezzante nei confronti della « politica della forza » voluta dal « pompiere piromane Putin » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ accusa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q484]]
+
+[[Question:MC]]
+Infina il cardinale di Napoli , Michele Giordano , chiede che « La scuola [sia] il terreno in cui cominciare a tessere i fili di una civiltà di pace e di amore » , basata sul rispetto della vita umana e la solidarietà tra le persone .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sia ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1469]]
+
+[[Question:MC]]
+A tre settimane dalle delibere di fusione tra la Popolare e il Banco di San Geminiano e San Prospero , l' istituto presieduto da Giorgio Zanotto ha costituito ieri la Holding di partecipazioni finanziarie Popolare di Verona-San Geminiano e San Prospero , cui sono state [conferite] le partecipazioni strumentali possedute dalle due banche .
+[[Question:MC:SingleAnswer]]
+Il verbo [ conferite ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1091]]
+
+[[Question:MC]]
+Da tempo la Wellcome , che aveva ritenuto insufficiente l' offerta della Glaxo , era freneticamente a caccia di un " cavaliere bianco " che [potesse] rilanciare sul prezzo della Glaxo e aveva consigliato i propri azionisti ad attendere un' alternativa più attraente .
+[[Question:MC:SingleAnswer]]
+Il verbo [ potesse ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1805]]
+
+[[Question:MC]]
+ROMA - Il presidente dell' Anci , Leonardo Domenici , chiede ai comuni italiani di ospitare i bambini di Beslan per [aiutarli] a dimenticare l' orrore .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aiutarli ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

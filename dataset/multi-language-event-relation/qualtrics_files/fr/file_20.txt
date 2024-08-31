@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q345]]
+
+[[Question:MC]]
+A l'inverse , les communes trop excentrées voient leur population [ stagner ] , voire [ diminuer ] .
+[[Question:MC:SingleAnswer]]
+La verb [ stagner ] se passe APRÈS le verb [ diminuer ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q19]]
+
+[[Question:MC]]
+La bibliothèque sera [ fermée ] en juillet et [ rouvrira ] ses portes en août , uniquement le mercredi .
+[[Question:MC:SingleAnswer]]
+La verb [ fermée ] se passe APRÈS le verb [ rouvrira ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q358]]
+
+[[Question:MC]]
+Les Jazz , après avoir [ frôlé ] l' élimination au premier tour , se sont imposés 93 à 83 avec 25 points et 12 rebonds de Karl Malone , avant de recevoir les Portland Trail Blazers une seconde fois , ce soir , dans la série au meilleur des sept matches .
+De leur côté , les New York Knicks , tombeurs au premier tour de Miami , numéro un à l'est , sont allés s ' [ imposer ] 100 à 92 à Atlanta , grâce à 34 points d'Allen Houston et 31 de Latrell Sprewell .
+[[Question:MC:SingleAnswer]]
+La verb [ frôlé ] se passe AVANT le verb [ imposer ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q76]]
+
+[[Question:MC]]
+Il n ' y avait personne non plus à l'intérieur du hangar que le Secours populaire [ utilise ] depuis un quart de siècle pour l'accueil ainsi que la vente et le stockage de ses objets , meubles et vêtements .
+Le bâtiment , qui appartient à la Ville de Belfort , venait de faire l'objet de travaux de rénovation [ confirme ] André Kaufmann , adjoint au maire , sur place hier : « La toiture a été complétement refaite à la fin de l'année dernière , ainsi que la façade extérieure et les systèmes de sécurité » , souligne - t - il , estimant le coût de ces travaux à environ 100.000 € .
+[[Question:MC:SingleAnswer]]
+La verb [ utilise ] se passe AVANT le verb [ confirme ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q355]]
+
+[[Question:MC]]
+Les Jazz , après avoir [ frôlé ] l' élimination au premier tour , se sont [ imposés ] 93 à 83 avec 25 points et 12 rebonds de Karl Malone , avant de recevoir les Portland Trail Blazers une seconde fois , ce soir , dans la série au meilleur des sept matches .
+[[Question:MC:SingleAnswer]]
+La verb [ frôlé ] se passe APRÈS le verb [ imposés ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q3]]
+
+[[Question:MC]]
+Le président du Conseil représentatif des institutions juives de France Roger Cukierman a créé la polémique lors du traditionnel dîner annuel du CRIF en [ assimilant ] antisionisme et antisémitisme et en [ dénonçant ] une « alliance brun - vert - rouge » .
+[[Question:MC:SingleAnswer]]
+La verb [ assimilant ] se passe APRÈS le verb [ dénonçant ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q53]]
+
+[[Question:MC]]
+Le feu avait [ couvé ] et une épaisse fumée s ' était concentrée sur les deux étages de l'entrepôt du Secours populaire .
+Il a fallu que les sapeurs - pompiers cassent les vitres , découpent le rideau métallique de la porte d'entrée et [ fassent ] des ouvertures dans le toit pour pouvoir combattre les flammes .
+[[Question:MC:SingleAnswer]]
+La verb [ couvé ] se passe EN MÊME TEMPS que le verb [ fassent ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q282]]
+
+[[Question:MC]]
+Pauline , en vacances avec sa famille au domaine Saint - Jacques , a été transportée à l'hôpital de Hautepierre à Strasbourg , après avoir [ coulé ] dans le grand bassin de la piscine couverte du site .
+Secourue rapidement , son cœur est [ reparti ] , mais elle n'avait pas repris conscience lors de son admission à l'hôpital , où elle est décédée .
+[[Question:MC:SingleAnswer]]
+La verb [ coulé ] se passe AVANT le verb [ reparti ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q275]]
+
+[[Question:MC]]
+Le rapport en question , remis à M. Boutros Boutros - Ghali , secrétaire général de la francophonie , [ dresse ] un constat très sévère de la gestion de l'AUF , en [ jugeant ] « impératif de créer une nouvelle agence universitaire sur du solide » .
+[[Question:MC:SingleAnswer]]
+La verb [ dresse ] se passe APRÈS le verb [ jugeant ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q289]]
+
+[[Question:MC]]
+Mais il s ' [ inscrit ] dans le cadre ( ... ) de l' atteinte aux statuts des personnels » .
+En fin de réunion , les différents délégués ont [ décidé ] de réunir leurs collègues dans les établissements pour s ' opposer à la mise en place des chartes Allègre - Royal , « qui organisent la destruction du service public d'enseignement » .
+[[Question:MC:SingleAnswer]]
+La verb [ inscrit ] se passe EN MÊME TEMPS que le verb [ décidé ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+

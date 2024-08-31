@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1829]]
+
+[[Question:MC]]
+Tra le questioni sul tappeto , la più spinosa [sembra] essere quella legata alla parte economica del nuovo contratto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sembra ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1412]]
+
+[[Question:MC]]
+A suo avviso « bisogna costringere Putin ad adottare le nostre politiche occidentali nei confronti del terrorismo : quando c' è una presa di ostaggi o un pericolo terroristico , si tenta innanzitutto di [salvare] gli ostaggi , di isolare i terroristi e non di dar loro il potere di uccidere » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ salvare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q140]]
+
+[[Question:MC]]
+L' information security , stando a recenti indagini di alcuni analisti americani , [è] la priorità numero uno per i Cio e il 75,00% delle aziende Usa soffre ogni anno di perdite consistenti di dati : questo il terreno d' azione in cui Emc vuole mettere a frutto l' acquisizione di Rsa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q969]]
+
+[[Question:MC]]
+Ad aprire la conferenza stampa il sindaco di Trento , Alberto Pacher , che ha ringraziato i tre sindacati per « aver [rappresentato] , con l' organizzazione di questa fiaccolata , l' indignazione profonda dei nostri concittadini e la volontà di ribadire un no deciso a quello che è un insulto all' umanità » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rappresentato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q16]]
+
+[[Question:MC]]
+Ma lo spettacolo non è stato solo una ridinamizzazione di quadri conosciuti ma ha anche [regalato] suggestioni cinematografiche e sonorità popolari .
+[[Question:MC:SingleAnswer]]
+Il verbo [ regalato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q620]]
+
+[[Question:MC]]
+Il convivente della donna ha riferito alla polizia che da qualche tempo la sua compagna [soffriva] di crisi depressive .
+[[Question:MC:SingleAnswer]]
+Il verbo [ soffriva ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1745]]
+
+[[Question:MC]]
+Poi , affinché gli interventi [inseriti] nella variante possano effettivamente venire realizzati , servirà il « visto » della giunta provinciale , che ha a disposizione un anno per leggere tutta la documentazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ inseriti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1838]]
+
+[[Question:MC]]
+« Ciò che a noi preme - ha spiegato la segretaria generale della Fisac Cgil del Trentino , Rosanna Tranquillini - [è] fare in modo che il protocollo firmato prima della rottura delle trattative venga riempito di contenuti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q779]]
+
+[[Question:MC]]
+Marco Cacucci , 23 anni , [nato] a Milano ma da anni a Trento senza fissa dimora , è una vecchia conoscenza di polizia e carabinieri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ nato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q414]]
+
+[[Question:MC]]
+Anche se abbiamo sentito [chiamarli] « Zen » ( il numero 7 seguito dalla « en » finale può effettivamente essere confuso con una zeta ) , la loro fama rimane costante .
+[[Question:MC:SingleAnswer]]
+Il verbo [ chiamarli ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1969]]
+
+[[Question:MC]]
+Se posso farne altri due [aggiungo] Brixen e Alense .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aggiungo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1357]]
+
+[[Question:MC]]
+Il G8 invita israeliani e palestinesi ad evitare misure che pregiudicherebbero lo status dei Territori e [chiede] il rilascio del soldato rapito .
+[[Question:MC:SingleAnswer]]
+Il verbo [ chiede ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1721]]
+
+[[Question:MC]]
+La conferenza dei capigruppo [riunitasi] ieri sera a palazzo Thun ha infatti deciso ( su proposta di Tullio Buffa ) di concedere all' assessore Andreatta e alla commissione urbanistica la proroga di una settimana per completare il lavoro di definizione delle domande da accogliere .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riunitasi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1548]]
+
+[[Question:MC]]
+Ai radicali che hanno deciso di adire le vie legali , Giovanardi ha replicato : « Sono allibito perché chi ogni giorno insulta i sentimenti e le convinzioni dei cattolici del nostro paese definendoli oscurantisti e talebani ora vuole intimidire un partito e un parlamentare che [esprime] una sua opinione che non coincide con quelle radicali » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ esprime ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1303]]
+
+[[Question:MC]]
+Mai forse come in questa occasione - continua Bezzi - è emerso il lato oscuro della crudeltà di cui [sono] talvolta capaci gli esseri umani e la memoria torna alle tragedie epocali del Novecento , ai misfatti del nazismo e dello stalinismo , con gli eccidi di intere popolazioni » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q230]]
+
+[[Question:MC]]
+Il protocollo di oggi , dunque , [suggella] il « nuovo corso » delle relazioni tra artigianato e mondo della ricerca .
+[[Question:MC:SingleAnswer]]
+Il verbo [ suggella ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1060]]
+
+[[Question:MC]]
+Ma anche gli austriaci [sono] agguerriti , così come i finlandesi , e tutti schierati contro il polacco Adam Malysz .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2079]]
+
+[[Question:MC]]
+Nel 1989 quando ancora il terrorismo islamico era una fantasia [scrisse] « Allah contro Gorbaciov » , libro profetico guardando agli sviluppi successivi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scrisse ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q591]]
+
+[[Question:MC]]
+C' era la possibilità di [utilizzare] solo l' unità ricca di staminali , ma è stato deciso di trapiantarle entrambe , sia l' unità più ricca di cellule « non manipolate » , sia l' altra più povera , ma dopo averla congelata e trasferita alla « Cell Factory » di Milano , per amplificare il numero delle sue cellule .
+[[Question:MC:SingleAnswer]]
+Il verbo [ utilizzare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q997]]
+
+[[Question:MC]]
+Bisogna ricominciare a riconsiderare - ha [concluso] Ferrante - il valore dei bambini per la società .
+[[Question:MC:SingleAnswer]]
+Il verbo [ concluso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q743]]
+
+[[Question:MC]]
+Soprattutto da quando l' uomo aveva avuto problemi di salute e i medici gli avevano consigliato di [smettere] di fumare .
+[[Question:MC:SingleAnswer]]
+Il verbo [ smettere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q95]]
+
+[[Question:MC]]
+L' incertezza su Taranto sembra intanto condizionare in qualche modo la cessione della Ise , la società di produzione elettrica dell' Ilva il cui maggior asset [sarebbe] proprio quello della nuova centrale collegata agli stabilimenti di Taranto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sarebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q5]]
+
+[[Question:MC]]
+Bisogna " recuperare il crollo del gettito che c' è stato in questi anni ma non ci sarà nessun aumento delle tasse " - Lo ha [detto] Visco - All' incontro a Palazzo Chigi con le parti sociali , il viceministro per l' Economia ha aggiunto che il governo " metterà mano al sistema dei rimborsi Iva " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ detto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1643]]
+
+[[Question:MC]]
+E' [prevista] anche un' escursione nei boschi della zona per raccogliere esemplari di specie botaniche che verranno poi classificate e conservate .
+[[Question:MC:SingleAnswer]]
+Il verbo [ prevista ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q888]]
+
+[[Question:MC]]
+La parte operativa della Dirigenza va [guidata] dalla parte politica che ha il delicato compito di rendere compatibili le diverse richieste , talora contrastanti , dei cittadini nei confronti della Sanità Pubblica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ guidata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q389]]
+
+[[Question:MC]]
+Ma , alla fine , [prevale] sempre il desiderio di acquistare la novità .
+[[Question:MC:SingleAnswer]]
+Il verbo [ prevale ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1061]]
+
+[[Question:MC]]
+Ma anche gli austriaci sono agguerriti , così come i finlandesi , e tutti [schierati] contro il polacco Adam Malysz .
+[[Question:MC:SingleAnswer]]
+Il verbo [ schierati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q699]]
+
+[[Question:MC]]
+E quali testimoni della buona riuscita di alcuni di questi progetti , sono arrivati a Trento due importanti religiosi , accompagnati da monsignor Luigi Bressan : Lino Panizza , vescovo di Carabayllo , che invita le autorità ad intervenire all' ormai prossima inaugurazione del centro El Buen Pastor ( 180 alunni , tra i quali anche alcune ragazze iscritte al corso di falegnameria ) , e Adriano Tomasi , vescovo ausiliario di Lima , che annuncia il completamento ( forse già a marzo ) dei primi edifici dell' istituto di Manchay [destinato] a far studiare almeno un migliaio di allievi distribuiti in corsi da sei mesi fino a tre anni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ destinato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1882]]
+
+[[Question:MC]]
+Lo hanno [trovato] morto carbonizzato due ore dopo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trovato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q206]]
+
+[[Question:MC]]
+Il trauma cranico riportato nella caduta fortunatamente non [è] grave .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2019]]
+
+[[Question:MC]]
+Anche se fino a ieri all' interno del gruppo Varasi " non [risultava] " alcun nuovo arrivo al vertice .
+[[Question:MC:SingleAnswer]]
+Il verbo [ risultava ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q685]]
+
+[[Question:MC]]
+Costruire il futuro del paese è strategico e lo confermano anche due degli interventi generosamente sostenuti dall' amministrazione provinciale : il centro di istruzione per l' occupazione El Buen Pastor e l' istituto di educazione tecnologica di Manchay che , come l' Università Sedes Sapientiae , sono progetti [gestiti] direttamente dalla Provincia con contributi complessivi , spalmati nel triennio 2003 - 2005 , di 530mila euro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ gestiti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2205]]
+
+[[Question:MC]]
+Ma c' è anche da dire che gli Americani stanno [costruendo] un oleodotto che passa dalla Georgia , evidentemente contro gli interessi della Russia » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ costruendo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2117]]
+
+[[Question:MC]]
+Ma agli inizi del 1800 la situazione degenerò in guerra allorché la Russia tentò di [espandersi] verso l' oceano Indiano .
+[[Question:MC:SingleAnswer]]
+Il verbo [ espandersi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q440]]
+
+[[Question:MC]]
+Leggermente arcuata , impedisce a chi utilizza la mano sinistra per scrivere di « [sbavare] » con il polso .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sbavare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1242]]
+
+[[Question:MC]]
+« Mi complimento per il risultato : per i tempi ma anche per i modi » commenta Pacher , [intervenuto] all' inaugurazione assieme ai colleghi di giunta Andrea Rudari e Renato Pegoretti ( la Provincia , invece , è stata rappresentata dall' assessore Silvano Grisenti e dal collega Tiziano Salvaterra ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ intervenuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q688]]
+
+[[Question:MC]]
+« Il 90% dei nostri interventi di solidarietà nel mondo - [ricorda] Berasi - hanno come riferimento trentini e religiosi » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricorda ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1907]]
+
+[[Question:MC]]
+Determinante [sarà] la tua vena realizzatrice ma soprattutto quella di Luca Bonazza , il re indiscusso del gol .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sarà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q31]]
+
+[[Question:MC]]
+Da sola , nella terza stanza , una ragazza legge dei fogli e [ripensa] alle proprie relazioni sentimentali .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ripensa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1849]]
+
+[[Question:MC]]
+Gianni Dorigatti , segretario provinciale della Fabi ( 2.700 iscritti in provincia di Trento su un totale di 4.000 bancari ) che aderirà allo sciopero , spiega che « non si può [accettare] la posizione dell' Abi che intende lavorare per una netta scissione fra parte economica inconsistente e una parte normativa peraltro mai discussa » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ accettare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

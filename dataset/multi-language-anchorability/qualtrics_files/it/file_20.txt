@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q102]]
+
+[[Question:MC]]
+Nell' occasione sarà [posto] uno striscione all' interno del centro sportivo e verrà allestito fuori dallo stadio un gazebo per la distribuzione di materiale informativo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ posto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q844]]
+
+[[Question:MC]]
+Tutto questo , [vorrei] costasse alla Comunità meno di quanto spendiamo attualmente per la Sanità .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vorrei ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1706]]
+
+[[Question:MC]]
+Intanto il procuratore di Marsala si è detto convinto che « la piccola è viva » e si troverebbe « a Mazara del Vallo o nelle vicinanze » tenuta segregata da qualcuno che [vuole] « punire » per « motivi personali » i genitori della bimba di quattro anni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vuole ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1311]]
+
+[[Question:MC]]
+La tradizionale , straordinaria sensibilità dei trentini ha avuto modo di [esprimersi] già nelle prime ore dopo la tragedia , con l' avvio di iniziative capaci di esprimere lo sgomento e l' orrore per i fatti di Beslan : ma ora a mio avviso è giunto il momento di organizzare e dare sistematicità ai diffusi sentimenti dei trentini che vogliono dare una testimonianza tangibile della loro vicinanza a quella sventurata popolazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ esprimersi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1637]]
+
+[[Question:MC]]
+I quattro - Omar Hayat , Mubarik Ali , Muhammad Ashraf e Shehzad Ahmed - riconosciuti colpevoli di aver violentato nel 1999 la ragazza , all' epoca 14enne , sono stati [giustiziati] nella prigione di Faisalabad , città industriale nella provincia del Pundjab ( centro del paese ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ giustiziati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1460]]
+
+[[Question:MC]]
+NATZ - è vero che di fronte aveva il Mori dall' attacco stellare , ma partire con uno 0 - 4 non è proprio l' ideale per la credibilità e il morale di una formazione già lo scorso anno costretta a soffrire oltremisura per [guadagnarsi] la salvezza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ guadagnarsi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1651]]
+
+[[Question:MC]]
+Il cda , [presieduto] da Italo Garbari , comprende anche Adriano Trentini , Alessandro Bortolotti , Bruna Marchesoni , Fernando Luciano Imperadori , Giovanni Merz , Giorgio Fracalossi , Giuseppe Faes , Renzo Bonazza , Renzo Dallaserra , Sandro Menestrina , Silvio Carlin , Tullio Grisenti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ presieduto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q372]]
+
+[[Question:MC]]
+Si [sceglie] la più grande ( 23,90 euro ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sceglie ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1450]]
+
+[[Question:MC]]
+Si possono comunque consolare i biancocelesti guardando la statistica : negli ultimi due anni a [vincere] il campionato è stata proprio la squadra che all' esordio aveva affrontato il Salorno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vincere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q711]]
+
+[[Question:MC]]
+Bruno Dorigatti , ex segretario provinciale della Cgil , non diventerà coordinatore regionale del sindacato , ruolo che era stato ipotizzato per [valorizzare] l' esperienza di uno dei sindacalisti di razza della provincia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ valorizzare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q408]]
+
+[[Question:MC]]
+Queste postine - si [chiamano] proprio così - vengono 34,50 euro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ chiamano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1300]]
+
+[[Question:MC]]
+« L' immane , terribile tragedia di Beslan - scrive Bezzi in una nota - ha commosso l' intera comunità nazionale ed internazionale ed anche la gente trentina ha [seguito] con passione e partecipazione il dramma dei bambini , delle mamme , di tutta la popolazione di quella lontana e sventurata città .
+[[Question:MC:SingleAnswer]]
+Il verbo [ seguito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1830]]
+
+[[Question:MC]]
+Tra le questioni sul tappeto , la più spinosa sembra [essere] quella legata alla parte economica del nuovo contratto .
+[[Question:MC:SingleAnswer]]
+Il verbo [ essere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1024]]
+
+[[Question:MC]]
+La Hyundai Automobili Italia , che ha sede a Torino , ha chiuso il 92 con un fatturato consolidato di 175,4 miliardi e ha [venduto] 11501 vetture attraverso 138 concessionari .
+[[Question:MC:SingleAnswer]]
+Il verbo [ venduto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q588]]
+
+[[Question:MC]]
+Delle due unità di sangue cordonale raccolto alla nascita dai due gemelli , lo scorso aprile , una [conteneva] un buon numero di cellule staminali , mentre l' altra unità era più povera di « progenitori emopoietici » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ conteneva ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q677]]
+
+[[Question:MC]]
+La firma è in programma oggi alle 18 e non [è] che l' ultima testimonianza della vicinanza del Trentino all' America Latina : « I nostri interventi in quell' area - chiarisce Berasi - sono dedicati quasi esclusivamente alla formazione professionale » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1609]]
+
+[[Question:MC]]
+Ma è ancora un bambino ad essere protagonista : le canzoni cantate da Risto Joost , un giovane controtenore dell' Estonia , sono musicate su testi [scritti] da un bimbo - cadetto di soli undici anni , uno dei cadetti dell' accademia di Kronstadt e sono cantate in russo e in ceceno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scritti ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2096]]
+
+[[Question:MC]]
+« Ceceni non [è] il vero nome di quel popolo , glielo hanno appiccicato i Russi : loro si chiamano " nokhci , uomini .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q29]]
+
+[[Question:MC]]
+Kylie Walters e Asier Zabaleta sono una coppia [impegnata] a soddisfare impeti focosi e scoppi di gelosi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ impegnata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q410]]
+
+[[Question:MC]]
+Particolarmente impegnativo il mega - astuccio tutto completo , visto che il prezzo si [aggira] sui 26,90 euro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aggira ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

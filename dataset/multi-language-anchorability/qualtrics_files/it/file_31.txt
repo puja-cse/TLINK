@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q266]]
+
+[[Question:MC]]
+E' il caso di Antino ( Merano ) che al Ger ha parato anche le mosche , di Postal ( Albiano ) che ha detto no a ripetizione agli avanti del Rovereto , e di Fontana ( Vallagarina ) che con una straordinaria prodezza ha [messo] in cassaforte la vittoria biancorossa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ messo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q423]]
+
+[[Question:MC]]
+Da quest' anno sembrano aver preso piede i trolly , molto indicati a chi deve fare molta strada a piedi e non [vuole] rimanere schiacciato sotto il peso dei libri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vuole ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1453]]
+
+[[Question:MC]]
+Ed anche l' Arco dodici mesi fa [impattò] 0 - 0 in casa e poi ...
+[[Question:MC:SingleAnswer]]
+Il verbo [ impattò ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q873]]
+
+[[Question:MC]]
+E' evidente , abbandonando le facezie , che il Direttore Generale della Sanità Provinciale può influenzare molti di questi aspetti , sia dalla parte del cittadino utente che per il cittadino dipendente dei Servizi Sanitari , ma vorrei apportare alla discussione la convinzione che chi [dirige] la Azienda Sanitaria deve attenersi alle direttive di chi , per proprio mandato istituzionale , deve farsi carico del Servizio Sanitario nel suo insieme , vale a dire della Politica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dirige ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1694]]
+
+[[Question:MC]]
+MAZARA - « Chi ha in mano la nostra bambina , forse può avere anche lei una figlia , e [può] dunque comprendere il nostro stato d' animo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ può ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1193]]
+
+[[Question:MC]]
+Il Trofeo " OK CASA - Levico Terme " che si è svolto domenica 5 settembre è [stata] una vera festa per i 60 giocatori iscritti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q104]]
+
+[[Question:MC]]
+Quest' anno l' assemblea annuale di piccoli comuni verrà [organizzata] in Trentino .
+[[Question:MC:SingleAnswer]]
+Il verbo [ organizzata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q564]]
+
+[[Question:MC]]
+La scossa , avvertita alle 8,53 ( le 13,53 italiane ) , ha [avuto] come epicentro la Sierra di Ambato , una zona collinare al confine fra le province di Catamarca e La Rioja .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2067]]
+
+[[Question:MC]]
+All' insegna della cucina tradizionale zingara e mòchena anche " Minoranze in pentola " ( venerdì 10 e sabato 11 dalle 19 alle 23 in Piazza Fruet ) con il menù [curato] dall' Associazione di volontariato " La Cometa " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ curato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q491]]
+
+[[Question:MC]]
+Ricordando la « vile e spietata aggressione di Beslan » , il cardinale Michele Giordano rivolge questo auspicio agli studenti napoletani , sostiene che « alla violenza delle guerre , del terrorismo , dell' intolleranza [va] contrapposta , cominciando proprio dai giovani , una cultura di segno opposto » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ va ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q505]]
+
+[[Question:MC]]
+Ora - prosegue Cossiga - vorrebbero apparire quali perseguitati mentre invece sono dei commercianti di alcol e , quindi , [esercitano] una attività in contrasto con i dettami del Corano » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ esercitano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q539]]
+
+[[Question:MC]]
+Ora è [rinchiusa] nel carcere di Perugia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rinchiusa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q157]]
+
+[[Question:MC]]
+Diversamente la legislatura nella nostra regione [sarebbe] di tre anni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sarebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1243]]
+
+[[Question:MC]]
+« Mi complimento per il risultato : per i tempi ma anche per i modi » commenta Pacher , intervenuto all' inaugurazione assieme ai colleghi di giunta Andrea Rudari e Renato Pegoretti ( la Provincia , invece , è stata [rappresentata] dall' assessore Silvano Grisenti e dal collega Tiziano Salvaterra ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rappresentata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1713]]
+
+[[Question:MC]]
+Gli ospiti attualmente accolti e inviati dai servizi sociali e dal tribunale per i minorenni [superano] il centinaio , come pure gli educatori professionali che li seguono nelle oltre quindici realtà in cui si articola la struttura assistenziale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ superano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1200]]
+
+[[Question:MC]]
+Anche il risultato sportivo è stato buono , con 2 squadre a 42 punti e ben 3 a seguire con 41 , con Maria Silva Boccardi che ha [fatto] tesoro della precedente gara a squadre , dove è stata partner di Costantino Rocca .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fatto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1523]]
+
+[[Question:MC]]
+L' andamento degli impieghi nei primi sei mesi del 2004 è stato sopra la media , ed [evidenzia] una crescita del 12,73% in confronto al risultato ottenuto nel primo semestre 2003 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ evidenzia ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q382]]
+
+[[Question:MC]]
+La commessa ammicca e dice : « Se il prossimo anno verrete prima , [avrete] più scelta » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avrete ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1589]]
+
+[[Question:MC]]
+Una donna di nome Hadizhat Gataeva , protagonista e filo conduttore di tutti e tre i documentari , ha [salvato] molti bambini delle rovine di Grozny , e si prende cura di loro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ salvato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q307]]
+
+[[Question:MC]]
+Vigili del fuoco mobilitati ieri in tarda mattinata a Fierozzo per un turista che è [caduto] durante un' escursione nei boschi della zona .
+[[Question:MC:SingleAnswer]]
+Il verbo [ caduto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

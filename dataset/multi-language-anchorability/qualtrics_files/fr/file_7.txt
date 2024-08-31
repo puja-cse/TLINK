@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q245]]
+
+[[Question:MC]]
+Le bâtiment était [fermé] depuis .
+[[Question:MC:SingleAnswer]]
+Le verbe [ fermé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q12]]
+
+[[Question:MC]]
+Cela laisse [présager] une sentence identique pour le leader kurde Abdullah Ocalan .
+[[Question:MC:SingleAnswer]]
+Le verbe [ présager ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q118]]
+
+[[Question:MC]]
+Les gendarmes d'Obernai [enquêtent] .
+[[Question:MC:SingleAnswer]]
+Le verbe [ enquêtent ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q82]]
+
+[[Question:MC]]
+Les gendarmes ont très vite [identifié] l'auteur des exhibitions .
+[[Question:MC:SingleAnswer]]
+Le verbe [ identifié ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q129]]
+
+[[Question:MC]]
+- Laurent Fabius se dit favorable à un « quinquennat de cohérence » consistant à aligner la durée des mandats présidentiel et législatif afin d' [éviter] une cohabitation .
+[[Question:MC:SingleAnswer]]
+Le verbe [ éviter ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q211]]
+
+[[Question:MC]]
+La fumée a [attiré] l'attention des voisins et des passants vers 15 h 30 , hier .
+[[Question:MC:SingleAnswer]]
+Le verbe [ attiré ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q29]]
+
+[[Question:MC]]
+A Moscou , le nouveau Premier ministre russe Sergueï Stépachine , confirmé par les députés de la Douma , a annoncé qu'il [garderait] « l'ossature » du précédent gouvernement .
+[[Question:MC:SingleAnswer]]
+Le verbe [ garderait ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q215]]
+
+[[Question:MC]]
+Le feu avait [couvé] et une épaisse fumée s ' était concentrée sur les deux étages de l'entrepôt du Secours populaire .
+[[Question:MC:SingleAnswer]]
+Le verbe [ couvé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q51]]
+
+[[Question:MC]]
+Cependant , si 56 % des personnes interrogées [font] confiance au gouvernement Raffarin en matière de lutte contre l'insécurité , 71 % ne lui font pas confiance en matière d'augmentation du pouvoir d'achat et 64 % en matière de lutte contre le chômage .
+[[Question:MC:SingleAnswer]]
+Le verbe [ font ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q217]]
+
+[[Question:MC]]
+Il a [fallu] que les sapeurs - pompiers cassent les vitres , découpent le rideau métallique de la porte d'entrée et fassent des ouvertures dans le toit pour pouvoir combattre les flammes .
+[[Question:MC:SingleAnswer]]
+Le verbe [ fallu ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q262]]
+
+[[Question:MC]]
+Si on laisse cela en l'état , ils vont être pillés » , [soupirait] - elle alors que les pompiers engageaient les premières opérations de ventilation , d'étayage et de déblais .
+[[Question:MC:SingleAnswer]]
+Le verbe [ soupirait ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q94]]
+
+[[Question:MC]]
+Il a , en outre , [jugé] recevables les constitutions de partie civile de deux des cinq représentants légaux .
+[[Question:MC:SingleAnswer]]
+Le verbe [ jugé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q107]]
+
+[[Question:MC]]
+Il [tiendra] , en compagnie du maire de Toulouse « une réunion dialogue avec des Toulousains » , à 16 h au Centre des Congrès Pierre Baudis .
+[[Question:MC:SingleAnswer]]
+Le verbe [ tiendra ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q9]]
+
+[[Question:MC]]
+Un haut dirigeant séparatiste kurde , Semdim Sakik , reconnu coupable de la mort de 283 personnes dans 191 attentats perpétrés par le PKK et [accusé] de séparatisme , a été condamné à mort hier par un tribunal turc .
+[[Question:MC:SingleAnswer]]
+Le verbe [ accusé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q257]]
+
+[[Question:MC]]
+Seul baume à son cœur , une partie des vêtements ne [paraissait] pas trop touchée : « Il va falloir les mettre en lieu sûr .
+[[Question:MC:SingleAnswer]]
+Le verbe [ paraissait ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q255]]
+
+[[Question:MC]]
+Il n ' y [avait] rien d'anormal » , explique cette habitante du quartier , bénévole au « Secours pop » depuis douze ans .
+[[Question:MC:SingleAnswer]]
+Le verbe [ avait ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q2]]
+
+[[Question:MC]]
+Vaclav Havel , le président tchèque qui souffre depuis mardi d'une affection virale des voies respiratoires , a [dû] être hospitalisé hier soir , après une « détérioration de l'état de santé » , selon le porte - parole .
+[[Question:MC:SingleAnswer]]
+Le verbe [ dû ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q240]]
+
+[[Question:MC]]
+Jean - Claude Viailly , responsable des ventes , [regardait] avec la larme à l'œil les pompiers dégager les restes de son bureau et de sa brocante : « Nous sommes trois à être salariés ici .
+[[Question:MC:SingleAnswer]]
+Le verbe [ regardait ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q95]]
+
+[[Question:MC]]
+Mais ils n'ont pas [demandé] de dommages et intérêts , souhaitant que justice soit faite .
+[[Question:MC:SingleAnswer]]
+Le verbe [ demandé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q226]]
+
+[[Question:MC]]
+Deux fourgons et deux grandes échelles ont été [mises] en action .
+[[Question:MC:SingleAnswer]]
+Le verbe [ mises ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+

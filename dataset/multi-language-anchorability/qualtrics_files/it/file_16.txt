@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1641]]
+
+[[Question:MC]]
+TRENTO - Una giornata in famiglia sul monte Lefre per imparare a [costruire] un vero erbario è in programma venerdì 10 settembre .
+[[Question:MC:SingleAnswer]]
+Il verbo [ costruire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1785]]
+
+[[Question:MC]]
+TRENTO - Un set di grande equilibrio , più nulla da fare nel secondo : Davide Volpe ( nella foto ) ha [messo] addosso un po' di brividi a Markus Innerebner , ma è stato poi l' altoatesino a qualificarsi per gli ottavi dell' open del Ct Trento , imitato in ciò da Patrick Prader e David Complojer .
+[[Question:MC:SingleAnswer]]
+Il verbo [ messo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1755]]
+
+[[Question:MC]]
+L' escamotage di depositare la delibera in tempi separati permetterà di evitare l' impaccio del megaemendamento che - nelle intenzioni di parecchi consiglieri - sarebbe stato necessario [presentare] per riconsiderare tutte le domande rimaste escluse .
+[[Question:MC:SingleAnswer]]
+Il verbo [ presentare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q827]]
+
+[[Question:MC]]
+Non è il primo caso : quaranta anni prima , per la messa in scena della " Vita di Galileo " di Brecht , era [diventato] celebre il binomio Geymonat - Strehler .
+[[Question:MC:SingleAnswer]]
+Il verbo [ diventato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q459]]
+
+[[Question:MC]]
+Il cardinale sottolinea il ruolo che [deve] avere l' Onu .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deve ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q809]]
+
+[[Question:MC]]
+Giorello è laureato in filosofia e matematica ; da tempo [collabora] con il " Corriere della Sera " ed è un saggista molto apprezzato , autore di diversi libri - l' ultimo dei quali " Prometeo , Ulisse e Gilgamesh " è appena stato presentato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ collabora ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2082]]
+
+[[Question:MC]]
+Nella sua casa di Levico , piena di icone russe e d' una infinità di testi in cirillico , in questi giorni sta finendo di [scrivere] « Il Caucaso : popoli , lingue , culture , religioni e petrolio tra il mar Nero e il Caspio » ( titolo provvisorio ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scrivere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q454]]
+
+[[Question:MC]]
+Se non ci [succederà] niente mentre saliamo su un autobus , o quando andiamo al bar .
+[[Question:MC:SingleAnswer]]
+Il verbo [ succederà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1931]]
+
+[[Question:MC]]
+Se tutti pensano a fermare lui ci [sono] più opportunità per gli altri .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q461]]
+
+[[Question:MC]]
+« Più volte il Papa ha [ricordato] che lo statuto dell' Onu fornisce tutti i mezzi per affrontare congiuntamente i pericoli che mettono in crisi la stabilità e la sicurezza internazionali .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ricordato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1886]]
+
+[[Question:MC]]
+E che [parla] coi gol : 2 l' altro ieri a Natz nel turno d' apertura , 15 la stagione scorsa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ parla ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1172]]
+
+[[Question:MC]]
+In alternativa , [propongono] il mantenimento dell' attuale destinazione a verde agricolo primario ( come previsto dal Pup ) e l' istituzione di una fascia di rispetto di almeno 150 metri dai biotopi confinanti , dagli stagni di Velaverde e dal Sorasass , e altrettanti dal fiume Adige .
+[[Question:MC:SingleAnswer]]
+Il verbo [ propongono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q922]]
+
+[[Question:MC]]
+La politica deve quindi dare direttive precise e [vigilare] sulla loro applicazione , cercando i correttivi a quelle disfunzioni che dieci anni di Aziendalizzazione della Sanità possono avere evidenziato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vigilare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q932]]
+
+[[Question:MC]]
+Per governare una macchina imponente come la Sanità Trentina c' [è] bisogno anche di conoscerne i diversi aspetti e la rivoluzione continua ai vertici dirigenziali non va in questa direzione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q346]]
+
+[[Question:MC]]
+Noi puntiamo a [trovare] un buon equilibrio e a disputare un buon campionato » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trovare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q964]]
+
+[[Question:MC]]
+Le tre maggiori sigle sindacali hanno infatti indetto una conferenza stampa per spiegare le ragioni della fiaccolata silenziosa che si [terrà] domani - giovedì 9 settebre - a partire dalle 19.30 per le vie del centro , e che vedrà la partecipazione di numerose altre associazioni , tra cui le Acli e Azione cattolica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ terrà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q540]]
+
+[[Question:MC]]
+Il fatto è [avvenuto] ieri verso le 11 tra le colline dell' Umbria .
+[[Question:MC:SingleAnswer]]
+Il verbo [ avvenuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1381]]
+
+[[Question:MC]]
+Senza immagini , senza emozioni » , accusa Glucksmann ed è sprezzante nei confronti della « politica della forza » [voluta] dal « pompiere piromane Putin » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ voluta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2071]]
+
+[[Question:MC]]
+Esistono delle complesse ragioni per la crisi del Caucaso , ma la strage nella scuola di Beslan [è] una questione patologica , da mettere in mano a degli psichiatri , inspiegabile dal punto di vista politico , razionale e umano .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1313]]
+
+[[Question:MC]]
+La tradizionale , straordinaria sensibilità dei trentini ha avuto modo di esprimersi già nelle prime ore dopo la tragedia , con l' avvio di iniziative capaci di esprimere lo sgomento e l' orrore per i fatti di Beslan : ma ora a mio avviso è [giunto] il momento di organizzare e dare sistematicità ai diffusi sentimenti dei trentini che vogliono dare una testimonianza tangibile della loro vicinanza a quella sventurata popolazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ giunto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q2183]]
+
+[[Question:MC]]
+Ma l' humus letale , per [far] nascere il terrorismo , dov' era ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ far ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q631]]
+
+[[Question:MC]]
+Nell' appartamento in cui è avvenuto l' omicidio c' era anche una connazionale della vittima , che con lei avrebbe [dovuto] far ritorno in Ucraina .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dovuto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1291]]
+
+[[Question:MC]]
+TRENTO - Un progetto organico di aiuti alle famiglie colpite dalla tragedia di Beslan che metta assieme e coordini tutte le iniziative di solidarietà già avviate e quelle [programmate] , puntando in via prioritaria ad assicurare ai bambini e alle bambine che hanno vissuto quella spaventosa esperienza tutti i supporti , materiali e non , necessari per aiutarli a superare il terribile shock subito in quei drammatici giorni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ programmate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1525]]
+
+[[Question:MC]]
+ROMA - [Corsa] contro il tempo per la raccolta delle firme sul referendum contro la legge sulla procreazione assistita .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Corsa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q783]]
+
+[[Question:MC]]
+Gli agenti delle volanti lo hanno [bloccato] mentre cercava di scappare dopo essersi sbarazzato dell' attrezzo : è stato raggiunto e arrestato per tentato furto aggravato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ bloccato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2107]]
+
+[[Question:MC]]
+Ma [esiste] una " caucasicità " trasversale , che parte dalla zona tra i due mari e arriva fino in Sardegna , passando dall' Albania .
+[[Question:MC:SingleAnswer]]
+Il verbo [ esiste ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q831]]
+
+[[Question:MC]]
+nan [Vorrei] partecipare alla discussione in atto in questi giorni sul vostro quotidiano in merito alla conferma o meno dell' attuale Direttore Generale della Azienda Sanitaria Provinciale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Vorrei ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q921]]
+
+[[Question:MC]]
+La politica deve quindi [dare] direttive precise e vigilare sulla loro applicazione , cercando i correttivi a quelle disfunzioni che dieci anni di Aziendalizzazione della Sanità possono avere evidenziato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q853]]
+
+[[Question:MC]]
+Vorrei poter decidere di quali Collaboratori circondarmi , quali apparecchiature [acquistare] , quale quota di lavoro portare avanti e quale tralasciare , quando andare in ferie e quali corsi di aggiornamento seguire .
+[[Question:MC:SingleAnswer]]
+Il verbo [ acquistare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q107]]
+
+[[Question:MC]]
+Ennesima [scalata] nel mercato dell' Information Technology .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scalata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q558]]
+
+[[Question:MC]]
+Marosi alti fino a dieci metri di altezza e l' alta marea , autocarri sollevati come fuscelli e [rovesciati] su strade e autostrade .
+[[Question:MC:SingleAnswer]]
+Il verbo [ rovesciati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q893]]
+
+[[Question:MC]]
+Il Politico deve ascoltare tutti ma [è] poi fatale che debba assumere decisioni , che non possono accontentare tutti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1777]]
+
+[[Question:MC]]
+Si [intravedono] i terroristi incappucciati , degli ostaggi seduti con le mani sulla testa e sosprattutto numerose cariche di esplosivo collegate tra loro da fili .
+[[Question:MC:SingleAnswer]]
+Il verbo [ intravedono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1455]]
+
+[[Question:MC]]
+NATZ - è vero che di fronte [aveva] il Mori dall' attacco stellare , ma partire con uno 0 - 4 non è proprio l' ideale per la credibilità e il morale di una formazione già lo scorso anno costretta a soffrire oltremisura per guadagnarsi la salvezza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aveva ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q943]]
+
+[[Question:MC]]
+Didier Mahy , padre di Nathalie , ha preferito un funerale nella più stretta intimità da [tenersi] probabilmente sabato mattina , secondo quanto riferito dall' avvocato della madre che ora vive con il padre di Stacy .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tenersi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q296]]
+
+[[Question:MC]]
+nan [Fermato] , è risultato trattarsi di un trentino , incensurato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Fermato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1306]]
+
+[[Question:MC]]
+« La condanna di questi atti efferati e la mobilitazione di tutti contro questo terrorismo cieco e brutale che cancella ogni limite ed [annulla] i tabù più consolidati - prosegue Bezzi - devono accompagnarsi con concrete iniziative di solidarietà verso gli abitanti della sfortunata città dell' Ossezia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ annulla ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q439]]
+
+[[Question:MC]]
+Leggermente arcuata , impedisce a chi utilizza la mano sinistra per [scrivere] di « sbavare » con il polso .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scrivere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1583]]
+
+[[Question:MC]]
+« Con fierezza , con fierezza » grida l' addestratore , ma i ragazzi hanno sonno , [sono] stanchi ; enormi sbadigli si spalancano sulla loro vita malinconica di ordine e disciplina forzati .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2127]]
+
+[[Question:MC]]
+« Qui è l' origine remota della rivalità tra Ceceni e Ossiti : oltre alla differenza di religione gli abitanti della Ossetia del Nord hanno favorito la dominazione russa - sottolinea Bensi - una colpa imperdonabile , che gli Ossiti si [trascinano] fino ad oggi » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trascinano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q446]]
+
+[[Question:MC]]
+« Noi parliamo sempre delle due guerre mondiali , la prima e la seconda , e [dimentichiamo] che c' è stata una terza guerra mondiale , la guerra fredda - spiega il cardinale - Una vera e propria guerra , anche se fuori degli schemi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dimentichiamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q661]]
+
+[[Question:MC]]
+Nel 92 la Sara Vita ha raccolto premi per 25,4 miliardi e chiuso il bilancio con un utile di 92 milioni ; le riserve tecniche al lordo del lavoro ceduto [risultano] pari a 90,4 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ risultano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1863]]
+
+[[Question:MC]]
+Sono [bastate] poche ore di fuoco per provocare una vittima e danni ingenti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ bastate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1148]]
+
+[[Question:MC]]
+Alla luce della decisione dell' assessore Andreatta di prendere in considerazione le richieste presentate entro il 30 giugno di quest' anno alla Vela [pretendono] che pure le loro istanze vengano dibattute in commissione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ pretendono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1103]]
+
+[[Question:MC]]
+Questa non avrebbe voluto impegnarsi ad [accettare] una seconda offerta ( più elevata ) come definitiva sia perché impossibilitata sul piano legale sia perché legata a un' esclusiva con la Glaxo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ accettare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1990]]
+
+[[Question:MC]]
+L' ingresso di Cefis in Santavaleria resta subordinato all' accettazione da parte di Varasi del piano [predisposto] da Mediobanca che potrebbe essere a grandi linee simile a quello già realizzato proprio con il gruppo Ligresti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ predisposto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1957]]
+
+[[Question:MC]]
+Chiaro che non lo [scrivo] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ scrivo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1750]]
+
+[[Question:MC]]
+Poi , affinché gli interventi inseriti nella variante possano effettivamente venire realizzati , servirà il « visto » della giunta provinciale , che ha a disposizione un anno per [leggere] tutta la documentazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ leggere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1207]]
+
+[[Question:MC]]
+« [É] un caso più unico che raro » osserva il primo cittadino , Alberto Pacher , che quell' asilo lo conosce bene per averlo frequentato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ É ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1083]]
+
+[[Question:MC]]
+Il takeover , del valore di 9 miliardi di sterline ( oltre 24mila miliardi di lire ) ha [visto] la strada spianata dopo che la Wellcome ha riconosciuto di non potere presentare alcuna controfferta alternativa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ visto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q270]]
+
+[[Question:MC]]
+nan [E'] vero che una rondine non fa primavera , ma il punto ottenuto con pieno merito sul campo dell' Alense dimostra che la determinazione e l' impegno sono tornati a livelli rassicuranti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ E' ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2123]]
+
+[[Question:MC]]
+Ad essere meno ostili nei confronti dei dominatori [furono] alcuni caucasici del nord , tra cui , appunto , gli Ossiti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ furono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1909]]
+
+[[Question:MC]]
+Com' è [giocarci] a fianco ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ giocarci ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1998]]
+
+[[Question:MC]]
+Cefis , vice presidente operativo della Premafin , lascerebbe la carica attualmente ricoperta nella holding di Salvatore Ligresti avendo esaurito il compito affidatogli proprio da Mediobanca al momento dell' avvio del piano di ristrutturazione del debito del gruppo che [fa] capo al costruttore e finanziere siciliano .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1341]]
+
+[[Question:MC]]
+La dismissione è avvenuta nell' ambito delle procedure di liquidazione del gruppo Cameli e - segnala un comunicato della società acquirente - " ha [permesso] il salvataggio di oltre il 60,00% dei posti di lavoro della Bravo " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ permesso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1843]]
+
+[[Question:MC]]
+Giancarlo Mirandola , della Federdirigenti , ha [evidenziato] come la vendita di buona parte delle banche locali , vicenda tornata di attualità con la polemica Grisenti - Volksbank , abbia portato « ad un impoverimento di tutti in Trentino , non solo dei dipendenti » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ evidenziato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q87]]
+
+[[Question:MC]]
+Biondo ha aggiunto che l' Iri ha [riferito] l' esistenza di due offerte per l' Ilp : quella guidata dal gruppo Riva e quella di Lucchini .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riferito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1361]]
+
+[[Question:MC]]
+Il 12 luglio le sei grandi potenze terranno una riunione in Europa per [analizzare] la risposta .
+[[Question:MC:SingleAnswer]]
+Il verbo [ analizzare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1688]]
+
+[[Question:MC]]
+L' eroina della rivoluzione arancione , Yulia Tymoschenko è di nuovo primo ministro dell' Ucraina - La candidatura della Tynmoshenko è stata [sostenuta] dalla sua lista e dal partito del presidente Viktor Yushenko , che ora dovrà sottoporre la candidatura al verdetto finale del Parlamento .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sostenuta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1367]]
+
+[[Question:MC]]
+Il biglietto di corsa semplice è [aumentata] mediamente del 5% ; l' aumento degli abbonamenti è dell' 11% .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aumentata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

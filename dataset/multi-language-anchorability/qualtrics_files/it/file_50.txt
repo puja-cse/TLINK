@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1348]]
+
+[[Question:MC]]
+Attualmente - prosegue il comunicato - sono dodici le società del settore televisivo in cui la Profit detiene una partecipazione e [partecipa] alla conduzione commerciale e operativa : dall' emittente nazionale Rete Mia a Telecampione ( dedicata all' informazione economico-finanziaria ) , dall' area teletext e multimediale con Miatel alla Vta e all' Acomedia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ partecipa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2095]]
+
+[[Question:MC]]
+« Tra Dagestan e Arzebaijan ci [sono] almeno 15 etnie diverse : alcune direttamente discendenti degli Avari del primo medioevo » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1618]]
+
+[[Question:MC]]
+I risultati della produzione in Italia hanno [raggiunto] 201 miliardi , con un aumento del 17,00% rispetto al 91 che riguarda soprattutto il comparto delle grandi opere .
+[[Question:MC:SingleAnswer]]
+Il verbo [ raggiunto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q262]]
+
+[[Question:MC]]
+PORTIERI - hanno [cominciato] col piede , anzi con la mano giusta alcuni numeri uno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ cominciato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2139]]
+
+[[Question:MC]]
+« Stalin , da buon georgiano , [aveva] un astio particolare per quelli che dal suo punto di vista erano solo dei rozzi montanari - racconta Bensi - la deportazione in Siberia fu organizzata a partire dal 1944 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aveva ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1910]]
+
+[[Question:MC]]
+Meglio o peggio per chi [fa] la seconda punta ?
+[[Question:MC:SingleAnswer]]
+Il verbo [ fa ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1491]]
+
+[[Question:MC]]
+Il giudice ha applicato il massimo della pena ( dai 3 ai 15 anni ) [spiegando] di voler dare un esempio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ spiegando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1773]]
+
+[[Question:MC]]
+La videocamera si [muove] molto , ma è chiaro che i sequestratori cercavano di filmare il loro dispositivo esplosivo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ muove ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1823]]
+
+[[Question:MC]]
+« La proclamazione dello sciopero - ha precisato Elena Vannucci , segretaria nazionale Fiba Cisl - deriva dalla chiusura totale da parte dell' Abi , che si è dimostrata non disposta a trattare dopo che si era [raggiunta] una buona piattaforma di accordo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ raggiunta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1531]]
+
+[[Question:MC]]
+Il comitato promotore ( di cui fanno parte anche esponenti laici e Ds ) farà il punto domani sui numeri e [annuncerà] i « referendum days » , una mobilitazione generale per accelerare la raccolta delle firme nei prossimi due fine settimana .
+[[Question:MC:SingleAnswer]]
+Il verbo [ annuncerà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1111]]
+
+[[Question:MC]]
+In un tentativo di minimizzare i danni , il consiglio della Wellcome ha [reso] noto ieri di avere ricevuto garanzie che la fusione tra le due società , che daranno vita al nuovo gruppo Glaxo-Wellcome , seguirà criteri di " correttezza e obiettività " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ reso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1003]]
+
+[[Question:MC]]
+Necessità , quella di « portare in bambini in piazza » , che è stata sottolineata anche da Walter Alotti ( segreteria Uil ) , « perché [capiscano] quello che sta accadendo e perché vengano riaffermati i valori della vita e della fiducia nelle nuove generazioni » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ capiscano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q494]]
+
+[[Question:MC]]
+Inoltre il presidente Cossiga [osserva] : « Registro con vera gioia la " conversione " del Card . Martino ad una posizione più moderata nei confronto degli Usa e di Israele e più ferma nei confronti dell' estremismo islamico , come cattolico mi vergogno che il vescovo caldeo di Baghdad faccia parte della gerarchia cattolica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ osserva ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1519]]
+
+[[Question:MC]]
+La gestione commerciale della banca [mostra] dunque un incremento della raccolta complessiva , passata dai 6.038 milioni di euro di fine giugno 2003 ai 6.322 milioni di euro di fine giugno 2004 ( + 284 milioni di euro ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ mostra ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2061]]
+
+[[Question:MC]]
+Fil rouge di questo festival sarà la musica che attraversa i confini antichi e nuovi con " Polifonie di minoranze " , che prevede quattro concerti per [incontrare] tradizioni polivocali arcaiche come quelle della Sardegna , dei monti Aurunci , dell' Istria veneta e della cultura zingara Sinti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ incontrare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2066]]
+
+[[Question:MC]]
+Minoranzèro [guarda] anche anche alla tradizione coreutica nella serata di " Balli di minoranze " ( venerdì 10 in Piazza Municipio ore 20.30 ) con il gruppi folk di Alba e Penia di Canazei e il gruppo folk di Palù di Ferina , in rappresentanza delle tradizioni ladine e mochene .
+[[Question:MC:SingleAnswer]]
+Il verbo [ guarda ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q849]]
+
+[[Question:MC]]
+nan [Vorrei] poter decidere di quali Collaboratori circondarmi , quali apparecchiature acquistare , quale quota di lavoro portare avanti e quale tralasciare , quando andare in ferie e quali corsi di aggiornamento seguire .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Vorrei ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1480]]
+
+[[Question:MC]]
+Il sacro Lingam di Amarnath , il fallo di ghiaccio della divinità indù Shiva , potrebbe non [essere] di natura divina .
+[[Question:MC:SingleAnswer]]
+Il verbo [ essere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q436]]
+
+[[Question:MC]]
+Fra le particolarità ha [attratto] l' attenzione la penna per mancini ( 8,90 euro della Stabilo ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ attratto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1675]]
+
+[[Question:MC]]
+Ed in efetti lo stesso fratello Piero , [raggiunto] sul cellulare da l' Adige conferma di aver trascorso attimi da vera tragedia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ raggiunto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q197]]
+
+[[Question:MC]]
+Bernard affirme qu'en se [ promenant ] , il a chuté et s ' est retrouvé à terre , la braguette ouverte .
+D'après lui , c'est dans cette position que deux jeunes filles , Jessica et Sandrine , l'ont [ découvert ] .
+[[Question:MC:SingleAnswer]]
+La verb [ promenant ] se passe AVANT le verb [ découvert ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q34]]
+
+[[Question:MC]]
+Le premier des 28 Groupements d'Intervention Régionaux composé de policiers , gendarmes , douaniers et agents du fisc pour lutter contre les réseaux de délinquance , sera [ installé ] à Strasbourg demain .
+Sarkozy était hier dans la capitale alsacienne où le matin même une opération contre un réseau de recel et trafic de Hi - Fi et vidéo a permis d' interpeller dix personnes , de [ saisir ] des armes et 15.000 € .
+[[Question:MC:SingleAnswer]]
+La verb [ installé ] se passe AVANT le verb [ saisir ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q416]]
+
+[[Question:MC]]
+Il a concédé avoir [ aidé ] à recharger des armes des bourreaux .
+Tony Blair , le Premier ministre britannique a [ achevé ] hier deux jours de négociations avec les dirigeants d'Irlande du Nord , sans réussir à surmonter le blocage persistant sur la formation de l'exécutif .
+[[Question:MC:SingleAnswer]]
+La verb [ aidé ] se passe AVANT le verb [ achevé ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q82]]
+
+[[Question:MC]]
+Le bâtiment , qui [ appartient ] à la Ville de Belfort , venait de faire l'objet de travaux de rénovation confirme André Kaufmann , adjoint au maire , sur place hier : « La toiture a été complétement [ refaite ] à la fin de l'année dernière , ainsi que la façade extérieure et les systèmes de sécurité » , souligne - t - il , estimant le coût de ces travaux à environ 100.000 € .
+[[Question:MC:SingleAnswer]]
+La verb [ appartient ] se passe AVANT le verb [ refaite ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q83]]
+
+[[Question:MC]]
+Le bâtiment , qui [ appartient ] à la Ville de Belfort , venait de faire l'objet de travaux de rénovation confirme André Kaufmann , adjoint au maire , sur place hier : « La toiture a été complétement refaite à la fin de l'année dernière , ainsi que la façade extérieure et les systèmes de sécurité » , [ souligne ] - t - il , estimant le coût de ces travaux à environ 100.000 € .
+[[Question:MC:SingleAnswer]]
+La verb [ appartient ] se passe APRÈS le verb [ souligne ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q43]]
+
+[[Question:MC]]
+Sarkozy était hier dans la capitale alsacienne où le matin même une opération contre un réseau de recel et trafic de Hi - Fi et vidéo a permis d' interpeller dix personnes , de [ saisir ] des armes et 15.000 € .
+Le nouveau ministre de l'intérieur se rend aujourd ' hui au centre de Sangatte où [ transitent ] des milliers d'immigrés sans papier .
+[[Question:MC:SingleAnswer]]
+La verb [ saisir ] se passe AVANT le verb [ transitent ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q32]]
+
+[[Question:MC]]
+Le premier des 28 Groupements d'Intervention Régionaux composé de policiers , gendarmes , douaniers et agents du fisc pour lutter contre les réseaux de délinquance , sera [ installé ] à Strasbourg demain .
+Sarkozy était hier dans la capitale alsacienne où le matin même une opération contre un réseau de recel et trafic de Hi - Fi et vidéo a [ permis ] d' interpeller dix personnes , de saisir des armes et 15.000 € .
+[[Question:MC:SingleAnswer]]
+La verb [ installé ] se passe AVANT le verb [ permis ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q231]]
+
+[[Question:MC]]
+L'avocate de Bernard , Alexandra Michel , a [ souligné ] que son client avait conscience du trouble qu'il avait [ causé ] aux adolescentes .
+[[Question:MC:SingleAnswer]]
+La verb [ souligné ] se passe AVANT le verb [ causé ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q107]]
+
+[[Question:MC]]
+[ Avertie ] par des voisines , Juliette Carpezat s ' est précipitée en chaussons dans la rue lorsqu ' elle a su que le Secours populaire brûlait : « Je suis [ passée ] à midi devant en rentrant de la pharmacie .
+[[Question:MC:SingleAnswer]]
+La verb [ Avertie ] se passe AVANT le verb [ passée ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q84]]
+
+[[Question:MC]]
+Le bâtiment , qui [ appartient ] à la Ville de Belfort , venait de faire l'objet de travaux de rénovation confirme André Kaufmann , adjoint au maire , sur place hier : « La toiture a été complétement refaite à la fin de l'année dernière , ainsi que la façade extérieure et les systèmes de sécurité » , souligne - t - il , [ estimant ] le coût de ces travaux à environ 100.000 € .
+[[Question:MC:SingleAnswer]]
+La verb [ appartient ] se passe AVANT le verb [ estimant ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+

@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q618]]
+
+[[Question:MC]]
+" No me tenía que explicar nada . Simplemente no cuadro en su proyecto del Barça . [ Está ] claro que no son cosas agradables ni por su parte ni por la mía " , señaló el exjugador barcelonista sobre la conversación con el entrenador .
+" La aportación de Sasha ha sido muy positiva , pero creo que se ha cumplido el ciclo previsto cuando fichó " , indicó , por su parte , García Reneses para [ explicar ] la decisión de no hacerle ninguna oferta de renovación .
+[[Question:MC:SingleAnswer]]
+El verbo [ Está ] pasa DESPUÉS del verbo [ explicar ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q578]]
+
+[[Question:MC]]
+" Su respaldo en estos últimos meses ha [ sido ] muy importante para superar el problema que vive mi país " , admitió , para añadir que se [ marcha ] sin ningún rencor contra el técnico por su decisión .
+[[Question:MC:SingleAnswer]]
+El verbo [ sido ] pasa ANTES que el verbo [ marcha ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q330]]
+
+[[Question:MC]]
+Yushiro Yagi , presidente del Comité Olímpico Japonés ( JOC ) , aclaró que pese a que su país ya ha sido escenario de Juegos Olímpicos [ confía ] en que ese aprendizaje les sirva para albergar otros con garantías y añadió que " la candidatura de Osaka es muy sólida y [ dispone ] de todo lo necesario " .
+[[Question:MC:SingleAnswer]]
+La relación entre [ confía ] y [ dispone ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q733]]
+
+[[Question:MC]]
+" [ Creo ] que hemos hecho una oferta competitiva , que está dentro del nivel del mercado " , [ aseguró ] ayer el gerente del club , Antonio Maceiras , sobre la negociación con Esteller , el capitán del equipo .
+[[Question:MC:SingleAnswer]]
+La relación entre [ Creo ] y [ aseguró ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q123]]
+
+[[Question:MC]]
+El Gobierno [ prevé ] que los próximos meses sean malos en materia de empleo , ya que espera que se incorporen al mercado laboral los nuevos licenciados en las universidades debido a que el año escolar acaba de terminar .
+El paro en Japón afecta en mayor medida a los hombres , que han [ superado ] la barrera del 5% situándose en Febrero en el 5,1% .
+[[Question:MC:SingleAnswer]]
+La relación entre [ prevé ] y [ superado ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q116]]
+
+[[Question:MC]]
+De los 3,27 millones de parados , un total de 1,15 millones se han visto obligados a [ abandonar ] involuntariamente su trabajo .
+El Gobierno prevé que los próximos meses sean malos en materia de empleo , ya que [ espera ] que se incorporen al mercado laboral los nuevos licenciados en las universidades debido a que el año escolar acaba de terminar .
+[[Question:MC:SingleAnswer]]
+El verbo [ abandonar ] pasa ANTES que el verbo [ espera ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q172]]
+
+[[Question:MC]]
+Como las encu[ es ]tas habían difundido una gran expectativa de crecimiento para el Partido Quebequés y ha [ terminado ] obteniendo dos diputados menos que en las elecciones anteriores , el clima es de fracaso .
+[[Question:MC:SingleAnswer]]
+El verbo [ terminado ] pasa ANTES que el verbo [ es ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q712]]
+
+[[Question:MC]]
+Aíto comentó que le ha costado mucho dar este paso - - " [ son ] decisiones muy difíciles y no soy insensible como muchos se creen " - - y mostró su deseo de cerrar cuanto antes la renovación de Roger Esteller , uno de los jugadores con los que el club negocia un nuevo contrato , junto al estadounidense Derrick Alston .
+" [ Creo ] que hemos hecho una oferta competitiva , que está dentro del nivel del mercado " , aseguró ayer el gerente del club , Antonio Maceiras , sobre la negociación con Esteller , el capitán del equipo .
+[[Question:MC:SingleAnswer]]
+El verbo [ son ] pasa ANTES que el verbo [ Creo ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q363]]
+
+[[Question:MC]]
+Rasgarse ahora las vestiduras por la firmeza negociadora de nuestro vecino del sur , dejando [ caer ] en la opinión pública una cifra de afectados claramente hinchada , al objeto de responsabilizar a Marruecos del daño social , constituye una muestra de la peor política posible : culpar a los otros por lo que debimos haber hecho y no tuvimos la voluntad , ni la inteligencia , ni el coraje , de acometer .
+La lógica de los pescadores [ es ] irrefutable .
+[[Question:MC:SingleAnswer]]
+El verbo [ caer ] pasa DESPUÉS del verbo [ es ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q119]]
+
+[[Question:MC]]
+El Gobierno [ prevé ] que los próximos meses sean malos en materia de empleo , ya que [ espera ] que se incorporen al mercado laboral los nuevos licenciados en las universidades debido a que el año escolar acaba de terminar .
+[[Question:MC:SingleAnswer]]
+El verbo [ prevé ] pasa SIMULTÁNEAMENTE con el verbo [ espera ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+

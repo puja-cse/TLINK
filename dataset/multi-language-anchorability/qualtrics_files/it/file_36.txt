@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1141]]
+
+[[Question:MC]]
+« Una proposta opposta - scrive il responsabile del Comitato Pro Vela , Fabiano Condini - rispetto alla quella dell' assessorato che [intendeva] realizzare nella zona un mega polo della rottamazione di quattro ettari » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ intendeva ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1411]]
+
+[[Question:MC]]
+A suo avviso « bisogna costringere Putin ad adottare le nostre politiche occidentali nei confronti del terrorismo : quando c' è una presa di ostaggi o un pericolo terroristico , si [tenta] innanzitutto di salvare gli ostaggi , di isolare i terroristi e non di dar loro il potere di uccidere » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ tenta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2191]]
+
+[[Question:MC]]
+Emblematica fu la dichiarazione del presidente ceceno Dudajev : " io [sono] mussulmano , ma non ho ancora capito la differenza tra sunniti e sciiti " » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1544]]
+
+[[Question:MC]]
+Ai radicali che hanno deciso di adire le vie legali , Giovanardi ha replicato : « Sono [allibito] perché chi ogni giorno insulta i sentimenti e le convinzioni dei cattolici del nostro paese definendoli oscurantisti e talebani ora vuole intimidire un partito e un parlamentare che esprime una sua opinione che non coincide con quelle radicali » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ allibito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1042]]
+
+[[Question:MC]]
+La Coppa del Mondo estiva di salto con gli sci lo scorso weekend ha [celebrato] la terza prova in Polonia registrando una nuova vittoria del fuoriclasse Adam Malysz , il quale ha centrato così tre vittorie in tre gare .
+[[Question:MC:SingleAnswer]]
+Il verbo [ celebrato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1436]]
+
+[[Question:MC]]
+La Sme , reduce da un' Opa conclusa il 5 agosto che ha [portato] la quota Schemaventuno ai livelli attuali , è destinata a essere cancellata dal listino della Borsa valori italiana .
+[[Question:MC:SingleAnswer]]
+Il verbo [ portato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q72]]
+
+[[Question:MC]]
+La vendita dell' Ast , ha continuato Gnutti , è la dimostrazione di questa serietà e con gli stessi criteri - ha concluso - si [procederà] ora alla cessione dell' Ilp .
+[[Question:MC:SingleAnswer]]
+Il verbo [ procederà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2141]]
+
+[[Question:MC]]
+« Stalin , da buon georgiano , aveva un astio particolare per quelli che dal suo punto di vista erano solo dei rozzi montanari - [racconta] Bensi - la deportazione in Siberia fu organizzata a partire dal 1944 .
+[[Question:MC:SingleAnswer]]
+Il verbo [ racconta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q11]]
+
+[[Question:MC]]
+É sicuramente ben [riuscita] , grazie ad una precisa addizionale d' inventiva , la rilettura dei quadri di Edward Hopper fatta da Guilherme Botelho per l' appuntamento serale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riuscita ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q121]]
+
+[[Question:MC]]
+Storage più sicurezza , quindi , per presentarsi alle grandi aziende con un' offerta in grado di gestire l' intero ciclo di vita dei flussi informativi originati dalle attività di business e quindi [prendersi] cura dei dati critici di queste ultime anche attraverso applicazioni di identity e access management e tecnologie avanzate di crittografia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ prendersi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q211]]
+
+[[Question:MC]]
+A causa dell' incidente , forse per un cedimento del terreno , i rifiuti sono fuoriusciti dai cassoni : è [stato] necessario l' intervento degli operatori della Trentino Servizi per ripulire la strada e dei vigili del fuoco con l' autogru per il recupero del mezzo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1824]]
+
+[[Question:MC]]
+nan [Fermarsi] ora è una sciocchezza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Fermarsi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q797]]
+
+[[Question:MC]]
+Come ampiamente anticipato dalla stampa spagnola , il premier Jose' Luis Rodriguez Zapatero ha annunciato oggi che verranno avviate trattative con i separatisti dell' Eta - - " Vi annuncio che il governo avviera' negoziati con l' Eta " , ha dichiarato il leader socialista in una conferenza stampa a Madrid - - " La democrazia non paghera' nessun prezzo politico per la pace " " , ha [aggiunto] il premier , replicando indirettamente alle critiche dell' opposizione , contraria a qualunque dialogo con l' organizzazione terroristica - Per questa ragione , ha quindi spiegato , il dialogo verra' avviato " " conservando il principio che le questioni politiche si devono risolvere con i rappresentanti del popolo " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aggiunto ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q897]]
+
+[[Question:MC]]
+Il Politico deve ascoltare tutti ma è poi fatale che debba assumere decisioni , che non possono [accontentare] tutti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ accontentare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q773]]
+
+[[Question:MC]]
+Si è fatto conoscere come « ladro maldestro » : lo scorso marzo si è ribaltato in bicicletta mentre stava scappando con un paio di cassette piene di monetine [trafugate] da una lavanderia , poi era stato sorpreso all' interno di un tombino con l' intenzione di intrufolarsi nel magazzino di una tabaccheria , infine lo scorso venerdì era stato denunciato perché trovato in possesso di un timbrino trafugato ad un medico , con cui falsificava le ricette .
+[[Question:MC:SingleAnswer]]
+Il verbo [ trafugate ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q795]]
+
+[[Question:MC]]
+Come ampiamente anticipato dalla stampa spagnola , il premier Jose' Luis Rodriguez Zapatero ha annunciato oggi che verranno avviate trattative con i separatisti dell' Eta - - " Vi [annuncio] che il governo avviera' negoziati con l' Eta " , ha dichiarato il leader socialista in una conferenza stampa a Madrid - - " La democrazia non paghera' nessun prezzo politico per la pace " " , ha aggiunto il premier , replicando indirettamente alle critiche dell' opposizione , contraria a qualunque dialogo con l' organizzazione terroristica - Per questa ragione , ha quindi spiegato , il dialogo verra' avviato " " conservando il principio che le questioni politiche si devono risolvere con i rappresentanti del popolo " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ annuncio ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1991]]
+
+[[Question:MC]]
+L' ingresso di Cefis in Santavaleria resta subordinato all' accettazione da parte di Varasi del piano predisposto da Mediobanca che [potrebbe] essere a grandi linee simile a quello già realizzato proprio con il gruppo Ligresti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ potrebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2200]]
+
+[[Question:MC]]
+Oltre alle considerazioni storiche c' è da guardare all' economia : in Cecenia c' [è] il petrolio russo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1474]]
+
+[[Question:MC]]
+In particolare sono confluite nella finanziaria le quote [detenute] in Centrobanca , nell' Istituto Centrale delle Banche Popolari , nell' Unione fiduciaria , in Factorit e Italease , in Gestielle ( fondi comuni ) e nelle società del gruppo Arca ( Arca Spa , Arca merchant , Arca Vita e Arca Gpa ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ detenute ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q530]]
+
+[[Question:MC]]
+PERUGIA - Era venuta da pochi giorni da Spoleto a Piedicolle , una frazione del comune di Collazzone ( Perugia ) , per assistere la figlia che da qualche anno aveva addirittura [lasciato] il lavoro perchè affetta da crisi di depressione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ lasciato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

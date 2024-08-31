@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q529]]
+
+[[Question:MC]]
+Djordjevic reconoció además que se [ siente ] un azulgrana más - - " aquí he puesto mis raíces , he comprado una casa , he vivido el club , los colores , y me siento un culé más " - - después de estas tres temporadas , pero añadió que ese sentimiento no tiene por qué influir en su decisión .
+" Me siento completamente libre de escoger mi futuro , eso es otra historia " , [ dice ] .
+[[Question:MC:SingleAnswer]]
+El verbo [ siente ] pasa DESPUÉS del verbo [ dice ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q127]]
+
+[[Question:MC]]
+El Gobierno prevé que los próximos meses sean malos en materia de empleo , ya que [ espera ] que se incorporen al mercado laboral los nuevos licenciados en las universidades debido a que el año escolar acaba de terminar .
+El paro en Japón [ afecta ] en mayor medida a los hombres , que han superado la barrera del 5% situándose en Febrero en el 5,1% .
+[[Question:MC:SingleAnswer]]
+El verbo [ espera ] pasa DESPUÉS del verbo [ afecta ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q192]]
+
+[[Question:MC]]
+Y los informativos , responsables de testimoniar esa realidad , [ tratan ] de convertirla en espectáculo , [ tomando ] de la ficción los aspectos supuestamente más atractivos para el espectador , incluidas las escenas escabrosas .
+[[Question:MC:SingleAnswer]]
+El verbo [ tratan ] pasa ANTES que el verbo [ tomando ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q16]]
+
+[[Question:MC]]
+Las afirmaciones de Musa , a quien [ cita ] hoy , lunes , la prensa local , coinciden con la presencia estos días en Egipto de una delegación de especialistas de las Naciones Unidas para tratar con las autoridades de este país sobre las posibilidades de eliminar esos artefactos en el territorio egipcio .
+" La ayuda que nos han enviado la comunidad internacional y los países involucrados en la guerra de Al Alamin , en el Desierto Occidental , ( Gran Bretaña , Alemania e Italia ) [ es ] muy limitada " , dijo Musa .
+[[Question:MC:SingleAnswer]]
+El verbo [ cita ] pasa ANTES que el verbo [ es ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q321]]
+
+[[Question:MC]]
+Yushiro Yagi , presidente del Comité Olímpico Japonés ( JOC ) , [ aclaró ] que pese a que su país ya ha sido escenario de Juegos Olímpicos confía en que ese aprendizaje les sirva para albergar otros con garantías y [ añadió ] que " la candidatura de Osaka es muy sólida y dispone de todo lo necesario " .
+[[Question:MC:SingleAnswer]]
+El verbo [ aclaró ] pasa ANTES que el verbo [ añadió ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q450]]
+
+[[Question:MC]]
+El base [ considera ] que el Barça se equivoca con su marcha , pero [ dice ] que se despide sin rencor .
+[[Question:MC:SingleAnswer]]
+El verbo [ considera ] pasa DESPUÉS del verbo [ dice ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q496]]
+
+[[Question:MC]]
+Ambos coincidieron en Italia , en su etapa en la Fortitudo , y desde entonces han [ mantenido ] contactos regulares .
+" Nos hemos ido [ llamando ] para felicitarnos por nuestros éxitos " , se limitó a descubrir .
+[[Question:MC:SingleAnswer]]
+El verbo [ mantenido ] pasa ANTES que el verbo [ llamando ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q54]]
+
+[[Question:MC]]
+" Cuando un requerimiento judicial [ es ] tan ambiguo que desafía toda comprensión , éste es nulo e inaplicable " , [ dice ] el documento de Microsoft presentado al juez .
+[[Question:MC:SingleAnswer]]
+El verbo [ es ] pasa DESPUÉS del verbo [ dice ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q731]]
+
+[[Question:MC]]
+" [ Creo ] que hemos [ hecho ] una oferta competitiva , que está dentro del nivel del mercado " , aseguró ayer el gerente del club , Antonio Maceiras , sobre la negociación con Esteller , el capitán del equipo .
+[[Question:MC:SingleAnswer]]
+El verbo [ Creo ] pasa SIMULTÁNEAMENTE con el verbo [ hecho ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q249]]
+
+[[Question:MC]]
+La candidatura de la ciudad japonesa de Osaka para albergar los Juegos Olímpicos 2008 [ confía ] en sus posibilidades para ser la elegida por el COI en julio del próximo año , pero valora al resto de las finalistas : Pekín , París , Toronto ( Canadá ) y Estambul ( Turquía ) .
+Takafumi Isomura , alcalde de Osaka y presidente del Comité de la Candidatura ( OBC ) , explicó hoy en Sydney que Pekín puede tener la ventaja de que China nunca ha acogido unos Juegos pero que no deben compararse culturalmente ambos países porque cada uno se ha [ desarrollado ] por su lado .
+[[Question:MC:SingleAnswer]]
+La relación entre [ confía ] y [ desarrollado ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+

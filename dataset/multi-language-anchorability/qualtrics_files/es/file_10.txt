@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q215]]
+
+[[Question:MC]]
+Marruecos debería dejarnos [ faenar ] en sus aguas y España debería dejar a los marroquís trabajar en paz en nuestros campos .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [faenar] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q330]]
+
+[[Question:MC]]
+" Aquellos que no [ cumplan ] esta normativa serán juzgados e incluso podrían sufrir un castigo penal " , según la regulación aprobada por el primer ministro Zhu Rongji , que entrará en vigor el primero de diciembre .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [cumplan] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q50]]
+
+[[Question:MC]]
+Hay un segmento de la población que lo quiere como primer ministro de la provincia , por su condición de buen administrador , pero que en los referendos sobre la secesión no le [ respalda ] .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [respalda] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q367]]
+
+[[Question:MC]]
+Isomura [ apuntó ] que Pekín no tenía por qué ser la favorita , porque tanto Osaka como las demás tienen proyectos importantes y son grandes ciudades .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [apuntó] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q308]]
+
+[[Question:MC]]
+Los azulgranas se enfrentarán en las semifinales de la competición al rival más duro que [ podía ] tocarles de los tres que quedaban en el bombo .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [podía] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q110]]
+
+[[Question:MC]]
+" Su respaldo en estos últimos meses ha [ sido ] muy importante para superar el problema que vive mi país " , admitió , para añadir que se marcha sin ningún rencor contra el técnico por su decisión .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [sido] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q324]]
+
+[[Question:MC]]
+El Gobierno chino ha decidido reforzar las medidas de seguridad en las minas de carbón del país , en las que han [ muerto ] 3.400 trabajadores en diversos accidentes en lo que va de año , informa hoy miércoles el " Diario del Pueblo " .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [muerto] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q395]]
+
+[[Question:MC]]
+Egipto necesita más de 250 millones de dólares para eliminar los campos de minas de distintos tipos que se [ encuentran ] en diferentes zonas de este país , dijo el ministro egipcio de Asuntos Exteriores , Amro Musa .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [encuentran] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q31]]
+
+[[Question:MC]]
+El primer ministro de la provincia canadiense de Quebec , Lucient Bouchard , ha conseguido un resultado electoral insuficiente para volver a [ convocar ] a corto plazo un referendo sobre la independencia .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [convocar] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q441]]
+
+[[Question:MC]]
+Los abogados de Microsoft , empresa que creó el programa Windows que usan el 95% de los ordenadores , aseguran que la división de la firma disminuiría su capacidad para [ competir ] .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [competir] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q312]]
+
+[[Question:MC]]
+El partido de ida se [ jugará ] en el Palau Blaugrana el día 19 de marzo y la vuelta el día 26 .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [jugará] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q93]]
+
+[[Question:MC]]
+" Nos hemos ido llamando para felicitarnos por nuestros éxitos " , se limitó a [ descubrir ] .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [descubrir] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q322]]
+
+[[Question:MC]]
+El Gobierno chino ha [ decidido ] reforzar las medidas de seguridad en las minas de carbón del país , en las que han muerto 3.400 trabajadores en diversos accidentes en lo que va de año , informa hoy miércoles el " Diario del Pueblo " .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [decidido] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q279]]
+
+[[Question:MC]]
+En esta sociedad donde impera la imagen nadie parece [ conformarse ] con ser como es .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [conformarse] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q154]]
+
+[[Question:MC]]
+" Creo que hemos hecho una oferta competitiva , que está dentro del nivel del mercado " , [ aseguró ] ayer el gerente del club , Antonio Maceiras , sobre la negociación con Esteller , el capitán del equipo .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [aseguró] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q161]]
+
+[[Question:MC]]
+nan [ Es ] la mayor caída en siete meses y supone un indicio de que el mercado inmobiliario de EEUU puede estar desacelerándose , tras subir el 5,8% en marzo .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [Es] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q135]]
+
+[[Question:MC]]
+" La aportación de Sasha ha sido muy positiva , pero creo que se ha cumplido el ciclo previsto cuando fichó " , indicó , por su parte , García Reneses para explicar la decisión de no [ hacerle ] ninguna oferta de renovación .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [hacerle] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q153]]
+
+[[Question:MC]]
+" Creo que hemos hecho una oferta competitiva , que [ está ] dentro del nivel del mercado " , aseguró ayer el gerente del club , Antonio Maceiras , sobre la negociación con Esteller , el capitán del equipo .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [está] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q254]]
+
+[[Question:MC]]
+Se confía en que los ciudadanos evalúen las ventajas de " no tener que [ dar ] vueltas hasta encontrar un sitio libre " .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [dar] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q372]]
+
+[[Question:MC]]
+El alcalde de Osaka [ fundamentó ] sus opciones en el gran plan de reurbanización que se culminará en el año 2007 , las modernas infraestructuras de telecomunicaciones , la protección del medio ambiente , la seguridad y lo atractivo del proyecto , cuyas instalaciones ya están en buena parte construidas y que tendrán su centro neurálgico en tres islas .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [fundamentó] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+

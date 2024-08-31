@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q191]]
+
+[[Question:MC]]
+Los medios audiovisuales de entretenimiento se [ esfuerzan ] en aportar tanto verismo a sus producciones como la propia realidad .
+Y los informativos , responsables de testimoniar esa realidad , tratan de convertirla en espectáculo , tomando de la ficción los aspectos supuestamente más atractivos para el espectador , [ incluidas ] las escenas escabrosas .
+[[Question:MC:SingleAnswer]]
+El verbo [ esfuerzan ] pasa DESPUÉS del verbo [ incluidas ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q455]]
+
+[[Question:MC]]
+El base considera que el Barça se [ equivoca ] con su marcha , pero dice que se despide sin rencor .
+El futuro del exjugador del Barça de básquet , Aleksandar Djordjevic , [ apunta ] hacia el Real Madrid .
+[[Question:MC:SingleAnswer]]
+El verbo [ equivoca ] pasa DESPUÉS del verbo [ apunta ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q352]]
+
+[[Question:MC]]
+[ Rasgarse ] ahora las vestiduras por la firmeza negociadora de nuestro vecino del sur , dejando caer en la opinión pública una cifra de afectados claramente hinchada , al objeto de responsabilizar a Marruecos del daño social , constituye una muestra de la peor política posible : culpar a los otros por lo que [ debimos ] haber hecho y no tuvimos la voluntad , ni la inteligencia , ni el coraje , de acometer .
+[[Question:MC:SingleAnswer]]
+El verbo [ Rasgarse ] pasa ANTES que el verbo [ debimos ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q575]]
+
+[[Question:MC]]
+" Su respaldo en estos últimos meses ha [ sido ] muy importante para superar el problema que [ vive ] mi país " , admitió , para añadir que se marcha sin ningún rencor contra el técnico por su decisión .
+[[Question:MC:SingleAnswer]]
+La relación entre [ sido ] y [ vive ] es VAGA (es decir, ninguna de las anteriores).
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q690]]
+
+[[Question:MC]]
+Aíto [ comentó ] que le ha costado mucho dar este paso - - " son decisiones muy difíciles y no soy insensible como muchos se creen " - - y mostró su deseo de cerrar cuanto antes la renovación de Roger Esteller , uno de los jugadores con los que el club negocia un nuevo contrato , junto al estadounidense Derrick Alston .
+" Creo que hemos hecho una oferta competitiva , que [ está ] dentro del nivel del mercado " , aseguró ayer el gerente del club , Antonio Maceiras , sobre la negociación con Esteller , el capitán del equipo .
+[[Question:MC:SingleAnswer]]
+El verbo [ comentó ] pasa DESPUÉS del verbo [ está ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q742]]
+
+[[Question:MC]]
+" Creo que hemos hecho una oferta competitiva , que [ está ] dentro del nivel del mercado " , aseguró ayer el gerente del club , Antonio Maceiras , sobre la negociación con Esteller , el capitán del equipo .
+" Me gustaría quedarme , pero la oferta que me han hecho , no es suficientemente competitiva " , [ indicó ] , por su parte , el jugador .
+[[Question:MC:SingleAnswer]]
+El verbo [ está ] pasa DESPUÉS del verbo [ indicó ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q694]]
+
+[[Question:MC]]
+Aíto comentó que le ha [ costado ] mucho dar este paso - - " son decisiones muy difíciles y no soy insensible como muchos se [ creen ] " - - y mostró su deseo de cerrar cuanto antes la renovación de Roger Esteller , uno de los jugadores con los que el club negocia un nuevo contrato , junto al estadounidense Derrick Alston .
+[[Question:MC:SingleAnswer]]
+El verbo [ costado ] pasa ANTES que el verbo [ creen ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q426]]
+
+[[Question:MC]]
+Con esta normativa , el Gobierno intenta reducir las más de 4.000 muertes que cada año se producen en los yacimientos de carbón del país , la mayoría de los cuales [ operan ] sin las mínimas medidas de seguridad , debido sobre todo a los malos resultados del sector , y algunos incluso [ son ] ilegales .
+[[Question:MC:SingleAnswer]]
+El verbo [ operan ] pasa DESPUÉS del verbo [ son ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q381]]
+
+[[Question:MC]]
+Por desgracia , el mar ya no es libre , y su riqueza se agota o [ cae ] en manos de los depre[ da ]dores : que más da que lleven traje y corbata o chilaba y turbante .
+[[Question:MC:SingleAnswer]]
+El verbo [ cae ] pasa DESPUÉS del verbo [ da ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+
+[[Block: Q464]]
+
+[[Question:MC]]
+El base yugoslavo [ admitió ] ayer , en la rueda de prensa de su despedida como azulgrana , que ha recibido una llamada del técnico italiano Sergio Scariolo , el próximo preparador madridista , interesándose por su futuro .
+Scariolo [ es ] la apuesta de la directiva que preside Lorenzo Sanz para reconstruir el proyecto del básquet blanco , que la próxima temporada recibirá una fuerte inyección económica , para competir con posibilidades tanto en la Liga ACB como en la Euroliga .
+[[Question:MC:SingleAnswer]]
+El verbo [ admitió ] pasa ANTES que el verbo [ es ].
+[[Choices]]
+SÍ
+NO
+NO SABE
+

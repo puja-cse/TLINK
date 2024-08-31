@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1883]]
+
+[[Question:MC]]
+TRENTO - Di Luca Ciaghi , punta esterna del Mori , si [parla] poco .
+[[Question:MC:SingleAnswer]]
+Il verbo [ parla ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q834]]
+
+[[Question:MC]]
+Come Trentino , [vorrei] avere i migliori servizi dai migliori professionisti sanitari , a disposizione 24 ore su 24 ; questi Servizi li vorrei disponibili , sia per le urgenze che per gli interventi programmabili , nei tempi da me ritenuti adeguati ; vorrei la massima disponibilità d' animo e di tempo di tutti gli operatori sanitari ; il cibo e la sistemazione logistica dovrebbero essere non solo di mio gradimento ma consentirmi anche di poter scegliere tra varie opzioni .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vorrei ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q308]]
+
+[[Question:MC]]
+Il ferito , impossibilitato a [muoversi] per un trauma alla caviglia , è stato portato con l' elicottero in ospedale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ muoversi ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2102]]
+
+[[Question:MC]]
+Si cantano le gesta degli eroi in guerra , si [esalta] il coraggio e la vittoria .
+[[Question:MC:SingleAnswer]]
+Il verbo [ esalta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1233]]
+
+[[Question:MC]]
+Nel corso delle ultime quindici settimane si sono così alternate numerose ed anche nutrite squadre di addetti che hanno consentito il pieno rispetto della tabella di marcia [fissata] ancora lo scorso aprile .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fissata ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1167]]
+
+[[Question:MC]]
+« [Riteniamo] opportuno - scrivono i richiedenti nella richiesta di variante al Prg inviata al sindaco Pacher - che tutta l' area verde posta a nord di Vela ( Laghetti ) , per il suo elevato e originale valore paesaggistico e ambientale , debba essere trasformata in un parco , un polo della natura , per tutta la città » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ Riteniamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1129]]
+
+[[Question:MC]]
+L' annunciato voto contrario di otto senatori al decreto di rifinanziamento della missione in Afghanistan è " un problema serio , serissimo " che , " considerati i rapporti di forza tra maggioranza e opposizione in Parlamento , in particolare al Senato " , può rivelarsi " drammatico " - Lo ha detto il ministro della Difesa Arturo Parisi in un' intervista a - Repubblica Radio - Parisi ha precisato che " il nostro impegno nel secondo semestre è assolutamente identico all' impegno del primo " e quindi non c' [è] " né potenziamento né depotenziamento " della missione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1082]]
+
+[[Question:MC]]
+LONDRA - Il colosso britannico Glaxo ha avuto ieri ragione delle deboli resistenze della Wellcome , [ottenendo] da questa luce verde per l' acquisizione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ottenendo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2134]]
+
+[[Question:MC]]
+Durante la seconda guerra mondiale , quando Hitler fece irruzione in Russia , i Ceceni [sperarono] nella fine del regime stalinista e appoggiarono l' irruzione dei nazisti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sperarono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1095]]
+
+[[Question:MC]]
+Questa però non è [giunta] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ giunta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1712]]
+
+[[Question:MC]]
+Gli ospiti attualmente accolti e [inviati] dai servizi sociali e dal tribunale per i minorenni superano il centinaio , come pure gli educatori professionali che li seguono nelle oltre quindici realtà in cui si articola la struttura assistenziale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ inviati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q394]]
+
+[[Question:MC]]
+Per i ragazzi il discorso è un po' diverso , visto che spesso sono [portati] a delegare .
+[[Question:MC:SingleAnswer]]
+Il verbo [ portati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q705]]
+
+[[Question:MC]]
+L' università Sedes Sapientiae sta invece per assegnare le prime lauree ( due le facoltà : scienza della formazione e scienza economiche ) e sta [lavorando] all' ipotesi di aprire un corso di psicologia che dovrebbe coinvolgere il docente di origini trentine Erminio Gius .
+[[Question:MC:SingleAnswer]]
+Il verbo [ lavorando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2145]]
+
+[[Question:MC]]
+Per il trasporto usarono carri merci dove [finivano] uomini donne e bambini , molti morirono già durante il viaggio » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ finivano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1142]]
+
+[[Question:MC]]
+« Una proposta opposta - scrive il responsabile del Comitato Pro Vela , Fabiano Condini - rispetto alla quella dell' assessorato che intendeva [realizzare] nella zona un mega polo della rottamazione di quattro ettari » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ realizzare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1984]]
+
+[[Question:MC]]
+E Mediobanca avrebbe già individuato anche il pilota cui affidare il compito del rilancio : in pole position c' è Giorgio Cefis , [destinato] ad assumere la carica di amministratore delegato e di presidente della Santavaleria mentre Varasi lascerebbe ogni incarico operativo pur mantenendo il ruolo di principale azionista .
+[[Question:MC:SingleAnswer]]
+Il verbo [ destinato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q913]]
+
+[[Question:MC]]
+Quanto poi ai collaboratori del Direttore Generale , è ovvio che vanno rifiutate posizioni aprioristiche di chi ritiene che solo fuori dal Trentino si possano trovare Dirigenti di un certo spessore professionale ; allo stesso modo [va] rigettata l' ipotesi della promozione della " trentinità " in quanto tale come giudizio di merito .
+[[Question:MC:SingleAnswer]]
+Il verbo [ va ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1232]]
+
+[[Question:MC]]
+Nel corso delle ultime quindici settimane si sono così alternate numerose ed anche nutrite squadre di addetti che hanno [consentito] il pieno rispetto della tabella di marcia fissata ancora lo scorso aprile .
+[[Question:MC:SingleAnswer]]
+Il verbo [ consentito ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2072]]
+
+[[Question:MC]]
+Esistono delle complesse ragioni per la crisi del Caucaso , ma la strage nella scuola di Beslan è una questione patologica , da [mettere] in mano a degli psichiatri , inspiegabile dal punto di vista politico , razionale e umano .
+[[Question:MC:SingleAnswer]]
+Il verbo [ mettere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q940]]
+
+[[Question:MC]]
+I genitori di Stacy e Nathalie , le due bambine trovate uccise ieri , hanno [deciso] di celebrare funerali separati .
+[[Question:MC:SingleAnswer]]
+Il verbo [ deciso ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

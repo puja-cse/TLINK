@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q77]]
+
+[[Question:MC]]
+" Ni lo confirmo , ni lo [ desmiento ] , como en la casa real ; es una posibilidad " , fue el críptico comentario de Lorenzo Sanz Durán , hijo del presidente blanco , que está a cargo de la sección de básquet .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [desmiento] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q346]]
+
+[[Question:MC]]
+Con esta normativa , el Gobierno intenta [ reducir ] las más de 4.000 muertes que cada año se producen en los yacimientos de carbón del país , la mayoría de los cuales operan sin las mínimas medidas de seguridad , debido sobre todo a los malos resultados del sector , y algunos incluso son ilegales .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [reducir] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q217]]
+
+[[Question:MC]]
+Marruecos debería dejarnos faenar en sus aguas y España debería [ dejar ] a los marroquís trabajar en paz en nuestros campos .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [dejar] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q57]]
+
+[[Question:MC]]
+La cerrazón del poder federal [ puede ] generar un incremento del descontento nacionalista en Quebec , pero difícilmente llegará a crear dentro de esta legislatura las condiciones ganadoras para que haya un referendo sobre la independencia con garantías de éxito .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [puede] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q384]]
+
+[[Question:MC]]
+Mikako Kotani , medallista olímpica y componente de la Ejecutiva del OBC , natural de Tokio pero cuya madre es de Osaka , ensalzó la amabilidad del pueblo de esta ciudad , que " adora el deporte " y [ tiene ] " un gran deseo de amistad " , al margen de " mucha energía a disposición de los Juegos " .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [tiene] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q293]]
+
+[[Question:MC]]
+El Gobierno de Portugal [ decidió ] abrir una cuenta de ahorro con 50 euros ( 8.319 pesetas ) a los bebés nacidos el 1 de enero del 2002 , según anunció el lunes , 31 de diciembre , el ministro de Economía portugués , Guilherme d'Oliveira Martins .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [decidió] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q444]]
+
+[[Question:MC]]
+No obstante , ha [ anunciado ] que apelará cualquier dictamen que establezca su división , lo cual prolongaría el proceso judicial mucho tiempo .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [anunciado] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q345]]
+
+[[Question:MC]]
+Con esta normativa , el Gobierno [ intenta ] reducir las más de 4.000 muertes que cada año se producen en los yacimientos de carbón del país , la mayoría de los cuales operan sin las mínimas medidas de seguridad , debido sobre todo a los malos resultados del sector , y algunos incluso son ilegales .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [intenta] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q286]]
+
+[[Question:MC]]
+Y los informativos , responsables de testimoniar esa realidad , tratan de [ convertirla ] en espectáculo , tomando de la ficción los aspectos supuestamente más atractivos para el espectador , incluidas las escenas escabrosas .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [convertirla] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q320]]
+
+[[Question:MC]]
+En abril , el número de demandantes de empleo disminuyó un 3,1% en relación con marzo , hasta [ situarse ] en un total de 2.371.300 parados .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [situarse] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q121]]
+
+[[Question:MC]]
+" Creo que se equivocan , pero es una opinión personal " , señaló Djordjevic , desmintiendo que haya [ tenido ] ningún problema con García Reneses , con quien se reunió ayer durante media hora .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [tenido] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q239]]
+
+[[Question:MC]]
+En los otros casos , se esperan los resultados inminentes de estudios que se están [ ultimando ] .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [ultimando] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q291]]
+
+[[Question:MC]]
+Pero al menos los telediarios [ deberían ] salvaguardar la racionalidad y la ética de una información desapasionada , más allá de las ratios de audiencia .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [deberían] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q415]]
+
+[[Question:MC]]
+Los abogados del gigante del software , en su última oportunidad de dulcificar la próxima decisión del juez de distrito que lleva el caso antimonopolio , Thomas P. Jackson , [ reclamaron ] un plazo de 12 meses para proceder a una eventual segregación de la empresa .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [reclamaron] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q195]]
+
+[[Question:MC]]
+¿ Cómo [ explicarles ] entonces que el mar tiene varios dueños y que a partir de la frontera de aquella ola el pescado ya no es tuyo ? .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [explicarles] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q213]]
+
+[[Question:MC]]
+Marruecos [ debería ] dejarnos faenar en sus aguas y España debería dejar a los marroquís trabajar en paz en nuestros campos .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [debería] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q420]]
+
+[[Question:MC]]
+" Cuando un requerimiento judicial es tan ambiguo que desafía toda comprensión , éste es nulo e inaplicable " , [ dice ] el documento de Microsoft presentado al juez .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [dice] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q423]]
+
+[[Question:MC]]
+El juez [ llegó ] a plantear la posibilidad de dividir la compañía en tres , como solicitaban algunos de los competidores del grupo presidido por Bill Gates .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [llegó] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q85]]
+
+[[Question:MC]]
+Djordjevic no quiso explicar si [ existen ] negociaciones , pero admitió que mantiene una excelente relación con Scariolo .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [existen] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+
+[[Block: Q228]]
+
+[[Question:MC]]
+Mucha gente quiere seguir [ viviendo ] como cuando los océanos no tenían amos y el fruto de la mar era infinito .
+[[Question:MC:SingleAnswer]]
+¿Puede situarse el verbo [viviendo] en una línea de tiempo hipotética??
+[[Choices]]
+Sí
+No
+

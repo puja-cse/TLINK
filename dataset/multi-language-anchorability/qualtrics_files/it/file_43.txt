@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q1965]]
+
+[[Question:MC]]
+Se devo [fare] un nome solo dico Benacense perchè ha la rosa più completa , con tanti giocatori di categoria superiore .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1259]]
+
+[[Question:MC]]
+" " Ricercheremo in maniera coerente - sottolinea Rutelli - il confronto sulla revisione del Titolo V della Costituzione , sulle modifiche alla legge elettorale , sulla riduzione del numero dei parlamentari , e su altre distinte materie che [e'] possibile condividere , ma senza piu' far ricorso a commissioni come la Bicamerale .
+[[Question:MC:SingleAnswer]]
+Il verbo [ e' ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q57]]
+
+[[Question:MC]]
+L' istituto di Via Veneto ha infatti [formalizzato] ieri la cessione del 100,00% del gruppo siderurgico Ast al consorzio Kai , formato da Krupp ( 50,00% ) e da una cordata di industriali italiani ( 50,00% ) composta da Agarini , Falck e Riva .
+[[Question:MC:SingleAnswer]]
+Il verbo [ formalizzato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q515]]
+
+[[Question:MC]]
+E Veneziani ne illustra i tre livelli : il primo , « agisce in platea ... la manovalanza intellettuale di Cosa nostra fischia ministri e direttori di mostra , tutto ciò che odora di Rai , Medus , Cinecittà » , sono quelli che « battono le mani appena [arriva] qualcuno a rappresentare in pellicola la loro ideologia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ arriva ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1794]]
+
+[[Question:MC]]
+Oggi [toccherà] ad Andreas Seppi , n. 6 , il bolzanino reduce dal successo di New York contro il n. 12 Atp Schüttler , che sfida un altro argentino , Edgardo Massa .
+[[Question:MC:SingleAnswer]]
+Il verbo [ toccherà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1781]]
+
+[[Question:MC]]
+TRENTO - L' Accademia di Danza Orientale Margarita [propone] per l' anno Accademico 2004 - 05 i suoi corsi di danza del ventre a cura della maestra e danzatrice Maria Rita Gandra a Riva , Arco , Torbole sul Garda , a partire da quest' oggi con la prima lezione dimostrativa e gratuita , con prenotazione telefonica o per e-mail .
+[[Question:MC:SingleAnswer]]
+Il verbo [ propone ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q181]]
+
+[[Question:MC]]
+Neppure lo 0 - 0 del Ger può essere definito impossibile : nella prima uscita stagionale ci può stare che una squadra pur con le ambizioni e i mezzi di quella di Ala non [riesca] a mettere sotto un Salorno incompleto e rivoluzionato , ma non per questo meno stimolato .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riesca ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q409]]
+
+[[Question:MC]]
+Queste postine - si chiamano proprio così - [vengono] 34,50 euro .
+[[Question:MC:SingleAnswer]]
+Il verbo [ vengono ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q194]]
+
+[[Question:MC]]
+In tema di assenze pesanti qualcosa lamenta pure la Benacense che nel big - match di Ponte Arche ha dovuto rinunciare a due stoccatori come Delnegro e Cosa [risultando] piuttosto spuntata al cospetto del reparto arretrato tradizionalmente più forte del torneo , quello del Comano Fiavè .
+[[Question:MC:SingleAnswer]]
+Il verbo [ risultando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q187]]
+
+[[Question:MC]]
+Dagli altri campi le note più significative riguardano Albiano e Vallagarina capaci di [sfruttare] al meglio il turno interno per piegare rivali ostiche quali Rovereto e Merano .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sfruttare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2175]]
+
+[[Question:MC]]
+C' è chi dice che i terroristi l' abbiano scelta perché hanno trovato dei funzionari da [corrompere] .
+[[Question:MC:SingleAnswer]]
+Il verbo [ corrompere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1994]]
+
+[[Question:MC]]
+Cefis , vice presidente operativo della Premafin , [lascerebbe] la carica attualmente ricoperta nella holding di Salvatore Ligresti avendo esaurito il compito affidatogli proprio da Mediobanca al momento dell' avvio del piano di ristrutturazione del debito del gruppo che fa capo al costruttore e finanziere siciliano .
+[[Question:MC:SingleAnswer]]
+Il verbo [ lascerebbe ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q443]]
+
+[[Question:MC]]
+nan [E'] quanto sostiene il cardinale Renato Raffaele Martino , Presidente del Pontificio Consiglio « Justitia et Pax » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ E' ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1444]]
+
+[[Question:MC]]
+ALENSE - dopo il brillantissimo precampionato ci si [attendeva] una partenza lanciata dall' ambizioso undici di Improta .
+[[Question:MC:SingleAnswer]]
+Il verbo [ attendeva ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q437]]
+
+[[Question:MC]]
+Leggermente arcuata , [impedisce] a chi utilizza la mano sinistra per scrivere di « sbavare » con il polso .
+[[Question:MC:SingleAnswer]]
+Il verbo [ impedisce ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q387]]
+
+[[Question:MC]]
+nan [É] comprensibile un po' di amarezza nello sfiancare il portafoglio .
+[[Question:MC:SingleAnswer]]
+Il verbo [ É ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1256]]
+
+[[Question:MC]]
+Lo ribadisce , in un' intervista rilasciata al " Corriere della Sera " , il vicepremier e ministro per i Beni culturali Francesco Rutelli , per il quale " " bisogna [seguire] la linea Ciampi per allargare la maggioranza " " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ seguire ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1846]]
+
+[[Question:MC]]
+Gianni Dorigatti , segretario provinciale della Fabi ( 2.700 iscritti in provincia di Trento su un totale di 4.000 bancari ) che [aderirà] allo sciopero , spiega che « non si può accettare la posizione dell' Abi che intende lavorare per una netta scissione fra parte economica inconsistente e una parte normativa peraltro mai discussa » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ aderirà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1415]]
+
+[[Question:MC]]
+A suo avviso « bisogna costringere Putin ad adottare le nostre politiche occidentali nei confronti del terrorismo : quando c' è una presa di ostaggi o un pericolo terroristico , si tenta innanzitutto di salvare gli ostaggi , di isolare i terroristi e non di dar loro il potere di [uccidere] » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ uccidere ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2151]]
+
+[[Question:MC]]
+« Quasi tutti gli attuali dirigenti ceceni sono [nati] durante la deportazione : questo può spiegare la rabbia che si vive in cecenia .
+[[Question:MC:SingleAnswer]]
+Il verbo [ nati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

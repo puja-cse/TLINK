@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q206]]
+
+[[Question:MC]]
+De leur côté , les pompiers de Valdoie ont [conduit] trois blessés légers à l'hôpital de Belfort .
+[[Question:MC:SingleAnswer]]
+Le verbe [ conduit ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q32]]
+
+[[Question:MC]]
+Toutefois , il doit trouver l'homme qui [prendra] sous sa coupe l'économie et les finances du pays , dossier délicat qui a officiellement causé la perte d'Evgueni Primakov .
+[[Question:MC:SingleAnswer]]
+Le verbe [ prendra ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q40]]
+
+[[Question:MC]]
+Tous les coureurs du footing lenoncourtois disponibles , [ont] rendez - vous dimanche matin à Val - et - Châtillon , pour disputer la journée finale du trophée sport - loisirs .
+[[Question:MC:SingleAnswer]]
+Le verbe [ ont ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q120]]
+
+[[Question:MC]]
+- Le conseil d'administration de l'Agence universitaire de la francophonie ( AUF ) a [décidé] de porter plainte pour diffamation à la suite de la publication d'un rapport d'évaluation sur l'organisation .
+[[Question:MC:SingleAnswer]]
+Le verbe [ décidé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q102]]
+
+[[Question:MC]]
+Sarkozy était hier dans la capitale alsacienne où le matin même une opération contre un réseau de recel et trafic de Hi - Fi et vidéo a permis d' [interpeller] dix personnes , de saisir des armes et 15.000 € .
+[[Question:MC:SingleAnswer]]
+Le verbe [ interpeller ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q148]]
+
+[[Question:MC]]
+Selon les chiffres [rendus] publics hier par l'INSEE , les grandes villes de plus de 100.000 habitants sont les principales bénéficiaires de cette croissance , à l'exception - notable - de Paris et Marseille .
+[[Question:MC:SingleAnswer]]
+Le verbe [ rendus ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q264]]
+
+[[Question:MC]]
+Tournoi de boules [annulé] .
+[[Question:MC:SingleAnswer]]
+Le verbe [ annulé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q79]]
+
+[[Question:MC]]
+Effrayées par cette rencontre , les jeunes ont [rapporté] les faits , après quelques hésitations .
+[[Question:MC:SingleAnswer]]
+Le verbe [ rapporté ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q161]]
+
+[[Question:MC]]
+Toulouse , Montpellier , Aix - en - Provence , Lyon , Orléans et Angers [connaissent] également des taux de croissance supérieurs à 0,7 % par an .
+[[Question:MC:SingleAnswer]]
+Le verbe [ connaissent ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q53]]
+
+[[Question:MC]]
+Par ailleurs , 58 % se [disent] sceptiques en ce qui concerne la baisse des impôts .
+[[Question:MC:SingleAnswer]]
+Le verbe [ disent ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q62]]
+
+[[Question:MC]]
+Bernard affirme qu'en se promenant , il a [chuté] et s ' est retrouvé à terre , la braguette ouverte .
+[[Question:MC:SingleAnswer]]
+Le verbe [ chuté ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q209]]
+
+[[Question:MC]]
+Williams Murray , chef cuisinier sur une plate - forme pétrolière en Ecosse et Stéphanie Bahof , professeur de français et de langue étrangère à l'école de langues au Luxembourg , ont été [unis] par les liens du mariage .
+[[Question:MC:SingleAnswer]]
+Le verbe [ unis ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q220]]
+
+[[Question:MC]]
+Il a fallu que les sapeurs - pompiers cassent les vitres , découpent le rideau métallique de la porte d'entrée et [fassent] des ouvertures dans le toit pour pouvoir combattre les flammes .
+[[Question:MC:SingleAnswer]]
+Le verbe [ fassent ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q63]]
+
+[[Question:MC]]
+Bernard affirme qu'en se promenant , il a chuté et s ' est [retrouvé] à terre , la braguette ouverte .
+[[Question:MC:SingleAnswer]]
+Le verbe [ retrouvé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q242]]
+
+[[Question:MC]]
+Je ne [sais] pas ce qu'on va devenir .
+[[Question:MC:SingleAnswer]]
+Le verbe [ sais ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q112]]
+
+[[Question:MC]]
+_ Une fillette de 6 ans s ' est [noyée] mardi soir dans la piscine d'un centre de villégiature près d'Obernai .
+[[Question:MC:SingleAnswer]]
+Le verbe [ noyée ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q134]]
+
+[[Question:MC]]
+L'Union nationale des associations de parents et amis de personnes handicapées mentales ( UNAPEI ) a dénoncé hier le « scandale » des quelques 10 à 15.000 enfants handicapés mentaux , selon son estimation , qui sont [obligés] de rester chez eux faute de scolarisation .
+[[Question:MC:SingleAnswer]]
+Le verbe [ obligés ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q243]]
+
+[[Question:MC]]
+Je ne sais pas ce qu'on va [devenir] .
+[[Question:MC:SingleAnswer]]
+Le verbe [ devenir ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q185]]
+
+[[Question:MC]]
+Mais il s ' [inscrit] dans le cadre ( ... ) de l' atteinte aux statuts des personnels » .
+[[Question:MC:SingleAnswer]]
+Le verbe [ inscrit ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+
+[[Block: Q27]]
+
+[[Question:MC]]
+A Moscou , le nouveau Premier ministre russe Sergueï Stépachine , [confirmé] par les députés de la Douma , a annoncé qu'il garderait « l'ossature » du précédent gouvernement .
+[[Question:MC:SingleAnswer]]
+Le verbe [ confirmé ] peut-il être ancré dans le temps?
+[[Choices]]
+Oui
+Non
+

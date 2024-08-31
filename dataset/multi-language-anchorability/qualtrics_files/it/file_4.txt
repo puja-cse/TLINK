@@ -1,0 +1,202 @@
+[[AdvancedFormat]]
+
+[[Block: Q934]]
+
+[[Question:MC]]
+Per governare una macchina imponente come la Sanità Trentina c' è bisogno anche di conoscerne i diversi aspetti e la rivoluzione continua ai vertici dirigenziali non [va] in questa direzione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ va ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1110]]
+
+[[Question:MC]]
+In un tentativo di [minimizzare] i danni , il consiglio della Wellcome ha reso noto ieri di avere ricevuto garanzie che la fusione tra le due società , che daranno vita al nuovo gruppo Glaxo-Wellcome , seguirà criteri di " correttezza e obiettività " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ minimizzare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q456]]
+
+[[Question:MC]]
+Se non ci succederà niente mentre saliamo su un autobus , o quando [andiamo] al bar .
+[[Question:MC:SingleAnswer]]
+Il verbo [ andiamo ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q221]]
+
+[[Question:MC]]
+« In ciascuno di questi Paesi vi [è] un conflitto e ogni conflitto è legato all' altro da ragioni politiche ed economiche .
+[[Question:MC:SingleAnswer]]
+Il verbo [ è ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q323]]
+
+[[Question:MC]]
+Mezzo passo falso del Levico Terme , [fermato] sul pareggio dalla Monte Baldo .
+[[Question:MC:SingleAnswer]]
+Il verbo [ fermato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1063]]
+
+[[Question:MC]]
+Alberto Pacher , adesso sindaco di Trento , frequentava proprio l' asilo Pedrotti : « Le case c' [erano] già tutte qui attorno - ricorda mentre indica gli edifici che circondano la scuola materna - e noi salivamo da là » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ erano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1764]]
+
+[[Question:MC]]
+In teoria , nessuna norma impone un ultimatum per il loro deposito , ma i capigruppo hanno siglato questa sorta di « accordo tra gentiluomini » per dare modo agli uffici di compiere una veloce fase di istruttoria delle eventuali nuove domande [inserite] negli emendamenti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ inserite ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q2058]]
+
+[[Question:MC]]
+Fil rouge di questo festival [sarà] la musica che attraversa i confini antichi e nuovi con " Polifonie di minoranze " , che prevede quattro concerti per incontrare tradizioni polivocali arcaiche come quelle della Sardegna , dei monti Aurunci , dell' Istria veneta e della cultura zingara Sinti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ sarà ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q650]]
+
+[[Question:MC]]
+Nonostante un saldo tecnico negativo per 65 miliardi ( comunque migliore rispetto al 91 , si [legge] ancora nel comunicato ) , la compagnia ha conseguito un utile di 3,9 miliardi , grazie anche a proventi straordinari per 19,5 miliardi .
+[[Question:MC:SingleAnswer]]
+Il verbo [ legge ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q522]]
+
+[[Question:MC]]
+Il secondo livello , scrive Veneziani , è « costituto da un clan di giornalisti che scrivono divisi ma colpiscono uniti , elogiando le pellicole politicamente corrette , [colmano] di elogi chiunque sia in odore di disprezzare Bush , Berlusconi , Croff e le bandane e viceversa pisciano lacrime di commozione per tutti gli amarcord del sessantotto , anni settanta , Radio Alice » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ colmano ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1196]]
+
+[[Question:MC]]
+Lo stand gastronomico alla partenza della buca 8 , la riuscita grigliata al termine delle 18 buche e la formula della gara , una 4 palle la migliore stableford a coppie ( senza pertanto la preoccupazione per la " virgola " ) , sono state le tre carte vincenti del Tesino Golf Club e della ditta " OK CASA " , che hanno già [concordato] di ripetere l' iniziativa nel 2005 ( fissando l' appuntamento ormai tradizionale per la prima domenica di settembre ) .
+[[Question:MC:SingleAnswer]]
+Il verbo [ concordato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q166]]
+
+[[Question:MC]]
+Gli unici due risultati un po' fuori dalla righe sono [stati] il 4 - 0 esterno del Mori sul Natz e il pari senza reti tra Alense e Salorno .
+[[Question:MC:SingleAnswer]]
+Il verbo [ stati ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q245]]
+
+[[Question:MC]]
+Stesso incremento non [risulta] invece sulle presenze che aumentano solamente dello 0,9% ( non sono ancora disponibili i dati disaggregati per italiani e stranieri ) a dimostrazione che i turisti tendono a ridurre il numero di giornate di vacanza .
+[[Question:MC:SingleAnswer]]
+Il verbo [ risulta ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q567]]
+
+[[Question:MC]]
+Gli edifici più alti della capitale hanno oscillato visibilmente , [generando] paura negli abitanti non abituati ai terremoti .
+[[Question:MC:SingleAnswer]]
+Il verbo [ generando ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q92]]
+
+[[Question:MC]]
+Non ci sono garanzie - ha detto - per gli assetti industriali e il futuro dei lavoratori , né si [intravvede] una risposta di tipo industriale " .
+[[Question:MC:SingleAnswer]]
+Il verbo [ intravvede ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1315]]
+
+[[Question:MC]]
+La tradizionale , straordinaria sensibilità dei trentini ha avuto modo di esprimersi già nelle prime ore dopo la tragedia , con l' avvio di iniziative capaci di esprimere lo sgomento e l' orrore per i fatti di Beslan : ma ora a mio avviso è giunto il momento di organizzare e [dare] sistematicità ai diffusi sentimenti dei trentini che vogliono dare una testimonianza tangibile della loro vicinanza a quella sventurata popolazione .
+[[Question:MC:SingleAnswer]]
+Il verbo [ dare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1672]]
+
+[[Question:MC]]
+« Non sono riuscito a contattarlo per 3 giorni » spiegava ieri don Valentino , che a luglio era [andato] in visita al fratello .
+[[Question:MC:SingleAnswer]]
+Il verbo [ andato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1684]]
+
+[[Question:MC]]
+Per fortuna a casa mia i danni sono stati piuttosto limitati : solo la piscina è stata colpita e andrà fatta [riparare] » .
+[[Question:MC:SingleAnswer]]
+Il verbo [ riparare ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q208]]
+
+[[Question:MC]]
+Un autoarticolato carico di immondizia ieri pomeriggio si è [ribaltato] su un fianco sulla strada che dalla Vela porta alla discarica .
+[[Question:MC:SingleAnswer]]
+Il verbo [ ribaltato ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+
+[[Block: Q1251]]
+
+[[Question:MC]]
+La superficie totale è stata portata a 1.800 metri ( 250 in più ) con la realizzazione di bagni e spogliatoi per i dipendenti , il raddoppio della cucina e l' ampliamento della mensa ( + 70 mq ) e di ognuna delle cinque aule ( adesso 60 mq , mentre prima la media [era] di 42 ) nonché la sistemazione dell' ampio parco alberato e la creazione di un parco botanico per i bambini .
+[[Question:MC:SingleAnswer]]
+Il verbo [ era ] può essere ancorato nel tempo?
+[[Choices]]
+SÌ
+No
+

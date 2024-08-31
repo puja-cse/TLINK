@@ -1,0 +1,117 @@
+[[AdvancedFormat]]
+
+[[Block: Q225]]
+
+[[Question:MC]]
+Plaintes ont ensuite été [ déposées ] à la gendarmerie de Giromagny qui a ouverte une enquête .
+Les gendarmes ont très vite [ identifié ] l'auteur des exhibitions .
+[[Question:MC:SingleAnswer]]
+La verb [ déposées ] se passe APRÈS le verb [ identifié ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q94]]
+
+[[Question:MC]]
+Le bâtiment , qui appartient à la Ville de Belfort , venait de faire l'objet de travaux de rénovation confirme André Kaufmann , adjoint au maire , sur place hier : « La toiture a été complétement refaite à la fin de l'année dernière , ainsi que la façade extérieure et les systèmes de sécurité » , [ souligne ] - t - il , [ estimant ] le coût de ces travaux à environ 100.000 € .
+[[Question:MC:SingleAnswer]]
+La verb [ souligne ] se passe AVANT le verb [ estimant ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q399]]
+
+[[Question:MC]]
+Un haut dirigeant séparatiste kurde , Semdim Sakik , reconnu coupable de la mort de 283 personnes dans 191 attentats perpétrés par le PKK et accusé de séparatisme , a été [ condamné ] à mort hier par un tribunal turc .
+Cela laisse [ présager ] une sentence identique pour le leader kurde Abdullah Ocalan .
+[[Question:MC:SingleAnswer]]
+La verb [ condamné ] se passe APRÈS le verb [ présager ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q387]]
+
+[[Question:MC]]
+Un haut dirigeant séparatiste kurde , Semdim Sakik , [ reconnu ] coupable de la mort de 283 personnes dans 191 attentats perpétrés par le PKK et [ accusé ] de séparatisme , a été condamné à mort hier par un tribunal turc .
+[[Question:MC:SingleAnswer]]
+La relation entre [ reconnu ] et [ accusé ] est VAGUE (c'est-à-dire qu'elle ne correspond à aucune des réponses ci-dessus).
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q196]]
+
+[[Question:MC]]
+Bernard affirme qu'en se [ promenant ] , il a chuté et s ' est retrouvé à terre , la braguette [ ouverte ] .
+[[Question:MC:SingleAnswer]]
+La verb [ promenant ] se passe AVANT le verb [ ouverte ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q52]]
+
+[[Question:MC]]
+Le feu avait [ couvé ] et une épaisse fumée s ' était concentrée sur les deux étages de l'entrepôt du Secours populaire .
+Il a fallu que les sapeurs - pompiers cassent les vitres , [ découpent ] le rideau métallique de la porte d'entrée et fassent des ouvertures dans le toit pour pouvoir combattre les flammes .
+[[Question:MC:SingleAnswer]]
+La verb [ couvé ] se passe AVANT le verb [ découpent ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q431]]
+
+[[Question:MC]]
+Toutefois , il doit trouver l'homme qui prendra sous sa coupe l'économie et les finances du pays , dossier délicat qui a officiellement [ causé ] la perte d'Evgueni Primakov .
+Aux Pays - Bas , l'hypothèse de législatives anticipées à l'automne semblait [ tenir ] la corde hier , au lendemain de la démission du gouvernement du Premier ministre travailliste Wim Kok .
+[[Question:MC:SingleAnswer]]
+La relation entre [ causé ] et [ tenir ] est VAGUE (c'est-à-dire qu'elle ne correspond à aucune des réponses ci-dessus).
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q24]]
+
+[[Question:MC]]
+A l'affiche , une comédie de Francis Veber , « Le dîner de cons » [ interprétée ] par le théâtre de La Roële de Villers - lès - Nancy .
+Tous les coureurs du footing lenoncourtois disponibles , [ ont ] rendez - vous dimanche matin à Val - et - Châtillon , pour disputer la journée finale du trophée sport - loisirs .
+[[Question:MC:SingleAnswer]]
+La verb [ interprétée ] se passe AVANT le verb [ ont ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q119]]
+
+[[Question:MC]]
+Avertie par des voisines , Juliette Carpezat s ' est précipitée en chaussons dans la rue lorsqu ' elle a su que le Secours populaire [ brûlait ] : « Je suis [ passée ] à midi devant en rentrant de la pharmacie .
+[[Question:MC:SingleAnswer]]
+La verb [ brûlait ] se passe APRÈS le verb [ passée ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
+[[Block: Q93]]
+
+[[Question:MC]]
+Le bâtiment , qui appartient à la Ville de Belfort , venait de faire l'objet de travaux de rénovation confirme André Kaufmann , adjoint au maire , sur place hier : « La toiture a été complétement [ refaite ] à la fin de l'année dernière , ainsi que la façade extérieure et les systèmes de sécurité » , souligne - t - il , [ estimant ] le coût de ces travaux à environ 100.000 € .
+[[Question:MC:SingleAnswer]]
+La verb [ refaite ] se passe AVANT le verb [ estimant ].
+[[Choices]]
+OUI
+NON
+JE NE SAIS PAS
+
